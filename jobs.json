@@ -1,56 +1,341 @@
 {
-  "lastUpdated": "2026-04-28T17:48:06.460Z",
+  "lastUpdated": "2026-04-28T19:50:40.864Z",
   "jobs": [
     {
-      "id": "job-1777398486459-0",
+      "id": "job-1777405840863-0",
+      "title": "React Developer",
+      "company": "Global Remote",
+      "platform": "Indeed",
+      "location": "Remote",
+      "salary": "$1000-$2000/mo",
+      "type": "Part-time",
+      "tags": [
+        "Flexible Hours",
+        "No Experience"
+      ],
+      "postedAt": "2026-02-27T15:45:27.770Z",
+      "url": "#"
+    },
+    {
+      "id": "job-1777405840863-1",
+      "title": "Graphic Designer",
+      "company": "Local PH Business",
+      "platform": "Glassdoor",
+      "location": "Remote",
+      "salary": "$1000-$2000/mo",
+      "type": "Full-time",
+      "tags": [
+        "Flexible Hours",
+        "US Night Shift"
+      ],
+      "postedAt": "2026-04-17T17:47:46.856Z",
+      "url": "#"
+    },
+    {
+      "id": "job-1777405840863-2",
+      "title": "Data Entry Specialist",
+      "company": "Global Remote",
+      "platform": "Upwork",
+      "location": "Remote",
+      "salary": "$20-$30/hr",
+      "type": "Part-time",
+      "tags": [
+        "Remote",
+        "Flexible Hours"
+      ],
+      "postedAt": "2026-03-19T13:19:31.250Z",
+      "url": "#"
+    },
+    {
+      "id": "job-1777405840863-3",
+      "title": "Data Entry Specialist",
+      "company": "Global Remote",
+      "platform": "Fiverr",
+      "location": "Remote",
+      "salary": "$500-$1000/mo",
+      "type": "Contract",
+      "tags": [
+        "Flexible Hours",
+        "US Night Shift"
+      ],
+      "postedAt": "2026-02-22T11:31:27.708Z",
+      "url": "#"
+    },
+    {
+      "id": "job-1777405840863-4",
+      "title": "Graphic Designer",
+      "company": "Local PH Business",
+      "platform": "VirtualStaff.ph",
+      "location": "Remote",
+      "salary": "$10-$15/hr",
+      "type": "Full-time",
+      "tags": [
+        "Remote",
+        "US Night Shift"
+      ],
+      "postedAt": "2026-04-10T11:46:04.700Z",
+      "url": "#"
+    },
+    {
+      "id": "job-1777405840863-5",
+      "title": "Customer Service Rep",
+      "company": "Aussie Startups",
+      "platform": "Indeed",
+      "location": "Remote",
+      "salary": "$20-$30/hr",
+      "type": "Contract",
+      "tags": [
+        "US Night Shift",
+        "No Experience"
+      ],
+      "postedAt": "2026-02-11T13:04:20.071Z",
+      "url": "#"
+    },
+    {
+      "id": "job-1777405840864-6",
+      "title": "Customer Service Rep",
+      "company": "Aussie Startups",
+      "platform": "Upwork",
+      "location": "Remote",
+      "salary": "$500-$1000/mo",
+      "type": "Contract",
+      "tags": [
+        "US Night Shift",
+        "Flexible Hours"
+      ],
+      "postedAt": "2026-01-09T22:48:47.946Z",
+      "url": "#"
+    },
+    {
+      "id": "job-1777405840864-7",
       "title": "Virtual Assistant",
       "company": "Local PH Business",
+      "platform": "Kalibrr",
+      "location": "Remote",
+      "salary": "$500-$1000/mo",
+      "type": "Contract",
+      "tags": [
+        "US Night Shift",
+        "Flexible Hours"
+      ],
+      "postedAt": "2026-01-11T23:19:59.634Z",
+      "url": "#"
+    },
+    {
+      "id": "job-1777405840864-8",
+      "title": "Customer Service Rep",
+      "company": "Global Remote",
+      "platform": "LinkedIn",
+      "location": "Remote",
+      "salary": "Negotiable",
+      "type": "Full-time",
+      "tags": [
+        "Flexible Hours",
+        "US Night Shift"
+      ],
+      "postedAt": "2026-03-28T20:49:02.800Z",
+      "url": "#"
+    },
+    {
+      "id": "job-1777405840864-9",
+      "title": "React Developer",
+      "company": "Aussie Startups",
+      "platform": "VirtualStaff.ph",
+      "location": "Remote",
+      "salary": "$10-$15/hr",
+      "type": "Contract",
+      "tags": [
+        "Remote",
+        "No Experience"
+      ],
+      "postedAt": "2026-03-02T07:29:10.199Z",
+      "url": "#"
+    },
+    {
+      "id": "job-1777405840864-10",
+      "title": "Customer Service Rep",
+      "company": "Local PH Business",
+      "platform": "Freelancer.com",
+      "location": "Remote",
+      "salary": "$500-$1000/mo",
+      "type": "Part-time",
+      "tags": [
+        "Remote",
+        "No Experience"
+      ],
+      "postedAt": "2026-04-24T18:16:18.878Z",
+      "url": "#"
+    },
+    {
+      "id": "job-1777405840864-11",
+      "title": "Graphic Designer",
+      "company": "Aussie Startups",
+      "platform": "Glassdoor",
+      "location": "Remote",
+      "salary": "$10-$15/hr",
+      "type": "Contract",
+      "tags": [
+        "Remote",
+        "No Experience"
+      ],
+      "postedAt": "2026-01-12T13:34:32.031Z",
+      "url": "#"
+    },
+    {
+      "id": "job-1777405840864-12",
+      "title": "Graphic Designer",
+      "company": "Aussie Startups",
+      "platform": "LinkedIn",
+      "location": "Remote",
+      "salary": "$1000-$2000/mo",
+      "type": "Full-time",
+      "tags": [
+        "Flexible Hours",
+        "US Night Shift"
+      ],
+      "postedAt": "2026-01-10T18:31:48.368Z",
+      "url": "#"
+    },
+    {
+      "id": "job-1777405840864-13",
+      "title": "Virtual Assistant",
+      "company": "Aussie Startups",
+      "platform": "OnlineJobs.ph",
+      "location": "Remote",
+      "salary": "$20-$30/hr",
+      "type": "Part-time",
+      "tags": [
+        "Remote",
+        "No Experience"
+      ],
+      "postedAt": "2026-01-27T01:24:55.475Z",
+      "url": "#"
+    },
+    {
+      "id": "job-1777405840864-14",
+      "title": "Virtual Assistant",
+      "company": "Aussie Startups",
+      "platform": "Freelancer.com",
+      "location": "Remote",
+      "salary": "$20-$30/hr",
+      "type": "Full-time",
+      "tags": [
+        "US Night Shift",
+        "No Experience"
+      ],
+      "postedAt": "2026-02-05T00:14:39.904Z",
+      "url": "#"
+    },
+    {
+      "id": "job-1777405840864-15",
+      "title": "Data Entry Specialist",
+      "company": "UK Agency",
+      "platform": "Kalibrr",
+      "location": "Remote",
+      "salary": "$1000-$2000/mo",
+      "type": "Full-time",
+      "tags": [
+        "Flexible Hours",
+        "US Night Shift"
+      ],
+      "postedAt": "2026-02-19T16:07:58.826Z",
+      "url": "#"
+    },
+    {
+      "id": "job-1777405840864-16",
+      "title": "React Developer",
+      "company": "Aussie Startups",
+      "platform": "VirtualStaff.ph",
+      "location": "Remote",
+      "salary": "$20-$30/hr",
+      "type": "Part-time",
+      "tags": [
+        "Flexible Hours",
+        "Remote"
+      ],
+      "postedAt": "2026-02-24T08:08:48.498Z",
+      "url": "#"
+    },
+    {
+      "id": "job-1777405840864-17",
+      "title": "Graphic Designer",
+      "company": "Aussie Startups",
+      "platform": "Glassdoor",
+      "location": "Remote",
+      "salary": "$20-$30/hr",
+      "type": "Part-time",
+      "tags": [
+        "US Night Shift",
+        "No Experience"
+      ],
+      "postedAt": "2026-02-02T20:05:52.450Z",
+      "url": "#"
+    },
+    {
+      "id": "job-1777405840864-18",
+      "title": "Virtual Assistant",
+      "company": "Global Remote",
+      "platform": "JobStreet",
+      "location": "Remote",
+      "salary": "Negotiable",
+      "type": "Contract",
+      "tags": [
+        "No Experience",
+        "Flexible Hours"
+      ],
+      "postedAt": "2026-02-23T20:45:29.013Z",
+      "url": "#"
+    },
+    {
+      "id": "job-1777405840864-19",
+      "title": "Customer Service Rep",
+      "company": "Global Remote",
+      "platform": "Glassdoor",
+      "location": "Remote",
+      "salary": "$500-$1000/mo",
+      "type": "Full-time",
+      "tags": [
+        "No Experience",
+        "Flexible Hours"
+      ],
+      "postedAt": "2026-02-09T15:55:13.817Z",
+      "url": "#"
+    },
+    {
+      "id": "job-1777405840864-20",
+      "title": "Customer Service Rep",
+      "company": "Tech Corp USA",
       "platform": "JobStreet",
       "location": "Remote",
       "salary": "Negotiable",
       "type": "Full-time",
       "tags": [
         "No Experience",
-        "Flexible Hours"
+        "Remote"
       ],
-      "postedAt": "2026-03-26T14:29:19.762Z",
+      "postedAt": "2026-04-01T16:05:05.036Z",
       "url": "#"
     },
     {
-      "id": "job-1777398486459-1",
-      "title": "Graphic Designer",
-      "company": "Tech Corp USA",
+      "id": "job-1777405840864-21",
+      "title": "React Developer",
+      "company": "Global Remote",
       "platform": "Glassdoor",
       "location": "Remote",
-      "salary": "Negotiable",
-      "type": "Part-time",
+      "salary": "$10-$15/hr",
+      "type": "Contract",
       "tags": [
-        "Flexible Hours",
-        "Remote"
+        "Remote",
+        "No Experience"
       ],
-      "postedAt": "2026-01-26T06:57:48.093Z",
+      "postedAt": "2026-01-07T17:49:24.256Z",
       "url": "#"
     },
     {
-      "id": "job-1777398486459-2",
-      "title": "Data Entry Specialist",
+      "id": "job-1777405840864-22",
+      "title": "Customer Service Rep",
       "company": "Tech Corp USA",
-      "platform": "LinkedIn",
-      "location": "Remote",
-      "salary": "$20-$30/hr",
-      "type": "Full-time",
-      "tags": [
-        "No Experience",
-        "Remote"
-      ],
-      "postedAt": "2026-01-16T11:34:58.868Z",
-      "url": "#"
-    },
-    {
-      "id": "job-1777398486459-3",
-      "title": "React Developer",
-      "company": "Aussie Startups",
-      "platform": "OnlineJobs.ph",
+      "platform": "Upwork",
       "location": "Remote",
       "salary": "$10-$15/hr",
       "type": "Full-time",
@@ -58,643 +343,103 @@
         "US Night Shift",
         "Flexible Hours"
       ],
-      "postedAt": "2026-01-13T19:20:15.301Z",
+      "postedAt": "2026-01-30T22:23:40.136Z",
       "url": "#"
     },
     {
-      "id": "job-1777398486459-4",
-      "title": "Customer Service Rep",
-      "company": "UK Agency",
-      "platform": "LinkedIn",
-      "location": "Remote",
-      "salary": "$20-$30/hr",
-      "type": "Contract",
-      "tags": [
-        "US Night Shift",
-        "No Experience"
-      ],
-      "postedAt": "2026-01-10T23:08:50.091Z",
-      "url": "#"
-    },
-    {
-      "id": "job-1777398486459-5",
-      "title": "Data Entry Specialist",
-      "company": "Global Remote",
-      "platform": "OnlineJobs.ph",
-      "location": "Remote",
-      "salary": "Negotiable",
-      "type": "Full-time",
-      "tags": [
-        "Flexible Hours",
-        "US Night Shift"
-      ],
-      "postedAt": "2026-02-23T10:35:54.808Z",
-      "url": "#"
-    },
-    {
-      "id": "job-1777398486459-6",
-      "title": "Virtual Assistant",
+      "id": "job-1777405840864-23",
+      "title": "Graphic Designer",
       "company": "Aussie Startups",
-      "platform": "VirtualStaff.ph",
+      "platform": "Glassdoor",
       "location": "Remote",
-      "salary": "$1000-$2000/mo",
+      "salary": "$500-$1000/mo",
       "type": "Part-time",
       "tags": [
         "Flexible Hours",
-        "No Experience"
-      ],
-      "postedAt": "2026-01-20T10:36:38.061Z",
-      "url": "#"
-    },
-    {
-      "id": "job-1777398486459-7",
-      "title": "Graphic Designer",
-      "company": "Local PH Business",
-      "platform": "Upwork",
-      "location": "Remote",
-      "salary": "$10-$15/hr",
-      "type": "Full-time",
-      "tags": [
-        "No Experience",
         "Remote"
       ],
-      "postedAt": "2026-04-19T13:59:49.039Z",
+      "postedAt": "2026-01-15T04:54:41.310Z",
       "url": "#"
     },
     {
-      "id": "job-1777398486459-8",
-      "title": "Virtual Assistant",
-      "company": "Aussie Startups",
-      "platform": "Freelancer.com",
-      "location": "Remote",
-      "salary": "$1000-$2000/mo",
-      "type": "Full-time",
-      "tags": [
-        "Flexible Hours",
-        "US Night Shift"
-      ],
-      "postedAt": "2026-04-05T04:23:39.563Z",
-      "url": "#"
-    },
-    {
-      "id": "job-1777398486459-9",
+      "id": "job-1777405840864-24",
       "title": "React Developer",
       "company": "Local PH Business",
-      "platform": "JobStreet",
-      "location": "Remote",
-      "salary": "$500-$1000/mo",
-      "type": "Part-time",
-      "tags": [
-        "Flexible Hours",
-        "US Night Shift"
-      ],
-      "postedAt": "2026-01-14T05:28:55.894Z",
-      "url": "#"
-    },
-    {
-      "id": "job-1777398486459-10",
-      "title": "Data Entry Specialist",
-      "company": "Aussie Startups",
-      "platform": "Glassdoor",
-      "location": "Remote",
-      "salary": "$1000-$2000/mo",
-      "type": "Full-time",
-      "tags": [
-        "Remote",
-        "US Night Shift"
-      ],
-      "postedAt": "2026-04-17T14:37:59.869Z",
-      "url": "#"
-    },
-    {
-      "id": "job-1777398486459-11",
-      "title": "Virtual Assistant",
-      "company": "UK Agency",
       "platform": "VirtualStaff.ph",
       "location": "Remote",
-      "salary": "$1000-$2000/mo",
+      "salary": "Negotiable",
+      "type": "Full-time",
+      "tags": [
+        "US Night Shift",
+        "No Experience"
+      ],
+      "postedAt": "2026-01-06T21:07:09.036Z",
+      "url": "#"
+    },
+    {
+      "id": "job-1777405840864-25",
+      "title": "Virtual Assistant",
+      "company": "Global Remote",
+      "platform": "Glassdoor",
+      "location": "Remote",
+      "salary": "Negotiable",
       "type": "Contract",
       "tags": [
         "Flexible Hours",
         "US Night Shift"
       ],
-      "postedAt": "2026-03-01T12:54:01.815Z",
+      "postedAt": "2026-03-31T23:59:04.378Z",
       "url": "#"
     },
     {
-      "id": "job-1777398486459-12",
-      "title": "Graphic Designer",
-      "company": "Global Remote",
-      "platform": "Freelancer.com",
-      "location": "Remote",
-      "salary": "$1000-$2000/mo",
-      "type": "Full-time",
-      "tags": [
-        "Flexible Hours",
-        "US Night Shift"
-      ],
-      "postedAt": "2026-02-13T12:17:24.809Z",
-      "url": "#"
-    },
-    {
-      "id": "job-1777398486459-13",
-      "title": "Graphic Designer",
-      "company": "Tech Corp USA",
-      "platform": "Freelancer.com",
-      "location": "Remote",
-      "salary": "$1000-$2000/mo",
-      "type": "Part-time",
-      "tags": [
-        "US Night Shift",
-        "Flexible Hours"
-      ],
-      "postedAt": "2026-01-12T16:01:48.279Z",
-      "url": "#"
-    },
-    {
-      "id": "job-1777398486459-14",
-      "title": "Graphic Designer",
-      "company": "Global Remote",
-      "platform": "Fiverr",
-      "location": "Remote",
-      "salary": "$20-$30/hr",
-      "type": "Part-time",
-      "tags": [
-        "Remote",
-        "No Experience"
-      ],
-      "postedAt": "2026-01-11T09:43:27.050Z",
-      "url": "#"
-    },
-    {
-      "id": "job-1777398486459-15",
-      "title": "Virtual Assistant",
-      "company": "Global Remote",
-      "platform": "Upwork",
-      "location": "Remote",
-      "salary": "$500-$1000/mo",
-      "type": "Contract",
-      "tags": [
-        "US Night Shift",
-        "Remote"
-      ],
-      "postedAt": "2026-01-20T03:00:39.087Z",
-      "url": "#"
-    },
-    {
-      "id": "job-1777398486459-16",
-      "title": "Virtual Assistant",
-      "company": "UK Agency",
-      "platform": "LinkedIn",
-      "location": "Remote",
-      "salary": "$500-$1000/mo",
-      "type": "Part-time",
-      "tags": [
-        "Remote",
-        "Flexible Hours"
-      ],
-      "postedAt": "2026-02-01T08:04:56.373Z",
-      "url": "#"
-    },
-    {
-      "id": "job-1777398486459-17",
+      "id": "job-1777405840864-26",
       "title": "Data Entry Specialist",
-      "company": "Local PH Business",
-      "platform": "Glassdoor",
-      "location": "Remote",
-      "salary": "$500-$1000/mo",
-      "type": "Part-time",
-      "tags": [
-        "Flexible Hours",
-        "US Night Shift"
-      ],
-      "postedAt": "2026-02-27T23:39:11.505Z",
-      "url": "#"
-    },
-    {
-      "id": "job-1777398486459-18",
-      "title": "Data Entry Specialist",
-      "company": "Tech Corp USA",
-      "platform": "Glassdoor",
-      "location": "Remote",
-      "salary": "Negotiable",
-      "type": "Full-time",
-      "tags": [
-        "Remote",
-        "Flexible Hours"
-      ],
-      "postedAt": "2026-04-14T15:07:30.119Z",
-      "url": "#"
-    },
-    {
-      "id": "job-1777398486459-19",
-      "title": "Data Entry Specialist",
-      "company": "Aussie Startups",
-      "platform": "Fiverr",
-      "location": "Remote",
-      "salary": "$500-$1000/mo",
-      "type": "Full-time",
-      "tags": [
-        "Remote",
-        "No Experience"
-      ],
-      "postedAt": "2026-03-08T07:18:28.873Z",
-      "url": "#"
-    },
-    {
-      "id": "job-1777398486459-20",
-      "title": "Customer Service Rep",
       "company": "Global Remote",
-      "platform": "Upwork",
-      "location": "Remote",
-      "salary": "Negotiable",
-      "type": "Full-time",
-      "tags": [
-        "US Night Shift",
-        "Remote"
-      ],
-      "postedAt": "2026-02-09T18:22:27.869Z",
-      "url": "#"
-    },
-    {
-      "id": "job-1777398486459-21",
-      "title": "Data Entry Specialist",
-      "company": "Tech Corp USA",
-      "platform": "Glassdoor",
-      "location": "Remote",
-      "salary": "$500-$1000/mo",
-      "type": "Full-time",
-      "tags": [
-        "Flexible Hours",
-        "Remote"
-      ],
-      "postedAt": "2026-02-18T01:10:17.024Z",
-      "url": "#"
-    },
-    {
-      "id": "job-1777398486459-22",
-      "title": "React Developer",
-      "company": "Global Remote",
-      "platform": "Freelancer.com",
-      "location": "Remote",
-      "salary": "$20-$30/hr",
-      "type": "Part-time",
-      "tags": [
-        "Flexible Hours",
-        "US Night Shift"
-      ],
-      "postedAt": "2026-02-07T19:34:50.398Z",
-      "url": "#"
-    },
-    {
-      "id": "job-1777398486459-23",
-      "title": "Customer Service Rep",
-      "company": "Local PH Business",
-      "platform": "OnlineJobs.ph",
-      "location": "Remote",
-      "salary": "$20-$30/hr",
-      "type": "Part-time",
-      "tags": [
-        "No Experience",
-        "Remote"
-      ],
-      "postedAt": "2026-03-27T08:41:49.991Z",
-      "url": "#"
-    },
-    {
-      "id": "job-1777398486459-24",
-      "title": "Data Entry Specialist",
-      "company": "Local PH Business",
       "platform": "Kalibrr",
       "location": "Remote",
       "salary": "Negotiable",
       "type": "Full-time",
       "tags": [
-        "Flexible Hours",
-        "US Night Shift"
+        "US Night Shift",
+        "No Experience"
       ],
-      "postedAt": "2026-02-26T08:29:09.503Z",
+      "postedAt": "2026-01-05T23:02:26.841Z",
       "url": "#"
     },
     {
-      "id": "job-1777398486459-25",
-      "title": "Graphic Designer",
-      "company": "Aussie Startups",
-      "platform": "OnlineJobs.ph",
-      "location": "Remote",
-      "salary": "Negotiable",
-      "type": "Part-time",
-      "tags": [
-        "Remote",
-        "US Night Shift"
-      ],
-      "postedAt": "2026-03-01T00:04:44.967Z",
-      "url": "#"
-    },
-    {
-      "id": "job-1777398486459-26",
-      "title": "Data Entry Specialist",
-      "company": "Tech Corp USA",
-      "platform": "JobStreet",
-      "location": "Remote",
-      "salary": "$500-$1000/mo",
-      "type": "Contract",
-      "tags": [
-        "Flexible Hours",
-        "US Night Shift"
-      ],
-      "postedAt": "2026-04-25T10:08:24.412Z",
-      "url": "#"
-    },
-    {
-      "id": "job-1777398486459-27",
-      "title": "React Developer",
-      "company": "Global Remote",
-      "platform": "JobStreet",
-      "location": "Remote",
-      "salary": "$1000-$2000/mo",
-      "type": "Contract",
-      "tags": [
-        "Flexible Hours",
-        "US Night Shift"
-      ],
-      "postedAt": "2026-01-03T21:17:02.419Z",
-      "url": "#"
-    },
-    {
-      "id": "job-1777398486459-28",
+      "id": "job-1777405840864-27",
       "title": "Customer Service Rep",
-      "company": "Local PH Business",
-      "platform": "OnlineJobs.ph",
-      "location": "Remote",
-      "salary": "$20-$30/hr",
-      "type": "Full-time",
-      "tags": [
-        "Flexible Hours",
-        "Remote"
-      ],
-      "postedAt": "2026-01-13T17:48:52.259Z",
-      "url": "#"
-    },
-    {
-      "id": "job-1777398486459-29",
-      "title": "Graphic Designer",
-      "company": "Aussie Startups",
-      "platform": "Freelancer.com",
-      "location": "Remote",
-      "salary": "$500-$1000/mo",
-      "type": "Part-time",
-      "tags": [
-        "Remote",
-        "No Experience"
-      ],
-      "postedAt": "2026-02-14T13:51:01.296Z",
-      "url": "#"
-    },
-    {
-      "id": "job-1777398486459-30",
-      "title": "Data Entry Specialist",
-      "company": "Tech Corp USA",
-      "platform": "LinkedIn",
-      "location": "Remote",
-      "salary": "$1000-$2000/mo",
-      "type": "Contract",
-      "tags": [
-        "Flexible Hours",
-        "US Night Shift"
-      ],
-      "postedAt": "2026-02-08T19:18:35.981Z",
-      "url": "#"
-    },
-    {
-      "id": "job-1777398486459-31",
-      "title": "Graphic Designer",
-      "company": "Tech Corp USA",
-      "platform": "Freelancer.com",
-      "location": "Remote",
-      "salary": "Negotiable",
-      "type": "Contract",
-      "tags": [
-        "Remote",
-        "No Experience"
-      ],
-      "postedAt": "2026-01-19T15:29:41.094Z",
-      "url": "#"
-    },
-    {
-      "id": "job-1777398486459-32",
-      "title": "Virtual Assistant",
-      "company": "Aussie Startups",
-      "platform": "Freelancer.com",
-      "location": "Remote",
-      "salary": "$500-$1000/mo",
-      "type": "Contract",
-      "tags": [
-        "Flexible Hours",
-        "Remote"
-      ],
-      "postedAt": "2026-04-19T18:26:12.810Z",
-      "url": "#"
-    },
-    {
-      "id": "job-1777398486459-33",
-      "title": "Virtual Assistant",
-      "company": "Global Remote",
-      "platform": "Indeed",
-      "location": "Remote",
-      "salary": "$10-$15/hr",
-      "type": "Contract",
-      "tags": [
-        "Remote",
-        "No Experience"
-      ],
-      "postedAt": "2026-03-12T20:59:34.093Z",
-      "url": "#"
-    },
-    {
-      "id": "job-1777398486459-34",
-      "title": "Virtual Assistant",
-      "company": "Local PH Business",
-      "platform": "Fiverr",
-      "location": "Remote",
-      "salary": "$10-$15/hr",
-      "type": "Full-time",
-      "tags": [
-        "Flexible Hours",
-        "US Night Shift"
-      ],
-      "postedAt": "2026-01-30T01:37:52.897Z",
-      "url": "#"
-    },
-    {
-      "id": "job-1777398486459-35",
-      "title": "React Developer",
-      "company": "Local PH Business",
-      "platform": "LinkedIn",
-      "location": "Remote",
-      "salary": "$1000-$2000/mo",
-      "type": "Contract",
-      "tags": [
-        "No Experience",
-        "Remote"
-      ],
-      "postedAt": "2026-01-28T23:41:13.205Z",
-      "url": "#"
-    },
-    {
-      "id": "job-1777398486459-36",
-      "title": "React Developer",
-      "company": "Local PH Business",
-      "platform": "Upwork",
-      "location": "Remote",
-      "salary": "$20-$30/hr",
-      "type": "Full-time",
-      "tags": [
-        "Flexible Hours",
-        "Remote"
-      ],
-      "postedAt": "2026-02-08T21:26:21.303Z",
-      "url": "#"
-    },
-    {
-      "id": "job-1777398486459-37",
-      "title": "Customer Service Rep",
-      "company": "Tech Corp USA",
-      "platform": "Kalibrr",
-      "location": "Remote",
-      "salary": "$20-$30/hr",
-      "type": "Contract",
-      "tags": [
-        "Remote",
-        "No Experience"
-      ],
-      "postedAt": "2026-01-09T13:36:03.622Z",
-      "url": "#"
-    },
-    {
-      "id": "job-1777398486459-38",
-      "title": "Graphic Designer",
-      "company": "Aussie Startups",
-      "platform": "Upwork",
-      "location": "Remote",
-      "salary": "$10-$15/hr",
-      "type": "Contract",
-      "tags": [
-        "Flexible Hours",
-        "No Experience"
-      ],
-      "postedAt": "2026-03-16T05:24:39.791Z",
-      "url": "#"
-    },
-    {
-      "id": "job-1777398486459-39",
-      "title": "Virtual Assistant",
-      "company": "Global Remote",
-      "platform": "LinkedIn",
-      "location": "Remote",
-      "salary": "$20-$30/hr",
-      "type": "Part-time",
-      "tags": [
-        "Flexible Hours",
-        "US Night Shift"
-      ],
-      "postedAt": "2026-02-14T04:09:31.428Z",
-      "url": "#"
-    },
-    {
-      "id": "job-1777398486459-40",
-      "title": "Graphic Designer",
-      "company": "Global Remote",
-      "platform": "Upwork",
-      "location": "Remote",
-      "salary": "$500-$1000/mo",
-      "type": "Full-time",
-      "tags": [
-        "Remote",
-        "No Experience"
-      ],
-      "postedAt": "2026-01-28T23:33:07.958Z",
-      "url": "#"
-    },
-    {
-      "id": "job-1777398486459-41",
-      "title": "React Developer",
-      "company": "Aussie Startups",
-      "platform": "LinkedIn",
-      "location": "Remote",
-      "salary": "$20-$30/hr",
-      "type": "Full-time",
-      "tags": [
-        "Remote",
-        "Flexible Hours"
-      ],
-      "postedAt": "2026-03-13T18:18:48.895Z",
-      "url": "#"
-    },
-    {
-      "id": "job-1777398486459-42",
-      "title": "React Developer",
-      "company": "Tech Corp USA",
-      "platform": "Fiverr",
-      "location": "Remote",
-      "salary": "$10-$15/hr",
-      "type": "Contract",
-      "tags": [
-        "Remote",
-        "No Experience"
-      ],
-      "postedAt": "2026-01-25T23:20:37.758Z",
-      "url": "#"
-    },
-    {
-      "id": "job-1777398486459-43",
-      "title": "Data Entry Specialist",
-      "company": "Local PH Business",
-      "platform": "VirtualStaff.ph",
-      "location": "Remote",
-      "salary": "$1000-$2000/mo",
-      "type": "Full-time",
-      "tags": [
-        "Flexible Hours",
-        "Remote"
-      ],
-      "postedAt": "2026-02-10T17:30:30.861Z",
-      "url": "#"
-    },
-    {
-      "id": "job-1777398486459-44",
-      "title": "Customer Service Rep",
-      "company": "Aussie Startups",
-      "platform": "VirtualStaff.ph",
-      "location": "Remote",
-      "salary": "$20-$30/hr",
-      "type": "Part-time",
-      "tags": [
-        "Remote",
-        "No Experience"
-      ],
-      "postedAt": "2026-03-26T01:58:32.502Z",
-      "url": "#"
-    },
-    {
-      "id": "job-1777398486459-45",
-      "title": "Virtual Assistant",
       "company": "Global Remote",
       "platform": "Glassdoor",
       "location": "Remote",
-      "salary": "$20-$30/hr",
-      "type": "Full-time",
+      "salary": "$500-$1000/mo",
+      "type": "Contract",
       "tags": [
         "Remote",
         "No Experience"
       ],
-      "postedAt": "2026-04-16T18:07:36.814Z",
+      "postedAt": "2026-03-25T02:44:17.375Z",
       "url": "#"
     },
     {
-      "id": "job-1777398486459-46",
-      "title": "Virtual Assistant",
+      "id": "job-1777405840864-28",
+      "title": "Customer Service Rep",
       "company": "Local PH Business",
+      "platform": "LinkedIn",
+      "location": "Remote",
+      "salary": "$10-$15/hr",
+      "type": "Part-time",
+      "tags": [
+        "No Experience",
+        "Remote"
+      ],
+      "postedAt": "2026-02-06T09:58:56.473Z",
+      "url": "#"
+    },
+    {
+      "id": "job-1777405840864-29",
+      "title": "Graphic Designer",
+      "company": "Tech Corp USA",
       "platform": "Upwork",
       "location": "Remote",
       "salary": "$20-$30/hr",
@@ -703,1394 +448,824 @@
         "No Experience",
         "Flexible Hours"
       ],
-      "postedAt": "2026-04-23T03:01:24.760Z",
+      "postedAt": "2026-02-12T03:10:35.186Z",
       "url": "#"
     },
     {
-      "id": "job-1777398486459-47",
+      "id": "job-1777405840864-30",
       "title": "React Developer",
-      "company": "Local PH Business",
-      "platform": "LinkedIn",
+      "company": "UK Agency",
+      "platform": "JobStreet",
       "location": "Remote",
-      "salary": "$20-$30/hr",
+      "salary": "Negotiable",
       "type": "Contract",
       "tags": [
         "Remote",
         "No Experience"
       ],
-      "postedAt": "2026-04-24T01:57:20.318Z",
+      "postedAt": "2026-04-05T23:03:51.517Z",
       "url": "#"
     },
     {
-      "id": "job-1777398486459-48",
+      "id": "job-1777405840864-31",
       "title": "React Developer",
-      "company": "Aussie Startups",
+      "company": "Global Remote",
+      "platform": "LinkedIn",
+      "location": "Remote",
+      "salary": "Negotiable",
+      "type": "Full-time",
+      "tags": [
+        "Remote",
+        "No Experience"
+      ],
+      "postedAt": "2026-01-18T10:31:39.797Z",
+      "url": "#"
+    },
+    {
+      "id": "job-1777405840864-32",
+      "title": "Graphic Designer",
+      "company": "Tech Corp USA",
+      "platform": "LinkedIn",
+      "location": "Remote",
+      "salary": "$10-$15/hr",
+      "type": "Contract",
+      "tags": [
+        "Flexible Hours",
+        "US Night Shift"
+      ],
+      "postedAt": "2026-04-19T10:10:39.044Z",
+      "url": "#"
+    },
+    {
+      "id": "job-1777405840864-33",
+      "title": "Data Entry Specialist",
+      "company": "Local PH Business",
       "platform": "Fiverr",
       "location": "Remote",
-      "salary": "$1000-$2000/mo",
+      "salary": "Negotiable",
       "type": "Full-time",
+      "tags": [
+        "Flexible Hours",
+        "US Night Shift"
+      ],
+      "postedAt": "2026-01-15T21:44:40.191Z",
+      "url": "#"
+    },
+    {
+      "id": "job-1777405840864-34",
+      "title": "Data Entry Specialist",
+      "company": "Tech Corp USA",
+      "platform": "VirtualStaff.ph",
+      "location": "Remote",
+      "salary": "$500-$1000/mo",
+      "type": "Full-time",
+      "tags": [
+        "Flexible Hours",
+        "Remote"
+      ],
+      "postedAt": "2026-03-31T17:26:42.911Z",
+      "url": "#"
+    },
+    {
+      "id": "job-1777405840864-35",
+      "title": "React Developer",
+      "company": "Tech Corp USA",
+      "platform": "VirtualStaff.ph",
+      "location": "Remote",
+      "salary": "$500-$1000/mo",
+      "type": "Part-time",
+      "tags": [
+        "Remote",
+        "No Experience"
+      ],
+      "postedAt": "2026-03-17T00:09:06.112Z",
+      "url": "#"
+    },
+    {
+      "id": "job-1777405840864-36",
+      "title": "Customer Service Rep",
+      "company": "Global Remote",
+      "platform": "Freelancer.com",
+      "location": "Remote",
+      "salary": "Negotiable",
+      "type": "Full-time",
+      "tags": [
+        "Remote",
+        "Flexible Hours"
+      ],
+      "postedAt": "2026-01-17T19:03:02.418Z",
+      "url": "#"
+    },
+    {
+      "id": "job-1777405840864-37",
+      "title": "Graphic Designer",
+      "company": "Tech Corp USA",
+      "platform": "JobStreet",
+      "location": "Remote",
+      "salary": "$20-$30/hr",
+      "type": "Part-time",
       "tags": [
         "US Night Shift",
-        "Flexible Hours"
+        "No Experience"
       ],
-      "postedAt": "2026-02-15T06:06:38.447Z",
+      "postedAt": "2026-03-19T12:20:09.122Z",
       "url": "#"
     },
     {
-      "id": "job-1777398486459-49",
-      "title": "Data Entry Specialist",
-      "company": "Tech Corp USA",
+      "id": "job-1777405840864-38",
+      "title": "Virtual Assistant",
+      "company": "Global Remote",
       "platform": "Indeed",
       "location": "Remote",
-      "salary": "$20-$30/hr",
+      "salary": "$500-$1000/mo",
       "type": "Full-time",
       "tags": [
         "Flexible Hours",
         "No Experience"
       ],
-      "postedAt": "2026-02-12T21:58:43.695Z",
+      "postedAt": "2026-02-04T08:47:56.994Z",
       "url": "#"
     },
     {
-      "id": "job-1777398486459-50",
-      "title": "Virtual Assistant",
-      "company": "UK Agency",
-      "platform": "Glassdoor",
+      "id": "job-1777405840864-39",
+      "title": "Data Entry Specialist",
+      "company": "Tech Corp USA",
+      "platform": "LinkedIn",
       "location": "Remote",
-      "salary": "$1000-$2000/mo",
-      "type": "Full-time",
-      "tags": [
-        "Remote",
-        "No Experience"
-      ],
-      "postedAt": "2026-02-07T21:47:07.633Z",
-      "url": "#"
-    },
-    {
-      "id": "job-1777398486459-51",
-      "title": "React Developer",
-      "company": "Aussie Startups",
-      "platform": "Fiverr",
-      "location": "Remote",
-      "salary": "$500-$1000/mo",
+      "salary": "$20-$30/hr",
       "type": "Part-time",
       "tags": [
         "Flexible Hours",
         "US Night Shift"
       ],
-      "postedAt": "2026-01-09T02:43:16.784Z",
+      "postedAt": "2026-01-16T15:49:46.461Z",
       "url": "#"
     },
     {
-      "id": "job-1777398486459-52",
-      "title": "React Developer",
-      "company": "UK Agency",
-      "platform": "Upwork",
-      "location": "Remote",
-      "salary": "$10-$15/hr",
-      "type": "Part-time",
-      "tags": [
-        "Remote",
-        "Flexible Hours"
-      ],
-      "postedAt": "2026-03-15T17:14:09.744Z",
-      "url": "#"
-    },
-    {
-      "id": "job-1777398486459-53",
+      "id": "job-1777405840864-40",
       "title": "Customer Service Rep",
       "company": "Tech Corp USA",
+      "platform": "Fiverr",
+      "location": "Remote",
+      "salary": "Negotiable",
+      "type": "Contract",
+      "tags": [
+        "Remote",
+        "No Experience"
+      ],
+      "postedAt": "2026-03-08T18:24:34.742Z",
+      "url": "#"
+    },
+    {
+      "id": "job-1777405840864-41",
+      "title": "React Developer",
+      "company": "Aussie Startups",
+      "platform": "VirtualStaff.ph",
+      "location": "Remote",
+      "salary": "Negotiable",
+      "type": "Part-time",
+      "tags": [
+        "No Experience",
+        "Remote"
+      ],
+      "postedAt": "2026-01-30T09:04:16.594Z",
+      "url": "#"
+    },
+    {
+      "id": "job-1777405840864-42",
+      "title": "React Developer",
+      "company": "Global Remote",
       "platform": "Kalibrr",
       "location": "Remote",
       "salary": "$20-$30/hr",
       "type": "Part-time",
       "tags": [
-        "Remote",
+        "Flexible Hours",
         "No Experience"
       ],
-      "postedAt": "2026-03-31T18:20:07.364Z",
+      "postedAt": "2026-04-24T01:44:24.325Z",
       "url": "#"
     },
     {
-      "id": "job-1777398486459-54",
-      "title": "Data Entry Specialist",
-      "company": "Global Remote",
-      "platform": "VirtualStaff.ph",
-      "location": "Remote",
-      "salary": "$20-$30/hr",
-      "type": "Full-time",
-      "tags": [
-        "US Night Shift",
-        "Flexible Hours"
-      ],
-      "postedAt": "2026-01-14T11:57:49.076Z",
-      "url": "#"
-    },
-    {
-      "id": "job-1777398486459-55",
-      "title": "Virtual Assistant",
-      "company": "Local PH Business",
-      "platform": "LinkedIn",
-      "location": "Remote",
-      "salary": "$1000-$2000/mo",
-      "type": "Contract",
-      "tags": [
-        "Remote",
-        "No Experience"
-      ],
-      "postedAt": "2026-02-05T07:26:32.070Z",
-      "url": "#"
-    },
-    {
-      "id": "job-1777398486459-56",
+      "id": "job-1777405840864-43",
       "title": "Customer Service Rep",
-      "company": "Aussie Startups",
-      "platform": "Fiverr",
+      "company": "Global Remote",
+      "platform": "JobStreet",
       "location": "Remote",
       "salary": "$20-$30/hr",
-      "type": "Contract",
-      "tags": [
-        "US Night Shift",
-        "Flexible Hours"
-      ],
-      "postedAt": "2026-04-27T14:42:24.882Z",
-      "url": "#"
-    },
-    {
-      "id": "job-1777398486459-57",
-      "title": "Virtual Assistant",
-      "company": "Global Remote",
-      "platform": "Upwork",
-      "location": "Remote",
-      "salary": "Negotiable",
       "type": "Contract",
       "tags": [
         "Flexible Hours",
         "US Night Shift"
       ],
-      "postedAt": "2026-01-18T20:52:08.358Z",
+      "postedAt": "2026-04-27T04:31:06.271Z",
       "url": "#"
     },
     {
-      "id": "job-1777398486459-58",
-      "title": "Customer Service Rep",
-      "company": "Local PH Business",
-      "platform": "Glassdoor",
-      "location": "Remote",
-      "salary": "$10-$15/hr",
-      "type": "Part-time",
-      "tags": [
-        "US Night Shift",
-        "No Experience"
-      ],
-      "postedAt": "2026-02-14T16:02:37.054Z",
-      "url": "#"
-    },
-    {
-      "id": "job-1777398486459-59",
-      "title": "Customer Service Rep",
-      "company": "Tech Corp USA",
-      "platform": "Glassdoor",
-      "location": "Remote",
-      "salary": "$20-$30/hr",
-      "type": "Contract",
-      "tags": [
-        "Remote",
-        "No Experience"
-      ],
-      "postedAt": "2026-02-01T09:12:17.996Z",
-      "url": "#"
-    },
-    {
-      "id": "job-1777398486459-60",
-      "title": "Graphic Designer",
-      "company": "Global Remote",
-      "platform": "Freelancer.com",
-      "location": "Remote",
-      "salary": "Negotiable",
-      "type": "Full-time",
-      "tags": [
-        "Flexible Hours",
-        "No Experience"
-      ],
-      "postedAt": "2026-03-17T21:18:12.442Z",
-      "url": "#"
-    },
-    {
-      "id": "job-1777398486459-61",
-      "title": "Customer Service Rep",
+      "id": "job-1777405840864-44",
+      "title": "Virtual Assistant",
       "company": "UK Agency",
       "platform": "Freelancer.com",
       "location": "Remote",
-      "salary": "$20-$30/hr",
-      "type": "Full-time",
-      "tags": [
-        "US Night Shift",
-        "No Experience"
-      ],
-      "postedAt": "2026-01-16T09:14:28.262Z",
-      "url": "#"
-    },
-    {
-      "id": "job-1777398486459-62",
-      "title": "Virtual Assistant",
-      "company": "Tech Corp USA",
-      "platform": "Indeed",
-      "location": "Remote",
       "salary": "$1000-$2000/mo",
-      "type": "Contract",
-      "tags": [
-        "Remote",
-        "No Experience"
-      ],
-      "postedAt": "2026-02-14T21:30:55.321Z",
-      "url": "#"
-    },
-    {
-      "id": "job-1777398486459-63",
-      "title": "Customer Service Rep",
-      "company": "Aussie Startups",
-      "platform": "Upwork",
-      "location": "Remote",
-      "salary": "$10-$15/hr",
-      "type": "Contract",
+      "type": "Part-time",
       "tags": [
         "Flexible Hours",
-        "US Night Shift"
+        "Remote"
       ],
-      "postedAt": "2026-01-12T02:03:09.232Z",
+      "postedAt": "2026-04-18T02:37:36.122Z",
       "url": "#"
     },
     {
-      "id": "job-1777398486459-64",
-      "title": "Data Entry Specialist",
-      "company": "Local PH Business",
-      "platform": "VirtualStaff.ph",
+      "id": "job-1777405840864-45",
+      "title": "Graphic Designer",
+      "company": "UK Agency",
+      "platform": "JobStreet",
       "location": "Remote",
       "salary": "$1000-$2000/mo",
       "type": "Full-time",
       "tags": [
-        "Remote",
-        "No Experience"
-      ],
-      "postedAt": "2026-01-24T00:47:12.354Z",
-      "url": "#"
-    },
-    {
-      "id": "job-1777398486459-65",
-      "title": "Graphic Designer",
-      "company": "Tech Corp USA",
-      "platform": "OnlineJobs.ph",
-      "location": "Remote",
-      "salary": "Negotiable",
-      "type": "Full-time",
-      "tags": [
-        "US Night Shift",
+        "No Experience",
         "Flexible Hours"
       ],
-      "postedAt": "2026-03-03T10:30:11.817Z",
+      "postedAt": "2026-03-21T00:22:19.901Z",
       "url": "#"
     },
     {
-      "id": "job-1777398486459-66",
-      "title": "Data Entry Specialist",
-      "company": "Global Remote",
-      "platform": "VirtualStaff.ph",
-      "location": "Remote",
-      "salary": "$500-$1000/mo",
-      "type": "Part-time",
-      "tags": [
-        "Remote",
-        "No Experience"
-      ],
-      "postedAt": "2026-02-25T03:46:53.196Z",
-      "url": "#"
-    },
-    {
-      "id": "job-1777398486459-67",
-      "title": "React Developer",
-      "company": "Global Remote",
-      "platform": "Glassdoor",
-      "location": "Remote",
-      "salary": "$500-$1000/mo",
-      "type": "Part-time",
-      "tags": [
-        "Remote",
-        "No Experience"
-      ],
-      "postedAt": "2026-01-30T13:57:36.682Z",
-      "url": "#"
-    },
-    {
-      "id": "job-1777398486459-68",
-      "title": "Customer Service Rep",
-      "company": "Tech Corp USA",
-      "platform": "LinkedIn",
+      "id": "job-1777405840864-46",
+      "title": "Graphic Designer",
+      "company": "Aussie Startups",
+      "platform": "OnlineJobs.ph",
       "location": "Remote",
       "salary": "$20-$30/hr",
+      "type": "Part-time",
+      "tags": [
+        "No Experience",
+        "US Night Shift"
+      ],
+      "postedAt": "2026-02-19T07:30:52.212Z",
+      "url": "#"
+    },
+    {
+      "id": "job-1777405840864-47",
+      "title": "Data Entry Specialist",
+      "company": "Aussie Startups",
+      "platform": "Glassdoor",
+      "location": "Remote",
+      "salary": "$1000-$2000/mo",
       "type": "Part-time",
       "tags": [
         "US Night Shift",
         "No Experience"
       ],
-      "postedAt": "2026-03-15T16:07:45.833Z",
+      "postedAt": "2026-01-06T15:04:30.038Z",
       "url": "#"
     },
     {
-      "id": "job-1777398486459-69",
+      "id": "job-1777405840864-48",
       "title": "Data Entry Specialist",
-      "company": "Global Remote",
-      "platform": "Freelancer.com",
+      "company": "Tech Corp USA",
+      "platform": "Fiverr",
       "location": "Remote",
       "salary": "$1000-$2000/mo",
+      "type": "Full-time",
+      "tags": [
+        "Remote",
+        "No Experience"
+      ],
+      "postedAt": "2026-02-12T13:35:22.406Z",
+      "url": "#"
+    },
+    {
+      "id": "job-1777405840864-49",
+      "title": "Graphic Designer",
+      "company": "Aussie Startups",
+      "platform": "VirtualStaff.ph",
+      "location": "Remote",
+      "salary": "$10-$15/hr",
+      "type": "Part-time",
+      "tags": [
+        "Flexible Hours",
+        "US Night Shift"
+      ],
+      "postedAt": "2026-01-12T02:24:56.362Z",
+      "url": "#"
+    },
+    {
+      "id": "job-1777405840864-50",
+      "title": "Graphic Designer",
+      "company": "Global Remote",
+      "platform": "JobStreet",
+      "location": "Remote",
+      "salary": "$20-$30/hr",
+      "type": "Contract",
+      "tags": [
+        "No Experience",
+        "US Night Shift"
+      ],
+      "postedAt": "2026-02-22T14:50:25.016Z",
+      "url": "#"
+    },
+    {
+      "id": "job-1777405840864-51",
+      "title": "React Developer",
+      "company": "Tech Corp USA",
+      "platform": "VirtualStaff.ph",
+      "location": "Remote",
+      "salary": "$1000-$2000/mo",
+      "type": "Full-time",
+      "tags": [
+        "Remote",
+        "No Experience"
+      ],
+      "postedAt": "2026-01-16T01:13:12.275Z",
+      "url": "#"
+    },
+    {
+      "id": "job-1777405840864-52",
+      "title": "Virtual Assistant",
+      "company": "Aussie Startups",
+      "platform": "Upwork",
+      "location": "Remote",
+      "salary": "$20-$30/hr",
       "type": "Part-time",
       "tags": [
         "Remote",
-        "US Night Shift"
+        "Flexible Hours"
       ],
-      "postedAt": "2026-03-24T17:26:44.464Z",
+      "postedAt": "2026-02-05T15:19:27.114Z",
       "url": "#"
     },
     {
-      "id": "job-1777398486459-70",
-      "title": "Graphic Designer",
-      "company": "Local PH Business",
-      "platform": "Upwork",
-      "location": "Remote",
-      "salary": "$500-$1000/mo",
-      "type": "Full-time",
-      "tags": [
-        "Flexible Hours",
-        "No Experience"
-      ],
-      "postedAt": "2026-02-28T05:44:26.914Z",
-      "url": "#"
-    },
-    {
-      "id": "job-1777398486459-71",
-      "title": "Data Entry Specialist",
-      "company": "Local PH Business",
-      "platform": "Upwork",
-      "location": "Remote",
-      "salary": "$1000-$2000/mo",
-      "type": "Contract",
-      "tags": [
-        "Remote",
-        "No Experience"
-      ],
-      "postedAt": "2026-03-01T16:05:09.800Z",
-      "url": "#"
-    },
-    {
-      "id": "job-1777398486459-72",
-      "title": "Virtual Assistant",
-      "company": "Tech Corp USA",
-      "platform": "Indeed",
-      "location": "Remote",
-      "salary": "$1000-$2000/mo",
-      "type": "Full-time",
-      "tags": [
-        "Remote",
-        "No Experience"
-      ],
-      "postedAt": "2026-02-10T21:46:25.924Z",
-      "url": "#"
-    },
-    {
-      "id": "job-1777398486459-73",
-      "title": "Customer Service Rep",
-      "company": "Aussie Startups",
+      "id": "job-1777405840864-53",
+      "title": "React Developer",
+      "company": "Global Remote",
       "platform": "Kalibrr",
       "location": "Remote",
       "salary": "$500-$1000/mo",
-      "type": "Full-time",
-      "tags": [
-        "Flexible Hours",
-        "US Night Shift"
-      ],
-      "postedAt": "2026-01-28T13:46:04.037Z",
-      "url": "#"
-    },
-    {
-      "id": "job-1777398486459-74",
-      "title": "React Developer",
-      "company": "Global Remote",
-      "platform": "LinkedIn",
-      "location": "Remote",
-      "salary": "Negotiable",
-      "type": "Contract",
-      "tags": [
-        "Remote",
-        "No Experience"
-      ],
-      "postedAt": "2026-01-13T15:34:44.520Z",
-      "url": "#"
-    },
-    {
-      "id": "job-1777398486459-75",
-      "title": "Customer Service Rep",
-      "company": "Tech Corp USA",
-      "platform": "Freelancer.com",
-      "location": "Remote",
-      "salary": "$1000-$2000/mo",
-      "type": "Full-time",
-      "tags": [
-        "Remote",
-        "No Experience"
-      ],
-      "postedAt": "2026-03-11T17:06:48.539Z",
-      "url": "#"
-    },
-    {
-      "id": "job-1777398486459-76",
-      "title": "React Developer",
-      "company": "UK Agency",
-      "platform": "LinkedIn",
-      "location": "Remote",
-      "salary": "$500-$1000/mo",
-      "type": "Contract",
-      "tags": [
-        "Remote",
-        "No Experience"
-      ],
-      "postedAt": "2026-04-27T01:33:11.032Z",
-      "url": "#"
-    },
-    {
-      "id": "job-1777398486459-77",
-      "title": "Customer Service Rep",
-      "company": "Global Remote",
-      "platform": "Freelancer.com",
-      "location": "Remote",
-      "salary": "$500-$1000/mo",
-      "type": "Full-time",
-      "tags": [
-        "Flexible Hours",
-        "US Night Shift"
-      ],
-      "postedAt": "2026-02-03T15:19:30.263Z",
-      "url": "#"
-    },
-    {
-      "id": "job-1777398486459-78",
-      "title": "Graphic Designer",
-      "company": "Local PH Business",
-      "platform": "Upwork",
-      "location": "Remote",
-      "salary": "$10-$15/hr",
       "type": "Part-time",
-      "tags": [
-        "Flexible Hours",
-        "US Night Shift"
-      ],
-      "postedAt": "2026-04-18T20:30:34.790Z",
-      "url": "#"
-    },
-    {
-      "id": "job-1777398486459-79",
-      "title": "Data Entry Specialist",
-      "company": "Aussie Startups",
-      "platform": "Glassdoor",
-      "location": "Remote",
-      "salary": "$500-$1000/mo",
-      "type": "Part-time",
-      "tags": [
-        "Flexible Hours",
-        "US Night Shift"
-      ],
-      "postedAt": "2026-03-29T20:41:32.652Z",
-      "url": "#"
-    },
-    {
-      "id": "job-1777398486459-80",
-      "title": "Data Entry Specialist",
-      "company": "Local PH Business",
-      "platform": "OnlineJobs.ph",
-      "location": "Remote",
-      "salary": "$10-$15/hr",
-      "type": "Contract",
       "tags": [
         "Flexible Hours",
         "Remote"
       ],
-      "postedAt": "2026-02-23T02:52:37.830Z",
+      "postedAt": "2026-03-23T23:40:24.549Z",
       "url": "#"
     },
     {
-      "id": "job-1777398486459-81",
-      "title": "React Developer",
-      "company": "Tech Corp USA",
-      "platform": "Indeed",
+      "id": "job-1777405840864-54",
+      "title": "Graphic Designer",
+      "company": "Global Remote",
+      "platform": "OnlineJobs.ph",
       "location": "Remote",
-      "salary": "$1000-$2000/mo",
-      "type": "Full-time",
+      "salary": "$20-$30/hr",
+      "type": "Contract",
       "tags": [
-        "US Night Shift",
+        "Remote",
         "No Experience"
       ],
-      "postedAt": "2026-02-01T01:24:34.418Z",
+      "postedAt": "2026-03-07T00:33:18.377Z",
       "url": "#"
     },
     {
-      "id": "job-1777398486459-82",
-      "title": "Customer Service Rep",
-      "company": "Aussie Startups",
-      "platform": "Fiverr",
-      "location": "Remote",
-      "salary": "$1000-$2000/mo",
-      "type": "Full-time",
-      "tags": [
-        "Flexible Hours",
-        "US Night Shift"
-      ],
-      "postedAt": "2026-04-11T10:34:41.771Z",
-      "url": "#"
-    },
-    {
-      "id": "job-1777398486459-83",
-      "title": "Graphic Designer",
-      "company": "Aussie Startups",
+      "id": "job-1777405840864-55",
+      "title": "Virtual Assistant",
+      "company": "Tech Corp USA",
       "platform": "Kalibrr",
       "location": "Remote",
-      "salary": "Negotiable",
-      "type": "Contract",
-      "tags": [
-        "US Night Shift",
-        "No Experience"
-      ],
-      "postedAt": "2026-04-28T11:49:28.559Z",
-      "url": "#"
-    },
-    {
-      "id": "job-1777398486459-84",
-      "title": "Virtual Assistant",
-      "company": "UK Agency",
-      "platform": "Glassdoor",
-      "location": "Remote",
-      "salary": "$20-$30/hr",
-      "type": "Full-time",
-      "tags": [
-        "No Experience",
-        "Remote"
-      ],
-      "postedAt": "2026-03-15T10:35:23.852Z",
-      "url": "#"
-    },
-    {
-      "id": "job-1777398486459-85",
-      "title": "Customer Service Rep",
-      "company": "UK Agency",
-      "platform": "Upwork",
-      "location": "Remote",
-      "salary": "$20-$30/hr",
-      "type": "Contract",
-      "tags": [
-        "No Experience",
-        "Remote"
-      ],
-      "postedAt": "2026-01-21T01:25:07.737Z",
-      "url": "#"
-    },
-    {
-      "id": "job-1777398486459-86",
-      "title": "Virtual Assistant",
-      "company": "Local PH Business",
-      "platform": "LinkedIn",
-      "location": "Remote",
-      "salary": "$10-$15/hr",
-      "type": "Contract",
-      "tags": [
-        "No Experience",
-        "Remote"
-      ],
-      "postedAt": "2026-02-24T09:45:44.538Z",
-      "url": "#"
-    },
-    {
-      "id": "job-1777398486459-87",
-      "title": "Graphic Designer",
-      "company": "Tech Corp USA",
-      "platform": "Indeed",
-      "location": "Remote",
-      "salary": "$500-$1000/mo",
-      "type": "Part-time",
-      "tags": [
-        "Remote",
-        "Flexible Hours"
-      ],
-      "postedAt": "2026-03-17T23:52:33.614Z",
-      "url": "#"
-    },
-    {
-      "id": "job-1777398486459-88",
-      "title": "React Developer",
-      "company": "Tech Corp USA",
-      "platform": "OnlineJobs.ph",
-      "location": "Remote",
-      "salary": "$20-$30/hr",
-      "type": "Part-time",
-      "tags": [
-        "US Night Shift",
-        "Flexible Hours"
-      ],
-      "postedAt": "2026-01-19T20:11:03.984Z",
-      "url": "#"
-    },
-    {
-      "id": "job-1777398486459-89",
-      "title": "Graphic Designer",
-      "company": "UK Agency",
-      "platform": "Fiverr",
-      "location": "Remote",
-      "salary": "Negotiable",
-      "type": "Contract",
-      "tags": [
-        "Remote",
-        "No Experience"
-      ],
-      "postedAt": "2026-01-07T17:32:01.753Z",
-      "url": "#"
-    },
-    {
-      "id": "job-1777398486459-90",
-      "title": "Data Entry Specialist",
-      "company": "UK Agency",
-      "platform": "Fiverr",
-      "location": "Remote",
-      "salary": "$1000-$2000/mo",
-      "type": "Full-time",
-      "tags": [
-        "Remote",
-        "No Experience"
-      ],
-      "postedAt": "2026-03-26T05:31:49.407Z",
-      "url": "#"
-    },
-    {
-      "id": "job-1777398486459-91",
-      "title": "Data Entry Specialist",
-      "company": "Global Remote",
-      "platform": "OnlineJobs.ph",
-      "location": "Remote",
-      "salary": "Negotiable",
-      "type": "Contract",
-      "tags": [
-        "Remote",
-        "Flexible Hours"
-      ],
-      "postedAt": "2026-04-10T00:47:10.531Z",
-      "url": "#"
-    },
-    {
-      "id": "job-1777398486459-92",
-      "title": "Customer Service Rep",
-      "company": "Aussie Startups",
-      "platform": "Glassdoor",
-      "location": "Remote",
-      "salary": "Negotiable",
-      "type": "Full-time",
-      "tags": [
-        "Remote",
-        "Flexible Hours"
-      ],
-      "postedAt": "2026-02-04T14:56:44.915Z",
-      "url": "#"
-    },
-    {
-      "id": "job-1777398486459-93",
-      "title": "Data Entry Specialist",
-      "company": "Tech Corp USA",
-      "platform": "Glassdoor",
-      "location": "Remote",
-      "salary": "$1000-$2000/mo",
-      "type": "Contract",
-      "tags": [
-        "No Experience",
-        "Flexible Hours"
-      ],
-      "postedAt": "2026-01-14T03:52:39.364Z",
-      "url": "#"
-    },
-    {
-      "id": "job-1777398486459-94",
-      "title": "Customer Service Rep",
-      "company": "Tech Corp USA",
-      "platform": "LinkedIn",
-      "location": "Remote",
-      "salary": "$20-$30/hr",
-      "type": "Contract",
-      "tags": [
-        "US Night Shift",
-        "Flexible Hours"
-      ],
-      "postedAt": "2026-04-11T23:15:06.045Z",
-      "url": "#"
-    },
-    {
-      "id": "job-1777398486459-95",
-      "title": "Virtual Assistant",
-      "company": "Local PH Business",
-      "platform": "JobStreet",
-      "location": "Remote",
-      "salary": "$20-$30/hr",
-      "type": "Full-time",
-      "tags": [
-        "Remote",
-        "No Experience"
-      ],
-      "postedAt": "2026-04-23T21:43:25.745Z",
-      "url": "#"
-    },
-    {
-      "id": "job-1777398486459-96",
-      "title": "Virtual Assistant",
-      "company": "UK Agency",
-      "platform": "Freelancer.com",
-      "location": "Remote",
-      "salary": "$500-$1000/mo",
-      "type": "Full-time",
-      "tags": [
-        "Flexible Hours",
-        "No Experience"
-      ],
-      "postedAt": "2026-04-14T22:05:12.874Z",
-      "url": "#"
-    },
-    {
-      "id": "job-1777398486459-97",
-      "title": "Customer Service Rep",
-      "company": "Aussie Startups",
-      "platform": "JobStreet",
-      "location": "Remote",
-      "salary": "$1000-$2000/mo",
-      "type": "Part-time",
-      "tags": [
-        "US Night Shift",
-        "No Experience"
-      ],
-      "postedAt": "2026-02-20T12:13:56.429Z",
-      "url": "#"
-    },
-    {
-      "id": "job-1777398486459-98",
-      "title": "Virtual Assistant",
-      "company": "Tech Corp USA",
-      "platform": "Upwork",
-      "location": "Remote",
-      "salary": "$10-$15/hr",
-      "type": "Contract",
-      "tags": [
-        "Remote",
-        "US Night Shift"
-      ],
-      "postedAt": "2026-02-27T17:51:23.621Z",
-      "url": "#"
-    },
-    {
-      "id": "job-1777398486459-99",
-      "title": "Data Entry Specialist",
-      "company": "Local PH Business",
-      "platform": "Fiverr",
-      "location": "Remote",
-      "salary": "$1000-$2000/mo",
-      "type": "Part-time",
-      "tags": [
-        "Flexible Hours",
-        "US Night Shift"
-      ],
-      "postedAt": "2026-04-19T21:38:39.256Z",
-      "url": "#"
-    },
-    {
-      "id": "job-1777398486459-100",
-      "title": "Customer Service Rep",
-      "company": "Aussie Startups",
-      "platform": "Upwork",
-      "location": "Remote",
-      "salary": "$20-$30/hr",
-      "type": "Part-time",
-      "tags": [
-        "US Night Shift",
-        "No Experience"
-      ],
-      "postedAt": "2026-04-19T00:54:02.406Z",
-      "url": "#"
-    },
-    {
-      "id": "job-1777398486459-101",
-      "title": "Customer Service Rep",
-      "company": "UK Agency",
-      "platform": "Indeed",
-      "location": "Remote",
       "salary": "$1000-$2000/mo",
       "type": "Full-time",
       "tags": [
         "Flexible Hours",
         "US Night Shift"
       ],
-      "postedAt": "2026-02-27T17:18:02.457Z",
+      "postedAt": "2026-03-09T10:35:03.147Z",
       "url": "#"
     },
     {
-      "id": "job-1777398486459-102",
-      "title": "Virtual Assistant",
-      "company": "Tech Corp USA",
-      "platform": "Freelancer.com",
-      "location": "Remote",
-      "salary": "$10-$15/hr",
-      "type": "Part-time",
-      "tags": [
-        "No Experience",
-        "Remote"
-      ],
-      "postedAt": "2026-02-26T07:56:47.382Z",
-      "url": "#"
-    },
-    {
-      "id": "job-1777398486459-103",
-      "title": "Graphic Designer",
-      "company": "Global Remote",
-      "platform": "JobStreet",
-      "location": "Remote",
-      "salary": "$1000-$2000/mo",
-      "type": "Part-time",
-      "tags": [
-        "US Night Shift",
-        "Flexible Hours"
-      ],
-      "postedAt": "2026-04-07T16:29:16.523Z",
-      "url": "#"
-    },
-    {
-      "id": "job-1777398486459-104",
-      "title": "Virtual Assistant",
-      "company": "UK Agency",
-      "platform": "Freelancer.com",
-      "location": "Remote",
-      "salary": "Negotiable",
-      "type": "Contract",
-      "tags": [
-        "Flexible Hours",
-        "US Night Shift"
-      ],
-      "postedAt": "2026-01-28T08:21:00.377Z",
-      "url": "#"
-    },
-    {
-      "id": "job-1777398486459-105",
-      "title": "React Developer",
+      "id": "job-1777405840864-56",
+      "title": "Data Entry Specialist",
       "company": "Aussie Startups",
       "platform": "VirtualStaff.ph",
       "location": "Remote",
       "salary": "$10-$15/hr",
       "type": "Full-time",
       "tags": [
-        "Remote",
-        "No Experience"
-      ],
-      "postedAt": "2026-03-13T03:09:30.066Z",
-      "url": "#"
-    },
-    {
-      "id": "job-1777398486459-106",
-      "title": "React Developer",
-      "company": "Local PH Business",
-      "platform": "Freelancer.com",
-      "location": "Remote",
-      "salary": "$500-$1000/mo",
-      "type": "Part-time",
-      "tags": [
-        "Remote",
-        "No Experience"
-      ],
-      "postedAt": "2026-01-22T18:28:50.831Z",
-      "url": "#"
-    },
-    {
-      "id": "job-1777398486459-107",
-      "title": "React Developer",
-      "company": "Aussie Startups",
-      "platform": "OnlineJobs.ph",
-      "location": "Remote",
-      "salary": "$500-$1000/mo",
-      "type": "Part-time",
-      "tags": [
-        "US Night Shift",
-        "Flexible Hours"
-      ],
-      "postedAt": "2026-04-21T12:50:32.675Z",
-      "url": "#"
-    },
-    {
-      "id": "job-1777398486459-108",
-      "title": "Graphic Designer",
-      "company": "Local PH Business",
-      "platform": "VirtualStaff.ph",
-      "location": "Remote",
-      "salary": "$500-$1000/mo",
-      "type": "Full-time",
-      "tags": [
-        "Remote",
-        "No Experience"
-      ],
-      "postedAt": "2026-03-20T20:28:53.343Z",
-      "url": "#"
-    },
-    {
-      "id": "job-1777398486459-109",
-      "title": "Customer Service Rep",
-      "company": "Tech Corp USA",
-      "platform": "Glassdoor",
-      "location": "Remote",
-      "salary": "$20-$30/hr",
-      "type": "Contract",
-      "tags": [
         "Flexible Hours",
         "US Night Shift"
       ],
-      "postedAt": "2026-03-02T10:37:44.951Z",
+      "postedAt": "2026-01-09T16:35:36.411Z",
       "url": "#"
     },
     {
-      "id": "job-1777398486459-110",
-      "title": "Virtual Assistant",
-      "company": "Local PH Business",
-      "platform": "JobStreet",
-      "location": "Remote",
-      "salary": "$500-$1000/mo",
-      "type": "Part-time",
-      "tags": [
-        "Remote",
-        "Flexible Hours"
-      ],
-      "postedAt": "2026-04-03T05:41:14.688Z",
-      "url": "#"
-    },
-    {
-      "id": "job-1777398486459-111",
+      "id": "job-1777405840864-57",
       "title": "Virtual Assistant",
       "company": "Aussie Startups",
       "platform": "VirtualStaff.ph",
       "location": "Remote",
-      "salary": "Negotiable",
-      "type": "Contract",
+      "salary": "$1000-$2000/mo",
+      "type": "Part-time",
       "tags": [
-        "Remote",
-        "No Experience"
+        "Flexible Hours",
+        "Remote"
       ],
-      "postedAt": "2026-03-09T10:29:03.545Z",
+      "postedAt": "2026-01-09T23:56:50.331Z",
       "url": "#"
     },
     {
-      "id": "job-1777398486459-112",
-      "title": "Graphic Designer",
-      "company": "UK Agency",
+      "id": "job-1777405840864-58",
+      "title": "React Developer",
+      "company": "Local PH Business",
       "platform": "Fiverr",
       "location": "Remote",
-      "salary": "$10-$15/hr",
-      "type": "Full-time",
-      "tags": [
-        "Remote",
-        "Flexible Hours"
-      ],
-      "postedAt": "2026-02-27T04:04:15.358Z",
-      "url": "#"
-    },
-    {
-      "id": "job-1777398486459-113",
-      "title": "Graphic Designer",
-      "company": "UK Agency",
-      "platform": "LinkedIn",
-      "location": "Remote",
-      "salary": "$500-$1000/mo",
-      "type": "Full-time",
-      "tags": [
-        "Flexible Hours",
-        "US Night Shift"
-      ],
-      "postedAt": "2026-02-13T02:42:38.522Z",
-      "url": "#"
-    },
-    {
-      "id": "job-1777398486459-114",
-      "title": "Customer Service Rep",
-      "company": "Tech Corp USA",
-      "platform": "Glassdoor",
-      "location": "Remote",
-      "salary": "Negotiable",
+      "salary": "$20-$30/hr",
       "type": "Part-time",
       "tags": [
         "Remote",
-        "No Experience"
+        "US Night Shift"
       ],
-      "postedAt": "2026-02-25T02:42:34.004Z",
+      "postedAt": "2026-02-03T18:24:56.128Z",
       "url": "#"
     },
     {
-      "id": "job-1777398486459-115",
-      "title": "Graphic Designer",
-      "company": "Aussie Startups",
-      "platform": "VirtualStaff.ph",
-      "location": "Remote",
-      "salary": "$500-$1000/mo",
-      "type": "Full-time",
-      "tags": [
-        "US Night Shift",
-        "No Experience"
-      ],
-      "postedAt": "2026-02-18T12:42:44.604Z",
-      "url": "#"
-    },
-    {
-      "id": "job-1777398486459-116",
+      "id": "job-1777405840864-59",
       "title": "Virtual Assistant",
-      "company": "Aussie Startups",
+      "company": "Tech Corp USA",
       "platform": "Indeed",
       "location": "Remote",
       "salary": "$20-$30/hr",
-      "type": "Part-time",
-      "tags": [
-        "Flexible Hours",
-        "Remote"
-      ],
-      "postedAt": "2026-02-09T21:21:30.872Z",
-      "url": "#"
-    },
-    {
-      "id": "job-1777398486459-117",
-      "title": "Graphic Designer",
-      "company": "UK Agency",
-      "platform": "Glassdoor",
-      "location": "Remote",
-      "salary": "$1000-$2000/mo",
-      "type": "Contract",
-      "tags": [
-        "US Night Shift",
-        "Flexible Hours"
-      ],
-      "postedAt": "2026-01-18T12:25:57.926Z",
-      "url": "#"
-    },
-    {
-      "id": "job-1777398486459-118",
-      "title": "Graphic Designer",
-      "company": "Aussie Startups",
-      "platform": "Fiverr",
-      "location": "Remote",
-      "salary": "$1000-$2000/mo",
-      "type": "Part-time",
-      "tags": [
-        "Remote",
-        "No Experience"
-      ],
-      "postedAt": "2026-02-03T15:22:02.810Z",
-      "url": "#"
-    },
-    {
-      "id": "job-1777398486459-119",
-      "title": "React Developer",
-      "company": "Aussie Startups",
-      "platform": "OnlineJobs.ph",
-      "location": "Remote",
-      "salary": "$1000-$2000/mo",
-      "type": "Contract",
-      "tags": [
-        "Remote",
-        "No Experience"
-      ],
-      "postedAt": "2026-02-12T23:46:29.583Z",
-      "url": "#"
-    },
-    {
-      "id": "job-1777398486459-120",
-      "title": "Graphic Designer",
-      "company": "Global Remote",
-      "platform": "Freelancer.com",
-      "location": "Remote",
-      "salary": "$10-$15/hr",
-      "type": "Part-time",
-      "tags": [
-        "No Experience",
-        "Remote"
-      ],
-      "postedAt": "2026-02-28T14:06:46.567Z",
-      "url": "#"
-    },
-    {
-      "id": "job-1777398486459-121",
-      "title": "Virtual Assistant",
-      "company": "UK Agency",
-      "platform": "Kalibrr",
-      "location": "Remote",
-      "salary": "$10-$15/hr",
-      "type": "Part-time",
-      "tags": [
-        "US Night Shift",
-        "No Experience"
-      ],
-      "postedAt": "2026-02-13T07:04:54.338Z",
-      "url": "#"
-    },
-    {
-      "id": "job-1777398486459-122",
-      "title": "Graphic Designer",
-      "company": "Local PH Business",
-      "platform": "Fiverr",
-      "location": "Remote",
-      "salary": "$20-$30/hr",
-      "type": "Part-time",
-      "tags": [
-        "Flexible Hours",
-        "Remote"
-      ],
-      "postedAt": "2026-02-06T21:16:22.726Z",
-      "url": "#"
-    },
-    {
-      "id": "job-1777398486459-123",
-      "title": "React Developer",
-      "company": "Tech Corp USA",
-      "platform": "Freelancer.com",
-      "location": "Remote",
-      "salary": "$1000-$2000/mo",
-      "type": "Part-time",
-      "tags": [
-        "Remote",
-        "No Experience"
-      ],
-      "postedAt": "2026-04-20T06:06:11.583Z",
-      "url": "#"
-    },
-    {
-      "id": "job-1777398486459-124",
-      "title": "Graphic Designer",
-      "company": "Global Remote",
-      "platform": "JobStreet",
-      "location": "Remote",
-      "salary": "$20-$30/hr",
       "type": "Contract",
       "tags": [
         "Flexible Hours",
         "US Night Shift"
       ],
-      "postedAt": "2026-01-17T12:43:34.112Z",
+      "postedAt": "2026-03-13T09:38:12.150Z",
       "url": "#"
     },
     {
-      "id": "job-1777398486459-125",
-      "title": "Graphic Designer",
-      "company": "Aussie Startups",
-      "platform": "Freelancer.com",
+      "id": "job-1777405840864-60",
+      "title": "Customer Service Rep",
+      "company": "Global Remote",
+      "platform": "OnlineJobs.ph",
       "location": "Remote",
-      "salary": "$10-$15/hr",
-      "type": "Part-time",
+      "salary": "$20-$30/hr",
+      "type": "Full-time",
+      "tags": [
+        "Flexible Hours",
+        "US Night Shift"
+      ],
+      "postedAt": "2026-02-25T16:00:12.320Z",
+      "url": "#"
+    },
+    {
+      "id": "job-1777405840864-61",
+      "title": "Graphic Designer",
+      "company": "Global Remote",
+      "platform": "OnlineJobs.ph",
+      "location": "Remote",
+      "salary": "$1000-$2000/mo",
+      "type": "Full-time",
       "tags": [
         "Remote",
         "No Experience"
       ],
-      "postedAt": "2026-02-07T21:09:58.898Z",
+      "postedAt": "2026-01-20T18:10:44.085Z",
       "url": "#"
     },
     {
-      "id": "job-1777398486459-126",
-      "title": "React Developer",
-      "company": "Aussie Startups",
+      "id": "job-1777405840864-62",
+      "title": "Virtual Assistant",
+      "company": "Global Remote",
       "platform": "Upwork",
       "location": "Remote",
+      "salary": "Negotiable",
+      "type": "Contract",
+      "tags": [
+        "Remote",
+        "No Experience"
+      ],
+      "postedAt": "2026-03-18T07:09:25.988Z",
+      "url": "#"
+    },
+    {
+      "id": "job-1777405840864-63",
+      "title": "Data Entry Specialist",
+      "company": "Tech Corp USA",
+      "platform": "VirtualStaff.ph",
+      "location": "Remote",
+      "salary": "Negotiable",
+      "type": "Contract",
+      "tags": [
+        "US Night Shift",
+        "Flexible Hours"
+      ],
+      "postedAt": "2026-02-04T11:21:07.412Z",
+      "url": "#"
+    },
+    {
+      "id": "job-1777405840864-64",
+      "title": "Customer Service Rep",
+      "company": "Local PH Business",
+      "platform": "VirtualStaff.ph",
+      "location": "Remote",
       "salary": "$20-$30/hr",
       "type": "Full-time",
       "tags": [
         "No Experience",
-        "Remote"
+        "Flexible Hours"
       ],
-      "postedAt": "2026-01-30T13:33:03.191Z",
+      "postedAt": "2026-01-21T16:57:54.903Z",
       "url": "#"
     },
     {
-      "id": "job-1777398486459-127",
-      "title": "Virtual Assistant",
-      "company": "Local PH Business",
-      "platform": "OnlineJobs.ph",
-      "location": "Remote",
-      "salary": "$10-$15/hr",
-      "type": "Full-time",
-      "tags": [
-        "Flexible Hours",
-        "US Night Shift"
-      ],
-      "postedAt": "2026-03-07T17:34:31.872Z",
-      "url": "#"
-    },
-    {
-      "id": "job-1777398486459-128",
-      "title": "Virtual Assistant",
-      "company": "UK Agency",
-      "platform": "Indeed",
-      "location": "Remote",
-      "salary": "$500-$1000/mo",
-      "type": "Part-time",
-      "tags": [
-        "No Experience",
-        "US Night Shift"
-      ],
-      "postedAt": "2026-04-08T16:58:59.903Z",
-      "url": "#"
-    },
-    {
-      "id": "job-1777398486460-129",
+      "id": "job-1777405840864-65",
       "title": "Graphic Designer",
-      "company": "Local PH Business",
-      "platform": "OnlineJobs.ph",
+      "company": "Tech Corp USA",
+      "platform": "Glassdoor",
       "location": "Remote",
       "salary": "Negotiable",
       "type": "Part-time",
       "tags": [
-        "Flexible Hours",
-        "US Night Shift"
+        "Remote",
+        "No Experience"
       ],
-      "postedAt": "2026-03-06T03:55:35.648Z",
+      "postedAt": "2026-02-03T23:48:22.730Z",
       "url": "#"
     },
     {
-      "id": "job-1777398486460-130",
-      "title": "Virtual Assistant",
-      "company": "UK Agency",
-      "platform": "OnlineJobs.ph",
-      "location": "Remote",
-      "salary": "$1000-$2000/mo",
-      "type": "Contract",
-      "tags": [
-        "Flexible Hours",
-        "US Night Shift"
-      ],
-      "postedAt": "2026-01-30T09:51:31.505Z",
-      "url": "#"
-    },
-    {
-      "id": "job-1777398486460-131",
-      "title": "Virtual Assistant",
-      "company": "Aussie Startups",
-      "platform": "Freelancer.com",
-      "location": "Remote",
-      "salary": "$1000-$2000/mo",
-      "type": "Contract",
-      "tags": [
-        "Flexible Hours",
-        "US Night Shift"
-      ],
-      "postedAt": "2026-01-16T07:27:54.978Z",
-      "url": "#"
-    },
-    {
-      "id": "job-1777398486460-132",
-      "title": "React Developer",
-      "company": "Global Remote",
-      "platform": "Fiverr",
-      "location": "Remote",
-      "salary": "$20-$30/hr",
-      "type": "Contract",
-      "tags": [
-        "Flexible Hours",
-        "Remote"
-      ],
-      "postedAt": "2026-04-26T10:46:51.449Z",
-      "url": "#"
-    },
-    {
-      "id": "job-1777398486460-133",
-      "title": "Customer Service Rep",
+      "id": "job-1777405840864-66",
+      "title": "Graphic Designer",
       "company": "Aussie Startups",
       "platform": "Kalibrr",
       "location": "Remote",
       "salary": "$20-$30/hr",
       "type": "Contract",
       "tags": [
-        "US Night Shift",
-        "Flexible Hours"
-      ],
-      "postedAt": "2026-04-01T08:50:06.480Z",
-      "url": "#"
-    },
-    {
-      "id": "job-1777398486460-134",
-      "title": "Customer Service Rep",
-      "company": "Local PH Business",
-      "platform": "OnlineJobs.ph",
-      "location": "Remote",
-      "salary": "$500-$1000/mo",
-      "type": "Part-time",
-      "tags": [
         "No Experience",
         "Remote"
       ],
-      "postedAt": "2026-02-02T15:02:43.249Z",
+      "postedAt": "2026-03-07T14:45:20.693Z",
       "url": "#"
     },
     {
-      "id": "job-1777398486460-135",
-      "title": "Graphic Designer",
+      "id": "job-1777405840864-67",
+      "title": "React Developer",
+      "company": "Local PH Business",
+      "platform": "Kalibrr",
+      "location": "Remote",
+      "salary": "$1000-$2000/mo",
+      "type": "Part-time",
+      "tags": [
+        "Flexible Hours",
+        "Remote"
+      ],
+      "postedAt": "2026-02-01T21:47:33.399Z",
+      "url": "#"
+    },
+    {
+      "id": "job-1777405840864-68",
+      "title": "Customer Service Rep",
       "company": "Aussie Startups",
       "platform": "Freelancer.com",
       "location": "Remote",
-      "salary": "Negotiable",
-      "type": "Full-time",
+      "salary": "$1000-$2000/mo",
+      "type": "Part-time",
       "tags": [
-        "No Experience",
+        "Remote",
         "Flexible Hours"
       ],
-      "postedAt": "2026-01-15T07:16:23.759Z",
+      "postedAt": "2026-04-26T19:31:42.818Z",
       "url": "#"
     },
     {
-      "id": "job-1777398486460-136",
+      "id": "job-1777405840864-69",
       "title": "Graphic Designer",
       "company": "Global Remote",
-      "platform": "Fiverr",
+      "platform": "LinkedIn",
       "location": "Remote",
-      "salary": "$10-$15/hr",
+      "salary": "$20-$30/hr",
+      "type": "Part-time",
+      "tags": [
+        "US Night Shift",
+        "Remote"
+      ],
+      "postedAt": "2026-02-07T21:33:07.334Z",
+      "url": "#"
+    },
+    {
+      "id": "job-1777405840864-70",
+      "title": "React Developer",
+      "company": "UK Agency",
+      "platform": "OnlineJobs.ph",
+      "location": "Remote",
+      "salary": "$20-$30/hr",
+      "type": "Contract",
+      "tags": [
+        "Remote",
+        "Flexible Hours"
+      ],
+      "postedAt": "2026-03-19T19:49:21.068Z",
+      "url": "#"
+    },
+    {
+      "id": "job-1777405840864-71",
+      "title": "Virtual Assistant",
+      "company": "Global Remote",
+      "platform": "Glassdoor",
+      "location": "Remote",
+      "salary": "$1000-$2000/mo",
+      "type": "Part-time",
+      "tags": [
+        "Flexible Hours",
+        "US Night Shift"
+      ],
+      "postedAt": "2026-01-30T01:31:26.920Z",
+      "url": "#"
+    },
+    {
+      "id": "job-1777405840864-72",
+      "title": "Graphic Designer",
+      "company": "Aussie Startups",
+      "platform": "JobStreet",
+      "location": "Remote",
+      "salary": "$1000-$2000/mo",
+      "type": "Contract",
+      "tags": [
+        "Flexible Hours",
+        "Remote"
+      ],
+      "postedAt": "2026-03-02T09:58:28.665Z",
+      "url": "#"
+    },
+    {
+      "id": "job-1777405840864-73",
+      "title": "Virtual Assistant",
+      "company": "Local PH Business",
+      "platform": "Indeed",
+      "location": "Remote",
+      "salary": "$20-$30/hr",
       "type": "Part-time",
       "tags": [
         "Remote",
         "No Experience"
       ],
-      "postedAt": "2026-03-02T11:45:37.317Z",
+      "postedAt": "2026-03-20T09:45:45.530Z",
       "url": "#"
     },
     {
-      "id": "job-1777398486460-137",
+      "id": "job-1777405840864-74",
+      "title": "Virtual Assistant",
+      "company": "Aussie Startups",
+      "platform": "Glassdoor",
+      "location": "Remote",
+      "salary": "$20-$30/hr",
+      "type": "Contract",
+      "tags": [
+        "Flexible Hours",
+        "US Night Shift"
+      ],
+      "postedAt": "2026-04-23T14:27:53.830Z",
+      "url": "#"
+    },
+    {
+      "id": "job-1777405840864-75",
       "title": "Virtual Assistant",
       "company": "Global Remote",
-      "platform": "Indeed",
+      "platform": "OnlineJobs.ph",
+      "location": "Remote",
+      "salary": "$20-$30/hr",
+      "type": "Part-time",
+      "tags": [
+        "US Night Shift",
+        "No Experience"
+      ],
+      "postedAt": "2026-04-09T14:14:45.188Z",
+      "url": "#"
+    },
+    {
+      "id": "job-1777405840864-76",
+      "title": "React Developer",
+      "company": "Aussie Startups",
+      "platform": "Glassdoor",
       "location": "Remote",
       "salary": "$10-$15/hr",
+      "type": "Full-time",
+      "tags": [
+        "No Experience",
+        "Remote"
+      ],
+      "postedAt": "2026-04-01T04:14:42.070Z",
+      "url": "#"
+    },
+    {
+      "id": "job-1777405840864-77",
+      "title": "Customer Service Rep",
+      "company": "Local PH Business",
+      "platform": "Freelancer.com",
+      "location": "Remote",
+      "salary": "$20-$30/hr",
+      "type": "Contract",
+      "tags": [
+        "Remote",
+        "No Experience"
+      ],
+      "postedAt": "2026-03-02T10:24:47.224Z",
+      "url": "#"
+    },
+    {
+      "id": "job-1777405840864-78",
+      "title": "Customer Service Rep",
+      "company": "Aussie Startups",
+      "platform": "Freelancer.com",
+      "location": "Remote",
+      "salary": "$10-$15/hr",
+      "type": "Contract",
+      "tags": [
+        "Remote",
+        "No Experience"
+      ],
+      "postedAt": "2026-01-18T21:44:56.231Z",
+      "url": "#"
+    },
+    {
+      "id": "job-1777405840864-79",
+      "title": "Virtual Assistant",
+      "company": "Tech Corp USA",
+      "platform": "Fiverr",
+      "location": "Remote",
+      "salary": "$1000-$2000/mo",
+      "type": "Contract",
+      "tags": [
+        "No Experience",
+        "Remote"
+      ],
+      "postedAt": "2026-01-25T07:06:56.642Z",
+      "url": "#"
+    },
+    {
+      "id": "job-1777405840864-80",
+      "title": "React Developer",
+      "company": "Tech Corp USA",
+      "platform": "VirtualStaff.ph",
+      "location": "Remote",
+      "salary": "$20-$30/hr",
+      "type": "Part-time",
+      "tags": [
+        "Flexible Hours",
+        "US Night Shift"
+      ],
+      "postedAt": "2026-02-13T10:32:58.291Z",
+      "url": "#"
+    },
+    {
+      "id": "job-1777405840864-81",
+      "title": "React Developer",
+      "company": "Tech Corp USA",
+      "platform": "Kalibrr",
+      "location": "Remote",
+      "salary": "$500-$1000/mo",
+      "type": "Part-time",
+      "tags": [
+        "Remote",
+        "Flexible Hours"
+      ],
+      "postedAt": "2026-02-02T21:39:00.994Z",
+      "url": "#"
+    },
+    {
+      "id": "job-1777405840864-82",
+      "title": "Graphic Designer",
+      "company": "Local PH Business",
+      "platform": "OnlineJobs.ph",
+      "location": "Remote",
+      "salary": "$500-$1000/mo",
       "type": "Contract",
       "tags": [
         "Flexible Hours",
         "No Experience"
       ],
-      "postedAt": "2026-02-09T03:48:05.915Z",
+      "postedAt": "2026-03-02T00:41:29.627Z",
       "url": "#"
     },
     {
-      "id": "job-1777398486460-138",
-      "title": "Virtual Assistant",
-      "company": "Aussie Startups",
-      "platform": "VirtualStaff.ph",
-      "location": "Remote",
-      "salary": "Negotiable",
-      "type": "Full-time",
-      "tags": [
-        "Flexible Hours",
-        "No Experience"
-      ],
-      "postedAt": "2026-02-05T14:28:09.490Z",
-      "url": "#"
-    },
-    {
-      "id": "job-1777398486460-139",
-      "title": "Graphic Designer",
+      "id": "job-1777405840864-83",
+      "title": "Data Entry Specialist",
       "company": "Local PH Business",
-      "platform": "Kalibrr",
+      "platform": "Freelancer.com",
+      "location": "Remote",
+      "salary": "$10-$15/hr",
+      "type": "Contract",
+      "tags": [
+        "Remote",
+        "Flexible Hours"
+      ],
+      "postedAt": "2026-02-05T19:05:40.676Z",
+      "url": "#"
+    },
+    {
+      "id": "job-1777405840864-84",
+      "title": "Data Entry Specialist",
+      "company": "Local PH Business",
+      "platform": "Upwork",
       "location": "Remote",
       "salary": "$1000-$2000/mo",
       "type": "Full-time",
@@ -2098,14 +1273,404 @@
         "US Night Shift",
         "No Experience"
       ],
-      "postedAt": "2026-01-16T14:46:37.494Z",
+      "postedAt": "2026-01-06T10:34:33.771Z",
       "url": "#"
     },
     {
-      "id": "job-1777398486460-140",
+      "id": "job-1777405840864-85",
       "title": "React Developer",
       "company": "Global Remote",
+      "platform": "Kalibrr",
+      "location": "Remote",
+      "salary": "$1000-$2000/mo",
+      "type": "Part-time",
+      "tags": [
+        "Remote",
+        "US Night Shift"
+      ],
+      "postedAt": "2026-02-26T17:45:34.522Z",
+      "url": "#"
+    },
+    {
+      "id": "job-1777405840864-86",
+      "title": "Customer Service Rep",
+      "company": "Tech Corp USA",
+      "platform": "Upwork",
+      "location": "Remote",
+      "salary": "$500-$1000/mo",
+      "type": "Part-time",
+      "tags": [
+        "Flexible Hours",
+        "US Night Shift"
+      ],
+      "postedAt": "2026-01-04T17:03:08.431Z",
+      "url": "#"
+    },
+    {
+      "id": "job-1777405840864-87",
+      "title": "Customer Service Rep",
+      "company": "Global Remote",
+      "platform": "Freelancer.com",
+      "location": "Remote",
+      "salary": "Negotiable",
+      "type": "Contract",
+      "tags": [
+        "Remote",
+        "US Night Shift"
+      ],
+      "postedAt": "2026-03-21T04:49:50.580Z",
+      "url": "#"
+    },
+    {
+      "id": "job-1777405840864-88",
+      "title": "React Developer",
+      "company": "Tech Corp USA",
+      "platform": "Upwork",
+      "location": "Remote",
+      "salary": "$500-$1000/mo",
+      "type": "Full-time",
+      "tags": [
+        "No Experience",
+        "Flexible Hours"
+      ],
+      "postedAt": "2026-04-09T17:15:11.810Z",
+      "url": "#"
+    },
+    {
+      "id": "job-1777405840864-89",
+      "title": "Data Entry Specialist",
+      "company": "Local PH Business",
+      "platform": "Upwork",
+      "location": "Remote",
+      "salary": "$1000-$2000/mo",
+      "type": "Part-time",
+      "tags": [
+        "Flexible Hours",
+        "US Night Shift"
+      ],
+      "postedAt": "2026-01-03T03:25:50.158Z",
+      "url": "#"
+    },
+    {
+      "id": "job-1777405840864-90",
+      "title": "Virtual Assistant",
+      "company": "Aussie Startups",
+      "platform": "Freelancer.com",
+      "location": "Remote",
+      "salary": "Negotiable",
+      "type": "Contract",
+      "tags": [
+        "No Experience",
+        "Remote"
+      ],
+      "postedAt": "2026-03-26T23:14:17.043Z",
+      "url": "#"
+    },
+    {
+      "id": "job-1777405840864-91",
+      "title": "React Developer",
+      "company": "Global Remote",
+      "platform": "Upwork",
+      "location": "Remote",
+      "salary": "$10-$15/hr",
+      "type": "Part-time",
+      "tags": [
+        "Remote",
+        "No Experience"
+      ],
+      "postedAt": "2026-03-08T15:57:54.525Z",
+      "url": "#"
+    },
+    {
+      "id": "job-1777405840864-92",
+      "title": "Data Entry Specialist",
+      "company": "Tech Corp USA",
+      "platform": "VirtualStaff.ph",
+      "location": "Remote",
+      "salary": "$20-$30/hr",
+      "type": "Part-time",
+      "tags": [
+        "US Night Shift",
+        "Flexible Hours"
+      ],
+      "postedAt": "2026-04-14T13:45:29.266Z",
+      "url": "#"
+    },
+    {
+      "id": "job-1777405840864-93",
+      "title": "Customer Service Rep",
+      "company": "Aussie Startups",
+      "platform": "OnlineJobs.ph",
+      "location": "Remote",
+      "salary": "$1000-$2000/mo",
+      "type": "Contract",
+      "tags": [
+        "Flexible Hours",
+        "US Night Shift"
+      ],
+      "postedAt": "2026-01-15T14:12:29.302Z",
+      "url": "#"
+    },
+    {
+      "id": "job-1777405840864-94",
+      "title": "Data Entry Specialist",
+      "company": "UK Agency",
+      "platform": "Upwork",
+      "location": "Remote",
+      "salary": "$20-$30/hr",
+      "type": "Part-time",
+      "tags": [
+        "Flexible Hours",
+        "Remote"
+      ],
+      "postedAt": "2026-01-07T01:52:44.903Z",
+      "url": "#"
+    },
+    {
+      "id": "job-1777405840864-95",
+      "title": "Data Entry Specialist",
+      "company": "Global Remote",
       "platform": "LinkedIn",
+      "location": "Remote",
+      "salary": "$1000-$2000/mo",
+      "type": "Part-time",
+      "tags": [
+        "Flexible Hours",
+        "US Night Shift"
+      ],
+      "postedAt": "2026-04-17T01:11:53.959Z",
+      "url": "#"
+    },
+    {
+      "id": "job-1777405840864-96",
+      "title": "Virtual Assistant",
+      "company": "Aussie Startups",
+      "platform": "Kalibrr",
+      "location": "Remote",
+      "salary": "$1000-$2000/mo",
+      "type": "Full-time",
+      "tags": [
+        "No Experience",
+        "Remote"
+      ],
+      "postedAt": "2026-02-04T13:57:33.113Z",
+      "url": "#"
+    },
+    {
+      "id": "job-1777405840864-97",
+      "title": "Graphic Designer",
+      "company": "Global Remote",
+      "platform": "LinkedIn",
+      "location": "Remote",
+      "salary": "Negotiable",
+      "type": "Part-time",
+      "tags": [
+        "Remote",
+        "US Night Shift"
+      ],
+      "postedAt": "2026-04-24T18:23:34.772Z",
+      "url": "#"
+    },
+    {
+      "id": "job-1777405840864-98",
+      "title": "Graphic Designer",
+      "company": "Local PH Business",
+      "platform": "Fiverr",
+      "location": "Remote",
+      "salary": "$500-$1000/mo",
+      "type": "Part-time",
+      "tags": [
+        "No Experience",
+        "Remote"
+      ],
+      "postedAt": "2026-01-13T03:04:36.871Z",
+      "url": "#"
+    },
+    {
+      "id": "job-1777405840864-99",
+      "title": "React Developer",
+      "company": "Aussie Startups",
+      "platform": "Kalibrr",
+      "location": "Remote",
+      "salary": "$10-$15/hr",
+      "type": "Part-time",
+      "tags": [
+        "US Night Shift",
+        "Flexible Hours"
+      ],
+      "postedAt": "2026-03-02T23:34:59.765Z",
+      "url": "#"
+    },
+    {
+      "id": "job-1777405840864-100",
+      "title": "Data Entry Specialist",
+      "company": "UK Agency",
+      "platform": "Indeed",
+      "location": "Remote",
+      "salary": "$1000-$2000/mo",
+      "type": "Part-time",
+      "tags": [
+        "US Night Shift",
+        "No Experience"
+      ],
+      "postedAt": "2026-02-05T10:49:35.070Z",
+      "url": "#"
+    },
+    {
+      "id": "job-1777405840864-101",
+      "title": "Customer Service Rep",
+      "company": "Global Remote",
+      "platform": "JobStreet",
+      "location": "Remote",
+      "salary": "Negotiable",
+      "type": "Contract",
+      "tags": [
+        "Flexible Hours",
+        "US Night Shift"
+      ],
+      "postedAt": "2026-03-27T01:05:51.843Z",
+      "url": "#"
+    },
+    {
+      "id": "job-1777405840864-102",
+      "title": "React Developer",
+      "company": "Aussie Startups",
+      "platform": "LinkedIn",
+      "location": "Remote",
+      "salary": "$500-$1000/mo",
+      "type": "Part-time",
+      "tags": [
+        "US Night Shift",
+        "Remote"
+      ],
+      "postedAt": "2026-02-07T21:13:28.366Z",
+      "url": "#"
+    },
+    {
+      "id": "job-1777405840864-103",
+      "title": "Graphic Designer",
+      "company": "UK Agency",
+      "platform": "Kalibrr",
+      "location": "Remote",
+      "salary": "Negotiable",
+      "type": "Part-time",
+      "tags": [
+        "Remote",
+        "No Experience"
+      ],
+      "postedAt": "2026-01-31T01:53:07.749Z",
+      "url": "#"
+    },
+    {
+      "id": "job-1777405840864-104",
+      "title": "Virtual Assistant",
+      "company": "Local PH Business",
+      "platform": "Kalibrr",
+      "location": "Remote",
+      "salary": "$10-$15/hr",
+      "type": "Part-time",
+      "tags": [
+        "Remote",
+        "Flexible Hours"
+      ],
+      "postedAt": "2026-04-28T06:19:22.006Z",
+      "url": "#"
+    },
+    {
+      "id": "job-1777405840864-105",
+      "title": "React Developer",
+      "company": "Global Remote",
+      "platform": "Freelancer.com",
+      "location": "Remote",
+      "salary": "$10-$15/hr",
+      "type": "Full-time",
+      "tags": [
+        "US Night Shift",
+        "No Experience"
+      ],
+      "postedAt": "2026-01-11T11:21:19.729Z",
+      "url": "#"
+    },
+    {
+      "id": "job-1777405840864-106",
+      "title": "Customer Service Rep",
+      "company": "Aussie Startups",
+      "platform": "Glassdoor",
+      "location": "Remote",
+      "salary": "$1000-$2000/mo",
+      "type": "Part-time",
+      "tags": [
+        "Flexible Hours",
+        "Remote"
+      ],
+      "postedAt": "2026-03-04T22:59:09.128Z",
+      "url": "#"
+    },
+    {
+      "id": "job-1777405840864-107",
+      "title": "Virtual Assistant",
+      "company": "Local PH Business",
+      "platform": "Upwork",
+      "location": "Remote",
+      "salary": "$20-$30/hr",
+      "type": "Full-time",
+      "tags": [
+        "Flexible Hours",
+        "US Night Shift"
+      ],
+      "postedAt": "2026-02-15T12:24:40.251Z",
+      "url": "#"
+    },
+    {
+      "id": "job-1777405840864-108",
+      "title": "React Developer",
+      "company": "Aussie Startups",
+      "platform": "JobStreet",
+      "location": "Remote",
+      "salary": "$500-$1000/mo",
+      "type": "Contract",
+      "tags": [
+        "US Night Shift",
+        "No Experience"
+      ],
+      "postedAt": "2026-03-08T13:46:12.309Z",
+      "url": "#"
+    },
+    {
+      "id": "job-1777405840864-109",
+      "title": "React Developer",
+      "company": "Local PH Business",
+      "platform": "LinkedIn",
+      "location": "Remote",
+      "salary": "$10-$15/hr",
+      "type": "Full-time",
+      "tags": [
+        "Remote",
+        "No Experience"
+      ],
+      "postedAt": "2026-01-18T18:48:22.046Z",
+      "url": "#"
+    },
+    {
+      "id": "job-1777405840864-110",
+      "title": "Customer Service Rep",
+      "company": "Local PH Business",
+      "platform": "OnlineJobs.ph",
+      "location": "Remote",
+      "salary": "$10-$15/hr",
+      "type": "Contract",
+      "tags": [
+        "Remote",
+        "Flexible Hours"
+      ],
+      "postedAt": "2026-01-19T01:13:27.465Z",
+      "url": "#"
+    },
+    {
+      "id": "job-1777405840864-111",
+      "title": "React Developer",
+      "company": "UK Agency",
+      "platform": "Indeed",
       "location": "Remote",
       "salary": "Negotiable",
       "type": "Part-time",
@@ -2113,142 +1678,577 @@
         "Flexible Hours",
         "US Night Shift"
       ],
-      "postedAt": "2026-03-15T18:21:25.727Z",
+      "postedAt": "2026-02-05T09:09:25.034Z",
       "url": "#"
     },
     {
-      "id": "job-1777398486460-141",
-      "title": "Virtual Assistant",
-      "company": "UK Agency",
-      "platform": "Freelancer.com",
+      "id": "job-1777405840864-112",
+      "title": "Customer Service Rep",
+      "company": "Tech Corp USA",
+      "platform": "LinkedIn",
       "location": "Remote",
-      "salary": "$20-$30/hr",
+      "salary": "$500-$1000/mo",
+      "type": "Part-time",
+      "tags": [
+        "No Experience",
+        "Flexible Hours"
+      ],
+      "postedAt": "2026-03-16T05:36:00.610Z",
+      "url": "#"
+    },
+    {
+      "id": "job-1777405840864-113",
+      "title": "Customer Service Rep",
+      "company": "Global Remote",
+      "platform": "Glassdoor",
+      "location": "Remote",
+      "salary": "$10-$15/hr",
       "type": "Full-time",
       "tags": [
         "Remote",
         "Flexible Hours"
       ],
-      "postedAt": "2026-04-17T01:07:43.036Z",
+      "postedAt": "2026-03-10T08:02:26.679Z",
       "url": "#"
     },
     {
-      "id": "job-1777398486460-142",
-      "title": "React Developer",
-      "company": "Global Remote",
-      "platform": "Upwork",
+      "id": "job-1777405840864-114",
+      "title": "Graphic Designer",
+      "company": "UK Agency",
+      "platform": "Kalibrr",
       "location": "Remote",
-      "salary": "$1000-$2000/mo",
+      "salary": "$20-$30/hr",
       "type": "Part-time",
+      "tags": [
+        "Remote",
+        "No Experience"
+      ],
+      "postedAt": "2026-02-06T18:27:51.779Z",
+      "url": "#"
+    },
+    {
+      "id": "job-1777405840864-115",
+      "title": "React Developer",
+      "company": "Tech Corp USA",
+      "platform": "Fiverr",
+      "location": "Remote",
+      "salary": "Negotiable",
+      "type": "Contract",
       "tags": [
         "Remote",
         "Flexible Hours"
       ],
-      "postedAt": "2026-03-03T00:44:14.918Z",
+      "postedAt": "2026-01-07T06:16:04.330Z",
       "url": "#"
     },
     {
-      "id": "job-1777398486460-143",
-      "title": "Customer Service Rep",
+      "id": "job-1777405840864-116",
+      "title": "Graphic Designer",
       "company": "Tech Corp USA",
-      "platform": "Freelancer.com",
+      "platform": "LinkedIn",
+      "location": "Remote",
+      "salary": "$500-$1000/mo",
+      "type": "Full-time",
+      "tags": [
+        "US Night Shift",
+        "No Experience"
+      ],
+      "postedAt": "2026-01-25T08:57:39.085Z",
+      "url": "#"
+    },
+    {
+      "id": "job-1777405840864-117",
+      "title": "Data Entry Specialist",
+      "company": "UK Agency",
+      "platform": "Fiverr",
       "location": "Remote",
       "salary": "$10-$15/hr",
+      "type": "Part-time",
+      "tags": [
+        "Flexible Hours",
+        "US Night Shift"
+      ],
+      "postedAt": "2026-01-08T07:51:11.973Z",
+      "url": "#"
+    },
+    {
+      "id": "job-1777405840864-118",
+      "title": "Data Entry Specialist",
+      "company": "UK Agency",
+      "platform": "Upwork",
+      "location": "Remote",
+      "salary": "$500-$1000/mo",
+      "type": "Contract",
+      "tags": [
+        "Remote",
+        "No Experience"
+      ],
+      "postedAt": "2026-02-17T10:53:31.239Z",
+      "url": "#"
+    },
+    {
+      "id": "job-1777405840864-119",
+      "title": "Customer Service Rep",
+      "company": "Global Remote",
+      "platform": "OnlineJobs.ph",
+      "location": "Remote",
+      "salary": "$20-$30/hr",
+      "type": "Contract",
+      "tags": [
+        "Remote",
+        "No Experience"
+      ],
+      "postedAt": "2026-04-15T00:49:52.326Z",
+      "url": "#"
+    },
+    {
+      "id": "job-1777405840864-120",
+      "title": "Virtual Assistant",
+      "company": "Tech Corp USA",
+      "platform": "LinkedIn",
+      "location": "Remote",
+      "salary": "$10-$15/hr",
+      "type": "Part-time",
+      "tags": [
+        "US Night Shift",
+        "No Experience"
+      ],
+      "postedAt": "2026-02-15T09:26:01.379Z",
+      "url": "#"
+    },
+    {
+      "id": "job-1777405840864-121",
+      "title": "React Developer",
+      "company": "Aussie Startups",
+      "platform": "JobStreet",
+      "location": "Remote",
+      "salary": "$1000-$2000/mo",
+      "type": "Contract",
+      "tags": [
+        "Remote",
+        "US Night Shift"
+      ],
+      "postedAt": "2026-03-26T18:02:49.073Z",
+      "url": "#"
+    },
+    {
+      "id": "job-1777405840864-122",
+      "title": "Graphic Designer",
+      "company": "Local PH Business",
+      "platform": "Indeed",
+      "location": "Remote",
+      "salary": "Negotiable",
+      "type": "Part-time",
+      "tags": [
+        "Remote",
+        "No Experience"
+      ],
+      "postedAt": "2026-01-17T03:58:02.384Z",
+      "url": "#"
+    },
+    {
+      "id": "job-1777405840864-123",
+      "title": "Virtual Assistant",
+      "company": "Global Remote",
+      "platform": "VirtualStaff.ph",
+      "location": "Remote",
+      "salary": "$500-$1000/mo",
+      "type": "Part-time",
+      "tags": [
+        "No Experience",
+        "Remote"
+      ],
+      "postedAt": "2026-01-12T12:20:27.471Z",
+      "url": "#"
+    },
+    {
+      "id": "job-1777405840864-124",
+      "title": "Data Entry Specialist",
+      "company": "Tech Corp USA",
+      "platform": "Glassdoor",
+      "location": "Remote",
+      "salary": "Negotiable",
+      "type": "Contract",
+      "tags": [
+        "Remote",
+        "Flexible Hours"
+      ],
+      "postedAt": "2026-01-06T14:01:08.579Z",
+      "url": "#"
+    },
+    {
+      "id": "job-1777405840864-125",
+      "title": "Customer Service Rep",
+      "company": "Aussie Startups",
+      "platform": "Indeed",
+      "location": "Remote",
+      "salary": "$10-$15/hr",
+      "type": "Part-time",
+      "tags": [
+        "Flexible Hours",
+        "No Experience"
+      ],
+      "postedAt": "2026-02-17T13:23:47.634Z",
+      "url": "#"
+    },
+    {
+      "id": "job-1777405840864-126",
+      "title": "Graphic Designer",
+      "company": "Tech Corp USA",
+      "platform": "LinkedIn",
+      "location": "Remote",
+      "salary": "$500-$1000/mo",
+      "type": "Contract",
+      "tags": [
+        "Flexible Hours",
+        "US Night Shift"
+      ],
+      "postedAt": "2026-03-12T11:11:13.428Z",
+      "url": "#"
+    },
+    {
+      "id": "job-1777405840864-127",
+      "title": "Data Entry Specialist",
+      "company": "Tech Corp USA",
+      "platform": "LinkedIn",
+      "location": "Remote",
+      "salary": "$1000-$2000/mo",
+      "type": "Full-time",
+      "tags": [
+        "US Night Shift",
+        "No Experience"
+      ],
+      "postedAt": "2026-01-05T10:56:36.581Z",
+      "url": "#"
+    },
+    {
+      "id": "job-1777405840864-128",
+      "title": "Graphic Designer",
+      "company": "Global Remote",
+      "platform": "Freelancer.com",
+      "location": "Remote",
+      "salary": "$500-$1000/mo",
+      "type": "Contract",
+      "tags": [
+        "Remote",
+        "Flexible Hours"
+      ],
+      "postedAt": "2026-04-03T18:06:04.083Z",
+      "url": "#"
+    },
+    {
+      "id": "job-1777405840864-129",
+      "title": "Customer Service Rep",
+      "company": "Aussie Startups",
+      "platform": "Indeed",
+      "location": "Remote",
+      "salary": "Negotiable",
       "type": "Full-time",
       "tags": [
         "Remote",
         "No Experience"
       ],
-      "postedAt": "2026-03-22T06:52:35.775Z",
+      "postedAt": "2026-01-18T17:56:18.105Z",
       "url": "#"
     },
     {
-      "id": "job-1777398486460-144",
+      "id": "job-1777405840864-130",
       "title": "Virtual Assistant",
-      "company": "UK Agency",
-      "platform": "Freelancer.com",
+      "company": "Global Remote",
+      "platform": "Kalibrr",
       "location": "Remote",
-      "salary": "$10-$15/hr",
+      "salary": "$20-$30/hr",
+      "type": "Contract",
+      "tags": [
+        "Flexible Hours",
+        "US Night Shift"
+      ],
+      "postedAt": "2026-01-11T12:00:28.103Z",
+      "url": "#"
+    },
+    {
+      "id": "job-1777405840864-131",
+      "title": "Virtual Assistant",
+      "company": "Tech Corp USA",
+      "platform": "Glassdoor",
+      "location": "Remote",
+      "salary": "$500-$1000/mo",
+      "type": "Part-time",
+      "tags": [
+        "Flexible Hours",
+        "Remote"
+      ],
+      "postedAt": "2026-02-11T12:14:03.860Z",
+      "url": "#"
+    },
+    {
+      "id": "job-1777405840864-132",
+      "title": "Data Entry Specialist",
+      "company": "Aussie Startups",
+      "platform": "Upwork",
+      "location": "Remote",
+      "salary": "$500-$1000/mo",
       "type": "Contract",
       "tags": [
         "No Experience",
         "Remote"
       ],
-      "postedAt": "2026-01-06T07:01:16.117Z",
+      "postedAt": "2026-02-06T10:40:11.619Z",
       "url": "#"
     },
     {
-      "id": "job-1777398486460-145",
-      "title": "Virtual Assistant",
+      "id": "job-1777405840864-133",
+      "title": "Customer Service Rep",
       "company": "Local PH Business",
-      "platform": "Indeed",
+      "platform": "OnlineJobs.ph",
       "location": "Remote",
-      "salary": "$500-$1000/mo",
+      "salary": "$1000-$2000/mo",
       "type": "Full-time",
       "tags": [
         "Remote",
         "Flexible Hours"
       ],
-      "postedAt": "2026-02-04T04:36:09.013Z",
+      "postedAt": "2026-02-06T08:06:33.077Z",
       "url": "#"
     },
     {
-      "id": "job-1777398486460-146",
+      "id": "job-1777405840864-134",
+      "title": "React Developer",
+      "company": "Tech Corp USA",
+      "platform": "VirtualStaff.ph",
+      "location": "Remote",
+      "salary": "$10-$15/hr",
+      "type": "Part-time",
+      "tags": [
+        "Remote",
+        "Flexible Hours"
+      ],
+      "postedAt": "2026-01-15T18:35:03.504Z",
+      "url": "#"
+    },
+    {
+      "id": "job-1777405840864-135",
+      "title": "Customer Service Rep",
+      "company": "UK Agency",
+      "platform": "Fiverr",
+      "location": "Remote",
+      "salary": "$10-$15/hr",
+      "type": "Contract",
+      "tags": [
+        "No Experience",
+        "US Night Shift"
+      ],
+      "postedAt": "2026-04-18T16:16:21.878Z",
+      "url": "#"
+    },
+    {
+      "id": "job-1777405840864-136",
       "title": "Data Entry Specialist",
-      "company": "Local PH Business",
-      "platform": "Upwork",
+      "company": "Aussie Startups",
+      "platform": "Glassdoor",
       "location": "Remote",
       "salary": "$20-$30/hr",
+      "type": "Contract",
+      "tags": [
+        "No Experience",
+        "Remote"
+      ],
+      "postedAt": "2026-03-03T14:44:21.851Z",
+      "url": "#"
+    },
+    {
+      "id": "job-1777405840864-137",
+      "title": "Virtual Assistant",
+      "company": "Tech Corp USA",
+      "platform": "Freelancer.com",
+      "location": "Remote",
+      "salary": "$500-$1000/mo",
+      "type": "Part-time",
+      "tags": [
+        "Remote",
+        "No Experience"
+      ],
+      "postedAt": "2026-01-26T12:59:27.650Z",
+      "url": "#"
+    },
+    {
+      "id": "job-1777405840864-138",
+      "title": "Virtual Assistant",
+      "company": "Tech Corp USA",
+      "platform": "Glassdoor",
+      "location": "Remote",
+      "salary": "$1000-$2000/mo",
+      "type": "Contract",
+      "tags": [
+        "Remote",
+        "No Experience"
+      ],
+      "postedAt": "2026-04-16T20:48:41.158Z",
+      "url": "#"
+    },
+    {
+      "id": "job-1777405840864-139",
+      "title": "Graphic Designer",
+      "company": "Aussie Startups",
+      "platform": "VirtualStaff.ph",
+      "location": "Remote",
+      "salary": "$500-$1000/mo",
+      "type": "Part-time",
+      "tags": [
+        "Flexible Hours",
+        "US Night Shift"
+      ],
+      "postedAt": "2026-01-17T03:32:27.226Z",
+      "url": "#"
+    },
+    {
+      "id": "job-1777405840864-140",
+      "title": "React Developer",
+      "company": "Local PH Business",
+      "platform": "Fiverr",
+      "location": "Remote",
+      "salary": "$1000-$2000/mo",
+      "type": "Contract",
+      "tags": [
+        "No Experience",
+        "Remote"
+      ],
+      "postedAt": "2026-04-04T15:21:43.263Z",
+      "url": "#"
+    },
+    {
+      "id": "job-1777405840864-141",
+      "title": "Virtual Assistant",
+      "company": "Tech Corp USA",
+      "platform": "LinkedIn",
+      "location": "Remote",
+      "salary": "Negotiable",
       "type": "Full-time",
       "tags": [
         "Remote",
         "No Experience"
       ],
-      "postedAt": "2026-02-13T22:08:24.947Z",
+      "postedAt": "2026-03-10T11:16:38.967Z",
       "url": "#"
     },
     {
-      "id": "job-1777398486460-147",
+      "id": "job-1777405840864-142",
       "title": "Graphic Designer",
-      "company": "Tech Corp USA",
-      "platform": "Glassdoor",
+      "company": "UK Agency",
+      "platform": "Freelancer.com",
       "location": "Remote",
-      "salary": "Negotiable",
-      "type": "Full-time",
+      "salary": "$500-$1000/mo",
+      "type": "Part-time",
       "tags": [
-        "Flexible Hours",
-        "Remote"
+        "US Night Shift",
+        "Flexible Hours"
       ],
-      "postedAt": "2026-02-03T17:21:31.751Z",
+      "postedAt": "2026-03-24T05:37:12.366Z",
       "url": "#"
     },
     {
-      "id": "job-1777398486460-148",
-      "title": "Data Entry Specialist",
-      "company": "Local PH Business",
-      "platform": "JobStreet",
+      "id": "job-1777405840864-143",
+      "title": "Customer Service Rep",
+      "company": "UK Agency",
+      "platform": "VirtualStaff.ph",
       "location": "Remote",
-      "salary": "$1000-$2000/mo",
+      "salary": "$10-$15/hr",
       "type": "Part-time",
       "tags": [
         "Flexible Hours",
-        "Remote"
+        "US Night Shift"
       ],
-      "postedAt": "2026-03-06T08:26:48.529Z",
+      "postedAt": "2026-02-03T22:12:21.897Z",
       "url": "#"
     },
     {
-      "id": "job-1777398486460-149",
-      "title": "Virtual Assistant",
-      "company": "Tech Corp USA",
-      "platform": "Indeed",
+      "id": "job-1777405840864-144",
+      "title": "Customer Service Rep",
+      "company": "Aussie Startups",
+      "platform": "Fiverr",
       "location": "Remote",
-      "salary": "Negotiable",
+      "salary": "$20-$30/hr",
       "type": "Contract",
       "tags": [
         "US Night Shift",
         "No Experience"
       ],
-      "postedAt": "2026-04-22T04:43:23.299Z",
+      "postedAt": "2026-04-15T21:08:35.457Z",
+      "url": "#"
+    },
+    {
+      "id": "job-1777405840864-145",
+      "title": "React Developer",
+      "company": "Tech Corp USA",
+      "platform": "Glassdoor",
+      "location": "Remote",
+      "salary": "$10-$15/hr",
+      "type": "Contract",
+      "tags": [
+        "No Experience",
+        "US Night Shift"
+      ],
+      "postedAt": "2026-04-04T23:34:52.078Z",
+      "url": "#"
+    },
+    {
+      "id": "job-1777405840864-146",
+      "title": "React Developer",
+      "company": "Local PH Business",
+      "platform": "OnlineJobs.ph",
+      "location": "Remote",
+      "salary": "$10-$15/hr",
+      "type": "Full-time",
+      "tags": [
+        "Flexible Hours",
+        "No Experience"
+      ],
+      "postedAt": "2026-02-01T12:05:40.796Z",
+      "url": "#"
+    },
+    {
+      "id": "job-1777405840864-147",
+      "title": "React Developer",
+      "company": "Tech Corp USA",
+      "platform": "Glassdoor",
+      "location": "Remote",
+      "salary": "$20-$30/hr",
+      "type": "Contract",
+      "tags": [
+        "Remote",
+        "No Experience"
+      ],
+      "postedAt": "2026-03-23T03:32:41.473Z",
+      "url": "#"
+    },
+    {
+      "id": "job-1777405840864-148",
+      "title": "Graphic Designer",
+      "company": "Local PH Business",
+      "platform": "Freelancer.com",
+      "location": "Remote",
+      "salary": "$20-$30/hr",
+      "type": "Full-time",
+      "tags": [
+        "Flexible Hours",
+        "US Night Shift"
+      ],
+      "postedAt": "2026-02-26T03:28:59.621Z",
+      "url": "#"
+    },
+    {
+      "id": "job-1777405840864-149",
+      "title": "Graphic Designer",
+      "company": "Aussie Startups",
+      "platform": "Kalibrr",
+      "location": "Remote",
+      "salary": "Negotiable",
+      "type": "Full-time",
+      "tags": [
+        "US Night Shift",
+        "Remote"
+      ],
+      "postedAt": "2026-01-14T19:13:06.613Z",
       "url": "#"
     }
   ]
