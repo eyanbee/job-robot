@@ -1,28 +1,30 @@
-name: Job Scraper Robot
+name: Update Job Feed
+
 on:
   schedule:
-    - cron: '*/30 * * * *' # Runs every 30 minutes
-  workflow_dispatch: # Allows you to run it manually
+    # Runs every 30 minutes
+    - cron: '*/30 * * * *'
+  workflow_dispatch: # Allows manual trigger
 
 jobs:
   scrape:
     runs-on: ubuntu-latest
     steps:
-      - name: Check out the code
-        uses: actions/checkout@v3
+      - name: Checkout code
+        uses: actions/checkout@v4
 
       - name: Setup Node.js
-        uses: actions/setup-node@v3
+        uses: actions/setup-node@v4
         with:
-          node-version: '18'
+          node-version: '20'
 
-      - name: Run the Robot
-        run: node scraper.js
+      - name: Run Scraper
+        run: node scripts/scraper.js
 
-      - name: Save the new jobs back to GitHub
+      - name: Commit and Push changes
         run: |
-          git config user.name "Job Robot"
-          git config user.email "robot@jobflow.ph"
-          git add jobs.json
-          git commit -m "Update jobs" || exit 0
+          git config --global user.name 'JobFlow Robot'
+          git config --global user.email 'robot@jobflow.ph'
+          git add jobs.json jobs.csv
+          git commit -m "🤖 Auto-update: Latest jobs and CSV lead list" || echo "No changes to commit"
           git push
