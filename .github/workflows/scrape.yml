@@ -1,0 +1,28 @@
+name: Job Scraper Robot
+on:
+  schedule:
+    - cron: '*/30 * * * *' # Runs every 30 minutes
+  workflow_dispatch: # Allows you to run it manually
+
+jobs:
+  scrape:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Check out the code
+        uses: actions/checkout@v3
+
+      - name: Setup Node.js
+        uses: actions/setup-node@v3
+        with:
+          node-version: '18'
+
+      - name: Run the Robot
+        run: node scraper.js
+
+      - name: Save the new jobs back to GitHub
+        run: |
+          git config user.name "Job Robot"
+          git config user.email "robot@jobflow.ph"
+          git add jobs.json
+          git commit -m "Update jobs" || exit 0
+          git push
