@@ -1,6 +1,9 @@
 const fs = require('fs');
 const path = require('path');
 
+// THE FINAL BOSS ROBOT 🤖
+// Now filters out German jobs to keep everything 100% English!
+
 async function fetchRemotive() {
   try {
     const res = await fetch('https://remotive.com/api/remote-jobs?limit=150');
@@ -63,31 +66,53 @@ function isGoodSalary(s) {
   const num = parseFloat(s.replace(/[^0-9.]/g, ''));
   if (isNaN(num)) return true;
   if (s.toLowerCase().includes('hr') || s.toLowerCase().includes('hour')) return num >= 5;
-  return true;
+  return true; 
+}
+
+// NEW: Filter out German jobs
+function isEnglishJob(title) {
+  const lower = title.toLowerCase();
+  const germanMarkers = ['(m/w/d)', '(w/m/d)', '(m/f/d)', '(m/f/x)', 'auszubildender', 'kaufmann', 'entwickler', 'mitarbeiter', 'gesucht', 'praktikum', 'werkstudent'];
+  return !germanMarkers.some(marker => lower.includes(marker));
 }
 
 async function scrapeJobs() {
-  console.log('🤖 Robot is hunting...');
+  console.log('🤖 Robot is hunting for English jobs...');
   const results = await Promise.all([fetchRemotive(), fetchArbeitnow(), fetchJobicy()]);
   let allJobs = results.flat();
+
   const cutOff = new Date();
   cutOff.setDate(cutOff.getDate() - 14);
-  allJobs = allJobs.filter(j => new Date(j.postedAt) >= cutOff && isGoodSalary(j.salary));
+
+  // Apply all filters: Date, Salary, AND English Language
+  allJobs = allJobs.filter(j => 
+    new Date(j.postedAt) >= cutOff && 
+    isGoodSalary(j.salary) &&
+    isEnglishJob(j.title)
+  );
   allJobs.sort((a, b) => new Date(b.postedAt) - new Date(a.postedAt));
+  
   const finalJobs = allJobs.slice(0, 150);
   
   fs.writeFileSync('jobs.json', JSON.stringify({ lastUpdated: new Date().toISOString(), jobs: finalJobs }, null, 2));
   
   const csvPath = 'weekly-jobs.csv';
-  if (!fs.existsSync(csvPath)) fs.writeFileSync(csvPath, 'ID,Title,Company,Platform,Location,Salary,Type,Posted At,URL\n');
+  const headers = 'ID,Title,Company,Platform,Location,Salary,Type,Posted At,URL\n';
+  if (!fs.existsSync(csvPath)) fs.writeFileSync(csvPath, headers);
+  
   const existing = fs.readFileSync(csvPath, 'utf8');
   let newLines = '';
   finalJobs.forEach(j => {
     if (!existing.includes(j.id)) {
-      newLines += `${j.id},"${j.title.replace(/"/g, '""')}","${j.company.replace(/"/g, '""')}",${j.platform},"${j.location.replace(/"/g, '""')}","${j.salary.replace(/"/g, '""')}",${j.type},${j.postedAt},${j.url}\n`;
+      const safeTitle = `"${j.title.replace(/"/g, '""')}"`;
+      const safeCompany = `"${j.company.replace(/"/g, '""')}"`;
+      const safeLocation = `"${j.location.replace(/"/g, '""')}"`;
+      const safeSalary = `"${j.salary.replace(/"/g, '""')}"`;
+      newLines += `${j.id},${safeTitle},${safeCompany},${j.platform},${safeLocation},${safeSalary},${j.type},${j.postedAt},${j.url}\n`;
     }
   });
   if (newLines) fs.appendFileSync(csvPath, newLines);
-  console.log(`✅ Success! Found ${finalJobs.length} jobs.`);
+  
+  console.log(`✅ Done! Found ${finalJobs.length} English jobs.`);
 }
 scrapeJobs();
