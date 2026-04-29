@@ -90,6 +90,17 @@ function isGoodSalary(s) {
   return true; // If we can't tell, keep it!
 }
 
+function isGermanJob(job) {
+  const text = `${job.title} ${job.company} ${job.location} ${job.tags.join(' ')}`.toLowerCase();
+  const germanKeywords = [
+    '(m/w/d)', '(w/m/d)', '(m/f/d)', 'vollzeit', 'teilzeit', 'gmbh',
+    'deutsch', 'german', 'manager/in', 'entwickler/in', 'berater/in',
+    'auftragsmanagement', 'projektkoordination', 'disposition',
+    'homeoffice'
+  ];
+  return germanKeywords.some(kw => text.includes(kw));
+}
+
 function getJobScore(job) {
   const textToCheck = `${job.title} ${job.tags.join(' ')}`.toLowerCase();
   const targetKeywords = [
@@ -130,7 +141,7 @@ async function scrapeJobs() {
   const cutOff = new Date();
   cutOff.setDate(cutOff.getDate() - 14);
 
-  allJobs = allJobs.filter(j => new Date(j.postedAt) >= cutOff && isGoodSalary(j.salary));
+  allJobs = allJobs.filter(j => new Date(j.postedAt) >= cutOff && isGoodSalary(j.salary) && !isGermanJob(j));
   
   // Sort by our custom score (prioritizing Pinoy-dominated roles and freshness)
   allJobs.sort((a, b) => getJobScore(b) - getJobScore(a));
