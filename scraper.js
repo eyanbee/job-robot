@@ -114,29 +114,100 @@ function isUnwantedJob(job) {
 
 function getJobScore(job) {
   const textToCheck = `${job.title} ${job.tags.join(' ')}`.toLowerCase();
-  const targetKeywords = [
-    'virtual assistant', 'executive assistant', 'graphic design', 'video edit', 
-    'amazon', 'shopify', 'automation', 'ghl', 'gohighlevel', 'google ads', 'meta ads', 'facebook ads', 'instagram ads', 'ppc', 'paid media', 'performance marketing',
-    'funnel', 'full-funnel', 'bookkeep', 'digital marketing', 'make.com', 'integromat', 'n8n', 'zapier', 'no-code', 'nocode',
-    'real estate', 'cold call', 'appointment setter', 'bdr', 'business development', 'high-ticket', 'closer',
-    'administrative', 'operations', 'obm', 'online business manager', 'fractional', 'e-commerce', 'customer service', 'chat', 'email',
-    'social media', 'content', 'lead generation', 'fba', 'accounting', 'seo', 'cro', 'conversion rate', 'landing page', 'a/b testing',
-    'logistics', 'shipping', 'data entry', 'research', 'recruitment', 'mortgage', 'project management', 'agency operations', 'business systems analyst',
-    'claude', 'gpt', 'ai agent', 'cursor', 'prompt engineer', 'chatbot', 'manychat', 'voice ai', 'ai automation', 'ai workflow', 'ai implementation',
-    'klaviyo', 'activecampaign', 'clickup', 'notion', 'airtable', 'asana', 'monday.com',
-    'api integration', 'webhook', 'google analytics', 'tag manager', 'looker', 'xero', 'kajabi', 'bubble', 'glide',
-    'revops', 'growthops', 'marops', 'sop', 'process documentation', 'tech stack', 'automation auditor', 'complex automation', 'crm automation', 'sales pipeline', 'automation maintenance',
-    'technical operations', 'automation monitoring', 'social media marketing', 'executive operations', 'ai-powered', 'ghl crm', 'pipeline manager',
-    'snapshot installer', 'setup va', 'gohighlevel technical', 'ghl technical', 'transaction coordinator', 'listing management', 'shopify automation',
-    'e-commerce operations', 'e-commerce customer service', 'financial controller', 'general administrative', 'medical billing', 'healthcare',
-    'client onboarding', 'sales closer', 'high-ticket appointment setter'
+  
+  const hierarchy = [
+    ['data entry', 'research va', 'research virtual assistant'],
+    ['social media manager', 'content va', 'content virtual assistant'],
+    ['executive administrative', 'executive assistant'],
+    ['general administrative', 'operations va', 'admin va', 'administrative assistant'],
+    ['e-commerce', 'ecommerce', 'amazon', 'shopify', 'ebay'],
+    ['graphic design'],
+    ['video edit'],
+    ['real estate virtual assistant', 'reva', 'real estate va'],
+    ['amazon fba', 'fba'],
+    ['content writer', 'seo'],
+    ['email marketing', 'automation va', 'automation virtual assistant'],
+    ['media buyer meta', 'meta ads buyer'],
+    ['media buyer google', 'google ads buyer'],
+    ['ppc specialist'],
+    ['ppc expert'],
+    ['linkedin ads'],
+    ['tiktok ads'],
+    ['instagram ads'],
+    ['google ads expert'],
+    ['google ads specialist'],
+    ['google ads manager'],
+    ['meta ads expert'],
+    ['meta ads specialist'],
+    ['paid media buyer'],
+    ['gohighlevel', 'ghl'],
+    ['funnel builder'],
+    ['ai automation'],
+    ['digital marketing automation'],
+    ['crm automation'],
+    ['marketing funnel automation'],
+    ['klaviyo', 'activecampaign'],
+    ['sms automation', 'voice automation'],
+    ['customer service', 'chat support', 'email support', 'customer support'],
+    ['email copywriter'],
+    ['lead generation'],
+    ['cold caller', 'appointment setter'],
+    ['facebook ads', 'meta ads'],
+    ['lead nurturing'],
+    ['ai content automation'],
+    ['short-form video', 'short form video'],
+    ['bookkeeper', 'accounting'],
+    ['logistics', 'shipping'],
+    ['talent acquisition', 'recruitment'],
+    ['mortgage', 'loan processing'],
+    ['project management', 'ops va'],
+    ['operations business manager', 'obm'],
+    ['online business manager'],
+    ['zapier'],
+    ['make.com', 'integromat'],
+    ['n8n'],
+    ['no-code', 'nocode'],
+    ['workflow automation'],
+    ['ai workflow'],
+    ['claude', 'gpt'],
+    ['ai agent'],
+    ['fractional coo', 'operations manager'],
+    ['fractional cfo', 'finance strategist'],
+    ['cro', 'conversion rate optimization'],
+    ['systems & processes', 'systems and processes'],
+    ['clickup', 'notion'],
+    ['airtable'],
+    ['api integration'],
+    ['webhook'],
+    ['sales pipeline'],
+    ['customer onboarding'],
+    ['high-ticket', 'sales closer'],
+    ['agency operations'],
+    ['saas operations'],
+    ['meta pixel', 'tracking specialist'],
+    ['google analytics', 'tag manager'],
+    ['conversion optimization'],
+    ['landing page optimization'],
+    ['a/b testing'],
+    ['performance marketing'],
+    ['fractional cmo'],
+    ['business systems analyst'],
+    ['process documentation', 'sop'],
+    ['prompt engineer']
   ];
   
   let score = 0;
-  targetKeywords.forEach(keyword => {
-    if (textToCheck.includes(keyword)) score += 10;
-  });
+  const maxScore = hierarchy.length * 10;
   
+  for (let i = 0; i < hierarchy.length; i++) {
+    const keywords = hierarchy[i];
+    if (keywords.some(kw => textToCheck.includes(kw))) {
+      score += (maxScore - (i * 10));
+      break; // Strict hierarchy: highest matching tier defines the base score
+    }
+  }
+  
+  // Freshness score (newer is better)
   const ageInDays = (new Date() - new Date(job.postedAt)) / (1000 * 60 * 60 * 24);
   score += Math.max(0, 14 - ageInDays); 
   
@@ -153,7 +224,9 @@ async function scrapeJobs() {
 
   allJobs = allJobs.filter(j => new Date(j.postedAt) >= cutOff && isGoodSalary(j.salary) && !isGermanJob(j) && !isUnwantedJob(j));
   
+  // Sort by our custom score (prioritizing Pinoy-dominated roles and freshness)
   allJobs.sort((a, b) => getJobScore(b) - getJobScore(a));
+  
   const finalJobs = allJobs.slice(0, 150);
   
   fs.writeFileSync('jobs.json', JSON.stringify({ lastUpdated: new Date().toISOString(), jobs: finalJobs }, null, 2));
