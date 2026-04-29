@@ -1,32 +1,23 @@
 name: Update Job Feed
-
 on:
   schedule:
     - cron: '*/30 * * * *'
   workflow_dispatch:
-
 permissions:
   contents: write
-
 jobs:
   scrape:
     runs-on: ubuntu-latest
     steps:
-      - name: Checkout code
-        uses: actions/checkout@v4
-
-      - name: Setup Node.js
-        uses: actions/setup-node@v4
+      - uses: actions/checkout@v4
+      - uses: actions/setup-node@v4
         with:
           node-version: '20'
-
-      - name: Run Scraper
-        run: node scraper.js
-
-      - name: Commit and Push changes
+      - run: node scraper.js
+      - name: Save Data
         run: |
           git config --global user.name 'JobFlow Robot'
           git config --global user.email 'robot@jobflow.ph'
           git add jobs.json weekly-jobs.csv
-          git commit -m "🤖 Auto-update: Latest jobs and CSV lead list" || echo "No changes to commit"
+          git commit -m "🤖 Updated jobs" || exit 0
           git push
