@@ -2,9 +2,11 @@ name: Update Job Feed
 
 on:
   schedule:
-    # Runs every 30 minutes
     - cron: '*/30 * * * *'
-  workflow_dispatch: # Allows manual trigger
+  workflow_dispatch:
+
+permissions:
+  contents: write
 
 jobs:
   scrape:
@@ -25,6 +27,6 @@ jobs:
         run: |
           git config --global user.name 'JobFlow Robot'
           git config --global user.email 'robot@jobflow.ph'
-          git add jobs.json jobs.csv
+          git add jobs.json weekly-jobs.csv
           git commit -m "🤖 Auto-update: Latest jobs and CSV lead list" || echo "No changes to commit"
           git push
