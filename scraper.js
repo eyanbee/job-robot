@@ -2,11 +2,12 @@ const fs = require('fs');
 const path = require('path');
 
 // THE FINAL BOSS ROBOT 🤖
-// Now filters out German jobs to keep everything 100% English!
+// Now fetches from Remotive, Arbeitnow, Jobicy, AND RemoteOK!
+// Prioritizes heavily Filipino-dominated roles.
 
 async function fetchRemotive() {
   try {
-    const res = await fetch('https://remotive.com/api/remote-jobs?limit=150');
+    const res = await fetch('https://remotive.com/api/remote-jobs?limit=250');
     const data = await res.json();
     return data.jobs.map(job => ({
       id: `remotive-${job.id}`,
@@ -44,7 +45,7 @@ async function fetchArbeitnow() {
 
 async function fetchJobicy() {
   try {
-    const res = await fetch('https://jobicy.com/api/v2/remote-jobs?count=50');
+    const res = await fetch('https://jobicy.com/api/v2/remote-jobs?count=100');
     const data = await res.json();
     return data.jobs.map(job => ({
       id: `jobicy-${job.id}`,
@@ -61,36 +62,71 @@ async function fetchJobicy() {
   } catch (e) { return []; }
 }
 
+async function fetchRemoteOK() {
+  try {
+    const res = await fetch('https://remoteok.com/api', { headers: { 'User-Agent': 'JobFlow Robot/1.0' } });
+    const data = await res.json();
+    // First element in RemoteOK API is legal info
+    return data.slice(1).map(job => ({
+      id: `remoteok-${job.id}`,
+      title: job.position,
+      company: job.company,
+      platform: 'RemoteOK',
+      location: job.location || 'Remote',
+      salary: job.salary_min ? `$${job.salary_min} - $${job.salary_max}` : 'Competitive',
+      type: 'Full-time',
+      tags: job.tags || [],
+      postedAt: job.date,
+      url: job.url
+    }));
+  } catch (e) { return []; }
+}
+
 function isGoodSalary(s) {
   if (!s || s.toLowerCase().includes('comp') || s.includes('$ -')) return true;
   const num = parseFloat(s.replace(/[^0-9.]/g, ''));
   if (isNaN(num)) return true;
   if (s.toLowerCase().includes('hr') || s.toLowerCase().includes('hour')) return num >= 5;
-  return true; 
+  return true; // If we can't tell, keep it!
 }
 
-// NEW: Filter out German jobs
-function isEnglishJob(title) {
-  const lower = title.toLowerCase();
-  const germanMarkers = ['(m/w/d)', '(w/m/d)', '(m/f/d)', '(m/f/x)', 'auszubildender', 'kaufmann', 'entwickler', 'mitarbeiter', 'gesucht', 'praktikum', 'werkstudent'];
-  return !germanMarkers.some(marker => lower.includes(marker));
+function getJobScore(job) {
+  const textToCheck = `${job.title} ${job.tags.join(' ')}`.toLowerCase();
+  const targetKeywords = [
+    'virtual assistant', 'executive assistant', 'graphic design', 'video edit', 
+    'amazon', 'shopify', 'automation', 'ghl', 'google ads', 'meta ads', 
+    'funnel', 'bookkeep', 'digital marketing', 'make.com', 'n8n', 'zapier',
+    'real estate', 'cold call', 'appointment setter', 'bdr', 'business development',
+    'administrative', 'operations', 'e-commerce', 'customer service', 'chat', 'email',
+    'social media', 'content', 'lead generation', 'fba', 'accounting', 'seo',
+    'logistics', 'shipping', 'data entry', 'research', 'recruitment', 'mortgage',
+    'project management'
+  ];
+  
+  let score = 0;
+  targetKeywords.forEach(keyword => {
+    if (textToCheck.includes(keyword)) score += 10;
+  });
+  
+  // Freshness score (newer is better)
+  const ageInDays = (new Date() - new Date(job.postedAt)) / (1000 * 60 * 60 * 24);
+  score += Math.max(0, 14 - ageInDays); 
+  
+  return score;
 }
 
 async function scrapeJobs() {
-  console.log('🤖 Robot is hunting for English jobs...');
-  const results = await Promise.all([fetchRemotive(), fetchArbeitnow(), fetchJobicy()]);
+  console.log('🤖 Robot is hunting for jobs...');
+  const results = await Promise.all([fetchRemotive(), fetchArbeitnow(), fetchJobicy(), fetchRemoteOK()]);
   let allJobs = results.flat();
 
   const cutOff = new Date();
   cutOff.setDate(cutOff.getDate() - 14);
 
-  // Apply all filters: Date, Salary, AND English Language
-  allJobs = allJobs.filter(j => 
-    new Date(j.postedAt) >= cutOff && 
-    isGoodSalary(j.salary) &&
-    isEnglishJob(j.title)
-  );
-  allJobs.sort((a, b) => new Date(b.postedAt) - new Date(a.postedAt));
+  allJobs = allJobs.filter(j => new Date(j.postedAt) >= cutOff && isGoodSalary(j.salary));
+  
+  // Sort by our custom score (prioritizing Pinoy-dominated roles and freshness)
+  allJobs.sort((a, b) => getJobScore(b) - getJobScore(a));
   
   const finalJobs = allJobs.slice(0, 150);
   
@@ -113,6 +149,10 @@ async function scrapeJobs() {
   });
   if (newLines) fs.appendFileSync(csvPath, newLines);
   
-  console.log(`✅ Done! Found ${finalJobs.length} English jobs.`);
+  console.log(`✅ Done! Found ${finalJobs.length} jobs.`);
 }
-scrapeJobs();
+
+scrapeJobs().catch(err => {
+  console.error('❌ Robot crashed:', err);
+  process.exit(1);
+});
