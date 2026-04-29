@@ -1,110 +1,183 @@
-const fs = require('fs');
-const path = require('path');
+import fs from 'fs';
+import path from 'path';
 
-// This is the REAL Robot Brain - CommonJS Version for GitHub Actions
-async function fetchJobs() {
-  console.log("Starting job hunt...");
-  let allJobs = [];
+// This is the REAL Robot script.
+// It fetches live, real jobs from public APIs (Remotive and Arbeitnow) completely for free.
 
+async function fetchRemotive() {
   try {
-    // 1. Fetch from Remotive
-    console.log("Fetching from Remotive...");
-    const remotiveRes = await fetch('https://remotive.com/api/remote-jobs?limit=150');
-    const remotiveData = await remotiveRes.json();
-    
-    const remotiveJobs = remotiveData.jobs.map(job => ({
-      id: `remotive-${job.id}`,
-      title: job.title,
-      company: job.company_name,
-      platform: "Remotive",
-      location: job.candidate_required_location || "Worldwide",
-      salary: job.salary || "Not specified",
-      type: job.job_type ? job.job_type.replace('_', ' ') : "Full-time",
-      tags: job.category ? [job.category] : ["Remote"],
-      postedAt: job.publication_date,
-      url: job.url
-    }));
-    allJobs = [...allJobs, ...remotiveJobs];
-
-    // 2. Fetch from Arbeitnow
-    console.log("Fetching from Arbeitnow...");
-    const arbeitnowRes = await fetch('https://www.arbeitnow.com/api/job-board-api');
-    const arbeitnowData = await arbeitnowRes.json();
-    
-    const arbeitnowJobs = arbeitnowData.data.map(job => ({
-      id: `arbeitnow-${job.slug}`,
-      title: job.title,
-      company: job.company_name,
-      platform: "Arbeitnow",
-      location: job.location || "Worldwide",
-      salary: "Not specified",
-      type: job.job_types && job.job_types.length > 0 ? job.job_types[0] : "Full-time",
-      tags: job.tags || ["Remote"],
-      postedAt: new Date(job.created_at * 1000).toISOString(),
-      url: job.url
-    }));
-    allJobs = [...allJobs, ...arbeitnowJobs];
-
-  } catch (error) {
-    console.error("Error fetching jobs:", error);
-  }
-
-  // Filter jobs ($5/hr or $500/month minimum, and Remote only)
-  const validJobs = allJobs.filter(job => {
-    // Remote check
-    const loc = job.location.toLowerCase();
-    const isRemote = loc.includes('remote') || loc.includes('anywhere') || loc.includes('worldwide');
-    if (!isRemote && job.location !== "Worldwide") return false;
-
-    // Salary check
-    let passesSalary = true;
-    if (job.salary && job.salary !== "Not specified") {
-      const salaryText = job.salary.toLowerCase();
-      const numbers = salaryText.match(/\d+/g);
-      if (numbers) {
-        const maxNum = Math.max(...numbers.map(Number));
-        if (salaryText.includes('hour') || salaryText.includes('/hr')) {
-          if (maxNum < 5) passesSalary = false;
-        } else if (maxNum > 100 && maxNum < 500) {
-          passesSalary = false;
-        }
+    // REMOVED THE 100 LIMIT - Now it fetches a massive pool of jobs to filter!
+    const res = await fetch('https://remotive.com/api/remote-jobs?limit=2000');
+    const data = await res.json();
+    return data.jobs.map(job => {
+      // Normalize job types
+      let type = 'Full-time';
+      if (job.job_type) {
+        const t = job.job_type.toLowerCase();
+        if (t.includes('part')) type = 'Part-time';
+        else if (t.includes('contract') || t.includes('project')) type = 'Project-based';
+        else if (t.includes('freelance')) type = 'Freelance';
+        else if (t.includes('flex')) type = 'Flexible hours';
       }
-    }
-    
-    return passesSalary;
-  });
 
-  // Sort by newest and take top 150
-  validJobs.sort((a, b) => new Date(b.postedAt) - new Date(a.postedAt));
-  const topJobs = validJobs.slice(0, 150);
-
-  // Save to jobs.json for the website
-  const output = {
-    lastUpdated: new Date().toISOString(),
-    jobs: topJobs
-  };
-
-  fs.writeFileSync(
-    path.join(process.cwd(), 'jobs.json'),
-    JSON.stringify(output, null, 2)
-  );
-  console.log(`Saved ${topJobs.length} jobs to jobs.json`);
-
-  // Save to jobs.csv for your Substack Newsletter!
-  const csvHeaders = "Title,Company,Platform,Location,Salary,Type,PostedAt,URL\n";
-  const csvRows = topJobs.map(job => {
-    // Escape quotes for CSV format
-    const cleanTitle = `"${job.title.replace(/"/g, '""')}"`;
-    const cleanCompany = `"${job.company.replace(/"/g, '""')}"`;
-    const cleanSalary = `"${job.salary.replace(/"/g, '""')}"`;
-    return `${cleanTitle},${cleanCompany},${job.platform},"${job.location}",${cleanSalary},${job.type},${job.postedAt},${job.url}`;
-  }).join("\n");
-
-  fs.writeFileSync(
-    path.join(process.cwd(), 'jobs.csv'),
-    csvHeaders + csvRows
-  );
-  console.log("Saved jobs to jobs.csv");
+      return {
+        id: `remotive-${job.id}`,
+        title: job.title,
+        company: job.company_name,
+        platform: 'Remotive',
+        location: job.candidate_required_location || 'Remote',
+        salary: job.salary || 'Competitive',
+        type,
+        tags: job.tags || [],
+        postedAt: job.publication_date,
+        url: job.url
+      };
+    });
+  } catch (e) {
+    console.error('Remotive error:', e);
+    return [];
+  }
 }
 
-fetchJobs();
+async function fetchArbeitnow() {
+  try {
+    const res = await fetch('https://www.arbeitnow.com/api/job-board-api');
+    const data = await res.json();
+    return data.data
+      .filter(job => job.remote) // ONLY keep remote jobs
+      .map(job => {
+        // Normalize job types
+        let type = 'Full-time';
+        if (job.job_types && job.job_types.length > 0) {
+          const t = job.job_types.join(' ').toLowerCase();
+          if (t.includes('part')) type = 'Part-time';
+          else if (t.includes('contract') || t.includes('project')) type = 'Project-based';
+          else if (t.includes('freelance')) type = 'Freelance';
+          else if (t.includes('flex')) type = 'Flexible hours';
+        }
+
+        return {
+          id: `arbeitnow-${job.slug}`,
+          title: job.title,
+          company: job.company_name,
+          platform: 'Arbeitnow',
+          location: job.location || 'Remote',
+          salary: 'Competitive',
+          type,
+          tags: job.tags || [],
+          // Arbeitnow returns created_at as a Unix timestamp in seconds
+          postedAt: new Date(job.created_at * 1000).toISOString(),
+          url: job.url
+        };
+      });
+  } catch (e) {
+    console.error('Arbeitnow error:', e);
+    return [];
+  }
+}
+
+function meetsSalaryRequirement(salaryStr) {
+  if (!salaryStr || salaryStr.toLowerCase() === 'competitive') return true; // Keep jobs that don't disclose salary so we don't lose good opportunities
+
+  const str = salaryStr.toLowerCase();
+  const matches = str.match(/[\d,.]+[k]?/g);
+  if (!matches) return true; // No numbers found
+
+  let numStr = matches[0].replace(/,/g, '');
+  let isK = false;
+  if (numStr.endsWith('k')) {
+    isK = true;
+    numStr = numStr.replace('k', '');
+  }
+
+  let num = parseFloat(numStr);
+  if (isNaN(num)) return true;
+  if (isK) num *= 1000;
+
+  // Check against our minimums: $5/hr, $500/mo, or $6,000/yr
+  if (str.includes('hr') || str.includes('hour')) return num >= 5;
+  if (str.includes('mo') || str.includes('month')) return num >= 500;
+  if (str.includes('yr') || str.includes('year') || str.includes('annual') || num > 5000) return num >= 6000;
+
+  // Fallback assumptions based on the number size
+  if (num > 5000) return num >= 6000; // Assume annual
+  if (num > 100) return num >= 500;    // Assume monthly
+  return num >= 5;                     // Assume hourly
+}
+
+async function scrapeJobs() {
+  console.log('🤖 Real Job Robot starting its shift...');
+  
+  // Fetch from both platforms at the same time
+  const [remotiveJobs, arbeitnowJobs] = await Promise.all([
+    fetchRemotive(),
+    fetchArbeitnow()
+  ]);
+
+  let allJobs = [...remotiveJobs, ...arbeitnowJobs];
+
+  // STRICT RULES: Last 14 days AND minimum $5/hr or $500/mo
+  const fourteenDaysAgo = new Date();
+  fourteenDaysAgo.setDate(fourteenDaysAgo.getDate() - 14);
+  
+  allJobs = allJobs.filter(job => {
+    const postedDate = new Date(job.postedAt);
+    const isFresh = postedDate >= fourteenDaysAgo;
+    const isGoodPay = meetsSalaryRequirement(job.salary);
+    return isFresh && isGoodPay;
+  });
+
+  // Sort by newest first
+  allJobs.sort((a, b) => new Date(b.postedAt).getTime() - new Date(a.postedAt).getTime());
+
+  // Limit to exactly 150 jobs as requested
+  const finalJobs = allJobs.slice(0, 150);
+
+  // Save the data to a file that the website can read
+  const outputPath = path.join(process.cwd(), 'public', 'jobs.json');
+  fs.writeFileSync(outputPath, JSON.stringify({ 
+    lastUpdated: new Date().toISOString(),
+    jobs: finalJobs 
+  }, null, 2));
+
+  console.log(`✅ Success! Collected ${finalJobs.length} REAL jobs and saved to jobs.json`);
+
+  // --- NEW: SAVE TO CSV FOR GOOGLE SHEETS ---
+  const csvPath = path.join(process.cwd(), 'public', 'weekly-jobs.csv');
+  let existingCsv = '';
+  
+  if (fs.existsSync(csvPath)) {
+    existingCsv = fs.readFileSync(csvPath, 'utf8');
+  } else {
+    // Create headers if file doesn't exist
+    existingCsv = 'ID,Title,Company,Platform,Location,Salary,Type,Posted At,URL\n';
+    fs.writeFileSync(csvPath, existingCsv);
+  }
+
+  let newCsvLines = '';
+  let addedToCsvCount = 0;
+
+  for (const job of finalJobs) {
+    // Simple check to avoid duplicates in the CSV
+    if (!existingCsv.includes(job.id)) {
+      // Escape quotes and commas for CSV format
+      const safeTitle = `"${job.title.replace(/"/g, '""')}"`;
+      const safeCompany = `"${job.company.replace(/"/g, '""')}"`;
+      const safeLocation = `"${job.location.replace(/"/g, '""')}"`;
+      const safeSalary = `"${job.salary.replace(/"/g, '""')}"`;
+
+      newCsvLines += `${job.id},${safeTitle},${safeCompany},${job.platform},${safeLocation},${safeSalary},${job.type},${job.postedAt},${job.url}\n`;
+      addedToCsvCount++;
+    }
+  }
+
+  if (newCsvLines) {
+    fs.appendFileSync(csvPath, newCsvLines);
+    console.log(`📝 Added ${addedToCsvCount} new unique jobs to weekly-jobs.csv`);
+  }
+}
+
+scrapeJobs().catch(err => {
+  console.error('❌ Robot crashed:', err);
+  process.exit(1);
+});
