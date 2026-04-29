@@ -94,13 +94,20 @@ function getJobScore(job) {
   const textToCheck = `${job.title} ${job.tags.join(' ')}`.toLowerCase();
   const targetKeywords = [
     'virtual assistant', 'executive assistant', 'graphic design', 'video edit', 
-    'amazon', 'shopify', 'automation', 'ghl', 'google ads', 'meta ads', 
-    'funnel', 'bookkeep', 'digital marketing', 'make.com', 'n8n', 'zapier',
-    'real estate', 'cold call', 'appointment setter', 'bdr', 'business development',
-    'administrative', 'operations', 'e-commerce', 'customer service', 'chat', 'email',
-    'social media', 'content', 'lead generation', 'fba', 'accounting', 'seo',
-    'logistics', 'shipping', 'data entry', 'research', 'recruitment', 'mortgage',
-    'project management'
+    'amazon', 'shopify', 'automation', 'ghl', 'gohighlevel', 'google ads', 'meta ads', 'facebook ads', 'instagram ads', 'ppc', 'paid media', 'performance marketing',
+    'funnel', 'full-funnel', 'bookkeep', 'digital marketing', 'make.com', 'integromat', 'n8n', 'zapier', 'no-code', 'nocode',
+    'real estate', 'cold call', 'appointment setter', 'bdr', 'business development', 'high-ticket', 'closer',
+    'administrative', 'operations', 'obm', 'online business manager', 'fractional', 'e-commerce', 'customer service', 'chat', 'email',
+    'social media', 'content', 'lead generation', 'fba', 'accounting', 'seo', 'cro', 'conversion rate', 'landing page', 'a/b testing',
+    'logistics', 'shipping', 'data entry', 'research', 'recruitment', 'mortgage', 'project management', 'agency operations', 'business systems analyst',
+    'claude', 'gpt', 'ai agent', 'cursor', 'prompt engineer', 'chatbot', 'manychat', 'voice ai', 'ai automation', 'ai workflow', 'ai implementation',
+    'klaviyo', 'activecampaign', 'clickup', 'notion', 'airtable', 'asana', 'monday.com',
+    'api integration', 'webhook', 'google analytics', 'tag manager', 'looker', 'xero', 'kajabi', 'bubble', 'glide',
+    'revops', 'growthops', 'marops', 'sop', 'process documentation', 'tech stack', 'automation auditor', 'complex automation', 'crm automation', 'sales pipeline', 'automation maintenance',
+    'technical operations', 'automation monitoring', 'social media marketing', 'executive operations', 'ai-powered', 'ghl crm', 'pipeline manager',
+    'snapshot installer', 'setup va', 'gohighlevel technical', 'ghl technical', 'transaction coordinator', 'listing management', 'shopify automation',
+    'e-commerce operations', 'e-commerce customer service', 'financial controller', 'general administrative', 'medical billing', 'healthcare',
+    'client onboarding', 'sales closer', 'high-ticket appointment setter'
   ];
   
   let score = 0;
