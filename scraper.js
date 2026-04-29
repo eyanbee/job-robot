@@ -3,7 +3,7 @@ const path = require('path');
 
 // THE FINAL BOSS ROBOT 🤖
 // Now fetches from Remotive, Arbeitnow, Jobicy, AND RemoteOK!
-// Prioritizes heavily Filipino-dominated roles.
+// Prioritizes heavily Filipino-dominated roles and filters out tech/medical/onsite roles.
 
 async function fetchRemotive() {
   try {
@@ -66,7 +66,6 @@ async function fetchRemoteOK() {
   try {
     const res = await fetch('https://remoteok.com/api', { headers: { 'User-Agent': 'JobFlow Robot/1.0' } });
     const data = await res.json();
-    // First element in RemoteOK API is legal info
     return data.slice(1).map(job => ({
       id: `remoteok-${job.id}`,
       title: job.position,
@@ -87,7 +86,7 @@ function isGoodSalary(s) {
   const num = parseFloat(s.replace(/[^0-9.]/g, ''));
   if (isNaN(num)) return true;
   if (s.toLowerCase().includes('hr') || s.toLowerCase().includes('hour')) return num >= 5;
-  return true; // If we can't tell, keep it!
+  return true;
 }
 
 function isGermanJob(job) {
@@ -99,6 +98,18 @@ function isGermanJob(job) {
     'homeoffice'
   ];
   return germanKeywords.some(kw => text.includes(kw));
+}
+
+function isUnwantedJob(job) {
+  const text = `${job.title} ${job.tags.join(' ')} ${job.location}`.toLowerCase();
+  const unwantedKeywords = [
+    'full stack developer', 'full stack product engineer', 'solution engineer',
+    'firmware automation engineer', 'clinical research', 'software engineer',
+    'spanish speaking', 'real estate counsel', 'data engineer', 'neurologist',
+    'applied ai engineer', 'corporate counsel', 'backend engineer',
+    'site reliability engineer', 'data center engineer', 'onsite'
+  ];
+  return unwantedKeywords.some(kw => text.includes(kw));
 }
 
 function getJobScore(job) {
@@ -126,7 +137,6 @@ function getJobScore(job) {
     if (textToCheck.includes(keyword)) score += 10;
   });
   
-  // Freshness score (newer is better)
   const ageInDays = (new Date() - new Date(job.postedAt)) / (1000 * 60 * 60 * 24);
   score += Math.max(0, 14 - ageInDays); 
   
@@ -141,11 +151,9 @@ async function scrapeJobs() {
   const cutOff = new Date();
   cutOff.setDate(cutOff.getDate() - 14);
 
-  allJobs = allJobs.filter(j => new Date(j.postedAt) >= cutOff && isGoodSalary(j.salary) && !isGermanJob(j));
+  allJobs = allJobs.filter(j => new Date(j.postedAt) >= cutOff && isGoodSalary(j.salary) && !isGermanJob(j) && !isUnwantedJob(j));
   
-  // Sort by our custom score (prioritizing Pinoy-dominated roles and freshness)
   allJobs.sort((a, b) => getJobScore(b) - getJobScore(a));
-  
   const finalJobs = allJobs.slice(0, 150);
   
   fs.writeFileSync('jobs.json', JSON.stringify({ lastUpdated: new Date().toISOString(), jobs: finalJobs }, null, 2));
