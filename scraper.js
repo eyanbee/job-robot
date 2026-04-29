@@ -1,5 +1,5 @@
-import fs from 'fs';
-import path from 'path';
+const fs = require('fs');
+const path = require('path');
 
 // This is the REAL Robot script.
 // It fetches live, real jobs from public APIs (Remotive and Arbeitnow) completely for free.
@@ -135,6 +135,12 @@ async function scrapeJobs() {
 
   // Save the data to a file that the website can read
   const outputPath = path.join(process.cwd(), 'public', 'jobs.json');
+  
+  // Ensure public directory exists
+  if (!fs.existsSync(path.join(process.cwd(), 'public'))) {
+    fs.mkdirSync(path.join(process.cwd(), 'public'));
+  }
+
   fs.writeFileSync(outputPath, JSON.stringify({ 
     lastUpdated: new Date().toISOString(),
     jobs: finalJobs 
