@@ -66,6 +66,7 @@ async function fetchRemoteOK() {
   try {
     const res = await fetch('https://remoteok.com/api', { headers: { 'User-Agent': 'JobFlow Robot/1.0' } });
     const data = await res.json();
+    // First element in RemoteOK API is legal info
     return data.slice(1).map(job => ({
       id: `remoteok-${job.id}`,
       title: job.position,
@@ -86,7 +87,7 @@ function isGoodSalary(s) {
   const num = parseFloat(s.replace(/[^0-9.]/g, ''));
   if (isNaN(num)) return true;
   if (s.toLowerCase().includes('hr') || s.toLowerCase().includes('hour')) return num >= 5;
-  return true;
+  return true; // If we can't tell, keep it!
 }
 
 function isGermanJob(job) {
@@ -95,7 +96,11 @@ function isGermanJob(job) {
     '(m/w/d)', '(w/m/d)', '(m/f/d)', 'vollzeit', 'teilzeit', 'gmbh',
     'deutsch', 'german', 'manager/in', 'entwickler/in', 'berater/in',
     'auftragsmanagement', 'projektkoordination', 'disposition',
-    'homeoffice'
+    'homeoffice', '*in', 'werkstudent', 'vertrieb', 'standort',
+    'niederlassung', 'leiter', 'munich', 'dresden', 'berlin', 'hamburg',
+    'frankfurt', 'stuttgart', 'cologne', 'köln', 'düsseldorf', 'leipzig',
+    'münchen', 'praktikum', 'ausbildung', 'kaufmann', 'kauffrau', 
+    'mitarbeiter', 'fachkraft', 'sachbearbeiter'
   ];
   return germanKeywords.some(kw => text.includes(kw));
 }
@@ -107,7 +112,12 @@ function isUnwantedJob(job) {
     'firmware automation engineer', 'clinical research', 'software engineer',
     'spanish speaking', 'real estate counsel', 'data engineer', 'neurologist',
     'applied ai engineer', 'corporate counsel', 'backend engineer',
-    'site reliability engineer', 'data center engineer', 'onsite'
+    'site reliability engineer', 'data center engineer', 'onsite',
+    'pricing & yield manager', 'machine learning engineer', 
+    'microsoft system administrator', 'sap integration developer',
+    'connectivity engineer', 'calibration standard analyst',
+    'head of engineering', 'mulesoft', 'integrations developer',
+    'neuroradiologist'
   ];
   return unwantedKeywords.some(kw => text.includes(kw));
 }
@@ -116,22 +126,24 @@ function getJobScore(job) {
   const textToCheck = `${job.title} ${job.tags.join(' ')}`.toLowerCase();
   
   const hierarchy = [
+    ['virtual assistant', 'va'],
     ['data entry', 'research va', 'research virtual assistant'],
-    ['social media manager', 'content va', 'content virtual assistant'],
-    ['executive administrative', 'executive assistant'],
-    ['general administrative', 'operations va', 'admin va', 'administrative assistant'],
-    ['e-commerce', 'ecommerce', 'amazon', 'shopify', 'ebay'],
-    ['graphic design'],
-    ['video edit'],
+    ['executive administrative va', 'executive assistant', 'executive administrative', 'executive admin'],
+    ['social media manager'],
     ['real estate virtual assistant', 'reva', 'real estate va'],
+    ['content va', 'content manager', 'content writer'],
     ['amazon fba', 'fba'],
-    ['content writer', 'seo'],
-    ['email marketing', 'automation va', 'automation virtual assistant'],
-    ['media buyer meta', 'meta ads buyer'],
-    ['media buyer google', 'google ads buyer'],
+    ['general administrative', 'general admin', 'operations va', 'admin va'],
+    ['e-commerce', 'ecommerce', 'amazon', 'shopify', 'ebay'],
+    ['seo expert', 'seo'],
+    ['graphic design', 'graphic designer'],
+    ['video editor', 'video editing'],
+    ['email marketing', 'email automation', 'email copywriter'],
+    ['media buyer meta ads', 'media buyer meta'],
+    ['media buyer google ads', 'media buyer google'],
     ['ppc specialist'],
     ['ppc expert'],
-    ['linkedin ads'],
+    ['linkedin ads expert', 'linkedin ads'],
     ['tiktok ads'],
     ['instagram ads'],
     ['google ads expert'],
@@ -141,21 +153,21 @@ function getJobScore(job) {
     ['meta ads specialist'],
     ['paid media buyer'],
     ['gohighlevel', 'ghl'],
-    ['funnel builder'],
+    ['ghl automation expert', 'gohighlevel automation expert'],
+    ['ghl funnel builder', 'funnel builder'],
     ['ai automation'],
     ['digital marketing automation'],
     ['crm automation'],
     ['marketing funnel automation'],
-    ['klaviyo', 'activecampaign'],
+    ['klaviyo', 'activecampaign', 'email marketing automation'],
     ['sms automation', 'voice automation'],
     ['customer service', 'chat support', 'email support', 'customer support'],
-    ['email copywriter'],
     ['lead generation'],
     ['cold caller', 'appointment setter'],
-    ['facebook ads', 'meta ads'],
+    ['facebook ads', 'meta ads', 'meta ads manager'],
     ['lead nurturing'],
     ['ai content automation'],
-    ['short-form video', 'short form video'],
+    ['short-form video', 'short form video automation'],
     ['bookkeeper', 'accounting'],
     ['logistics', 'shipping'],
     ['talent acquisition', 'recruitment'],
@@ -178,7 +190,7 @@ function getJobScore(job) {
     ['clickup', 'notion'],
     ['airtable'],
     ['api integration'],
-    ['webhook'],
+    ['webhook', 'integration va'],
     ['sales pipeline'],
     ['customer onboarding'],
     ['high-ticket', 'sales closer'],
@@ -186,14 +198,10 @@ function getJobScore(job) {
     ['saas operations'],
     ['meta pixel', 'tracking specialist'],
     ['google analytics', 'tag manager'],
-    ['conversion optimization'],
     ['landing page optimization'],
-    ['a/b testing'],
     ['performance marketing'],
     ['fractional cmo'],
-    ['business systems analyst'],
-    ['process documentation', 'sop'],
-    ['prompt engineer']
+    ['process documentation', 'sop']
   ];
   
   let score = 0;
