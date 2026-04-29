@@ -3,7 +3,7 @@ const path = require('path');
 
 // THE FINAL BOSS ROBOT 🤖
 // Now fetches from Remotive, Arbeitnow, Jobicy, AND RemoteOK!
-// Prioritizes heavily Filipino-dominated roles and filters out tech/medical/onsite roles.
+// Prioritizes heavily Filipino-dominated roles.
 
 async function fetchRemotive() {
   try {
@@ -110,14 +110,17 @@ function isUnwantedJob(job) {
   const unwantedKeywords = [
     'full stack developer', 'full stack product engineer', 'solution engineer',
     'firmware automation engineer', 'clinical research', 'software engineer',
-    'spanish speaking', 'real estate counsel', 'data engineer', 'neurologist',
+    'engineer software', 'spanish speaking', 'real estate counsel', 'data engineer', 'neurologist',
     'applied ai engineer', 'corporate counsel', 'backend engineer',
     'site reliability engineer', 'data center engineer', 'onsite',
     'pricing & yield manager', 'machine learning engineer', 
     'microsoft system administrator', 'sap integration developer',
     'connectivity engineer', 'calibration standard analyst',
     'head of engineering', 'mulesoft', 'integrations developer',
-    'neuroradiologist'
+    'neuroradiologist', 'react developer', 'systems engineer',
+    'frontend developer', 'backend developer', 'full stack', 'devops',
+    'java developer', 'python developer', 'ios developer', 'android developer',
+    'software developer', 'senior developer', 'lead developer'
   ];
   return unwantedKeywords.some(kw => text.includes(kw));
 }
@@ -209,7 +212,13 @@ function getJobScore(job) {
   
   for (let i = 0; i < hierarchy.length; i++) {
     const keywords = hierarchy[i];
-    if (keywords.some(kw => textToCheck.includes(kw))) {
+    if (keywords.some(kw => {
+      // Use word boundaries for short acronyms so "va" doesn't match "java" or "javascript"
+      if (['va', 'seo', 'fba', 'ghl', 'obm', 'n8n', 'gpt', 'cro', 'sop', 'ops', 'ppc'].includes(kw)) {
+        return new RegExp(`\\b${kw}\\b`).test(textToCheck);
+      }
+      return textToCheck.includes(kw);
+    })) {
       score += (maxScore - (i * 10));
       break; // Strict hierarchy: highest matching tier defines the base score
     }
