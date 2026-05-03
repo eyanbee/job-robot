@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-05-03T07:08:04.114Z",
+  "lastUpdated": "2026-05-03T09:05:21.040Z",
   "jobs": [
     {
       "id": "jobicy-142985",
@@ -870,21 +870,6 @@
       ],
       "postedAt": "2026-05-01T09:30:34.000Z",
       "url": "https://www.arbeitnow.com/jobs/companies/pertemps-erp/head-of-sap-nuremberg-494366"
-    },
-    {
-      "id": "arbeitnow-buchhaltungsmanagerin-rottenburg-195729",
-      "title": "Buchhaltungsmanager:in",
-      "company": "Theater am Torbogen",
-      "platform": "Arbeitnow",
-      "location": "Rottenburg",
-      "salary": "Competitive",
-      "type": "Full-time",
-      "tags": [
-        "Management",
-        "Team Leader"
-      ],
-      "postedAt": "2026-05-01T09:30:29.000Z",
-      "url": "https://www.arbeitnow.com/jobs/companies/theater-am-torbogen/buchhaltungsmanagerin-rottenburg-195729"
     },
     {
       "id": "remoteok-1131412",
@@ -2302,6 +2287,23 @@
       ],
       "postedAt": "2026-04-27T16:01:04+00:00",
       "url": "https://remoteOK.com/remote-jobs/remote-senior-enablement-manager-brandtech-1131346"
+    },
+    {
+      "id": "remoteok-1131344",
+      "title": "Outpatient Facility Coder",
+      "company": "UASI",
+      "platform": "RemoteOK",
+      "location": "Remote",
+      "salary": "Competitive",
+      "type": "Full-time",
+      "tags": [
+        "coder",
+        "software",
+        "code",
+        "video"
+      ],
+      "postedAt": "2026-04-27T16:00:44+00:00",
+      "url": "https://remoteOK.com/remote-jobs/remote-outpatient-facility-coder-uasi-1131344"
     }
   ]
 }
