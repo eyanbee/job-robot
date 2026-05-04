@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-05-04T17:47:29.359Z",
+  "lastUpdated": "2026-05-04T19:49:54.004Z",
   "jobs": [
     {
       "id": "remotive-1749306",
@@ -360,18 +360,6 @@
       ],
       "postedAt": "2026-05-04T13:20:16.000Z",
       "url": "https://www.arbeitnow.com/jobs/companies/united-nations-university/senior-hr-assistant-psa-3-bonn-23399"
-    },
-    {
-      "id": "jobicy-143060",
-      "title": "2026 Raytheon Part Time Co-op – SW Platform Engineer",
-      "company": "RTX",
-      "platform": "Jobicy",
-      "location": "USA",
-      "salary": "Competitive",
-      "type": "Part-Time",
-      "tags": [],
-      "postedAt": "2026-05-03T12:06:25+00:00",
-      "url": "https://jobicy.com/jobs/143060-2026-raytheon-part-time-co-op-sw-platform-engineer"
     },
     {
       "id": "jobicy-143056",
@@ -922,30 +910,6 @@
       "tags": [],
       "postedAt": "2026-05-01T17:53:21+00:00",
       "url": "https://jobicy.com/jobs/142969-site-budget-and-contract-specialist-poland"
-    },
-    {
-      "id": "jobicy-142968",
-      "title": "Senior Azure Cloud / Platform Engineer (Latam, Remote)",
-      "company": "Kubikware",
-      "platform": "Jobicy",
-      "location": "LATAM",
-      "salary": "Competitive",
-      "type": "Contract",
-      "tags": [],
-      "postedAt": "2026-05-01T17:51:54+00:00",
-      "url": "https://jobicy.com/jobs/142968-senior-azure-cloud-platform-engineer-latam-remote"
-    },
-    {
-      "id": "jobicy-142967",
-      "title": "Python & React Engineer with AI (Remote, Latam)",
-      "company": "Kubikware",
-      "platform": "Jobicy",
-      "location": "LATAM",
-      "salary": "Competitive",
-      "type": "Full-Time",
-      "tags": [],
-      "postedAt": "2026-05-01T17:51:53+00:00",
-      "url": "https://jobicy.com/jobs/142967-python-react-engineer-with-ai-remote-latam"
     },
     {
       "id": "jobicy-142965",
@@ -2169,6 +2133,54 @@
       "url": "https://jobicy.com/jobs/142694-lead-marketing-web-engineer-developer"
     },
     {
+      "id": "jobicy-142692",
+      "title": "Director, Product Analytics",
+      "company": "Chime",
+      "platform": "Jobicy",
+      "location": "USA",
+      "salary": "Competitive",
+      "type": "Full-Time",
+      "tags": [],
+      "postedAt": "2026-04-28T12:38:12+00:00",
+      "url": "https://jobicy.com/jobs/142692-director-product-analytics"
+    },
+    {
+      "id": "jobicy-142691",
+      "title": "Sr. Advertising Manager, Commerce",
+      "company": "Monks",
+      "platform": "Jobicy",
+      "location": "USA",
+      "salary": "Competitive",
+      "type": "Full-Time",
+      "tags": [],
+      "postedAt": "2026-04-28T12:38:11+00:00",
+      "url": "https://jobicy.com/jobs/142691-sr-advertising-manager-commerce"
+    },
+    {
+      "id": "jobicy-142690",
+      "title": "Technical Program Manager, Security",
+      "company": "Figma",
+      "platform": "Jobicy",
+      "location": "USA",
+      "salary": "Competitive",
+      "type": "Full-Time",
+      "tags": [],
+      "postedAt": "2026-04-28T12:38:09+00:00",
+      "url": "https://jobicy.com/jobs/142690-technical-program-manager-security-2"
+    },
+    {
+      "id": "jobicy-142689",
+      "title": "New Business Development Intern",
+      "company": "DataCatalyst LLC",
+      "platform": "Jobicy",
+      "location": "USA",
+      "salary": "Competitive",
+      "type": "Full-Time",
+      "tags": [],
+      "postedAt": "2026-04-28T12:38:08+00:00",
+      "url": "https://jobicy.com/jobs/142689-new-business-development-intern"
+    },
+    {
       "id": "remoteok-1131362",
       "title": "UX Designer II",
       "company": "Renaissance Learning North America",
@@ -2273,30 +2285,6 @@
       ],
       "postedAt": "2026-04-28T00:00:55+00:00",
       "url": "https://remoteOK.com/remote-jobs/remote-senior-client-services-specialist-dentalxchange-1131353"
-    },
-    {
-      "id": "remoteok-1131352",
-      "title": "Regional Human Resources Business Partner West",
-      "company": "Rowan",
-      "platform": "RemoteOK",
-      "location": "California",
-      "salary": "Competitive",
-      "type": "Full-time",
-      "tags": [
-        "hr",
-        "training",
-        "support",
-        "growth",
-        "microsoft",
-        "management",
-        "operational",
-        "legal",
-        "health",
-        "recruiting",
-        "executive"
-      ],
-      "postedAt": "2026-04-28T00:00:41+00:00",
-      "url": "https://remoteOK.com/remote-jobs/remote-regional-human-resources-business-partner-west-rowan-1131352"
     }
   ]
 }
