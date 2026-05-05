@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-05-05T16:47:41.463Z",
+  "lastUpdated": "2026-05-05T18:17:22.443Z",
   "jobs": [
     {
       "id": "remotive-1749306",
@@ -343,20 +343,6 @@
       ],
       "postedAt": "2026-05-05T13:31:26.000Z",
       "url": "https://www.arbeitnow.com/jobs/companies/cargovibe/founding-engineer-all-genders-munster-51119"
-    },
-    {
-      "id": "arbeitnow-elektronikerin-mainz-96967",
-      "title": "Elektroniker:in",
-      "company": "WOW! M∙I∙C∙E People",
-      "platform": "Arbeitnow",
-      "location": "Mainz",
-      "salary": "Competitive",
-      "type": "Full-time",
-      "tags": [
-        "Engineering"
-      ],
-      "postedAt": "2026-05-05T08:01:26.000Z",
-      "url": "https://www.arbeitnow.com/jobs/companies/wow-mice-people/elektronikerin-mainz-96967"
     },
     {
       "id": "jobicy-143168",
@@ -2299,6 +2285,29 @@
       ],
       "postedAt": "2026-04-28T16:00:16+00:00",
       "url": "https://remoteOK.com/remote-jobs/remote-pharmacy-liaison-shields-health-solutions-1131366"
+    },
+    {
+      "id": "remoteok-1131365",
+      "title": "Data Governance Engineer",
+      "company": "Chime Financial, Inc",
+      "platform": "RemoteOK",
+      "location": "San Francisco",
+      "salary": "Competitive",
+      "type": "Full-time",
+      "tags": [
+        "python",
+        "technical",
+        "developer",
+        "code",
+        "leader",
+        "management",
+        "reliability",
+        "engineer",
+        "engineering",
+        "digital nomad"
+      ],
+      "postedAt": "2026-04-28T16:00:06+00:00",
+      "url": "https://remoteOK.com/remote-jobs/remote-data-governance-engineer-chime-financial-inc-1131365"
     }
   ]
 }
