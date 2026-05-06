@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-05-06T09:31:18.113Z",
+  "lastUpdated": "2026-05-06T11:55:00.178Z",
   "jobs": [
     {
       "id": "remotive-1749306",
@@ -339,21 +339,6 @@
       "url": "https://www.arbeitnow.com/jobs/companies/wabcon/technikerin-im-bereich-sicherheitstechnik-nurnberg-50000-65000-nuremberg-436303"
     },
     {
-      "id": "arbeitnow-founding-engineer-all-genders-munster-51119",
-      "title": "Founding Engineer (all genders)",
-      "company": "cargovibe",
-      "platform": "Arbeitnow",
-      "location": "Münster",
-      "salary": "Competitive",
-      "type": "Full-time",
-      "tags": [
-        "Remote",
-        "IT"
-      ],
-      "postedAt": "2026-05-05T13:31:26.000Z",
-      "url": "https://www.arbeitnow.com/jobs/companies/cargovibe/founding-engineer-all-genders-munster-51119"
-    },
-    {
       "id": "remoteok-1131467",
       "title": "Business Analyst",
       "company": "Contact Government Services, LLC",
@@ -425,18 +410,6 @@
       "tags": [],
       "postedAt": "2026-05-05T06:44:19+00:00",
       "url": "https://jobicy.com/jobs/143167-customer-success-manager-growth-2"
-    },
-    {
-      "id": "jobicy-143166",
-      "title": "Customer Experience Associate",
-      "company": "Quince",
-      "platform": "Jobicy",
-      "location": "USA",
-      "salary": "Competitive",
-      "type": "Full-Time",
-      "tags": [],
-      "postedAt": "2026-05-05T06:44:17+00:00",
-      "url": "https://jobicy.com/jobs/143166-customer-experience-associate-2"
     },
     {
       "id": "jobicy-143165",
@@ -2291,6 +2264,18 @@
       "url": "https://jobicy.com/jobs/142763-principal-sales-engineer-fed-fsi"
     },
     {
+      "id": "jobicy-142762",
+      "title": "Commercial Counsel",
+      "company": "Wpromote",
+      "platform": "Jobicy",
+      "location": "USA",
+      "salary": "Competitive",
+      "type": "Full-Time",
+      "tags": [],
+      "postedAt": "2026-04-29T09:33:50+00:00",
+      "url": "https://jobicy.com/jobs/142762-commercial-counsel-2"
+    },
+    {
       "id": "remoteok-1131376",
       "title": "Director Global Account Management",
       "company": "Loadsmart",
@@ -2314,6 +2299,27 @@
       ],
       "postedAt": "2026-04-29T00:01:10+00:00",
       "url": "https://remoteOK.com/remote-jobs/remote-director-global-account-management-loadsmart-1131376"
+    },
+    {
+      "id": "remoteok-1131374",
+      "title": "Senior Financial Analyst Digital Assets",
+      "company": "Exodus Movement Inc.",
+      "platform": "RemoteOK",
+      "location": "Remote",
+      "salary": "Competitive",
+      "type": "Full-time",
+      "tags": [
+        "analyst",
+        "cryptocurrency",
+        "support",
+        "financial",
+        "investment",
+        "finance",
+        "senior",
+        "non tech"
+      ],
+      "postedAt": "2026-04-29T00:00:57+00:00",
+      "url": "https://remoteOK.com/remote-jobs/remote-senior-financial-analyst-digital-assets-exodus-movement-inc-1131374"
     }
   ]
 }
