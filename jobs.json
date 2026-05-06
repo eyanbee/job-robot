@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-05-06T06:38:58.282Z",
+  "lastUpdated": "2026-05-06T09:31:18.113Z",
   "jobs": [
     {
       "id": "remotive-1749306",
@@ -294,20 +294,6 @@
       "url": "https://remoteOK.com/remote-jobs/remote-senior-product-marketing-manager-us-smile-digital-health-1131348"
     },
     {
-      "id": "arbeitnow-sap-project-manager-eschborn-197219",
-      "title": "SAP Project Manager",
-      "company": "Market Cloud",
-      "platform": "Arbeitnow",
-      "location": "Eschborn",
-      "salary": "Competitive",
-      "type": "Full-time",
-      "tags": [
-        "Project Management"
-      ],
-      "postedAt": "2026-05-05T10:01:16.000Z",
-      "url": "https://www.arbeitnow.com/jobs/companies/market-cloud/sap-project-manager-eschborn-197219"
-    },
-    {
       "id": "jobicy-143155",
       "title": "Senior Customer Success Operations Manager",
       "company": "MagicSchool AI",
@@ -368,16 +354,65 @@
       "url": "https://www.arbeitnow.com/jobs/companies/cargovibe/founding-engineer-all-genders-munster-51119"
     },
     {
-      "id": "jobicy-143168",
-      "title": "Customer Experience Rep II",
-      "company": "Datavant",
-      "platform": "Jobicy",
-      "location": "USA",
+      "id": "remoteok-1131467",
+      "title": "Business Analyst",
+      "company": "Contact Government Services, LLC",
+      "platform": "RemoteOK",
+      "location": "Remote",
       "salary": "Competitive",
-      "type": "Full-Time",
-      "tags": [],
-      "postedAt": "2026-05-05T06:44:20+00:00",
-      "url": "https://jobicy.com/jobs/143168-customer-experience-rep-ii"
+      "type": "Full-time",
+      "tags": [
+        "analyst",
+        "design",
+        "jira",
+        "system",
+        "security",
+        "training",
+        "technical",
+        "support",
+        "growth",
+        "voice",
+        "financial",
+        "microsoft",
+        "content",
+        "senior",
+        "operations",
+        "executive",
+        "digital nomad"
+      ],
+      "postedAt": "2026-05-05T08:00:25+00:00",
+      "url": "https://remoteOK.com/remote-jobs/remote-business-analyst-contact-government-services-llc-1131467"
+    },
+    {
+      "id": "remoteok-1131466",
+      "title": "Online Hotel Reservationist Fully",
+      "company": "Careers In Travel | Destination Planners",
+      "platform": "RemoteOK",
+      "location": "Florida",
+      "salary": "Competitive",
+      "type": "Full-time",
+      "tags": [
+        "travel",
+        "growth"
+      ],
+      "postedAt": "2026-05-05T08:00:18+00:00",
+      "url": "https://remoteOK.com/remote-jobs/remote-online-hotel-reservationist-fully-careers-in-travel-destination-planners-1131466"
+    },
+    {
+      "id": "remoteok-1131465",
+      "title": "Product Delivery Coordinator",
+      "company": "New Era Technology",
+      "platform": "RemoteOK",
+      "location": "Remote",
+      "salary": "Competitive",
+      "type": "Full-time",
+      "tags": [
+        "coordinator",
+        "manager",
+        "financial"
+      ],
+      "postedAt": "2026-05-05T08:00:11+00:00",
+      "url": "https://remoteOK.com/remote-jobs/remote-product-delivery-coordinator-new-era-technology-1131465"
     },
     {
       "id": "jobicy-143167",
@@ -2244,6 +2279,18 @@
       "url": "https://jobicy.com/jobs/142765-customer-success-manager-corporate"
     },
     {
+      "id": "jobicy-142763",
+      "title": "Principal Sales Engineer – Fed/FSI",
+      "company": "Zscaler",
+      "platform": "Jobicy",
+      "location": "USA",
+      "salary": "Competitive",
+      "type": "Full-Time",
+      "tags": [],
+      "postedAt": "2026-04-29T09:33:52+00:00",
+      "url": "https://jobicy.com/jobs/142763-principal-sales-engineer-fed-fsi"
+    },
+    {
       "id": "remoteok-1131376",
       "title": "Director Global Account Management",
       "company": "Loadsmart",
@@ -2267,39 +2314,6 @@
       ],
       "postedAt": "2026-04-29T00:01:10+00:00",
       "url": "https://remoteOK.com/remote-jobs/remote-director-global-account-management-loadsmart-1131376"
-    },
-    {
-      "id": "remoteok-1131374",
-      "title": "Senior Financial Analyst Digital Assets",
-      "company": "Exodus Movement Inc.",
-      "platform": "RemoteOK",
-      "location": "Remote",
-      "salary": "Competitive",
-      "type": "Full-time",
-      "tags": [
-        "analyst",
-        "cryptocurrency",
-        "support",
-        "financial",
-        "investment",
-        "finance",
-        "senior",
-        "non tech"
-      ],
-      "postedAt": "2026-04-29T00:00:57+00:00",
-      "url": "https://remoteOK.com/remote-jobs/remote-senior-financial-analyst-digital-assets-exodus-movement-inc-1131374"
-    },
-    {
-      "id": "remoteok-1131373",
-      "title": "Product Expert PLM and ERP",
-      "company": "Altana",
-      "platform": "RemoteOK",
-      "location": "Brooklyn, NY; Washington, DC",
-      "salary": "Competitive",
-      "type": "Full-time",
-      "tags": [],
-      "postedAt": "2026-04-29T00:00:48+00:00",
-      "url": "https://remoteOK.com/remote-jobs/remote-product-expert-plm-and-erp-altana-1131373"
     }
   ]
 }
