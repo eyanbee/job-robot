@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-05-11T05:40:49.237Z",
+  "lastUpdated": "2026-05-11T09:55:05.672Z",
   "jobs": [
     {
       "id": "remoteok-1131500",
@@ -471,6 +471,20 @@
       "url": "https://remoteOK.com/remote-jobs/remote-senior-manager-government-industry-affairs-operations-vgw-1131518"
     },
     {
+      "id": "arbeitnow-fachassistent-digitalisierung-und-it-prozesse-fait-nackenheim-385280",
+      "title": "Fachassistent Digitalisierung und IT-Prozesse (FAIT)",
+      "company": "Kuhn & Partner Rechtsanwälte Steuerberater Wirtschaftsprüfer mbB",
+      "platform": "Arbeitnow",
+      "location": "Nackenheim",
+      "salary": "Competitive",
+      "type": "Full-time",
+      "tags": [
+        "Finance"
+      ],
+      "postedAt": "2026-05-11T07:30:59.000Z",
+      "url": "https://www.arbeitnow.com/jobs/companies/kuhn-partner-rechtsanwalte-steuerberater-wirtschaftsprufer-mbb/fachassistent-digitalisierung-und-it-prozesse-fait-nackenheim-385280"
+    },
+    {
       "id": "arbeitnow-minijob-webdesigner-remote-moglich-potsdam-364379",
       "title": "Minijob Webdesigner - Remote möglich",
       "company": "OnlineVision",
@@ -484,6 +498,47 @@
       ],
       "postedAt": "2026-05-10T13:30:29.000Z",
       "url": "https://www.arbeitnow.com/jobs/companies/onlinevision/minijob-webdesigner-remote-moglich-potsdam-364379"
+    },
+    {
+      "id": "remoteok-1131534",
+      "title": "Online Hospitality Services Coordinator Entry Level",
+      "company": "Aisles &amp; Abroad",
+      "platform": "RemoteOK",
+      "location": "Illinois",
+      "salary": "Competitive",
+      "type": "Full-time",
+      "tags": [
+        "coordinator",
+        "support"
+      ],
+      "postedAt": "2026-05-10T08:00:09+00:00",
+      "url": "https://remoteOK.com/remote-jobs/remote-online-hospitality-services-coordinator-entry-level-aisles-amp-abroad-1131534"
+    },
+    {
+      "id": "remoteok-1131533",
+      "title": "Account Executive Southeast",
+      "company": "Apollo Information Systems",
+      "platform": "RemoteOK",
+      "location": "Remote",
+      "salary": "$80000 - $100000",
+      "type": "Full-time",
+      "tags": [
+        "salesforce",
+        "security",
+        "technical",
+        "support",
+        "test",
+        "growth",
+        "manager",
+        "education",
+        "investment",
+        "senior",
+        "marketing",
+        "sales",
+        "executive"
+      ],
+      "postedAt": "2026-05-10T08:00:03+00:00",
+      "url": "https://remoteOK.com/remote-jobs/remote-account-executive-southeast-apollo-information-systems-1131533"
     },
     {
       "id": "remoteok-1131532",
@@ -1205,18 +1260,6 @@
       "tags": [],
       "postedAt": "2026-05-08T04:47:27+00:00",
       "url": "https://jobicy.com/jobs/143382-law-tutor-flexible-remote-role-austria-e20-e40-hr"
-    },
-    {
-      "id": "jobicy-143381",
-      "title": "ServiceNow Developer (Pharmacetical Sector)",
-      "company": "Omega CRM",
-      "platform": "Jobicy",
-      "location": "Spain",
-      "salary": "Competitive",
-      "type": "Full-Time",
-      "tags": [],
-      "postedAt": "2026-05-08T04:47:26+00:00",
-      "url": "https://jobicy.com/jobs/143381-servicenow-developer-pharmacetical-sector"
     },
     {
       "id": "jobicy-143380",
@@ -2202,6 +2245,18 @@
       "url": "https://jobicy.com/jobs/143165-senior-customer-success-manager-8"
     },
     {
+      "id": "jobicy-143164",
+      "title": "Customer Portfolio Manager",
+      "company": "GE Vernova",
+      "platform": "Jobicy",
+      "location": "USA",
+      "salary": "Competitive",
+      "type": "Full-Time",
+      "tags": [],
+      "postedAt": "2026-05-05T06:44:14+00:00",
+      "url": "https://jobicy.com/jobs/143164-customer-portfolio-manager"
+    },
+    {
       "id": "remoteok-1131464",
       "title": "Child and Adolescent Intake Therapist",
       "company": "Blackbird Health",
@@ -2234,57 +2289,6 @@
       ],
       "postedAt": "2026-05-05T00:01:13+00:00",
       "url": "https://remoteOK.com/remote-jobs/remote-customer-success-manager-avero-1131463"
-    },
-    {
-      "id": "remoteok-1131462",
-      "title": "Recruiter",
-      "company": "Airship",
-      "platform": "RemoteOK",
-      "location": "Remote - U.S.",
-      "salary": "Competitive",
-      "type": "Full-time",
-      "tags": [
-        "recruiter",
-        "test",
-        "growth",
-        "operations"
-      ],
-      "postedAt": "2026-05-05T00:01:07+00:00",
-      "url": "https://remoteOK.com/remote-jobs/remote-recruiter-airship-1131462"
-    },
-    {
-      "id": "remoteok-1131461",
-      "title": "Lead AI Engineer & Technical Architect",
-      "company": "Bold Business",
-      "platform": "RemoteOK",
-      "location": "India, Latin America, Philippines",
-      "salary": "Competitive",
-      "type": "Full-time",
-      "tags": [
-        "architect",
-        "technical",
-        "lead",
-        "engineer"
-      ],
-      "postedAt": "2026-05-05T00:00:52+00:00",
-      "url": "https://remoteOK.com/remote-jobs/remote-lead-ai-engineer-technical-architect-bold-business-1131461"
-    },
-    {
-      "id": "remoteok-1131460",
-      "title": "Outside Sales Consultant Account Executive",
-      "company": "Follett Software, LLC",
-      "platform": "RemoteOK",
-      "location": "Remote",
-      "salary": "Competitive",
-      "type": "Full-time",
-      "tags": [
-        "consultant",
-        "education",
-        "sales",
-        "executive"
-      ],
-      "postedAt": "2026-05-05T00:00:41+00:00",
-      "url": "https://remoteOK.com/remote-jobs/remote-outside-sales-consultant-account-executive-follett-software-llc-1131460"
     }
   ]
 }
