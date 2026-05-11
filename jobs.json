@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-05-11T09:55:05.672Z",
+  "lastUpdated": "2026-05-11T12:44:09.076Z",
   "jobs": [
     {
       "id": "remoteok-1131500",
@@ -483,21 +483,6 @@
       ],
       "postedAt": "2026-05-11T07:30:59.000Z",
       "url": "https://www.arbeitnow.com/jobs/companies/kuhn-partner-rechtsanwalte-steuerberater-wirtschaftsprufer-mbb/fachassistent-digitalisierung-und-it-prozesse-fait-nackenheim-385280"
-    },
-    {
-      "id": "arbeitnow-minijob-webdesigner-remote-moglich-potsdam-364379",
-      "title": "Minijob Webdesigner - Remote möglich",
-      "company": "OnlineVision",
-      "platform": "Arbeitnow",
-      "location": "Potsdam",
-      "salary": "Competitive",
-      "type": "Full-time",
-      "tags": [
-        "Remote",
-        "Web Development"
-      ],
-      "postedAt": "2026-05-10T13:30:29.000Z",
-      "url": "https://www.arbeitnow.com/jobs/companies/onlinevision/minijob-webdesigner-remote-moglich-potsdam-364379"
     },
     {
       "id": "remoteok-1131534",
@@ -2289,6 +2274,23 @@
       ],
       "postedAt": "2026-05-05T00:01:13+00:00",
       "url": "https://remoteOK.com/remote-jobs/remote-customer-success-manager-avero-1131463"
+    },
+    {
+      "id": "remoteok-1131462",
+      "title": "Recruiter",
+      "company": "Airship",
+      "platform": "RemoteOK",
+      "location": "Remote - U.S.",
+      "salary": "Competitive",
+      "type": "Full-time",
+      "tags": [
+        "recruiter",
+        "test",
+        "growth",
+        "operations"
+      ],
+      "postedAt": "2026-05-05T00:01:07+00:00",
+      "url": "https://remoteOK.com/remote-jobs/remote-recruiter-airship-1131462"
     }
   ]
 }
