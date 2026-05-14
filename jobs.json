@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-05-14T08:12:59.996Z",
+  "lastUpdated": "2026-05-14T10:58:26.277Z",
   "jobs": [
     {
       "id": "remoteok-1131500",
@@ -604,6 +604,20 @@
       "url": "https://jobicy.com/jobs/143764-performance-marketing-specialist-3"
     },
     {
+      "id": "arbeitnow-head-of-project-engineering-hochspannungssysteme-a-region-zurich-schweiz-nuremberg-244077",
+      "title": "Head of Project Engineering - Hochspannungssysteme (a) - Region Zürich, Schweiz",
+      "company": "CONCAPE",
+      "platform": "Arbeitnow",
+      "location": "Nuremberg",
+      "salary": "Competitive",
+      "type": "Full-time",
+      "tags": [
+        "Engineering"
+      ],
+      "postedAt": "2026-05-14T09:00:36.000Z",
+      "url": "https://www.arbeitnow.com/jobs/companies/concape/head-of-project-engineering-hochspannungssysteme-a-region-zurich-schweiz-nuremberg-244077"
+    },
+    {
       "id": "arbeitnow-sales-manager-regensburg-496255",
       "title": "Sales Manager",
       "company": "TF, Kanzlei Fabio Steinbeißer",
@@ -896,6 +910,38 @@
       "tags": [],
       "postedAt": "2026-05-13T09:42:58+00:00",
       "url": "https://jobicy.com/jobs/143760-sr-staff-product-manager-trade-payward-services"
+    },
+    {
+      "id": "remoteok-1131576",
+      "title": "Senior Sales Engineer",
+      "company": "Glia",
+      "platform": "RemoteOK",
+      "location": "Remote",
+      "salary": "Competitive",
+      "type": "Full-time",
+      "tags": [
+        "saas",
+        "training",
+        "architect",
+        "technical",
+        "support",
+        "software",
+        "voice",
+        "javascript",
+        "financial",
+        "serverless",
+        "api",
+        "management",
+        "lead",
+        "senior",
+        "operational",
+        "sales",
+        "engineer",
+        "backend",
+        "executive"
+      ],
+      "postedAt": "2026-05-13T08:00:24+00:00",
+      "url": "https://remoteOK.com/remote-jobs/remote-senior-sales-engineer-glia-1131576"
     },
     {
       "id": "jobicy-143736",
@@ -2260,43 +2306,6 @@
       ],
       "postedAt": "2026-05-09T00:01:52+00:00",
       "url": "https://remoteOK.com/remote-jobs/remote-1086-digital-marketing-specialist-gofasti-1131524"
-    },
-    {
-      "id": "remoteok-1131523",
-      "title": "Asset Administration Operations Specialist",
-      "company": "Forge Global",
-      "platform": "RemoteOK",
-      "location": "Denver",
-      "salary": "$21 - $24",
-      "type": "Full-time",
-      "tags": [
-        "travel",
-        "financial",
-        "operations",
-        "non tech"
-      ],
-      "postedAt": "2026-05-09T00:01:21+00:00",
-      "url": "https://remoteOK.com/remote-jobs/remote-asset-administration-operations-specialist-forge-global-1131523"
-    },
-    {
-      "id": "remoteok-1131522",
-      "title": "Patient Operations Coordinator",
-      "company": "Rivia Mind - Mental Healthcare",
-      "platform": "RemoteOK",
-      "location": "Remote",
-      "salary": "Competitive",
-      "type": "Full-time",
-      "tags": [
-        "coordinator",
-        "management",
-        "operations",
-        "go",
-        "health",
-        "medical",
-        "non tech"
-      ],
-      "postedAt": "2026-05-09T00:00:48+00:00",
-      "url": "https://remoteOK.com/remote-jobs/remote-patient-operations-coordinator-rivia-mind-mental-healthcare-1131522"
     }
   ]
 }
