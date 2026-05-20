@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-05-20T10:01:12.227Z",
+  "lastUpdated": "2026-05-20T13:19:48.606Z",
   "jobs": [
     {
       "id": "jobicy-144251",
@@ -781,34 +781,6 @@
       "tags": [],
       "postedAt": "2026-05-19T16:54:40+00:00",
       "url": "https://jobicy.com/jobs/144244-founding-designer-americas"
-    },
-    {
-      "id": "arbeitnow-datenerfasser-heroldsberg-403511",
-      "title": "Datenerfasser",
-      "company": "Kai Küfner Finanz",
-      "platform": "Arbeitnow",
-      "location": "Heroldsberg",
-      "salary": "Competitive",
-      "type": "Full-time",
-      "tags": [
-        "Finance"
-      ],
-      "postedAt": "2026-05-19T14:00:44.000Z",
-      "url": "https://www.arbeitnow.com/jobs/companies/kai-kufner-finanz/datenerfasser-heroldsberg-403511"
-    },
-    {
-      "id": "arbeitnow-it-administratorin-mit-ki-und-automatisierungsfahigkeiten-bonn-5519",
-      "title": "IT-Administrator:in mit KI- und Automatisierungsfähigkeiten",
-      "company": "GTK Ginster Theis Klein & Partner mbB Wirtschaftsprüfer Steuerberater Rechtsanwälte",
-      "platform": "Arbeitnow",
-      "location": "Bonn",
-      "salary": "Competitive",
-      "type": "Full-time",
-      "tags": [
-        "Helpdesk"
-      ],
-      "postedAt": "2026-05-19T13:00:46.000Z",
-      "url": "https://www.arbeitnow.com/jobs/companies/gtk-ginster-theis-klein-partner-mbb-wirtschaftsprufer-steuerberater-rechtsanwalte/it-administratorin-mit-ki-und-automatisierungsfahigkeiten-bonn-5519"
     },
     {
       "id": "remoteok-1131627",
@@ -2474,6 +2446,60 @@
       ],
       "postedAt": "2026-05-12T08:01:15+00:00",
       "url": "https://remoteOK.com/remote-jobs/remote-senior-director-nuclear-programs-deep-fission-inc-1131559"
+    },
+    {
+      "id": "remoteok-1131558",
+      "title": "VP of Product and Partnerships",
+      "company": "uConnect",
+      "platform": "RemoteOK",
+      "location": "Remote",
+      "salary": "Competitive",
+      "type": "Full-time",
+      "tags": [
+        "design",
+        "saas",
+        "students",
+        "ceo",
+        "technical",
+        "support",
+        "education",
+        "finance",
+        "strategy",
+        "management",
+        "lead",
+        "content",
+        "senior",
+        "operations",
+        "sales",
+        "health",
+        "engineering",
+        "executive",
+        "digital nomad"
+      ],
+      "postedAt": "2026-05-12T08:00:29+00:00",
+      "url": "https://remoteOK.com/remote-jobs/remote-vp-of-product-and-partnerships-uconnect-1131558"
+    },
+    {
+      "id": "remoteok-1131557",
+      "title": "Technical Solutions Analyst",
+      "company": "Varicent",
+      "platform": "RemoteOK",
+      "location": "Merida",
+      "salary": "Competitive",
+      "type": "Full-time",
+      "tags": [
+        "analyst",
+        "design",
+        "saas",
+        "technical",
+        "leader",
+        "management",
+        "lead",
+        "sales",
+        "digital nomad"
+      ],
+      "postedAt": "2026-05-12T08:00:23+00:00",
+      "url": "https://remoteOK.com/remote-jobs/remote-technical-solutions-analyst-varicent-1131557"
     }
   ]
 }
