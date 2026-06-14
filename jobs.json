@@ -1,6 +1,26 @@
 {
-  "lastUpdated": "2026-06-14T14:55:58.578Z",
+  "lastUpdated": "2026-06-14T16:43:29.107Z",
   "jobs": [
+    {
+      "id": "remoteok-1133406",
+      "title": "Customer Service Representative",
+      "company": "Point72",
+      "platform": "RemoteOK",
+      "location": "New York, New York, United States",
+      "salary": "Competitive",
+      "type": "Full-time",
+      "tags": [
+        "virtual assistant",
+        "admin",
+        "education",
+        "customer support",
+        "marketing",
+        "part time",
+        "non tech"
+      ],
+      "postedAt": "2026-06-13T10:19:12+00:00",
+      "url": "https://remoteOK.com/remote-jobs/remote-customer-service-representative-point72-1133406"
+    },
     {
       "id": "remoteok-1133376",
       "title": "Administrative Assistant",
@@ -2871,18 +2891,6 @@
       "tags": [],
       "postedAt": "2026-06-12T16:30:09+00:00",
       "url": "https://jobicy.com/jobs/146302-senior-data-scientist-real-estate"
-    },
-    {
-      "id": "jobicy-146301",
-      "title": "Full-Stack Engineer",
-      "company": "Launchpad Technologies",
-      "platform": "Jobicy",
-      "location": "LATAM",
-      "salary": "Competitive",
-      "type": "Full-Time",
-      "tags": [],
-      "postedAt": "2026-06-12T16:30:07+00:00",
-      "url": "https://jobicy.com/jobs/146301-full-stack-engineer-4"
     }
   ]
 }
