@@ -1,6 +1,43 @@
 {
-  "lastUpdated": "2026-06-15T15:21:36.094Z",
+  "lastUpdated": "2026-06-15T19:29:36.067Z",
   "jobs": [
+    {
+      "id": "remoteok-1133407",
+      "title": "Executive Assistant the Founders",
+      "company": "Silhouette Group Inc.",
+      "platform": "RemoteOK",
+      "location": "Remote",
+      "salary": "Competitive",
+      "type": "Full-time",
+      "tags": [
+        "virtual assistant",
+        "admin",
+        "education",
+        "customer support",
+        "marketing",
+        "part time",
+        "non tech",
+        "travel",
+        "exec"
+      ],
+      "postedAt": "2026-06-14T15:07:23+00:00",
+      "url": "https://remoteOK.com/remote-jobs/remote-executive-assistant-the-founders-silhouette-group-inc-1133407"
+    },
+    {
+      "id": "remoteok-1133405",
+      "title": "Admin Virtual Assistant",
+      "company": "myVA Rocks",
+      "platform": "RemoteOK",
+      "location": "Remote",
+      "salary": "Competitive",
+      "type": "Full-time",
+      "tags": [
+        "virtual assistant",
+        "admin"
+      ],
+      "postedAt": "2026-06-14T15:03:37+00:00",
+      "url": "https://remoteOK.com/remote-jobs/remote-admin-virtual-assistant-myva-rocks-1133405"
+    },
     {
       "id": "remoteok-1133406",
       "title": "Customer Service Representative",
@@ -1867,27 +1904,6 @@
       "url": "https://remoteOK.com/remote-jobs/remote-general-interest-application-us-mobile-1133358"
     },
     {
-      "id": "remoteok-1133412",
-      "title": "Customer Service Representative London",
-      "company": "OpsArmy Careers",
-      "platform": "RemoteOK",
-      "location": "London, London, England, United Kingdom",
-      "salary": "Competitive",
-      "type": "Full-time",
-      "tags": [
-        "ios",
-        "exec",
-        "speech",
-        "video",
-        "content writing",
-        "marketing",
-        "social media",
-        "customer support"
-      ],
-      "postedAt": "2026-06-11T14:18:53+00:00",
-      "url": "https://remoteOK.com/remote-jobs/remote-customer-service-representative-london-opsarmy-careers-1133412"
-    },
-    {
       "id": "jobicy-146431",
       "title": "Senior Accounting Manager",
       "company": "Ashby",
@@ -2776,18 +2792,6 @@
       "tags": [],
       "postedAt": "2026-06-12T16:49:47+00:00",
       "url": "https://jobicy.com/jobs/146326-customer-success-architect-2"
-    },
-    {
-      "id": "jobicy-146325",
-      "title": "Customer Success Manager",
-      "company": "Sonatype",
-      "platform": "Jobicy",
-      "location": "UK",
-      "salary": "Competitive",
-      "type": "Full-Time",
-      "tags": [],
-      "postedAt": "2026-06-12T16:49:45+00:00",
-      "url": "https://jobicy.com/jobs/146325-customer-success-manager-35"
     }
   ]
 }
