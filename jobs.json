@@ -1,6 +1,56 @@
 {
-  "lastUpdated": "2026-06-19T19:05:19.466Z",
+  "lastUpdated": "2026-06-19T20:52:46.392Z",
   "jobs": [
+    {
+      "id": "remoteok-1133683",
+      "title": "Executive Assistant",
+      "company": "ChaosTrack",
+      "platform": "RemoteOK",
+      "location": "Remote",
+      "salary": "Competitive",
+      "type": "Full-time",
+      "tags": [
+        "data entry",
+        "virtual assistant",
+        "customer support",
+        "non tech",
+        "exec"
+      ],
+      "postedAt": "2026-06-18T20:08:30+00:00",
+      "url": "https://remoteOK.com/remote-jobs/remote-executive-assistant-chaostrack-1133683"
+    },
+    {
+      "id": "remoteok-1133682",
+      "title": "Customer Support Specialist",
+      "company": "Velsera",
+      "platform": "RemoteOK",
+      "location": "US Remote, ",
+      "salary": "Competitive",
+      "type": "Full-time",
+      "tags": [
+        "data entry",
+        "virtual assistant",
+        "customer support",
+        "non tech"
+      ],
+      "postedAt": "2026-06-18T20:05:51+00:00",
+      "url": "https://remoteOK.com/remote-jobs/remote-customer-support-specialist-velsera-1133682"
+    },
+    {
+      "id": "remoteok-1133681",
+      "title": "Data Entry Clerk Virtual Assistant",
+      "company": "Sundayy",
+      "platform": "RemoteOK",
+      "location": "Remote",
+      "salary": "Competitive",
+      "type": "Full-time",
+      "tags": [
+        "data entry",
+        "virtual assistant"
+      ],
+      "postedAt": "2026-06-18T20:05:19+00:00",
+      "url": "https://remoteOK.com/remote-jobs/remote-data-entry-clerk-virtual-assistant-sundayy-1133681"
+    },
     {
       "id": "remoteok-1133675",
       "title": "Operations Administrator",
@@ -3337,42 +3387,6 @@
       "tags": [],
       "postedAt": "2026-06-18T06:36:45+00:00",
       "url": "https://jobicy.com/jobs/144110-senior-finance-business-partner"
-    },
-    {
-      "id": "jobicy-144103",
-      "title": "AI Engineer – FDE (Forward Deployed Engineer)",
-      "company": "Databricks",
-      "platform": "Jobicy",
-      "location": "UK",
-      "salary": "Competitive",
-      "type": "Full-Time",
-      "tags": [],
-      "postedAt": "2026-06-18T06:36:44+00:00",
-      "url": "https://jobicy.com/jobs/144103-ai-engineer-fde-forward-deployed-engineer"
-    },
-    {
-      "id": "jobicy-144405",
-      "title": "LQA Game Tester (English) – Freelance Remote",
-      "company": "Side",
-      "platform": "Jobicy",
-      "location": "Portugal",
-      "salary": "Competitive",
-      "type": "Full-Time",
-      "tags": [],
-      "postedAt": "2026-06-18T06:26:45+00:00",
-      "url": "https://jobicy.com/jobs/144405-lqa-game-tester-english-freelance-remote"
-    },
-    {
-      "id": "jobicy-144483",
-      "title": "Senior Service Sales Engineer, Southwest US",
-      "company": "Grundfos",
-      "platform": "Jobicy",
-      "location": "USA",
-      "salary": "Competitive",
-      "type": "Full-Time",
-      "tags": [],
-      "postedAt": "2026-06-18T06:21:44+00:00",
-      "url": "https://jobicy.com/jobs/144483-senior-service-sales-engineer-southwest-us"
     }
   ]
 }
