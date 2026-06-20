@@ -1,6 +1,33 @@
 {
-  "lastUpdated": "2026-06-20T12:56:51.404Z",
+  "lastUpdated": "2026-06-20T15:07:13.649Z",
   "jobs": [
+    {
+      "id": "remoteok-1133713",
+      "title": "Marketing Assistant",
+      "company": "Brooklyn Cured",
+      "platform": "RemoteOK",
+      "location": "New York City Metropolitan Area",
+      "salary": "Competitive",
+      "type": "Full-time",
+      "tags": [
+        "exec",
+        "design",
+        "education",
+        "marketing",
+        "content writing",
+        "stats",
+        "social media",
+        "digital nomad",
+        "ops",
+        "virtual assistant",
+        "coordinator",
+        "customer support",
+        "excel",
+        "sales"
+      ],
+      "postedAt": "2026-06-19T14:34:58+00:00",
+      "url": "https://remoteOK.com/remote-jobs/remote-marketing-assistant-brooklyn-cured-1133713"
+    },
     {
       "id": "remoteok-1133698",
       "title": "Executive Assistant France",
@@ -2157,19 +2184,52 @@
       "url": "https://remotive.com/remote-jobs/sales/high-ticket-financial-sales-specialist-team-lead-track-2090949"
     },
     {
-      "id": "remoteok-1133521",
-      "title": "Performance Marketing Manager",
-      "company": "Varun Digital Media",
-      "platform": "RemoteOK",
-      "location": "India, ",
+      "id": "jobicy-146501",
+      "title": "Technical Product Manager",
+      "company": "Autodesk",
+      "platform": "Jobicy",
+      "location": "EMEA,  Netherlands",
       "salary": "Competitive",
-      "type": "Full-time",
-      "tags": [
-        "exec",
-        "marketing"
-      ],
-      "postedAt": "2026-06-17T00:07:20+00:00",
-      "url": "https://remoteOK.com/remote-jobs/remote-performance-marketing-manager-varun-digital-media-1133521"
+      "type": "Full-Time",
+      "tags": [],
+      "postedAt": "2026-06-20T10:56:42+00:00",
+      "url": "https://jobicy.com/jobs/146501-technical-product-manager"
+    },
+    {
+      "id": "jobicy-144247",
+      "title": "Director Core Systems Strategies – QNXT/NetworX",
+      "company": "Molina Healthcare",
+      "platform": "Jobicy",
+      "location": "USA",
+      "salary": "Competitive",
+      "type": "Full-Time",
+      "tags": [],
+      "postedAt": "2026-06-20T09:26:47+00:00",
+      "url": "https://jobicy.com/jobs/144247-director-core-systems-strategies-qnxt-networx"
+    },
+    {
+      "id": "jobicy-144248",
+      "title": "Veterinary Assistant",
+      "company": "National Veterinary Associates",
+      "platform": "Jobicy",
+      "location": "USA",
+      "salary": "Competitive",
+      "type": "Full-Time",
+      "tags": [],
+      "postedAt": "2026-06-20T09:26:46+00:00",
+      "url": "https://jobicy.com/jobs/144248-veterinary-assistant"
+    },
+    {
+      "id": "jobicy-144246",
+      "title": "AI Engineer (Latam, Remote)",
+      "company": "Kubikware",
+      "platform": "Jobicy",
+      "location": "LATAM",
+      "salary": "Competitive",
+      "type": "Part-Time",
+      "tags": [],
+      "postedAt": "2026-06-20T09:26:44+00:00",
+      "url": "https://jobicy.com/jobs/144246-ai-engineer-latam-remote"
     },
     {
       "id": "arbeitnow-senior-credit-risk-specialist-herford-310523",
@@ -3055,54 +3115,6 @@
       "tags": [],
       "postedAt": "2026-06-18T06:46:48+00:00",
       "url": "https://jobicy.com/jobs/144082-outbound-business-development-manager"
-    },
-    {
-      "id": "jobicy-144093",
-      "title": "Qualitative Project Manager (Remote) EU hours",
-      "company": "M3 USA",
-      "platform": "Jobicy",
-      "location": "UK",
-      "salary": "Competitive",
-      "type": "Full-Time",
-      "tags": [],
-      "postedAt": "2026-06-18T06:41:52+00:00",
-      "url": "https://jobicy.com/jobs/144093-qualitative-project-manager-remote-eu-hours"
-    },
-    {
-      "id": "jobicy-144092",
-      "title": "International Payroll & HR Ops Specialist",
-      "company": "Zone &#038; Co",
-      "platform": "Jobicy",
-      "location": "Spain",
-      "salary": "Competitive",
-      "type": "Full-Time",
-      "tags": [],
-      "postedAt": "2026-06-18T06:41:51+00:00",
-      "url": "https://jobicy.com/jobs/144092-international-payroll-hr-ops-specialist"
-    },
-    {
-      "id": "jobicy-144095",
-      "title": "Senior Manager, Analytics Strategy & Operations (Contractor)",
-      "company": "Fortis Games",
-      "platform": "Jobicy",
-      "location": "Portugal",
-      "salary": "Competitive",
-      "type": "Contract",
-      "tags": [],
-      "postedAt": "2026-06-18T06:41:50+00:00",
-      "url": "https://jobicy.com/jobs/144095-senior-manager-analytics-strategy-operations-contractor"
-    },
-    {
-      "id": "jobicy-144090",
-      "title": "SaaS Renewal Representative (French/English Speaker)",
-      "company": "Commvault",
-      "platform": "Jobicy",
-      "location": "UK",
-      "salary": "Competitive",
-      "type": "Full-Time",
-      "tags": [],
-      "postedAt": "2026-06-18T06:41:48+00:00",
-      "url": "https://jobicy.com/jobs/144090-saas-renewal-representative-french-english-speaker"
     }
   ]
 }
