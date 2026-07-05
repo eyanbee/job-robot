@@ -1,6 +1,65 @@
 {
-  "lastUpdated": "2026-07-05T14:18:06.378Z",
+  "lastUpdated": "2026-07-05T15:48:44.050Z",
   "jobs": [
+    {
+      "id": "remoteok-1134486",
+      "title": "Administrative Assistant",
+      "company": "Pickle",
+      "platform": "RemoteOK",
+      "location": "Greater London, ",
+      "salary": "Competitive",
+      "type": "Full-time",
+      "tags": [
+        "virtual assistant",
+        "embedded",
+        "hr",
+        "consulting",
+        "exec",
+        "customer support",
+        "dev",
+        "marketing",
+        "accounting",
+        "admin",
+        "ops",
+        "recruiter",
+        "digital nomad"
+      ],
+      "postedAt": "2026-07-04T14:24:54+00:00",
+      "url": "https://remoteOK.com/remote-jobs/remote-administrative-assistant-pickle-1134486"
+    },
+    {
+      "id": "remoteok-1134487",
+      "title": "Founder Ghostwriter for a U.S. based Google Ads Agency",
+      "company": "Paired",
+      "platform": "RemoteOK",
+      "location": "Greater London, ",
+      "salary": "Competitive",
+      "type": "Full-time",
+      "tags": [
+        "virtual assistant",
+        "embedded",
+        "hr",
+        "consulting",
+        "exec",
+        "customer support",
+        "dev",
+        "marketing",
+        "accounting",
+        "admin",
+        "ops",
+        "recruiter",
+        "digital nomad",
+        "writer",
+        "speech",
+        "video",
+        "ads",
+        "content writing",
+        "senior",
+        "ecommerce"
+      ],
+      "postedAt": "2026-07-04T14:24:30+00:00",
+      "url": "https://remoteOK.com/remote-jobs/remote-founder-ghostwriter-for-a-u-s-based-google-ads-agency-paired-1134487"
+    },
     {
       "id": "remoteok-1134472",
       "title": "Customer Support",
@@ -2290,36 +2349,6 @@
       "url": "https://remoteOK.com/remote-jobs/remote-manager-technology-met-the-home-depot-canada-1134316"
     },
     {
-      "id": "remoteok-1134311",
-      "title": "Mortgage Operations Loan Processor",
-      "company": "Wealthfront",
-      "platform": "RemoteOK",
-      "location": "New York, New York, New York, United States",
-      "salary": "Competitive",
-      "type": "Full-time",
-      "tags": [
-        "art direction",
-        "exec",
-        "design",
-        "embedded",
-        "customer support",
-        "marketing",
-        "video",
-        "content writing",
-        "ops",
-        "legal",
-        "medical",
-        "engineer",
-        "recruiter",
-        "digital nomad",
-        "sys admin",
-        "finance",
-        "sales"
-      ],
-      "postedAt": "2026-06-30T18:20:19+00:00",
-      "url": "https://remoteOK.com/remote-jobs/remote-mortgage-operations-loan-processor-wealthfront-1134311"
-    },
-    {
       "id": "jobicy-148629",
       "title": "Project Management Analyst in Mexico, Argentina and Brazil",
       "company": "IQVIA",
@@ -3178,18 +3207,6 @@
       "tags": [],
       "postedAt": "2026-07-04T07:20:48+00:00",
       "url": "https://jobicy.com/jobs/148653-senior-marketing-analyst-strategy-analytics"
-    },
-    {
-      "id": "jobicy-148652",
-      "title": "Senior React Native Developer",
-      "company": "Ruby Labs",
-      "platform": "Jobicy",
-      "location": "Europe",
-      "salary": "Competitive",
-      "type": "Full-Time",
-      "tags": [],
-      "postedAt": "2026-07-04T07:20:46+00:00",
-      "url": "https://jobicy.com/jobs/148652-senior-react-native-developer"
     }
   ]
 }
