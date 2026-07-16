@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-07-15T23:31:36.770Z",
+  "lastUpdated": "2026-07-16T03:20:02.228Z",
   "jobs": [
     {
       "id": "remoteok-1134817",
@@ -471,34 +471,6 @@
       "url": "https://remoteOK.com/remote-jobs/remote-hr-assistant-remoteva-1134729"
     },
     {
-      "id": "remoteok-1134710",
-      "title": "CRM & Lifecycle Manager",
-      "company": "Joko",
-      "platform": "RemoteOK",
-      "location": "Paris",
-      "salary": "$43400 - $69300",
-      "type": "Full-time",
-      "tags": [
-        "exec",
-        "design",
-        "sys admin",
-        "teaching",
-        "technical",
-        "testing",
-        "marketing",
-        "dev",
-        "virtual assistant",
-        "quality assurance",
-        "mobile",
-        "ops",
-        "engineer",
-        "full time",
-        "digital nomad"
-      ],
-      "postedAt": "2026-07-11T16:00:02+00:00",
-      "url": "https://remoteOK.com/remote-jobs/remote-crm-lifecycle-manager-joko-1134710"
-    },
-    {
       "id": "remoteok-1134805",
       "title": "Data Entry Clerk Data Entry Specialist",
       "company": "Burjline Builders",
@@ -820,6 +792,25 @@
       "url": "https://remoteOK.com/remote-jobs/remote-junior-content-writer-supportyourapp-1134790"
     },
     {
+      "id": "remoteok-1134825",
+      "title": "Customer Support Agent",
+      "company": "UMAEZ LLC",
+      "platform": "RemoteOK",
+      "location": "Remote",
+      "salary": "Competitive",
+      "type": "Full-time",
+      "tags": [
+        "customer support",
+        "sys admin",
+        "marketing",
+        "exec",
+        "ops",
+        "ecommerce"
+      ],
+      "postedAt": "2026-07-15T00:00:41+00:00",
+      "url": "https://remoteOK.com/remote-jobs/remote-customer-support-agent-umaez-llc-1134825"
+    },
+    {
       "id": "remoteok-1134873",
       "title": "Video Podcast Editor",
       "company": "Betches Media",
@@ -911,20 +902,6 @@
       "url": "https://remoteOK.com/remote-jobs/remote-graphic-designer-huzzle-com-1134799"
     },
     {
-      "id": "remoteok-1134712",
-      "title": "Graphic Designer",
-      "company": "Huzzle",
-      "platform": "RemoteOK",
-      "location": "Bulgaria, ",
-      "salary": "Competitive",
-      "type": "Full-time",
-      "tags": [
-        "designer"
-      ],
-      "postedAt": "2026-07-11T19:05:54+00:00",
-      "url": "https://remoteOK.com/remote-jobs/remote-graphic-designer-huzzle-1134712"
-    },
-    {
       "id": "remoteok-1134734",
       "title": "Video Editor Off Season",
       "company": "Atlanta Gladiators",
@@ -949,22 +926,6 @@
       "url": "https://remoteOK.com/remote-jobs/remote-video-editor-off-season-atlanta-gladiators-1134734"
     },
     {
-      "id": "remoteok-1134713",
-      "title": "Podcast Video Editor",
-      "company": "Hyprwork",
-      "platform": "RemoteOK",
-      "location": "Romania, ",
-      "salary": "Competitive",
-      "type": "Full-time",
-      "tags": [
-        "designer",
-        "video",
-        "non tech"
-      ],
-      "postedAt": "2026-07-11T19:06:46+00:00",
-      "url": "https://remoteOK.com/remote-jobs/remote-podcast-video-editor-hyprwork-1134713"
-    },
-    {
       "id": "jobicy-146294",
       "title": "Senior Full-Stack Engineer (TypeScript/AI Automation) - Real Estate - LATAM",
       "company": "Truelogic",
@@ -987,6 +948,44 @@
       "tags": [],
       "postedAt": "2026-07-15T19:35:10+00:00",
       "url": "https://jobicy.com/jobs/146330-customer-support-specialist-iii-2"
+    },
+    {
+      "id": "remoteok-1134824",
+      "title": "Medical Records and Health Information Manager",
+      "company": "Backpack Healthcare",
+      "platform": "RemoteOK",
+      "location": "Remote",
+      "salary": "$75000 - $80000",
+      "type": "Full-time",
+      "tags": [
+        "exec",
+        "design",
+        "customer support",
+        "ops",
+        "legal",
+        "medical",
+        "full time",
+        "digital nomad"
+      ],
+      "postedAt": "2026-07-15T00:00:35+00:00",
+      "url": "https://remoteOK.com/remote-jobs/remote-medical-records-and-health-information-manager-backpack-healthcare-1134824"
+    },
+    {
+      "id": "remoteok-1134823",
+      "title": "Licensed Mental Health Therapist",
+      "company": "Backpack Healthcare",
+      "platform": "RemoteOK",
+      "location": "Kentucky",
+      "salary": "Competitive",
+      "type": "Full-time",
+      "tags": [
+        "customer support",
+        "medical",
+        "part time",
+        "non tech"
+      ],
+      "postedAt": "2026-07-15T00:00:18+00:00",
+      "url": "https://remoteOK.com/remote-jobs/remote-licensed-mental-health-therapist-backpack-healthcare-1134823"
     },
     {
       "id": "remoteok-1134831",
@@ -1165,18 +1164,6 @@
       "tags": [],
       "postedAt": "2026-07-14T10:50:29+00:00",
       "url": "https://jobicy.com/jobs/149322-technical-customer-support-team-lead"
-    },
-    {
-      "id": "jobicy-149321",
-      "title": "Customer Support Specialist",
-      "company": "Paddle",
-      "platform": "Jobicy",
-      "location": "Portugal",
-      "salary": "Competitive",
-      "type": "Full-Time",
-      "tags": [],
-      "postedAt": "2026-07-14T10:50:28+00:00",
-      "url": "https://jobicy.com/jobs/149321-customer-support-specialist"
     },
     {
       "id": "remoteok-1134835",
@@ -1769,27 +1756,6 @@
       "url": "https://remoteOK.com/remote-jobs/remote-ux-ui-designer-palerto-studio-1134780"
     },
     {
-      "id": "remoteok-1134832",
-      "title": "City Launch Hero",
-      "company": "Keepiz",
-      "platform": "RemoteOK",
-      "location": "Merton, ",
-      "salary": "Competitive",
-      "type": "Full-time",
-      "tags": [
-        "education",
-        "customer support",
-        "speech",
-        "scheme",
-        "exec",
-        "ops",
-        "recruiter",
-        "infosec"
-      ],
-      "postedAt": "2026-07-11T17:56:41+00:00",
-      "url": "https://remoteOK.com/remote-jobs/remote-city-launch-hero-keepiz-1134832"
-    },
-    {
       "id": "remotive-2090949",
       "title": "High-Ticket Financial Sales Specialist & Team Lead Track",
       "company": "FSE LLC",
@@ -1818,6 +1784,42 @@
       "tags": [],
       "postedAt": "2026-07-14T14:25:05+00:00",
       "url": "https://jobicy.com/jobs/145934-senior-performance-marketing-manager-paid-social"
+    },
+    {
+      "id": "jobicy-146191",
+      "title": "Network Engineer",
+      "company": "ManTech",
+      "platform": "Jobicy",
+      "location": "USA",
+      "salary": "Competitive",
+      "type": "Full-Time",
+      "tags": [],
+      "postedAt": "2026-07-15T20:25:04+00:00",
+      "url": "https://jobicy.com/jobs/146191-network-engineer"
+    },
+    {
+      "id": "jobicy-146194",
+      "title": "Electrical Engineer",
+      "company": "ManTech",
+      "platform": "Jobicy",
+      "location": "USA",
+      "salary": "Competitive",
+      "type": "Full-Time",
+      "tags": [],
+      "postedAt": "2026-07-15T20:25:03+00:00",
+      "url": "https://jobicy.com/jobs/146194-electrical-engineer"
+    },
+    {
+      "id": "jobicy-146203",
+      "title": "Advisory Engineer, Hardware HPSC",
+      "company": "RICOH",
+      "platform": "Jobicy",
+      "location": "USA",
+      "salary": "Competitive",
+      "type": "Full-Time",
+      "tags": [],
+      "postedAt": "2026-07-15T20:20:06+00:00",
+      "url": "https://jobicy.com/jobs/146203-advisory-engineer-hardware-hpsc"
     },
     {
       "id": "jobicy-146254",
@@ -1976,6 +1978,42 @@
       ],
       "postedAt": "2026-07-15T10:00:36.000Z",
       "url": "https://www.arbeitnow.com/jobs/companies/contutum-molka-sprave-plagemann-gottschall-steuerberater-rechtsanwalt-gbr/lohnbuchhalter-steuerfachangestellte-und-steuerfachwirte-alle-rostock-13165"
+    },
+    {
+      "id": "remoteok-1134841",
+      "title": "Programa de EstÃ¡gio FormaÃ§Ã£o em Vendas SDR Remoto",
+      "company": "Nibo",
+      "platform": "RemoteOK",
+      "location": "Brasil, ",
+      "salary": "Competitive",
+      "type": "Full-time",
+      "tags": [
+        "exec",
+        "front end",
+        "design",
+        "react",
+        "react.js",
+        "backend",
+        "javascript",
+        "c",
+        "git",
+        "digital nomad",
+        "dev"
+      ],
+      "postedAt": "2026-07-15T02:11:35+00:00",
+      "url": "https://remoteOK.com/remote-jobs/remote-programa-de-estagio-formacao-em-vendas-sdr-remoto-nibo-1134841"
+    },
+    {
+      "id": "remoteok-1134836",
+      "title": "ASSISTENTE ADMINISTRATIVO CADASTRO CONTROLADORIA Remoto",
+      "company": "Empresa Confidencial",
+      "platform": "RemoteOK",
+      "location": "Rio de Janeiro, ",
+      "salary": "Competitive",
+      "type": "Full-time",
+      "tags": [],
+      "postedAt": "2026-07-15T02:02:44+00:00",
+      "url": "https://remoteOK.com/remote-jobs/remote-assistente-administrativo-cadastro-controladoria-remoto-empresa-confidencial-1134836"
     },
     {
       "id": "remoteok-1134826",
@@ -2728,42 +2766,6 @@
       "tags": [],
       "postedAt": "2026-07-14T11:10:09+00:00",
       "url": "https://jobicy.com/jobs/146420-senior-manager-people-culture"
-    },
-    {
-      "id": "jobicy-146419",
-      "title": "Manager, Mobility - APAC",
-      "company": "Remote",
-      "platform": "Jobicy",
-      "location": "APAC",
-      "salary": "Competitive",
-      "type": "Full-Time",
-      "tags": [],
-      "postedAt": "2026-07-14T11:10:07+00:00",
-      "url": "https://jobicy.com/jobs/146419-manager-mobility-apac"
-    },
-    {
-      "id": "jobicy-146430",
-      "title": "Sr. Field Marketing Event Manager",
-      "company": "Ashby",
-      "platform": "Jobicy",
-      "location": "USA",
-      "salary": "Competitive",
-      "type": "Full-Time",
-      "tags": [],
-      "postedAt": "2026-07-14T11:05:08+00:00",
-      "url": "https://jobicy.com/jobs/146430-sr-field-marketing-event-manager"
-    },
-    {
-      "id": "jobicy-146432",
-      "title": "IT Software Asset Management Analyst",
-      "company": "DoorDash",
-      "platform": "Jobicy",
-      "location": "USA",
-      "salary": "Competitive",
-      "type": "Full-Time",
-      "tags": [],
-      "postedAt": "2026-07-14T11:05:07+00:00",
-      "url": "https://jobicy.com/jobs/146432-it-software-asset-management-analyst"
     }
   ]
 }
