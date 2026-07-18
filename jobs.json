@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-07-18T21:59:25.104Z",
+  "lastUpdated": "2026-07-18T23:02:18.794Z",
   "jobs": [
     {
       "id": "remoteok-1134996",
@@ -1098,16 +1098,31 @@
       "url": "https://remoteOK.com/remote-jobs/remote-graphic-designer-youfibre-1134925"
     },
     {
-      "id": "jobicy-144860",
-      "title": "Customer Service Representative - Cigna Healthcare",
-      "company": "The Cigna Group",
-      "platform": "Jobicy",
-      "location": "USA",
+      "id": "remoteok-1135016",
+      "title": "UGC Creator",
+      "company": "ren",
+      "platform": "RemoteOK",
+      "location": "San Francisco Bay Area",
       "salary": "Competitive",
-      "type": "Full-Time",
-      "tags": [],
-      "postedAt": "2026-07-18T09:25:05+00:00",
-      "url": "https://jobicy.com/jobs/144860-customer-service-representative-cigna-healthcare"
+      "type": "Full-time",
+      "tags": [
+        "sys admin",
+        "supervisor",
+        "customer support",
+        "testing",
+        "finance",
+        "education",
+        "microsoft",
+        "exec",
+        "ops",
+        "golang",
+        "medical",
+        "full time",
+        "video",
+        "content writing"
+      ],
+      "postedAt": "2026-07-17T22:48:40+00:00",
+      "url": "https://remoteOK.com/remote-jobs/remote-ugc-creator-ren-1135016"
     },
     {
       "id": "remoteok-1135023",
@@ -1855,40 +1870,88 @@
       "url": "https://remotive.com/remote-jobs/sales/high-ticket-financial-sales-specialist-team-lead-track-2090949"
     },
     {
-      "id": "jobicy-144808",
-      "title": "Senior Cloud Engineer (AWS)",
-      "company": "Leidos",
+      "id": "jobicy-146984",
+      "title": "Sales Engineer - Upstream Bioprocessing",
+      "company": "Spirax Group",
       "platform": "Jobicy",
-      "location": "USA",
+      "location": "EMEA",
       "salary": "Competitive",
       "type": "Full-Time",
       "tags": [],
-      "postedAt": "2026-07-18T09:40:07+00:00",
-      "url": "https://jobicy.com/jobs/144808-senior-cloud-engineer-aws"
+      "postedAt": "2026-07-18T19:10:05+00:00",
+      "url": "https://jobicy.com/jobs/146984-sales-engineer-upstream-bioprocessing"
     },
     {
-      "id": "jobicy-144863",
-      "title": "Senior Payroll Manager",
-      "company": "The Cigna Group",
+      "id": "jobicy-146977",
+      "title": "Senior Manager, GTM Operational Excellence",
+      "company": "Remote",
       "platform": "Jobicy",
-      "location": "USA",
+      "location": "EMEA,  LATAM,  Canada,  USA",
       "salary": "Competitive",
       "type": "Full-Time",
       "tags": [],
-      "postedAt": "2026-07-18T09:25:06+00:00",
-      "url": "https://jobicy.com/jobs/144863-senior-payroll-manager"
+      "postedAt": "2026-07-18T19:10:04+00:00",
+      "url": "https://jobicy.com/jobs/146977-senior-manager-gtm-operational-excellence"
     },
     {
-      "id": "jobicy-144870",
-      "title": "Principal Clinical Specialist",
-      "company": "Abbott",
+      "id": "jobicy-147005",
+      "title": "Clinical Program Pharmacist",
+      "company": "Arine",
       "platform": "Jobicy",
       "location": "USA",
       "salary": "Competitive",
       "type": "Full-Time",
       "tags": [],
-      "postedAt": "2026-07-18T09:20:06+00:00",
-      "url": "https://jobicy.com/jobs/144870-principal-clinical-specialist"
+      "postedAt": "2026-07-18T19:05:04+00:00",
+      "url": "https://jobicy.com/jobs/147005-clinical-program-pharmacist"
+    },
+    {
+      "id": "jobicy-147006",
+      "title": "Sales Excellence Manager, Global Sales Vendors",
+      "company": "Stripe",
+      "platform": "Jobicy",
+      "location": "USA",
+      "salary": "Competitive",
+      "type": "Full-Time",
+      "tags": [],
+      "postedAt": "2026-07-18T19:05:02+00:00",
+      "url": "https://jobicy.com/jobs/147006-sales-excellence-manager-global-sales-vendors"
+    },
+    {
+      "id": "jobicy-147012",
+      "title": "Medicare Sales Field Agent - Montgomery, AL",
+      "company": "Humana",
+      "platform": "Jobicy",
+      "location": "USA",
+      "salary": "Competitive",
+      "type": "Full-Time",
+      "tags": [],
+      "postedAt": "2026-07-18T19:00:03+00:00",
+      "url": "https://jobicy.com/jobs/147012-medicare-sales-field-agent-montgomery-al"
+    },
+    {
+      "id": "jobicy-147066",
+      "title": "Staff Android Engineer",
+      "company": "AlphaSense",
+      "platform": "Jobicy",
+      "location": "Europe,  UK",
+      "salary": "Competitive",
+      "type": "Full-Time",
+      "tags": [],
+      "postedAt": "2026-07-18T18:40:02+00:00",
+      "url": "https://jobicy.com/jobs/147066-staff-android-engineer"
+    },
+    {
+      "id": "jobicy-147074",
+      "title": "Email Growth Manager",
+      "company": "Ruby Labs",
+      "platform": "Jobicy",
+      "location": "Europe,  Türkiye",
+      "salary": "Competitive",
+      "type": "Full-Time",
+      "tags": [],
+      "postedAt": "2026-07-18T18:35:02+00:00",
+      "url": "https://jobicy.com/jobs/147074-email-growth-manager"
     },
     {
       "id": "jobicy-145233",
@@ -2297,18 +2360,6 @@
       "tags": [],
       "postedAt": "2026-07-18T01:25:03+00:00",
       "url": "https://jobicy.com/jobs/147085-sr-product-owner"
-    },
-    {
-      "id": "jobicy-144843",
-      "title": "Territory Sales Representative - Connacht",
-      "company": "Genuit Group",
-      "platform": "Jobicy",
-      "location": "UK",
-      "salary": "Competitive",
-      "type": "Full-Time",
-      "tags": [],
-      "postedAt": "2026-07-18T01:05:04+00:00",
-      "url": "https://jobicy.com/jobs/144843-territory-sales-representative-connacht"
     },
     {
       "id": "jobicy-147583",
@@ -2849,42 +2900,6 @@
       "tags": [],
       "postedAt": "2026-07-17T08:35:04+00:00",
       "url": "https://jobicy.com/jobs/146827-vessel-closure-regional-sales-director-mid-atlantic-pittsburgh-dc"
-    },
-    {
-      "id": "jobicy-146848",
-      "title": "Salesforce Developer",
-      "company": "dentsu",
-      "platform": "Jobicy",
-      "location": "Spain",
-      "salary": "Competitive",
-      "type": "Full-Time",
-      "tags": [],
-      "postedAt": "2026-07-17T08:30:04+00:00",
-      "url": "https://jobicy.com/jobs/146848-salesforce-developer-2"
-    },
-    {
-      "id": "jobicy-146845",
-      "title": "Sales Development Representative",
-      "company": "LexisNexis",
-      "platform": "Jobicy",
-      "location": "USA",
-      "salary": "Competitive",
-      "type": "Full-Time",
-      "tags": [],
-      "postedAt": "2026-07-17T08:30:02+00:00",
-      "url": "https://jobicy.com/jobs/146845-sales-development-representative-6"
-    },
-    {
-      "id": "jobicy-146868",
-      "title": "District Sales Manager -- Nashville Region",
-      "company": "Abbott",
-      "platform": "Jobicy",
-      "location": "USA",
-      "salary": "Competitive",
-      "type": "Full-Time",
-      "tags": [],
-      "postedAt": "2026-07-17T08:25:02+00:00",
-      "url": "https://jobicy.com/jobs/146868-district-sales-manager-nashville-region"
     }
   ]
 }
