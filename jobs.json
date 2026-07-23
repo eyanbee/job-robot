@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-07-23T09:28:22.040Z",
+  "lastUpdated": "2026-07-23T11:27:17.802Z",
   "jobs": [
     {
       "id": "remoteok-1135223",
@@ -507,6 +507,21 @@
       ],
       "postedAt": "2026-07-21T16:41:17+00:00",
       "url": "https://remoteOK.com/remote-jobs/remote-graphic-designer-chazak-rescue-1135170"
+    },
+    {
+      "id": "remoteok-1135213",
+      "title": "Various",
+      "company": "Usave Power",
+      "platform": "RemoteOK",
+      "location": "Cumbernauld, ",
+      "salary": "Competitive",
+      "type": "Full-time",
+      "tags": [
+        "customer support",
+        "non tech"
+      ],
+      "postedAt": "2026-07-22T10:54:12+00:00",
+      "url": "https://remoteOK.com/remote-jobs/remote-various-usave-power-1135213"
     },
     {
       "id": "remoteok-1135216",
@@ -1859,20 +1874,16 @@
       "url": "https://jobicy.com/jobs/144343-brand-writer"
     },
     {
-      "id": "arbeitnow-ingenieurin-versorgungstechnik-tga-schwerpunkt-sanitar-nuremberg-157983",
-      "title": "Ingenieur:in Versorgungstechnik TGA - Schwerpunkt Sanitär",
-      "company": "SÜSS Beratende Ingenieure",
-      "platform": "Arbeitnow",
-      "location": "Nuremberg",
+      "id": "remoteok-1135190",
+      "title": "Analista de ExperiÃªncia do UsuÃ¡rio JR TemporÃ¡rio",
+      "company": "ZENVIA",
+      "platform": "RemoteOK",
+      "location": "Brasil, ",
       "salary": "Competitive",
       "type": "Full-time",
-      "tags": [
-        "Building",
-        "Supply",
-        "Safety Services Engineering"
-      ],
-      "postedAt": "2026-07-22T10:00:47.000Z",
-      "url": "https://www.arbeitnow.com/jobs/companies/suss-beratende-ingenieure/ingenieurin-versorgungstechnik-tga-schwerpunkt-sanitar-nuremberg-157983"
+      "tags": [],
+      "postedAt": "2026-07-22T11:04:30+00:00",
+      "url": "https://remoteOK.com/remote-jobs/remote-analista-de-experiencia-do-usuario-jr-temporario-zenvia-1135190"
     },
     {
       "id": "remoteok-1135212",
@@ -1909,6 +1920,23 @@
       ],
       "postedAt": "2026-07-22T07:55:10+00:00",
       "url": "https://remoteOK.com/remote-jobs/remote-technician-radina-group-1135208"
+    },
+    {
+      "id": "remotive-2091072",
+      "title": "Product Sales Specialist - Pet Health (CST timezone)",
+      "company": "Tribe Wellness",
+      "platform": "Remotive",
+      "location": "Worldwide",
+      "salary": "Competitive",
+      "type": "Full-time",
+      "tags": [
+        "excel",
+        "salesforce",
+        "video",
+        "spark"
+      ],
+      "postedAt": "2026-07-22T06:22:11",
+      "url": "https://remotive.com/remote-jobs/sales/product-sales-specialist-pet-health-cst-timezone-2091072"
     },
     {
       "id": "remoteok-1135211",
@@ -2888,30 +2916,6 @@
       "tags": [],
       "postedAt": "2026-07-21T16:20:02+00:00",
       "url": "https://jobicy.com/jobs/149546-technical-manager-automotive-and-industrial"
-    },
-    {
-      "id": "jobicy-149545",
-      "title": "Ubuntu Sales Engineer (Entry-Level)",
-      "company": "Canonical Ltd.",
-      "platform": "Jobicy",
-      "location": "Anywhere",
-      "salary": "Competitive",
-      "type": "Full-Time",
-      "tags": [],
-      "postedAt": "2026-07-21T16:20:01+00:00",
-      "url": "https://jobicy.com/jobs/149545-ubuntu-sales-engineer-entry-level"
-    },
-    {
-      "id": "jobicy-149544",
-      "title": "Senior Site Reliability / Gitops Engineer",
-      "company": "Canonical Ltd.",
-      "platform": "Jobicy",
-      "location": "Anywhere",
-      "salary": "Competitive",
-      "type": "Full-Time",
-      "tags": [],
-      "postedAt": "2026-07-21T16:19:59+00:00",
-      "url": "https://jobicy.com/jobs/149544-senior-site-reliability-gitops-engineer"
     }
   ]
 }
