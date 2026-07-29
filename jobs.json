@@ -1,6 +1,35 @@
 {
-  "lastUpdated": "2026-07-29T03:51:24.850Z",
+  "lastUpdated": "2026-07-29T06:37:56.883Z",
   "jobs": [
+    {
+      "id": "remoteok-1135547",
+      "title": "Administrative Assistant",
+      "company": "Sundayy",
+      "platform": "RemoteOK",
+      "location": "United States, ",
+      "salary": "Competitive",
+      "type": "Full-time",
+      "tags": [
+        "exec",
+        "hr",
+        "sys admin",
+        "technical",
+        "customer support",
+        "finance",
+        "education",
+        "ops",
+        "stats",
+        "legal",
+        "medical",
+        "recruiter",
+        "content writing",
+        "marketing",
+        "golang",
+        "virtual assistant"
+      ],
+      "postedAt": "2026-07-28T06:05:16+00:00",
+      "url": "https://remoteOK.com/remote-jobs/remote-administrative-assistant-sundayy-1135547"
+    },
     {
       "id": "remoteok-1135548",
       "title": "Human Resources Benefits Coordinator",
@@ -273,26 +302,6 @@
       ],
       "postedAt": "2026-07-27T00:13:30+00:00",
       "url": "https://remoteOK.com/remote-jobs/remote-desimixtape-gander-ecommerce-solutions-1135551"
-    },
-    {
-      "id": "remoteok-1135442",
-      "title": "Generalist AI Trainer $35 hour",
-      "company": "LinkedIn",
-      "platform": "RemoteOK",
-      "location": "United States, ",
-      "salary": "Competitive",
-      "type": "Full-time",
-      "tags": [
-        "customer support",
-        "web dev",
-        "exec",
-        "photoshop",
-        "ecommerce",
-        "education",
-        "data annotation"
-      ],
-      "postedAt": "2026-07-26T18:02:33+00:00",
-      "url": "https://remoteOK.com/remote-jobs/remote-generalist-ai-trainer-35-hour-linkedin-1135442"
     },
     {
       "id": "arbeitnow-senior-seo-executive-performance-content-london-27567",
@@ -1427,34 +1436,6 @@
       "url": "https://remoteOK.com/remote-jobs/remote-system-kolejkowy-kolejkobot-widnet-1135502"
     },
     {
-      "id": "remoteok-1135456",
-      "title": "Digital Designer",
-      "company": "Revlytic",
-      "platform": "RemoteOK",
-      "location": "Sydney, ",
-      "salary": "Competitive",
-      "type": "Full-time",
-      "tags": [
-        "exec",
-        "customer support",
-        "marketing",
-        "finance",
-        "medical",
-        "consulting",
-        "design",
-        "python",
-        "technical",
-        "math",
-        "data science",
-        "digital nomad",
-        "speech",
-        "designer",
-        "content writing"
-      ],
-      "postedAt": "2026-07-26T17:57:39+00:00",
-      "url": "https://remoteOK.com/remote-jobs/remote-digital-designer-revlytic-1135456"
-    },
-    {
       "id": "jobicy-143758",
       "title": "Manager, Customer Support",
       "company": "Cloudbeds",
@@ -1506,6 +1487,20 @@
       "tags": [],
       "postedAt": "2026-07-27T07:50:06+00:00",
       "url": "https://jobicy.com/jobs/147880-talent-acquisition-specialist-3"
+    },
+    {
+      "id": "arbeitnow-senior-product-manager-england-106188",
+      "title": "Senior Product Manager",
+      "company": "Canary Technologies Corp",
+      "platform": "Arbeitnow",
+      "location": "England",
+      "salary": "Competitive",
+      "type": "Full-time",
+      "tags": [
+        "Product"
+      ],
+      "postedAt": "2026-07-29T05:25:08.000Z",
+      "url": "https://www.arbeitnow.co.uk/jobs/companies/canary-technologies-corp/senior-product-manager-england-106188"
     },
     {
       "id": "arbeitnow-technical-engineering-manager-robotics-welwyn-garden-city-204083",
@@ -2342,49 +2337,6 @@
       "url": "https://www.arbeitnow.co.uk/jobs/companies/nice/senior-trust-security-analyst-137278"
     },
     {
-      "id": "arbeitnow-senior-software-architect-316124",
-      "title": "Senior Software Architect",
-      "company": "nice",
-      "platform": "Arbeitnow",
-      "location": "Remote",
-      "salary": "Competitive",
-      "type": "Full-time",
-      "tags": [
-        "VM - Public Safety"
-      ],
-      "postedAt": "2026-07-28T14:55:26.000Z",
-      "url": "https://www.arbeitnow.co.uk/jobs/companies/nice/senior-software-architect-316124"
-    },
-    {
-      "id": "arbeitnow-senior-qa-automation-engineer-277206",
-      "title": "Senior QA Automation Engineer",
-      "company": "nice",
-      "platform": "Arbeitnow",
-      "location": "Remote",
-      "salary": "Competitive",
-      "type": "Full-time",
-      "tags": [
-        "CX - R&D Engineering"
-      ],
-      "postedAt": "2026-07-28T14:55:26.000Z",
-      "url": "https://www.arbeitnow.co.uk/jobs/companies/nice/senior-qa-automation-engineer-277206"
-    },
-    {
-      "id": "arbeitnow-senior-implementation-engineer-110955",
-      "title": "Senior implementation Engineer",
-      "company": "nice",
-      "platform": "Arbeitnow",
-      "location": "Remote",
-      "salary": "Competitive",
-      "type": "Full-time",
-      "tags": [
-        "Actimize",
-        "Management"
-      ],
-      "postedAt": "2026-07-28T14:55:26.000Z",
-      "url": "https://www.arbeitnow.co.uk/jobs/companies/nice/senior-implementation-engineer-110955"
-    },
-    {
       "id": "jobicy-147700",
       "title": "Principal Software Architect",
       "company": "Testlio",
@@ -2599,6 +2551,40 @@
       "tags": [],
       "postedAt": "2026-07-28T11:55:08+00:00",
       "url": "https://jobicy.com/jobs/141971-data-scientist-analytics-technical-leadership"
+    },
+    {
+      "id": "remoteok-1135542",
+      "title": "Groundman II",
+      "company": "Town of Westbrook",
+      "platform": "RemoteOK",
+      "location": "Uluberia-II, ",
+      "salary": "Competitive",
+      "type": "Full-time",
+      "tags": [
+        "exec",
+        "dev",
+        "engineer",
+        "digital nomad",
+        "finance",
+        "education",
+        "senior",
+        "golang",
+        "medical"
+      ],
+      "postedAt": "2026-07-28T04:28:15+00:00",
+      "url": "https://remoteOK.com/remote-jobs/remote-groundman-ii-town-of-westbrook-1135542"
+    },
+    {
+      "id": "remoteok-1135550",
+      "title": "PUSHDOWN",
+      "company": "G13 Advertising",
+      "platform": "RemoteOK",
+      "location": "Content, ",
+      "salary": "Competitive",
+      "type": "Full-time",
+      "tags": [],
+      "postedAt": "2026-07-28T04:24:38+00:00",
+      "url": "https://remoteOK.com/remote-jobs/remote-pushdown-g13-advertising-1135550"
     },
     {
       "id": "remoteok-1135527",
@@ -2830,6 +2816,20 @@
       ],
       "postedAt": "2026-07-27T17:33:08+00:00",
       "url": "https://remoteOK.com/remote-jobs/remote-competition-factory-courthive-1135543"
+    },
+    {
+      "id": "remoteok-1135539",
+      "title": "TMX",
+      "company": "CourtHive",
+      "platform": "RemoteOK",
+      "location": "Roorkee, ",
+      "salary": "Competitive",
+      "type": "Full-time",
+      "tags": [
+        "exec"
+      ],
+      "postedAt": "2026-07-27T17:33:01+00:00",
+      "url": "https://remoteOK.com/remote-jobs/remote-tmx-courthive-1135539"
     }
   ]
 }
