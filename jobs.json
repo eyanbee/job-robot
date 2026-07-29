@@ -1,6 +1,88 @@
 {
-  "lastUpdated": "2026-07-29T12:06:28.161Z",
+  "lastUpdated": "2026-07-29T14:52:51.615Z",
   "jobs": [
+    {
+      "id": "remoteok-1135611",
+      "title": "Area Sales Manager",
+      "company": "ROAR Organic",
+      "platform": "RemoteOK",
+      "location": "New York City Metropolitan Area",
+      "salary": "Competitive",
+      "type": "Full-time",
+      "tags": [
+        "design",
+        "music",
+        "technical",
+        "travel",
+        "speech",
+        "video",
+        "exec",
+        "content writing",
+        "medical",
+        "engineer",
+        "digital nomad",
+        "sys admin",
+        "consulting",
+        "testing",
+        "virtual assistant",
+        "finance",
+        "senior",
+        "ops",
+        "customer support",
+        "dev",
+        "microsoft",
+        "excel",
+        "legal",
+        "designer",
+        "web dev",
+        "cloud",
+        "marketing",
+        "photoshop",
+        "illustrator",
+        "full time",
+        "part time",
+        "sales"
+      ],
+      "postedAt": "2026-07-28T14:38:06+00:00",
+      "url": "https://remoteOK.com/remote-jobs/remote-area-sales-manager-roar-organic-1135611"
+    },
+    {
+      "id": "remoteok-1135573",
+      "title": "Moderator of Orders Feed",
+      "company": "inDrive",
+      "platform": "RemoteOK",
+      "location": "Jakarta, Jakarta, Jakarta Raya, Indonesia",
+      "salary": "Competitive",
+      "type": "Full-time",
+      "tags": [
+        "consulting",
+        "technical",
+        "strategy",
+        "virtual assistant",
+        "cloud",
+        "exec",
+        "saas",
+        "salesforce",
+        "hr",
+        "ops",
+        "c",
+        "data entry",
+        "infosec",
+        "education",
+        "customer support",
+        "marketing",
+        "admin",
+        "microsoft",
+        "excel",
+        "sys admin",
+        "video",
+        "speech",
+        "adult",
+        "content writing"
+      ],
+      "postedAt": "2026-07-28T12:14:21+00:00",
+      "url": "https://remoteOK.com/remote-jobs/remote-moderator-of-orders-feed-indrive-1135573"
+    },
     {
       "id": "remoteok-1135547",
       "title": "Administrative Assistant",
@@ -174,35 +256,6 @@
       "url": "https://remoteOK.com/remote-jobs/remote-hr-operations-generalist-hired-1135450"
     },
     {
-      "id": "remoteok-1135449",
-      "title": "Medical Scheduler",
-      "company": "CareStream Advisory Group",
-      "platform": "RemoteOK",
-      "location": "United States, ",
-      "salary": "Competitive",
-      "type": "Full-time",
-      "tags": [
-        "virtual assistant",
-        "medical"
-      ],
-      "postedAt": "2026-07-27T00:09:18+00:00",
-      "url": "https://remoteOK.com/remote-jobs/remote-medical-scheduler-carestream-advisory-group-1135449"
-    },
-    {
-      "id": "remoteok-1135448",
-      "title": "Administrative Assistant",
-      "company": "IT Resources",
-      "platform": "RemoteOK",
-      "location": "Remote, ",
-      "salary": "Competitive",
-      "type": "Full-time",
-      "tags": [
-        "virtual assistant"
-      ],
-      "postedAt": "2026-07-27T00:07:35+00:00",
-      "url": "https://remoteOK.com/remote-jobs/remote-administrative-assistant-it-resources-1135448"
-    },
-    {
       "id": "jobicy-147703",
       "title": "Executive Assistant / Corporate Administrator",
       "company": "Canonical Ltd.",
@@ -267,6 +320,32 @@
       ],
       "postedAt": "2026-07-27T17:32:24+00:00",
       "url": "https://remoteOK.com/remote-jobs/remote-social-media-and-video-content-manager-ajaia-ai-consultancy-1135536"
+    },
+    {
+      "id": "remoteok-1135575",
+      "title": "Sales &amp; Marketing Director",
+      "company": "Hustler Marketing",
+      "platform": "RemoteOK",
+      "location": "Madrid, Madrid, Comunidad de Madrid, EspaÃ±a",
+      "salary": "Competitive",
+      "type": "Full-time",
+      "tags": [
+        "exec",
+        "saas",
+        "marketing",
+        "finance",
+        "seo",
+        "content writing",
+        "senior",
+        "ops",
+        "sales",
+        "medical",
+        "recruiter",
+        "ecommerce",
+        "full time"
+      ],
+      "postedAt": "2026-07-28T14:19:29+00:00",
+      "url": "https://remoteOK.com/remote-jobs/remote-sales-amp-marketing-director-hustler-marketing-1135575"
     },
     {
       "id": "remoteok-1135553",
@@ -1426,6 +1505,18 @@
       "url": "https://jobicy.com/jobs/143758-manager-customer-support-2"
     },
     {
+      "id": "arbeitnow-senior-talent-acquisition-partner-london-95568",
+      "title": "Senior Talent Acquisition Partner",
+      "company": "SumUp",
+      "platform": "Arbeitnow",
+      "location": "London, London, United Kingdom",
+      "salary": "Competitive",
+      "type": "Full-time",
+      "tags": [],
+      "postedAt": "2026-07-29T13:45:23.000Z",
+      "url": "https://www.arbeitnow.co.uk/jobs/companies/sumup/senior-talent-acquisition-partner-london-95568"
+    },
+    {
       "id": "arbeitnow-remote-senior-talent-acquisition-manager-tech-435621",
       "title": "(Senior) Talent Acquisition Manager – Tech",
       "company": "Career Site bei Lobster",
@@ -1450,6 +1541,118 @@
       "tags": [],
       "postedAt": "2026-07-27T07:50:06+00:00",
       "url": "https://jobicy.com/jobs/147880-talent-acquisition-specialist-3"
+    },
+    {
+      "id": "arbeitnow-principal-data-scientist-london-zurich-302530",
+      "title": "Principal Data Scientist",
+      "company": "onrunning",
+      "platform": "Arbeitnow",
+      "location": "London; Zurich",
+      "salary": "Competitive",
+      "type": "Full-time",
+      "tags": [
+        "Data"
+      ],
+      "postedAt": "2026-07-29T12:15:16.000Z",
+      "url": "https://www.arbeitnow.co.uk/jobs/companies/onrunning/principal-data-scientist-london-zurich-302530"
+    },
+    {
+      "id": "arbeitnow-senior-marketing-manager-city-of-london-corporation-gbr-352642",
+      "title": "Senior Marketing Manager",
+      "company": "zscaler",
+      "platform": "Arbeitnow",
+      "location": "City of London Corporation, GBR",
+      "salary": "Competitive",
+      "type": "Full-time",
+      "tags": [
+        "Marketing"
+      ],
+      "postedAt": "2026-07-29T11:56:40.000Z",
+      "url": "https://www.arbeitnow.co.uk/jobs/companies/zscaler/senior-marketing-manager-city-of-london-corporation-gbr-352642"
+    },
+    {
+      "id": "arbeitnow-sales-account-executive-majors-city-of-london-corporation-gbr-354751",
+      "title": "Sales Account Executive, Majors",
+      "company": "zscaler",
+      "platform": "Arbeitnow",
+      "location": "City of London Corporation, GBR",
+      "salary": "Competitive",
+      "type": "Full-time",
+      "tags": [
+        "EMEA Field Sales"
+      ],
+      "postedAt": "2026-07-29T11:56:40.000Z",
+      "url": "https://www.arbeitnow.co.uk/jobs/companies/zscaler/sales-account-executive-majors-city-of-london-corporation-gbr-354751"
+    },
+    {
+      "id": "arbeitnow-commercial-account-executive-city-of-london-corporation-gbr-194413",
+      "title": "Commercial Account Executive",
+      "company": "zscaler",
+      "platform": "Arbeitnow",
+      "location": "City of London Corporation, GBR",
+      "salary": "Competitive",
+      "type": "Full-time",
+      "tags": [
+        "EMEA Field Sales"
+      ],
+      "postedAt": "2026-07-29T11:56:40.000Z",
+      "url": "https://www.arbeitnow.co.uk/jobs/companies/zscaler/commercial-account-executive-city-of-london-corporation-gbr-194413"
+    },
+    {
+      "id": "arbeitnow-account-executive-smb-london-united-kingdom-198000",
+      "title": "Account Executive, SMB (London, United Kingdom)",
+      "company": "figma",
+      "platform": "Arbeitnow",
+      "location": "London",
+      "salary": "Competitive",
+      "type": "Full-time",
+      "tags": [
+        "Sales"
+      ],
+      "postedAt": "2026-07-29T11:56:03.000Z",
+      "url": "https://www.arbeitnow.co.uk/jobs/companies/figma/account-executive-smb-london-united-kingdom-198000"
+    },
+    {
+      "id": "arbeitnow-product-growth-analytics-lead-amsterdam-netherlands-london-252385",
+      "title": "Product Growth Analytics Lead",
+      "company": "Nebius",
+      "platform": "Arbeitnow",
+      "location": "Amsterdam, Netherlands; London",
+      "salary": "Competitive",
+      "type": "Full-time",
+      "tags": [
+        "TF Product"
+      ],
+      "postedAt": "2026-07-29T11:55:36.000Z",
+      "url": "https://www.arbeitnow.co.uk/jobs/companies/nebius/product-growth-analytics-lead-amsterdam-netherlands-london-252385"
+    },
+    {
+      "id": "arbeitnow-large-enterprise-account-executive-nordics-amsterdam-nl-copenhagen-dk-375429",
+      "title": "Large Enterprise Account Executive - Nordics",
+      "company": "Realtimeboardglobal",
+      "platform": "Arbeitnow",
+      "location": "Amsterdam, NL; Copenhagen, DK",
+      "salary": "Competitive",
+      "type": "Full-time",
+      "tags": [
+        "Core Sales"
+      ],
+      "postedAt": "2026-07-29T11:55:09.000Z",
+      "url": "https://www.arbeitnow.co.uk/jobs/companies/realtimeboardglobal/large-enterprise-account-executive-nordics-amsterdam-nl-copenhagen-dk-375429"
+    },
+    {
+      "id": "arbeitnow-ai-engineer-sr-1-uk-107748",
+      "title": "AI Engineer, Sr 1",
+      "company": "Jobgether",
+      "platform": "Arbeitnow",
+      "location": "UK",
+      "salary": "Competitive",
+      "type": "Full-time",
+      "tags": [
+        "IT"
+      ],
+      "postedAt": "2026-07-29T11:24:41.000Z",
+      "url": "https://www.arbeitnow.co.uk/jobs/companies/jobgether/ai-engineer-sr-1-uk-107748"
     },
     {
       "id": "arbeitnow-senior-manager-application-security-engineering-emea-n-a-317454",
@@ -1939,186 +2142,6 @@
       "url": "https://www.arbeitnow.co.uk/jobs/companies/onetrust/senior-solutions-engineer-london-313415"
     },
     {
-      "id": "arbeitnow-principal-solutions-engineer-london-272591",
-      "title": "Principal Solutions Engineer",
-      "company": "onetrust",
-      "platform": "Arbeitnow",
-      "location": "London",
-      "salary": "Competitive",
-      "type": "Full-time",
-      "tags": [
-        "Sales"
-      ],
-      "postedAt": "2026-07-28T20:55:17.000Z",
-      "url": "https://www.arbeitnow.co.uk/jobs/companies/onetrust/principal-solutions-engineer-london-272591"
-    },
-    {
-      "id": "arbeitnow-account-director-london-111528",
-      "title": "Account Director",
-      "company": "WPP Production",
-      "platform": "Arbeitnow",
-      "location": "London, England, United Kingdom",
-      "salary": "Competitive",
-      "type": "Full-time",
-      "tags": [],
-      "postedAt": "2026-07-28T20:45:26.000Z",
-      "url": "https://www.arbeitnow.co.uk/jobs/companies/wpp-production/account-director-london-111528"
-    },
-    {
-      "id": "arbeitnow-account-executive-london-319810",
-      "title": "Account Executive",
-      "company": "Marcus Evans",
-      "platform": "Arbeitnow",
-      "location": "London, Greater London, United Kingdom",
-      "salary": "Competitive",
-      "type": "Full-time",
-      "tags": [
-        "Sales"
-      ],
-      "postedAt": "2026-07-28T20:30:50.000Z",
-      "url": "https://www.arbeitnow.co.uk/jobs/companies/marcus-evans/account-executive-london-319810"
-    },
-    {
-      "id": "arbeitnow-remote-senior-customer-relationship-manager-r-19677-346291",
-      "title": "Senior Customer Relationship Manager (R-19677)",
-      "company": "Dun & Bradstreet",
-      "platform": "Arbeitnow",
-      "location": "Remote - England",
-      "salary": "Competitive",
-      "type": "Full-time",
-      "tags": [
-        "Sales"
-      ],
-      "postedAt": "2026-07-28T20:25:05.000Z",
-      "url": "https://www.arbeitnow.co.uk/jobs/companies/dun-bradstreet/remote-senior-customer-relationship-manager-r-19677-346291"
-    },
-    {
-      "id": "arbeitnow-account-executive-public-sector-south-west-uk-reading-united-kingdom-284240",
-      "title": "Account Executive – Public Sector (South West UK)",
-      "company": "Extreme Networks",
-      "platform": "Arbeitnow",
-      "location": "Reading, United Kingdom",
-      "salary": "Competitive",
-      "type": "Full-time",
-      "tags": [
-        "Sales"
-      ],
-      "postedAt": "2026-07-28T20:05:13.000Z",
-      "url": "https://www.arbeitnow.co.uk/jobs/companies/extreme-networks/account-executive-public-sector-south-west-uk-reading-united-kingdom-284240"
-    },
-    {
-      "id": "arbeitnow-senior-data-analyst-london-197206",
-      "title": "Senior Data Analyst",
-      "company": "oliver",
-      "platform": "Arbeitnow",
-      "location": "London",
-      "salary": "Competitive",
-      "type": "Full-time",
-      "tags": [
-        "Analytics"
-      ],
-      "postedAt": "2026-07-28T18:17:49.000Z",
-      "url": "https://www.arbeitnow.co.uk/jobs/companies/oliver/senior-data-analyst-london-197206"
-    },
-    {
-      "id": "arbeitnow-account-director-4-months-ftc-london-323395",
-      "title": "Account Director (4 Months FTC)",
-      "company": "oliver",
-      "platform": "Arbeitnow",
-      "location": "London",
-      "salary": "Competitive",
-      "type": "Full-time",
-      "tags": [
-        "Client Services/Account Management"
-      ],
-      "postedAt": "2026-07-28T18:17:49.000Z",
-      "url": "https://www.arbeitnow.co.uk/jobs/companies/oliver/account-director-4-months-ftc-london-323395"
-    },
-    {
-      "id": "arbeitnow-senior-technical-project-manager-token-factory-amsterdam-netherlands-london-61354",
-      "title": "Senior Technical Project Manager - Token Factory",
-      "company": "Nebius",
-      "platform": "Arbeitnow",
-      "location": "Amsterdam, Netherlands; London",
-      "salary": "Competitive",
-      "type": "Full-time",
-      "tags": [
-        "Technology"
-      ],
-      "postedAt": "2026-07-28T18:17:31.000Z",
-      "url": "https://www.arbeitnow.co.uk/jobs/companies/nebius/senior-technical-project-manager-token-factory-amsterdam-netherlands-london-61354"
-    },
-    {
-      "id": "arbeitnow-commercial-account-executive-london-154499",
-      "title": "Commercial Account Executive",
-      "company": "smartsheet",
-      "platform": "Arbeitnow",
-      "location": "London",
-      "salary": "Competitive",
-      "type": "Full-time",
-      "tags": [
-        "Commercial Sales"
-      ],
-      "postedAt": "2026-07-28T18:15:59.000Z",
-      "url": "https://www.arbeitnow.co.uk/jobs/companies/smartsheet/commercial-account-executive-london-154499"
-    },
-    {
-      "id": "arbeitnow-account-executive-smb-uk-markets-london-266982",
-      "title": "Account Executive - SMB UK Markets",
-      "company": "Trustpilot",
-      "platform": "Arbeitnow",
-      "location": "London",
-      "salary": "Competitive",
-      "type": "Full-time",
-      "tags": [
-        "New Biz"
-      ],
-      "postedAt": "2026-07-28T18:15:46.000Z",
-      "url": "https://www.arbeitnow.co.uk/jobs/companies/trustpilot/account-executive-smb-uk-markets-london-266982"
-    },
-    {
-      "id": "arbeitnow-healthcare-life-sciences-principal-emea-staines-384627",
-      "title": "Healthcare & Life Sciences Principal, EMEA",
-      "company": "purestorage",
-      "platform": "Arbeitnow",
-      "location": "Staines",
-      "salary": "Competitive",
-      "type": "Full-time",
-      "tags": [
-        "Sales"
-      ],
-      "postedAt": "2026-07-28T18:15:32.000Z",
-      "url": "https://www.arbeitnow.co.uk/jobs/companies/purestorage/healthcare-life-sciences-principal-emea-staines-384627"
-    },
-    {
-      "id": "arbeitnow-mid-market-account-executive-media-entertainment-agencies-london-147996",
-      "title": "Mid-Market Account Executive, Media & Entertainment Agencies",
-      "company": "boxinc",
-      "platform": "Arbeitnow",
-      "location": "London",
-      "salary": "Competitive",
-      "type": "Full-time",
-      "tags": [
-        "Commercial Sales"
-      ],
-      "postedAt": "2026-07-28T18:15:27.000Z",
-      "url": "https://www.arbeitnow.co.uk/jobs/companies/boxinc/mid-market-account-executive-media-entertainment-agencies-london-147996"
-    },
-    {
-      "id": "arbeitnow-senior-medical-writer-62919",
-      "title": "Senior Medical Writer",
-      "company": "Realchemistry",
-      "platform": "Arbeitnow",
-      "location": "Remote",
-      "salary": "Competitive",
-      "type": "Full-time",
-      "tags": [
-        "EMEA Medical Education"
-      ],
-      "postedAt": "2026-07-28T17:56:03.000Z",
-      "url": "https://www.arbeitnow.co.uk/jobs/companies/realchemistry/senior-medical-writer-62919"
-    },
-    {
       "id": "jobicy-147700",
       "title": "Principal Software Architect",
       "company": "Testlio",
@@ -2189,6 +2212,18 @@
       "tags": [],
       "postedAt": "2026-07-28T12:45:04+00:00",
       "url": "https://jobicy.com/jobs/144774-senior-business-analyst-health-insurance-fully-remote"
+    },
+    {
+      "id": "remoteok-1135560",
+      "title": "Jop posting title",
+      "company": "Koorier",
+      "platform": "RemoteOK",
+      "location": "Location, ",
+      "salary": "Competitive",
+      "type": "Full-time",
+      "tags": [],
+      "postedAt": "2026-07-28T12:33:17+00:00",
+      "url": "https://remoteOK.com/remote-jobs/remote-jop-posting-title-koorier-1135560"
     },
     {
       "id": "jobicy-143427",
@@ -2816,6 +2851,30 @@
       ],
       "postedAt": "2026-07-27T10:17:07+00:00",
       "url": "https://remoteOK.com/remote-jobs/remote-budget-us-gove-1135487"
+    },
+    {
+      "id": "jobicy-147580",
+      "title": "Staff Engineer, Builder Enablement",
+      "company": "NBCUniversal",
+      "platform": "Jobicy",
+      "location": "USA",
+      "salary": "Competitive",
+      "type": "Full-Time",
+      "tags": [],
+      "postedAt": "2026-07-27T10:14:29+00:00",
+      "url": "https://jobicy.com/jobs/147580-staff-engineer-builder-enablement"
+    },
+    {
+      "id": "remoteok-1135479",
+      "title": "Stream Clearing",
+      "company": "US Gove",
+      "platform": "RemoteOK",
+      "location": "Clearing, ",
+      "salary": "Competitive",
+      "type": "Full-time",
+      "tags": [],
+      "postedAt": "2026-07-27T10:14:02+00:00",
+      "url": "https://remoteOK.com/remote-jobs/remote-stream-clearing-us-gove-1135479"
     }
   ]
 }
