@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-08-02T16:06:17.982Z",
+  "lastUpdated": "2026-08-02T17:34:16.681Z",
   "jobs": [
     {
       "id": "remoteok-1135789",
@@ -464,6 +464,20 @@
       "url": "https://remoteOK.com/remote-jobs/remote-phone-support-specialist-arabic-revolut-1135905"
     },
     {
+      "id": "arbeitnow-senior-content-manager-london-389981",
+      "title": "Senior Content Manager",
+      "company": "Hawk",
+      "platform": "Arbeitnow",
+      "location": "London",
+      "salary": "Competitive",
+      "type": "Full-time",
+      "tags": [
+        "Marketing"
+      ],
+      "postedAt": "2026-08-02T15:40:37.000Z",
+      "url": "https://www.arbeitnow.co.uk/jobs/companies/hawk/senior-content-manager-london-389981"
+    },
+    {
       "id": "remoteok-1135901",
       "title": "Freelance Creative Director",
       "company": "BMWL",
@@ -583,20 +597,6 @@
       ],
       "postedAt": "2026-07-30T05:38:16+00:00",
       "url": "https://remoteOK.com/remote-jobs/remote-graphic-designer-uchromatic-1135767"
-    },
-    {
-      "id": "arbeitnow-customer-service-manager-london-81107",
-      "title": "Customer Service Manager",
-      "company": "Omaze",
-      "platform": "Arbeitnow",
-      "location": "London",
-      "salary": "Competitive",
-      "type": "Full-time",
-      "tags": [
-        "Product"
-      ],
-      "postedAt": "2026-08-02T13:01:18.000Z",
-      "url": "https://www.arbeitnow.co.uk/jobs/companies/omaze/customer-service-manager-london-81107"
     },
     {
       "id": "jobicy-150110",
@@ -1576,18 +1576,18 @@
       "url": "https://remoteOK.com/remote-jobs/remote-genai-engineer-ai-builder-ai-agent-associate-specialist-magic-compass-limited-1135735"
     },
     {
-      "id": "arbeitnow-people-operations-manager-12-mth-ftc-london-474844",
-      "title": "People Operations Manager - 12 mth FTC",
-      "company": "Fundingcircle",
+      "id": "arbeitnow-remote-business-operations-manager-376423",
+      "title": "Business Operations Manager",
+      "company": "Clera",
       "platform": "Arbeitnow",
-      "location": "London",
+      "location": "remote",
       "salary": "Competitive",
       "type": "Full-time",
       "tags": [
-        "People"
+        "Engineering"
       ],
-      "postedAt": "2026-08-02T13:00:41.000Z",
-      "url": "https://www.arbeitnow.co.uk/jobs/companies/fundingcircle/people-operations-manager-12-mth-ftc-london-474844"
+      "postedAt": "2026-08-02T15:40:08.000Z",
+      "url": "https://www.arbeitnow.co.uk/jobs/companies/clera/remote-business-operations-manager-376423"
     },
     {
       "id": "jobicy-150098",
@@ -1602,9 +1602,317 @@
       "url": "https://jobicy.com/jobs/150098-senior-manager-customer-onboarding"
     },
     {
-      "id": "arbeitnow-senior-performance-marketing-manager-google-youtube-london-277987",
-      "title": "Senior Performance Marketing Manager - Google/Youtube",
-      "company": "Omaze",
+      "id": "arbeitnow-senior-ux-ui-designer-flex-team-london-484299",
+      "title": "Senior UX/UI Designer - Flex Team",
+      "company": "Wundermanthompson",
+      "platform": "Arbeitnow",
+      "location": "London",
+      "salary": "Competitive",
+      "type": "Full-time",
+      "tags": [
+        "Technology & Innovation"
+      ],
+      "postedAt": "2026-08-02T15:57:02.000Z",
+      "url": "https://www.arbeitnow.co.uk/jobs/companies/wundermanthompson/senior-ux-ui-designer-flex-team-london-484299"
+    },
+    {
+      "id": "arbeitnow-senior-ux-ui-designer-app-ops-london-395549",
+      "title": "Senior UX/UI Designer - App Ops",
+      "company": "Wundermanthompson",
+      "platform": "Arbeitnow",
+      "location": "London",
+      "salary": "Competitive",
+      "type": "Full-time",
+      "tags": [
+        "Technology & Innovation"
+      ],
+      "postedAt": "2026-08-02T15:57:02.000Z",
+      "url": "https://www.arbeitnow.co.uk/jobs/companies/wundermanthompson/senior-ux-ui-designer-app-ops-london-395549"
+    },
+    {
+      "id": "arbeitnow-senior-technical-architect-london-351557",
+      "title": "Senior Technical Architect",
+      "company": "Wundermanthompson",
+      "platform": "Arbeitnow",
+      "location": "London",
+      "salary": "Competitive",
+      "type": "Full-time",
+      "tags": [
+        "Technology & Innovation"
+      ],
+      "postedAt": "2026-08-02T15:57:02.000Z",
+      "url": "https://www.arbeitnow.co.uk/jobs/companies/wundermanthompson/senior-technical-architect-london-351557"
+    },
+    {
+      "id": "arbeitnow-senior-strategist-cx-consultant-london-492857",
+      "title": "Senior Strategist / CX Consultant",
+      "company": "Wundermanthompson",
+      "platform": "Arbeitnow",
+      "location": "London",
+      "salary": "Competitive",
+      "type": "Full-time",
+      "tags": [
+        "Technology & Innovation"
+      ],
+      "postedAt": "2026-08-02T15:57:02.000Z",
+      "url": "https://www.arbeitnow.co.uk/jobs/companies/wundermanthompson/senior-strategist-cx-consultant-london-492857"
+    },
+    {
+      "id": "arbeitnow-senior-strategist-london-165391",
+      "title": "Senior Strategist",
+      "company": "Wundermanthompson",
+      "platform": "Arbeitnow",
+      "location": "London",
+      "salary": "Competitive",
+      "type": "Full-time",
+      "tags": [
+        "Strategy"
+      ],
+      "postedAt": "2026-08-02T15:57:02.000Z",
+      "url": "https://www.arbeitnow.co.uk/jobs/companies/wundermanthompson/senior-strategist-london-165391"
+    },
+    {
+      "id": "arbeitnow-senior-social-strategist-london-10533",
+      "title": "Senior Social Strategist",
+      "company": "Wundermanthompson",
+      "platform": "Arbeitnow",
+      "location": "London",
+      "salary": "Competitive",
+      "type": "Full-time",
+      "tags": [
+        "Strategy"
+      ],
+      "postedAt": "2026-08-02T15:57:02.000Z",
+      "url": "https://www.arbeitnow.co.uk/jobs/companies/wundermanthompson/senior-social-strategist-london-10533"
+    },
+    {
+      "id": "arbeitnow-senior-social-strategist-london-14592",
+      "title": "Senior Social Strategist",
+      "company": "Wundermanthompson",
+      "platform": "Arbeitnow",
+      "location": "London",
+      "salary": "Competitive",
+      "type": "Full-time",
+      "tags": [
+        "Strategy"
+      ],
+      "postedAt": "2026-08-02T15:57:02.000Z",
+      "url": "https://www.arbeitnow.co.uk/jobs/companies/wundermanthompson/senior-social-strategist-london-14592"
+    },
+    {
+      "id": "arbeitnow-senior-social-manager-london-48012",
+      "title": "Senior Social Manager",
+      "company": "Wundermanthompson",
+      "platform": "Arbeitnow",
+      "location": "London",
+      "salary": "Competitive",
+      "type": "Full-time",
+      "tags": [
+        "Connections"
+      ],
+      "postedAt": "2026-08-02T15:57:02.000Z",
+      "url": "https://www.arbeitnow.co.uk/jobs/companies/wundermanthompson/senior-social-manager-london-48012"
+    },
+    {
+      "id": "arbeitnow-senior-social-manager-london-56151",
+      "title": "Senior Social Manager",
+      "company": "Wundermanthompson",
+      "platform": "Arbeitnow",
+      "location": "London",
+      "salary": "Competitive",
+      "type": "Full-time",
+      "tags": [
+        "Connections"
+      ],
+      "postedAt": "2026-08-02T15:57:02.000Z",
+      "url": "https://www.arbeitnow.co.uk/jobs/companies/wundermanthompson/senior-social-manager-london-56151"
+    },
+    {
+      "id": "arbeitnow-senior-social-creative-london-175863",
+      "title": "Senior Social Creative",
+      "company": "Wundermanthompson",
+      "platform": "Arbeitnow",
+      "location": "London",
+      "salary": "Competitive",
+      "type": "Full-time",
+      "tags": [
+        "Templates"
+      ],
+      "postedAt": "2026-08-02T15:57:02.000Z",
+      "url": "https://www.arbeitnow.co.uk/jobs/companies/wundermanthompson/senior-social-creative-london-175863"
+    },
+    {
+      "id": "arbeitnow-senior-social-commerce-strategist-permanent-london-204412",
+      "title": "Senior Social Commerce Strategist (Permanent)",
+      "company": "Wundermanthompson",
+      "platform": "Arbeitnow",
+      "location": "London",
+      "salary": "Competitive",
+      "type": "Full-time",
+      "tags": [
+        "Technology & Innovation"
+      ],
+      "postedAt": "2026-08-02T15:57:02.000Z",
+      "url": "https://www.arbeitnow.co.uk/jobs/companies/wundermanthompson/senior-social-commerce-strategist-permanent-london-204412"
+    },
+    {
+      "id": "arbeitnow-senior-social-commerce-strategist-ftc-london-365362",
+      "title": "Senior Social Commerce Strategist (FTC)",
+      "company": "Wundermanthompson",
+      "platform": "Arbeitnow",
+      "location": "London",
+      "salary": "Competitive",
+      "type": "Full-time",
+      "tags": [
+        "Freelance"
+      ],
+      "postedAt": "2026-08-02T15:57:02.000Z",
+      "url": "https://www.arbeitnow.co.uk/jobs/companies/wundermanthompson/senior-social-commerce-strategist-ftc-london-365362"
+    },
+    {
+      "id": "arbeitnow-senior-medical-writer-12-month-ftc-london-499386",
+      "title": "Senior Medical Writer- 12 month FTC",
+      "company": "Wundermanthompson",
+      "platform": "Arbeitnow",
+      "location": "London",
+      "salary": "Competitive",
+      "type": "Full-time",
+      "tags": [
+        "Freelance"
+      ],
+      "postedAt": "2026-08-02T15:57:02.000Z",
+      "url": "https://www.arbeitnow.co.uk/jobs/companies/wundermanthompson/senior-medical-writer-12-month-ftc-london-499386"
+    },
+    {
+      "id": "arbeitnow-senior-data-platform-enablement-lead-london-99071",
+      "title": "Senior Data Platform Enablement Lead ",
+      "company": "Wundermanthompson",
+      "platform": "Arbeitnow",
+      "location": "London",
+      "salary": "Competitive",
+      "type": "Full-time",
+      "tags": [
+        "Technology & Innovation"
+      ],
+      "postedAt": "2026-08-02T15:57:01.000Z",
+      "url": "https://www.arbeitnow.co.uk/jobs/companies/wundermanthompson/senior-data-platform-enablement-lead-london-99071"
+    },
+    {
+      "id": "arbeitnow-senior-copywriter-london-477843",
+      "title": "Senior Copywriter",
+      "company": "Wundermanthompson",
+      "platform": "Arbeitnow",
+      "location": "London",
+      "salary": "Competitive",
+      "type": "Full-time",
+      "tags": [
+        "Creative"
+      ],
+      "postedAt": "2026-08-02T15:57:01.000Z",
+      "url": "https://www.arbeitnow.co.uk/jobs/companies/wundermanthompson/senior-copywriter-london-477843"
+    },
+    {
+      "id": "arbeitnow-senior-consultant-commerce-ftc-london-352203",
+      "title": "Senior Consultant (Commerce) FTC",
+      "company": "Wundermanthompson",
+      "platform": "Arbeitnow",
+      "location": "London",
+      "salary": "Competitive",
+      "type": "Full-time",
+      "tags": [
+        "Freelance"
+      ],
+      "postedAt": "2026-08-02T15:57:01.000Z",
+      "url": "https://www.arbeitnow.co.uk/jobs/companies/wundermanthompson/senior-consultant-commerce-ftc-london-352203"
+    },
+    {
+      "id": "arbeitnow-senior-client-success-director-london-412834",
+      "title": "Senior Client Success Director",
+      "company": "Wundermanthompson",
+      "platform": "Arbeitnow",
+      "location": "London",
+      "salary": "Competitive",
+      "type": "Full-time",
+      "tags": [
+        "Marketing Effectiveness & Intelligence"
+      ],
+      "postedAt": "2026-08-02T15:57:01.000Z",
+      "url": "https://www.arbeitnow.co.uk/jobs/companies/wundermanthompson/senior-client-success-director-london-412834"
+    },
+    {
+      "id": "arbeitnow-senior-business-intelligence-engineer-london-170692",
+      "title": "Senior Business Intelligence Engineer",
+      "company": "Wundermanthompson",
+      "platform": "Arbeitnow",
+      "location": "London",
+      "salary": "Competitive",
+      "type": "Full-time",
+      "tags": [
+        "Marketing Effectiveness & Intelligence"
+      ],
+      "postedAt": "2026-08-02T15:57:01.000Z",
+      "url": "https://www.arbeitnow.co.uk/jobs/companies/wundermanthompson/senior-business-intelligence-engineer-london-170692"
+    },
+    {
+      "id": "arbeitnow-senior-account-manager-crm-london-390890",
+      "title": "Senior Account Manager - CRM",
+      "company": "Wundermanthompson",
+      "platform": "Arbeitnow",
+      "location": "London",
+      "salary": "Competitive",
+      "type": "Full-time",
+      "tags": [
+        "Client & Business Leadership"
+      ],
+      "postedAt": "2026-08-02T15:57:01.000Z",
+      "url": "https://www.arbeitnow.co.uk/jobs/companies/wundermanthompson/senior-account-manager-crm-london-390890"
+    },
+    {
+      "id": "arbeitnow-senior-account-manager-london-178457",
+      "title": "Senior Account Manager",
+      "company": "Wundermanthompson",
+      "platform": "Arbeitnow",
+      "location": "London",
+      "salary": "Competitive",
+      "type": "Full-time",
+      "tags": [
+        "Client & Business Leadership"
+      ],
+      "postedAt": "2026-08-02T15:57:01.000Z",
+      "url": "https://www.arbeitnow.co.uk/jobs/companies/wundermanthompson/senior-account-manager-london-178457"
+    },
+    {
+      "id": "arbeitnow-principal-consultant-commerce-digital-london-294528",
+      "title": "Principal Consultant (Commerce & Digital)",
+      "company": "Wundermanthompson",
+      "platform": "Arbeitnow",
+      "location": "London",
+      "salary": "Competitive",
+      "type": "Full-time",
+      "tags": [
+        "Technology & Innovation"
+      ],
+      "postedAt": "2026-08-02T15:57:01.000Z",
+      "url": "https://www.arbeitnow.co.uk/jobs/companies/wundermanthompson/principal-consultant-commerce-digital-london-294528"
+    },
+    {
+      "id": "arbeitnow-partner-sales-director-emea-braze-and-google-london-477397",
+      "title": "Partner Sales Director, EMEA (Braze and Google)",
+      "company": "Wundermanthompson",
+      "platform": "Arbeitnow",
+      "location": "London",
+      "salary": "Competitive",
+      "type": "Full-time",
+      "tags": [
+        "Technology & Innovation"
+      ],
+      "postedAt": "2026-08-02T15:57:01.000Z",
+      "url": "https://www.arbeitnow.co.uk/jobs/companies/wundermanthompson/partner-sales-director-emea-braze-and-google-london-477397"
+    },
+    {
+      "id": "arbeitnow-new-business-director-london-36535",
+      "title": "New Business Director",
+      "company": "Wundermanthompson",
       "platform": "Arbeitnow",
       "location": "London",
       "salary": "Competitive",
@@ -1612,13 +1920,265 @@
       "tags": [
         "Growth"
       ],
-      "postedAt": "2026-08-02T13:01:18.000Z",
-      "url": "https://www.arbeitnow.co.uk/jobs/companies/omaze/senior-performance-marketing-manager-google-youtube-london-277987"
+      "postedAt": "2026-08-02T15:57:01.000Z",
+      "url": "https://www.arbeitnow.co.uk/jobs/companies/wundermanthompson/new-business-director-london-36535"
     },
     {
-      "id": "arbeitnow-senior-performance-marketing-manager-atl-london-246674",
-      "title": "Senior Performance Marketing Manager - ATL",
-      "company": "Omaze",
+      "id": "arbeitnow-lead-ui-designer-london-345153",
+      "title": "Lead UI Designer",
+      "company": "Wundermanthompson",
+      "platform": "Arbeitnow",
+      "location": "London",
+      "salary": "Competitive",
+      "type": "Full-time",
+      "tags": [
+        "Freelance"
+      ],
+      "postedAt": "2026-08-02T15:57:01.000Z",
+      "url": "https://www.arbeitnow.co.uk/jobs/companies/wundermanthompson/lead-ui-designer-london-345153"
+    },
+    {
+      "id": "arbeitnow-data-planning-manager-london-434792",
+      "title": "Data Planning Manager",
+      "company": "Wundermanthompson",
+      "platform": "Arbeitnow",
+      "location": "London",
+      "salary": "Competitive",
+      "type": "Full-time",
+      "tags": [
+        "Marketing Effectiveness & Intelligence"
+      ],
+      "postedAt": "2026-08-02T15:57:01.000Z",
+      "url": "https://www.arbeitnow.co.uk/jobs/companies/wundermanthompson/data-planning-manager-london-434792"
+    },
+    {
+      "id": "arbeitnow-data-planning-director-london-43351",
+      "title": "Data Planning Director",
+      "company": "Wundermanthompson",
+      "platform": "Arbeitnow",
+      "location": "London",
+      "salary": "Competitive",
+      "type": "Full-time",
+      "tags": [
+        "Marketing Effectiveness & Intelligence"
+      ],
+      "postedAt": "2026-08-02T15:57:00.000Z",
+      "url": "https://www.arbeitnow.co.uk/jobs/companies/wundermanthompson/data-planning-director-london-43351"
+    },
+    {
+      "id": "arbeitnow-data-planner-london-3488",
+      "title": "Data Planner",
+      "company": "Wundermanthompson",
+      "platform": "Arbeitnow",
+      "location": "London",
+      "salary": "Competitive",
+      "type": "Full-time",
+      "tags": [
+        "Marketing Effectiveness & Intelligence"
+      ],
+      "postedAt": "2026-08-02T15:57:00.000Z",
+      "url": "https://www.arbeitnow.co.uk/jobs/companies/wundermanthompson/data-planner-london-3488"
+    },
+    {
+      "id": "arbeitnow-data-analytics-partner-london-81526",
+      "title": "Data & Analytics Partner",
+      "company": "Wundermanthompson",
+      "platform": "Arbeitnow",
+      "location": "London",
+      "salary": "Competitive",
+      "type": "Full-time",
+      "tags": [
+        "Freelance"
+      ],
+      "postedAt": "2026-08-02T15:57:00.000Z",
+      "url": "https://www.arbeitnow.co.uk/jobs/companies/wundermanthompson/data-analytics-partner-london-81526"
+    },
+    {
+      "id": "arbeitnow-data-analyst-london-309455",
+      "title": "Data Analyst",
+      "company": "Wundermanthompson",
+      "platform": "Arbeitnow",
+      "location": "London",
+      "salary": "Competitive",
+      "type": "Full-time",
+      "tags": [
+        "Marketing Effectiveness & Intelligence"
+      ],
+      "postedAt": "2026-08-02T15:57:00.000Z",
+      "url": "https://www.arbeitnow.co.uk/jobs/companies/wundermanthompson/data-analyst-london-309455"
+    },
+    {
+      "id": "arbeitnow-analytics-manager-london-133878",
+      "title": "Analytics Manager",
+      "company": "Wundermanthompson",
+      "platform": "Arbeitnow",
+      "location": "London",
+      "salary": "Competitive",
+      "type": "Full-time",
+      "tags": [
+        "Marketing Effectiveness & Intelligence"
+      ],
+      "postedAt": "2026-08-02T15:57:00.000Z",
+      "url": "https://www.arbeitnow.co.uk/jobs/companies/wundermanthompson/analytics-manager-london-133878"
+    },
+    {
+      "id": "arbeitnow-analytics-director-london-35195",
+      "title": "Analytics Director",
+      "company": "Wundermanthompson",
+      "platform": "Arbeitnow",
+      "location": "London",
+      "salary": "Competitive",
+      "type": "Full-time",
+      "tags": [
+        "Marketing Effectiveness & Intelligence"
+      ],
+      "postedAt": "2026-08-02T15:57:00.000Z",
+      "url": "https://www.arbeitnow.co.uk/jobs/companies/wundermanthompson/analytics-director-london-35195"
+    },
+    {
+      "id": "arbeitnow-analytics-director-london-49823",
+      "title": "Analytics Director",
+      "company": "Wundermanthompson",
+      "platform": "Arbeitnow",
+      "location": "London",
+      "salary": "Competitive",
+      "type": "Full-time",
+      "tags": [
+        "Marketing Effectiveness & Intelligence"
+      ],
+      "postedAt": "2026-08-02T15:57:00.000Z",
+      "url": "https://www.arbeitnow.co.uk/jobs/companies/wundermanthompson/analytics-director-london-49823"
+    },
+    {
+      "id": "arbeitnow-account-director-medical-communications-london-14010",
+      "title": "Account Director Medical Communications",
+      "company": "Wundermanthompson",
+      "platform": "Arbeitnow",
+      "location": "London",
+      "salary": "Competitive",
+      "type": "Full-time",
+      "tags": [
+        "Medical Communications"
+      ],
+      "postedAt": "2026-08-02T15:57:00.000Z",
+      "url": "https://www.arbeitnow.co.uk/jobs/companies/wundermanthompson/account-director-medical-communications-london-14010"
+    },
+    {
+      "id": "arbeitnow-legal-counsel-senior-associate-london-greater-london-218157",
+      "title": "Legal Counsel - Senior Associate",
+      "company": "Pantheonpublic",
+      "platform": "Arbeitnow",
+      "location": "London, Greater London",
+      "salary": "Competitive",
+      "type": "Full-time",
+      "tags": [
+        "Legal & Compliance"
+      ],
+      "postedAt": "2026-08-02T15:56:17.000Z",
+      "url": "https://www.arbeitnow.co.uk/jobs/companies/pantheonpublic/legal-counsel-senior-associate-london-greater-london-218157"
+    },
+    {
+      "id": "arbeitnow-senior-consultant-full-stack-developer-azure-snowflake-london-483926",
+      "title": "Senior Consultant - Full-Stack Developer (Azure / Snowflake)",
+      "company": "Alphafmcroles",
+      "platform": "Arbeitnow",
+      "location": "London",
+      "salary": "Competitive",
+      "type": "Full-time",
+      "tags": [
+        "Insurance Consulting"
+      ],
+      "postedAt": "2026-08-02T15:55:52.000Z",
+      "url": "https://www.arbeitnow.co.uk/jobs/companies/alphafmcroles/senior-consultant-full-stack-developer-azure-snowflake-london-483926"
+    },
+    {
+      "id": "arbeitnow-salesforce-solution-architect-london-33431",
+      "title": "Salesforce Solution Architect",
+      "company": "Alphafmcroles",
+      "platform": "Arbeitnow",
+      "location": "London",
+      "salary": "Competitive",
+      "type": "Full-time",
+      "tags": [
+        "Client & Digital"
+      ],
+      "postedAt": "2026-08-02T15:55:52.000Z",
+      "url": "https://www.arbeitnow.co.uk/jobs/companies/alphafmcroles/salesforce-solution-architect-london-33431"
+    },
+    {
+      "id": "arbeitnow-remote-senior-cloud-security-engineer-ai-resilience-security-enhancements-contract-157084",
+      "title": "Senior Cloud Security Engineer - AI Resilience & Security Enhancements (Contract)",
+      "company": "Form3",
+      "platform": "Arbeitnow",
+      "location": "100% Remote (Europe*)",
+      "salary": "Competitive",
+      "type": "Full-time",
+      "tags": [
+        "Defensive Security"
+      ],
+      "postedAt": "2026-08-02T15:55:09.000Z",
+      "url": "https://www.arbeitnow.co.uk/jobs/companies/form3/remote-senior-cloud-security-engineer-ai-resilience-security-enhancements-contract-157084"
+    },
+    {
+      "id": "arbeitnow-engineering-manager-reporting-london-49696",
+      "title": "Engineering manager, reporting",
+      "company": "Watershed",
+      "platform": "Arbeitnow",
+      "location": "London",
+      "salary": "Competitive",
+      "type": "Full-time",
+      "tags": [
+        "Tech"
+      ],
+      "postedAt": "2026-08-02T15:40:55.000Z",
+      "url": "https://www.arbeitnow.co.uk/jobs/companies/watershed/engineering-manager-reporting-london-49696"
+    },
+    {
+      "id": "arbeitnow-staff-product-designer-london-140589",
+      "title": "Staff product designer",
+      "company": "Watershed",
+      "platform": "Arbeitnow",
+      "location": "London",
+      "salary": "Competitive",
+      "type": "Full-time",
+      "tags": [
+        "Tech"
+      ],
+      "postedAt": "2026-08-02T15:40:55.000Z",
+      "url": "https://www.arbeitnow.co.uk/jobs/companies/watershed/staff-product-designer-london-140589"
+    },
+    {
+      "id": "arbeitnow-customer-success-manager-enterprise-london-237547",
+      "title": "Customer success manager, enterprise",
+      "company": "Watershed",
+      "platform": "Arbeitnow",
+      "location": "London",
+      "salary": "Competitive",
+      "type": "Full-time",
+      "tags": [
+        "Customer"
+      ],
+      "postedAt": "2026-08-02T15:40:55.000Z",
+      "url": "https://www.arbeitnow.co.uk/jobs/companies/watershed/customer-success-manager-enterprise-london-237547"
+    },
+    {
+      "id": "arbeitnow-senior-compliance-officer-mlro-england-240960",
+      "title": "Senior Compliance Officer / MLRO",
+      "company": "Onhires",
+      "platform": "Arbeitnow",
+      "location": "England",
+      "salary": "Competitive",
+      "type": "Full-time",
+      "tags": [
+        "Administrative & Operations"
+      ],
+      "postedAt": "2026-08-02T15:40:48.000Z",
+      "url": "https://www.arbeitnow.co.uk/jobs/companies/onhires/senior-compliance-officer-mlro-england-240960"
+    },
+    {
+      "id": "arbeitnow-bdr-london-147194",
+      "title": "BDR",
+      "company": "Hawk",
       "platform": "Arbeitnow",
       "location": "London",
       "salary": "Competitive",
@@ -1626,8 +2186,344 @@
       "tags": [
         "Marketing"
       ],
-      "postedAt": "2026-08-02T13:01:18.000Z",
-      "url": "https://www.arbeitnow.co.uk/jobs/companies/omaze/senior-performance-marketing-manager-atl-london-246674"
+      "postedAt": "2026-08-02T15:40:37.000Z",
+      "url": "https://www.arbeitnow.co.uk/jobs/companies/hawk/bdr-london-147194"
+    },
+    {
+      "id": "arbeitnow-remote-technical-chief-of-staff-422314",
+      "title": "Technical Chief of Staff",
+      "company": "Clera",
+      "platform": "Arbeitnow",
+      "location": "remote",
+      "salary": "Competitive",
+      "type": "Full-time",
+      "tags": [
+        "Engineering"
+      ],
+      "postedAt": "2026-08-02T15:40:09.000Z",
+      "url": "https://www.arbeitnow.co.uk/jobs/companies/clera/remote-technical-chief-of-staff-422314"
+    },
+    {
+      "id": "arbeitnow-remote-staff-engineer-founding-310189",
+      "title": "Staff Engineer (Founding)",
+      "company": "Clera",
+      "platform": "Arbeitnow",
+      "location": "remote",
+      "salary": "Competitive",
+      "type": "Full-time",
+      "tags": [
+        "Engineering"
+      ],
+      "postedAt": "2026-08-02T15:40:09.000Z",
+      "url": "https://www.arbeitnow.co.uk/jobs/companies/clera/remote-staff-engineer-founding-310189"
+    },
+    {
+      "id": "arbeitnow-remote-technical-sales-business-development-manager-ingredients-76967",
+      "title": "Technical Sales / Business Development Manager – Ingredients",
+      "company": "Clera",
+      "platform": "Arbeitnow",
+      "location": "remote",
+      "salary": "Competitive",
+      "type": "Full-time",
+      "tags": [
+        "Engineering"
+      ],
+      "postedAt": "2026-08-02T15:40:08.000Z",
+      "url": "https://www.arbeitnow.co.uk/jobs/companies/clera/remote-technical-sales-business-development-manager-ingredients-76967"
+    },
+    {
+      "id": "arbeitnow-remote-founding-product-engineer-113297",
+      "title": "Founding Product Engineer",
+      "company": "Clera",
+      "platform": "Arbeitnow",
+      "location": "remote",
+      "salary": "Competitive",
+      "type": "Full-time",
+      "tags": [
+        "Engineering"
+      ],
+      "postedAt": "2026-08-02T15:40:08.000Z",
+      "url": "https://www.arbeitnow.co.uk/jobs/companies/clera/remote-founding-product-engineer-113297"
+    },
+    {
+      "id": "arbeitnow-remote-backfill-test-role-200549",
+      "title": "Backfill Test Role",
+      "company": "Clera",
+      "platform": "Arbeitnow",
+      "location": "remote",
+      "salary": "Competitive",
+      "type": "Full-time",
+      "tags": [
+        "Engineering"
+      ],
+      "postedAt": "2026-08-02T15:40:08.000Z",
+      "url": "https://www.arbeitnow.co.uk/jobs/companies/clera/remote-backfill-test-role-200549"
+    },
+    {
+      "id": "arbeitnow-remote-founding-operations-customer-success-manager-49985",
+      "title": "Founding Operations & Customer Success Manager",
+      "company": "Clera",
+      "platform": "Arbeitnow",
+      "location": "remote",
+      "salary": "Competitive",
+      "type": "Full-time",
+      "tags": [
+        "Engineering"
+      ],
+      "postedAt": "2026-08-02T15:40:08.000Z",
+      "url": "https://www.arbeitnow.co.uk/jobs/companies/clera/remote-founding-operations-customer-success-manager-49985"
+    },
+    {
+      "id": "arbeitnow-remote-founding-scientist-co-founder-205318",
+      "title": "Founding Scientist / Co-Founder",
+      "company": "Clera",
+      "platform": "Arbeitnow",
+      "location": "remote",
+      "salary": "Competitive",
+      "type": "Full-time",
+      "tags": [
+        "Engineering"
+      ],
+      "postedAt": "2026-08-02T15:40:08.000Z",
+      "url": "https://www.arbeitnow.co.uk/jobs/companies/clera/remote-founding-scientist-co-founder-205318"
+    },
+    {
+      "id": "arbeitnow-remote-founding-ml-engineer-demand-generation-355314",
+      "title": "Founding ML Engineer – Demand Generation",
+      "company": "Clera",
+      "platform": "Arbeitnow",
+      "location": "remote",
+      "salary": "Competitive",
+      "type": "Full-time",
+      "tags": [
+        "Engineering"
+      ],
+      "postedAt": "2026-08-02T15:40:08.000Z",
+      "url": "https://www.arbeitnow.co.uk/jobs/companies/clera/remote-founding-ml-engineer-demand-generation-355314"
+    },
+    {
+      "id": "arbeitnow-remote-founders-associate-chief-of-staff-468916",
+      "title": "Founders' Associate / Chief of Staff",
+      "company": "Clera",
+      "platform": "Arbeitnow",
+      "location": "remote",
+      "salary": "Competitive",
+      "type": "Full-time",
+      "tags": [
+        "Engineering"
+      ],
+      "postedAt": "2026-08-02T15:40:08.000Z",
+      "url": "https://www.arbeitnow.co.uk/jobs/companies/clera/remote-founders-associate-chief-of-staff-468916"
+    },
+    {
+      "id": "arbeitnow-remote-sales-development-representative-english-speaking-370741",
+      "title": "Sales Development Representative (English-Speaking)",
+      "company": "Clera",
+      "platform": "Arbeitnow",
+      "location": "remote",
+      "salary": "Competitive",
+      "type": "Full-time",
+      "tags": [
+        "Engineering"
+      ],
+      "postedAt": "2026-08-02T15:40:08.000Z",
+      "url": "https://www.arbeitnow.co.uk/jobs/companies/clera/remote-sales-development-representative-english-speaking-370741"
+    },
+    {
+      "id": "arbeitnow-remote-senior-edi-developer-242458",
+      "title": "Senior EDI Developer",
+      "company": "Clera",
+      "platform": "Arbeitnow",
+      "location": "remote",
+      "salary": "Competitive",
+      "type": "Full-time",
+      "tags": [
+        "Engineering"
+      ],
+      "postedAt": "2026-08-02T15:40:08.000Z",
+      "url": "https://www.arbeitnow.co.uk/jobs/companies/clera/remote-senior-edi-developer-242458"
+    },
+    {
+      "id": "arbeitnow-remote-servicenow-ai-control-tower-consultant-117484",
+      "title": "ServiceNow AI Control Tower Consultant",
+      "company": "Clera",
+      "platform": "Arbeitnow",
+      "location": "remote",
+      "salary": "Competitive",
+      "type": "Full-time",
+      "tags": [
+        "Engineering"
+      ],
+      "postedAt": "2026-08-02T15:40:08.000Z",
+      "url": "https://www.arbeitnow.co.uk/jobs/companies/clera/remote-servicenow-ai-control-tower-consultant-117484"
+    },
+    {
+      "id": "arbeitnow-remote-founding-full-stack-ios-engineer-180786",
+      "title": "Founding Full-Stack iOS Engineer",
+      "company": "Clera",
+      "platform": "Arbeitnow",
+      "location": "remote",
+      "salary": "Competitive",
+      "type": "Full-time",
+      "tags": [
+        "Engineering"
+      ],
+      "postedAt": "2026-08-02T15:40:08.000Z",
+      "url": "https://www.arbeitnow.co.uk/jobs/companies/clera/remote-founding-full-stack-ios-engineer-180786"
+    },
+    {
+      "id": "arbeitnow-remote-ofs-developer-288568",
+      "title": "OFS Developer",
+      "company": "Clera",
+      "platform": "Arbeitnow",
+      "location": "remote",
+      "salary": "Competitive",
+      "type": "Full-time",
+      "tags": [
+        "Engineering"
+      ],
+      "postedAt": "2026-08-02T15:40:08.000Z",
+      "url": "https://www.arbeitnow.co.uk/jobs/companies/clera/remote-ofs-developer-288568"
+    },
+    {
+      "id": "arbeitnow-remote-senior-adobe-experience-manager-aem-developer-125475",
+      "title": "Senior Adobe Experience Manager (AEM) Developer",
+      "company": "Clera",
+      "platform": "Arbeitnow",
+      "location": "remote",
+      "salary": "Competitive",
+      "type": "Full-time",
+      "tags": [
+        "Engineering"
+      ],
+      "postedAt": "2026-08-02T15:40:08.000Z",
+      "url": "https://www.arbeitnow.co.uk/jobs/companies/clera/remote-senior-adobe-experience-manager-aem-developer-125475"
+    },
+    {
+      "id": "arbeitnow-remote-founding-member-of-technical-staff-212957",
+      "title": "Founding Member of Technical Staff",
+      "company": "Clera",
+      "platform": "Arbeitnow",
+      "location": "remote",
+      "salary": "Competitive",
+      "type": "Full-time",
+      "tags": [
+        "Engineering"
+      ],
+      "postedAt": "2026-08-02T15:40:08.000Z",
+      "url": "https://www.arbeitnow.co.uk/jobs/companies/clera/remote-founding-member-of-technical-staff-212957"
+    },
+    {
+      "id": "arbeitnow-remote-staff-fullstack-engineer-339272",
+      "title": "Staff Fullstack Engineer",
+      "company": "Clera",
+      "platform": "Arbeitnow",
+      "location": "remote",
+      "salary": "Competitive",
+      "type": "Full-time",
+      "tags": [
+        "Engineering"
+      ],
+      "postedAt": "2026-08-02T15:40:08.000Z",
+      "url": "https://www.arbeitnow.co.uk/jobs/companies/clera/remote-staff-fullstack-engineer-339272"
+    },
+    {
+      "id": "arbeitnow-remote-founding-marketer-growth-gtm-404682",
+      "title": "Founding Marketer (Growth & GTM)",
+      "company": "Clera",
+      "platform": "Arbeitnow",
+      "location": "remote",
+      "salary": "Competitive",
+      "type": "Full-time",
+      "tags": [
+        "Engineering"
+      ],
+      "postedAt": "2026-08-02T15:40:08.000Z",
+      "url": "https://www.arbeitnow.co.uk/jobs/companies/clera/remote-founding-marketer-growth-gtm-404682"
+    },
+    {
+      "id": "arbeitnow-remote-pricing-architect-297568",
+      "title": "Pricing Architect",
+      "company": "Clera",
+      "platform": "Arbeitnow",
+      "location": "remote",
+      "salary": "Competitive",
+      "type": "Full-time",
+      "tags": [
+        "Engineering"
+      ],
+      "postedAt": "2026-08-02T15:40:08.000Z",
+      "url": "https://www.arbeitnow.co.uk/jobs/companies/clera/remote-pricing-architect-297568"
+    },
+    {
+      "id": "arbeitnow-remote-founding-engineer-272594",
+      "title": "Founding Engineer",
+      "company": "Clera",
+      "platform": "Arbeitnow",
+      "location": "remote",
+      "salary": "Competitive",
+      "type": "Full-time",
+      "tags": [
+        "Engineering"
+      ],
+      "postedAt": "2026-08-02T15:40:08.000Z",
+      "url": "https://www.arbeitnow.co.uk/jobs/companies/clera/remote-founding-engineer-272594"
+    },
+    {
+      "id": "arbeitnow-remote-founding-engineer-ml-research-338478",
+      "title": "Founding Engineer – ML Research",
+      "company": "Clera",
+      "platform": "Arbeitnow",
+      "location": "remote",
+      "salary": "Competitive",
+      "type": "Full-time",
+      "tags": [
+        "Engineering"
+      ],
+      "postedAt": "2026-08-02T15:40:08.000Z",
+      "url": "https://www.arbeitnow.co.uk/jobs/companies/clera/remote-founding-engineer-ml-research-338478"
+    },
+    {
+      "id": "arbeitnow-remote-founding-ai-engineer-438738",
+      "title": "Founding AI Engineer",
+      "company": "Clera",
+      "platform": "Arbeitnow",
+      "location": "remote",
+      "salary": "Competitive",
+      "type": "Full-time",
+      "tags": [
+        "Engineering"
+      ],
+      "postedAt": "2026-08-02T15:40:08.000Z",
+      "url": "https://www.arbeitnow.co.uk/jobs/companies/clera/remote-founding-ai-engineer-438738"
+    },
+    {
+      "id": "arbeitnow-people-operations-specialist-sheffield-81473",
+      "title": "People Operations Specialist",
+      "company": "Goodlord",
+      "platform": "Arbeitnow",
+      "location": "Sheffield",
+      "salary": "Competitive",
+      "type": "Full-time",
+      "tags": [
+        "People"
+      ],
+      "postedAt": "2026-08-02T15:40:05.000Z",
+      "url": "https://www.arbeitnow.co.uk/jobs/companies/goodlord/people-operations-specialist-sheffield-81473"
+    },
+    {
+      "id": "arbeitnow-automation-engineer-london-459176",
+      "title": "Automation Engineer",
+      "company": "Goodlord",
+      "platform": "Arbeitnow",
+      "location": "London",
+      "salary": "Competitive",
+      "type": "Full-time",
+      "tags": [
+        "Business Systems"
+      ],
+      "postedAt": "2026-08-02T15:40:05.000Z",
+      "url": "https://www.arbeitnow.co.uk/jobs/companies/goodlord/automation-engineer-london-459176"
     },
     {
       "id": "arbeitnow-senior-sales-engineer-healthcare-interoperability-ai-solutions-298765",
@@ -1642,1005 +2538,6 @@
       ],
       "postedAt": "2026-08-02T14:56:08.000Z",
       "url": "https://www.arbeitnow.com/jobs/companies/intersystems/senior-sales-engineer-healthcare-interoperability-ai-solutions-298765"
-    },
-    {
-      "id": "arbeitnow-go-to-market-brighton-united-kingdom-63088",
-      "title": "Go-to-Market - Brighton, United Kingdom",
-      "company": "Speechify",
-      "platform": "Arbeitnow",
-      "location": "Brighton, England, United Kingdom",
-      "salary": "Competitive",
-      "type": "Full-time",
-      "tags": [],
-      "postedAt": "2026-08-02T14:45:31.000Z",
-      "url": "https://www.arbeitnow.co.uk/jobs/companies/speechify/go-to-market-brighton-united-kingdom-63088"
-    },
-    {
-      "id": "arbeitnow-go-to-market-cardiff-united-kingdom-489061",
-      "title": "Go-to-Market - Cardiff, United Kingdom",
-      "company": "Speechify",
-      "platform": "Arbeitnow",
-      "location": "Cardiff, Wales, United Kingdom",
-      "salary": "Competitive",
-      "type": "Full-time",
-      "tags": [],
-      "postedAt": "2026-08-02T14:45:31.000Z",
-      "url": "https://www.arbeitnow.co.uk/jobs/companies/speechify/go-to-market-cardiff-united-kingdom-489061"
-    },
-    {
-      "id": "arbeitnow-go-to-market-newcastle-united-kingdom-newcastle-upon-tyne-439136",
-      "title": "Go-to-Market - Newcastle, United Kingdom",
-      "company": "Speechify",
-      "platform": "Arbeitnow",
-      "location": "Newcastle upon Tyne, England, United Kingdom",
-      "salary": "Competitive",
-      "type": "Full-time",
-      "tags": [],
-      "postedAt": "2026-08-02T14:45:31.000Z",
-      "url": "https://www.arbeitnow.co.uk/jobs/companies/speechify/go-to-market-newcastle-united-kingdom-newcastle-upon-tyne-439136"
-    },
-    {
-      "id": "arbeitnow-go-to-market-nottingham-united-kingdom-52785",
-      "title": "Go-to-Market - Nottingham, United Kingdom",
-      "company": "Speechify",
-      "platform": "Arbeitnow",
-      "location": "Nottingham, England, United Kingdom",
-      "salary": "Competitive",
-      "type": "Full-time",
-      "tags": [],
-      "postedAt": "2026-08-02T14:45:31.000Z",
-      "url": "https://www.arbeitnow.co.uk/jobs/companies/speechify/go-to-market-nottingham-united-kingdom-52785"
-    },
-    {
-      "id": "arbeitnow-go-to-market-glasgow-united-kingdom-101805",
-      "title": "Go-to-Market - Glasgow, United Kingdom",
-      "company": "Speechify",
-      "platform": "Arbeitnow",
-      "location": "Glasgow, Scotland, United Kingdom",
-      "salary": "Competitive",
-      "type": "Full-time",
-      "tags": [],
-      "postedAt": "2026-08-02T14:45:31.000Z",
-      "url": "https://www.arbeitnow.co.uk/jobs/companies/speechify/go-to-market-glasgow-united-kingdom-101805"
-    },
-    {
-      "id": "arbeitnow-go-to-market-birmingham-united-kingdom-259252",
-      "title": "Go-to-Market - Birmingham, United Kingdom",
-      "company": "Speechify",
-      "platform": "Arbeitnow",
-      "location": "Birmingham, England, United Kingdom",
-      "salary": "Competitive",
-      "type": "Full-time",
-      "tags": [],
-      "postedAt": "2026-08-02T14:45:31.000Z",
-      "url": "https://www.arbeitnow.co.uk/jobs/companies/speechify/go-to-market-birmingham-united-kingdom-259252"
-    },
-    {
-      "id": "arbeitnow-go-to-market-reading-united-kingdom-370152",
-      "title": "Go-to-Market - Reading, United Kingdom",
-      "company": "Speechify",
-      "platform": "Arbeitnow",
-      "location": "Reading, England, United Kingdom",
-      "salary": "Competitive",
-      "type": "Full-time",
-      "tags": [],
-      "postedAt": "2026-08-02T14:45:31.000Z",
-      "url": "https://www.arbeitnow.co.uk/jobs/companies/speechify/go-to-market-reading-united-kingdom-370152"
-    },
-    {
-      "id": "arbeitnow-go-to-market-bristol-united-kingdom-177280",
-      "title": "Go-to-Market - Bristol, United Kingdom",
-      "company": "Speechify",
-      "platform": "Arbeitnow",
-      "location": "Bristol, England, United Kingdom",
-      "salary": "Competitive",
-      "type": "Full-time",
-      "tags": [],
-      "postedAt": "2026-08-02T14:45:31.000Z",
-      "url": "https://www.arbeitnow.co.uk/jobs/companies/speechify/go-to-market-bristol-united-kingdom-177280"
-    },
-    {
-      "id": "arbeitnow-go-to-market-edinburgh-united-kingdom-287200",
-      "title": "Go-to-Market - Edinburgh, United Kingdom",
-      "company": "Speechify",
-      "platform": "Arbeitnow",
-      "location": "Edinburgh, Scotland, United Kingdom",
-      "salary": "Competitive",
-      "type": "Full-time",
-      "tags": [],
-      "postedAt": "2026-08-02T14:45:31.000Z",
-      "url": "https://www.arbeitnow.co.uk/jobs/companies/speechify/go-to-market-edinburgh-united-kingdom-287200"
-    },
-    {
-      "id": "arbeitnow-go-to-market-oxford-united-kingdom-467881",
-      "title": "Go-to-Market - Oxford, United Kingdom",
-      "company": "Speechify",
-      "platform": "Arbeitnow",
-      "location": "Oxford, England, United Kingdom",
-      "salary": "Competitive",
-      "type": "Full-time",
-      "tags": [],
-      "postedAt": "2026-08-02T14:45:31.000Z",
-      "url": "https://www.arbeitnow.co.uk/jobs/companies/speechify/go-to-market-oxford-united-kingdom-467881"
-    },
-    {
-      "id": "arbeitnow-go-to-market-london-united-kingdom-460553",
-      "title": "Go-to-Market - London, United Kingdom",
-      "company": "Speechify",
-      "platform": "Arbeitnow",
-      "location": "London, England, United Kingdom",
-      "salary": "Competitive",
-      "type": "Full-time",
-      "tags": [],
-      "postedAt": "2026-08-02T14:45:31.000Z",
-      "url": "https://www.arbeitnow.co.uk/jobs/companies/speechify/go-to-market-london-united-kingdom-460553"
-    },
-    {
-      "id": "arbeitnow-forward-deployed-engineer-emea-london-141610",
-      "title": "Forward Deployed Engineer - EMEA",
-      "company": "Tulip Interfaces",
-      "platform": "Arbeitnow",
-      "location": "London, England, United Kingdom",
-      "salary": "Competitive",
-      "type": "Full-time",
-      "tags": [],
-      "postedAt": "2026-08-02T14:45:28.000Z",
-      "url": "https://www.arbeitnow.co.uk/jobs/companies/tulip-interfaces/forward-deployed-engineer-emea-london-141610"
-    },
-    {
-      "id": "arbeitnow-remote-account-executive-lead-north-america-mid-market-111010",
-      "title": "Account Executive Lead - North America - Mid-Market",
-      "company": "ElevenLabs",
-      "platform": "Arbeitnow",
-      "location": "Remote",
-      "salary": "Competitive",
-      "type": "Full-time",
-      "tags": [
-        "Revenue"
-      ],
-      "postedAt": "2026-08-02T14:40:20.000Z",
-      "url": "https://www.arbeitnow.com/jobs/companies/elevenlabs/remote-account-executive-lead-north-america-mid-market-111010"
-    },
-    {
-      "id": "arbeitnow-remote-enterprise-demand-generation-325731",
-      "title": "Enterprise Demand Generation",
-      "company": "ElevenLabs",
-      "platform": "Arbeitnow",
-      "location": "Remote",
-      "salary": "Competitive",
-      "type": "Full-time",
-      "tags": [
-        "Growth"
-      ],
-      "postedAt": "2026-08-02T14:40:20.000Z",
-      "url": "https://www.arbeitnow.com/jobs/companies/elevenlabs/remote-enterprise-demand-generation-325731"
-    },
-    {
-      "id": "arbeitnow-deployment-strategist-eastern-europe-emea-370632",
-      "title": "Deployment Strategist, Eastern Europe",
-      "company": "TRM Labs",
-      "platform": "Arbeitnow",
-      "location": "EMEA",
-      "salary": "Competitive",
-      "type": "Full-time",
-      "tags": [
-        "GTM"
-      ],
-      "postedAt": "2026-08-02T14:40:06.000Z",
-      "url": "https://www.arbeitnow.com/jobs/companies/trm-labs/deployment-strategist-eastern-europe-emea-370632"
-    },
-    {
-      "id": "arbeitnow-recruiter-international-sales-contractor-emea-277386",
-      "title": "Recruiter, International Sales (Contractor)",
-      "company": "TRM Labs",
-      "platform": "Arbeitnow",
-      "location": "EMEA",
-      "salary": "Competitive",
-      "type": "Full-time",
-      "tags": [
-        "G&A"
-      ],
-      "postedAt": "2026-08-02T14:40:06.000Z",
-      "url": "https://www.arbeitnow.com/jobs/companies/trm-labs/recruiter-international-sales-contractor-emea-277386"
-    },
-    {
-      "id": "arbeitnow-principal-engineer-london-425521",
-      "title": "Principal Engineer",
-      "company": "Omaze",
-      "platform": "Arbeitnow",
-      "location": "London",
-      "salary": "Competitive",
-      "type": "Full-time",
-      "tags": [
-        "Product"
-      ],
-      "postedAt": "2026-08-02T13:01:18.000Z",
-      "url": "https://www.arbeitnow.co.uk/jobs/companies/omaze/principal-engineer-london-425521"
-    },
-    {
-      "id": "arbeitnow-principal-product-design-london-124203",
-      "title": "Principal Product Design",
-      "company": "Omaze",
-      "platform": "Arbeitnow",
-      "location": "London",
-      "salary": "Competitive",
-      "type": "Full-time",
-      "tags": [
-        "Product"
-      ],
-      "postedAt": "2026-08-02T13:01:18.000Z",
-      "url": "https://www.arbeitnow.co.uk/jobs/companies/omaze/principal-product-design-london-124203"
-    },
-    {
-      "id": "arbeitnow-senior-platform-engineer-london-213135",
-      "title": "Senior Platform Engineer",
-      "company": "Omaze",
-      "platform": "Arbeitnow",
-      "location": "London",
-      "salary": "Competitive",
-      "type": "Full-time",
-      "tags": [
-        "Technology"
-      ],
-      "postedAt": "2026-08-02T13:01:18.000Z",
-      "url": "https://www.arbeitnow.co.uk/jobs/companies/omaze/senior-platform-engineer-london-213135"
-    },
-    {
-      "id": "arbeitnow-senior-mobile-engineer-london-101957",
-      "title": "Senior Mobile Engineer",
-      "company": "Omaze",
-      "platform": "Arbeitnow",
-      "location": "London",
-      "salary": "Competitive",
-      "type": "Full-time",
-      "tags": [
-        "Technology"
-      ],
-      "postedAt": "2026-08-02T13:01:18.000Z",
-      "url": "https://www.arbeitnow.co.uk/jobs/companies/omaze/senior-mobile-engineer-london-101957"
-    },
-    {
-      "id": "arbeitnow-senior-creative-london-98918",
-      "title": "Senior Creative",
-      "company": "Omaze",
-      "platform": "Arbeitnow",
-      "location": "London",
-      "salary": "Competitive",
-      "type": "Full-time",
-      "tags": [
-        "Marketing"
-      ],
-      "postedAt": "2026-08-02T13:01:18.000Z",
-      "url": "https://www.arbeitnow.co.uk/jobs/companies/omaze/senior-creative-london-98918"
-    },
-    {
-      "id": "arbeitnow-property-director-london-26771",
-      "title": "Property Director",
-      "company": "Omaze",
-      "platform": "Arbeitnow",
-      "location": "London",
-      "salary": "Competitive",
-      "type": "Full-time",
-      "tags": [
-        "Property & Partnerships"
-      ],
-      "postedAt": "2026-08-02T13:01:18.000Z",
-      "url": "https://www.arbeitnow.co.uk/jobs/companies/omaze/property-director-london-26771"
-    },
-    {
-      "id": "arbeitnow-director-marketing-data-science-analytics-london-42691",
-      "title": "Director, Marketing Data Science & Analytics",
-      "company": "Omaze",
-      "platform": "Arbeitnow",
-      "location": "London",
-      "salary": "Competitive",
-      "type": "Full-time",
-      "tags": [
-        "Data"
-      ],
-      "postedAt": "2026-08-02T13:01:18.000Z",
-      "url": "https://www.arbeitnow.co.uk/jobs/companies/omaze/director-marketing-data-science-analytics-london-42691"
-    },
-    {
-      "id": "arbeitnow-engineering-manager-dreams-loudwater-buckinghamshire-412082",
-      "title": "Engineering Manager | Dreams",
-      "company": "Gt Hq",
-      "platform": "Arbeitnow",
-      "location": "Loudwater, Buckinghamshire, United Kingdom - Hybrid",
-      "salary": "Competitive",
-      "type": "Full-time",
-      "tags": [
-        "Dreams"
-      ],
-      "postedAt": "2026-08-02T13:01:18.000Z",
-      "url": "https://www.arbeitnow.co.uk/jobs/companies/gt-hq/engineering-manager-dreams-loudwater-buckinghamshire-412082"
-    },
-    {
-      "id": "arbeitnow-remote-senior-data-scientist-ml-engineer-forecasting-nda-178267",
-      "title": "Senior Data Scientist / ML Engineer (Forecasting) | NDA",
-      "company": "Gt Hq",
-      "platform": "Arbeitnow",
-      "location": "UK - Remote",
-      "salary": "Competitive",
-      "type": "Full-time",
-      "tags": [
-        "Confidential"
-      ],
-      "postedAt": "2026-08-02T13:01:18.000Z",
-      "url": "https://www.arbeitnow.co.uk/jobs/companies/gt-hq/remote-senior-data-scientist-ml-engineer-forecasting-nda-178267"
-    },
-    {
-      "id": "arbeitnow-accounts-receivable-administrator-penrith-456499",
-      "title": "Accounts Receivable Administrator",
-      "company": "Sfg20",
-      "platform": "Arbeitnow",
-      "location": "Penrith",
-      "salary": "Competitive",
-      "type": "Full-time",
-      "tags": [
-        "Central"
-      ],
-      "postedAt": "2026-08-02T13:01:06.000Z",
-      "url": "https://www.arbeitnow.co.uk/jobs/companies/sfg20/accounts-receivable-administrator-penrith-456499"
-    },
-    {
-      "id": "arbeitnow-fpa-analyst-manchester-219269",
-      "title": "FP&A Analyst",
-      "company": "Sfg20",
-      "platform": "Arbeitnow",
-      "location": "Remote UK - North",
-      "salary": "Competitive",
-      "type": "Full-time",
-      "tags": [
-        "Central"
-      ],
-      "postedAt": "2026-08-02T13:01:06.000Z",
-      "url": "https://www.arbeitnow.co.uk/jobs/companies/sfg20/fpa-analyst-manchester-219269"
-    },
-    {
-      "id": "arbeitnow-implementation-consultant-manchester-73347",
-      "title": "Implementation Consultant",
-      "company": "Sfg20",
-      "platform": "Arbeitnow",
-      "location": "Remote UK - North",
-      "salary": "Competitive",
-      "type": "Full-time",
-      "tags": [
-        "Product"
-      ],
-      "postedAt": "2026-08-02T13:01:06.000Z",
-      "url": "https://www.arbeitnow.co.uk/jobs/companies/sfg20/implementation-consultant-manchester-73347"
-    },
-    {
-      "id": "arbeitnow-technical-compliance-specialist-manchester-206652",
-      "title": "Technical Compliance Specialist",
-      "company": "Sfg20",
-      "platform": "Arbeitnow",
-      "location": "Remote UK - North",
-      "salary": "Competitive",
-      "type": "Full-time",
-      "tags": [
-        "Operations and Compliance"
-      ],
-      "postedAt": "2026-08-02T13:01:06.000Z",
-      "url": "https://www.arbeitnow.co.uk/jobs/companies/sfg20/technical-compliance-specialist-manchester-206652"
-    },
-    {
-      "id": "arbeitnow-sales-development-representative-manchester-28140",
-      "title": "Sales Development Representative",
-      "company": "Sfg20",
-      "platform": "Arbeitnow",
-      "location": "Manchester",
-      "salary": "Competitive",
-      "type": "Full-time",
-      "tags": [
-        "Sales"
-      ],
-      "postedAt": "2026-08-02T13:01:06.000Z",
-      "url": "https://www.arbeitnow.co.uk/jobs/companies/sfg20/sales-development-representative-manchester-28140"
-    },
-    {
-      "id": "arbeitnow-special-projects-lead-london-105766",
-      "title": "Special Projects Lead",
-      "company": "Arq",
-      "platform": "Arbeitnow",
-      "location": "London",
-      "salary": "Competitive",
-      "type": "Full-time",
-      "tags": [
-        "Product"
-      ],
-      "postedAt": "2026-08-02T13:01:02.000Z",
-      "url": "https://www.arbeitnow.co.uk/jobs/companies/arq/special-projects-lead-london-105766"
-    },
-    {
-      "id": "arbeitnow-technical-product-owner-kyc-london-412",
-      "title": "Technical Product Owner - KYC",
-      "company": "Arq",
-      "platform": "Arbeitnow",
-      "location": "London",
-      "salary": "Competitive",
-      "type": "Full-time",
-      "tags": [
-        "Product"
-      ],
-      "postedAt": "2026-08-02T13:01:02.000Z",
-      "url": "https://www.arbeitnow.co.uk/jobs/companies/arq/technical-product-owner-kyc-london-412"
-    },
-    {
-      "id": "arbeitnow-security-engineer-senior-london-405542",
-      "title": "Security Engineer, Senior",
-      "company": "Arq",
-      "platform": "Arbeitnow",
-      "location": "London",
-      "salary": "Competitive",
-      "type": "Full-time",
-      "tags": [
-        "Security"
-      ],
-      "postedAt": "2026-08-02T13:01:02.000Z",
-      "url": "https://www.arbeitnow.co.uk/jobs/companies/arq/security-engineer-senior-london-405542"
-    },
-    {
-      "id": "arbeitnow-senior-data-scientist-growth-london-430160",
-      "title": "Senior Data Scientist, Growth",
-      "company": "Arq",
-      "platform": "Arbeitnow",
-      "location": "London",
-      "salary": "Competitive",
-      "type": "Full-time",
-      "tags": [
-        "Engineering"
-      ],
-      "postedAt": "2026-08-02T13:01:02.000Z",
-      "url": "https://www.arbeitnow.co.uk/jobs/companies/arq/senior-data-scientist-growth-london-430160"
-    },
-    {
-      "id": "arbeitnow-senior-data-scientist-fincrime-london-7159",
-      "title": "Senior Data Scientist, FinCrime",
-      "company": "Arq",
-      "platform": "Arbeitnow",
-      "location": "London",
-      "salary": "Competitive",
-      "type": "Full-time",
-      "tags": [
-        "Engineering"
-      ],
-      "postedAt": "2026-08-02T13:01:02.000Z",
-      "url": "https://www.arbeitnow.co.uk/jobs/companies/arq/senior-data-scientist-fincrime-london-7159"
-    },
-    {
-      "id": "arbeitnow-product-owner-arq-operating-system-london-273414",
-      "title": "Product Owner - ARQ Operating System",
-      "company": "Arq",
-      "platform": "Arbeitnow",
-      "location": "London",
-      "salary": "Competitive",
-      "type": "Full-time",
-      "tags": [
-        "Product"
-      ],
-      "postedAt": "2026-08-02T13:01:02.000Z",
-      "url": "https://www.arbeitnow.co.uk/jobs/companies/arq/product-owner-arq-operating-system-london-273414"
-    },
-    {
-      "id": "arbeitnow-senior-account-executive-london-412022",
-      "title": "Senior Account Executive",
-      "company": "Aurorasolar",
-      "platform": "Arbeitnow",
-      "location": "London, UK",
-      "salary": "Competitive",
-      "type": "Full-time",
-      "tags": [
-        "Sales"
-      ],
-      "postedAt": "2026-08-02T13:00:43.000Z",
-      "url": "https://www.arbeitnow.co.uk/jobs/companies/aurorasolar/senior-account-executive-london-412022"
-    },
-    {
-      "id": "arbeitnow-collections-executive-london-21660",
-      "title": "Collections Executive",
-      "company": "Fundingcircle",
-      "platform": "Arbeitnow",
-      "location": "London",
-      "salary": "Competitive",
-      "type": "Full-time",
-      "tags": [
-        "Collections",
-        "Recoveries & Litigation"
-      ],
-      "postedAt": "2026-08-02T13:00:41.000Z",
-      "url": "https://www.arbeitnow.co.uk/jobs/companies/fundingcircle/collections-executive-london-21660"
-    },
-    {
-      "id": "arbeitnow-data-analyst-london-53897",
-      "title": "Data Analyst",
-      "company": "Fundingcircle",
-      "platform": "Arbeitnow",
-      "location": "London",
-      "salary": "Competitive",
-      "type": "Full-time",
-      "tags": [
-        "Risk"
-      ],
-      "postedAt": "2026-08-02T13:00:41.000Z",
-      "url": "https://www.arbeitnow.co.uk/jobs/companies/fundingcircle/data-analyst-london-53897"
-    },
-    {
-      "id": "arbeitnow-data-scientist-london-290249",
-      "title": "Data Scientist",
-      "company": "Fundingcircle",
-      "platform": "Arbeitnow",
-      "location": "London",
-      "salary": "Competitive",
-      "type": "Full-time",
-      "tags": [
-        "Risk"
-      ],
-      "postedAt": "2026-08-02T13:00:41.000Z",
-      "url": "https://www.arbeitnow.co.uk/jobs/companies/fundingcircle/data-scientist-london-290249"
-    },
-    {
-      "id": "arbeitnow-data-quality-engineer-london-435983",
-      "title": "Data Quality Engineer",
-      "company": "Fundingcircle",
-      "platform": "Arbeitnow",
-      "location": "London",
-      "salary": "Competitive",
-      "type": "Full-time",
-      "tags": [
-        "Data"
-      ],
-      "postedAt": "2026-08-02T13:00:41.000Z",
-      "url": "https://www.arbeitnow.co.uk/jobs/companies/fundingcircle/data-quality-engineer-london-435983"
-    },
-    {
-      "id": "arbeitnow-payments-operations-analyst-london-415819",
-      "title": "Payments Operations Analyst",
-      "company": "Fundingcircle",
-      "platform": "Arbeitnow",
-      "location": "London",
-      "salary": "Competitive",
-      "type": "Full-time",
-      "tags": [
-        "Operations & Controls"
-      ],
-      "postedAt": "2026-08-02T13:00:41.000Z",
-      "url": "https://www.arbeitnow.co.uk/jobs/companies/fundingcircle/payments-operations-analyst-london-415819"
-    },
-    {
-      "id": "arbeitnow-customer-operations-executive-london-301080",
-      "title": "Customer Operations Executive",
-      "company": "Fundingcircle",
-      "platform": "Arbeitnow",
-      "location": "London",
-      "salary": "Competitive",
-      "type": "Full-time",
-      "tags": [
-        "Operations & Controls"
-      ],
-      "postedAt": "2026-08-02T13:00:41.000Z",
-      "url": "https://www.arbeitnow.co.uk/jobs/companies/fundingcircle/customer-operations-executive-london-301080"
-    },
-    {
-      "id": "arbeitnow-vp-data-london-415901",
-      "title": "VP, Data",
-      "company": "Fundingcircle",
-      "platform": "Arbeitnow",
-      "location": "London",
-      "salary": "Competitive",
-      "type": "Full-time",
-      "tags": [
-        "Data"
-      ],
-      "postedAt": "2026-08-02T13:00:41.000Z",
-      "url": "https://www.arbeitnow.co.uk/jobs/companies/fundingcircle/vp-data-london-415901"
-    },
-    {
-      "id": "arbeitnow-senior-engineer-london-409751",
-      "title": "Senior Engineer",
-      "company": "Fundingcircle",
-      "platform": "Arbeitnow",
-      "location": "London",
-      "salary": "Competitive",
-      "type": "Full-time",
-      "tags": [
-        "Product Engineering"
-      ],
-      "postedAt": "2026-08-02T13:00:41.000Z",
-      "url": "https://www.arbeitnow.co.uk/jobs/companies/fundingcircle/senior-engineer-london-409751"
-    },
-    {
-      "id": "arbeitnow-senior-valuations-analyst-london-244051",
-      "title": "Senior Valuations Analyst",
-      "company": "Fundingcircle",
-      "platform": "Arbeitnow",
-      "location": "London",
-      "salary": "Competitive",
-      "type": "Full-time",
-      "tags": [
-        "FlexiPay & Cards"
-      ],
-      "postedAt": "2026-08-02T13:00:41.000Z",
-      "url": "https://www.arbeitnow.co.uk/jobs/companies/fundingcircle/senior-valuations-analyst-london-244051"
-    },
-    {
-      "id": "arbeitnow-ai-engineer-london-449461",
-      "title": "AI Engineer",
-      "company": "Fundingcircle",
-      "platform": "Arbeitnow",
-      "location": "London",
-      "salary": "Competitive",
-      "type": "Full-time",
-      "tags": [
-        "Technology Strategy"
-      ],
-      "postedAt": "2026-08-02T13:00:41.000Z",
-      "url": "https://www.arbeitnow.co.uk/jobs/companies/fundingcircle/ai-engineer-london-449461"
-    },
-    {
-      "id": "arbeitnow-analytics-engineer-london-463672",
-      "title": "Analytics Engineer",
-      "company": "Fundingcircle",
-      "platform": "Arbeitnow",
-      "location": "London",
-      "salary": "Competitive",
-      "type": "Full-time",
-      "tags": [
-        "Data"
-      ],
-      "postedAt": "2026-08-02T13:00:41.000Z",
-      "url": "https://www.arbeitnow.co.uk/jobs/companies/fundingcircle/analytics-engineer-london-463672"
-    },
-    {
-      "id": "arbeitnow-senior-sales-executive-commercial-finance-london-70343",
-      "title": "Senior Sales Executive - Commercial Finance",
-      "company": "Fundingcircle",
-      "platform": "Arbeitnow",
-      "location": "London",
-      "salary": "Competitive",
-      "type": "Full-time",
-      "tags": [
-        "Sales"
-      ],
-      "postedAt": "2026-08-02T13:00:41.000Z",
-      "url": "https://www.arbeitnow.co.uk/jobs/companies/fundingcircle/senior-sales-executive-commercial-finance-london-70343"
-    },
-    {
-      "id": "arbeitnow-senior-sales-specialist-london-132201",
-      "title": "Senior Sales Specialist",
-      "company": "Fundingcircle",
-      "platform": "Arbeitnow",
-      "location": "London",
-      "salary": "Competitive",
-      "type": "Full-time",
-      "tags": [
-        "Sales"
-      ],
-      "postedAt": "2026-08-02T13:00:41.000Z",
-      "url": "https://www.arbeitnow.co.uk/jobs/companies/fundingcircle/senior-sales-specialist-london-132201"
-    },
-    {
-      "id": "arbeitnow-asset-finance-account-manager-london-380422",
-      "title": "Asset Finance Account Manager",
-      "company": "Fundingcircle",
-      "platform": "Arbeitnow",
-      "location": "London",
-      "salary": "Competitive",
-      "type": "Full-time",
-      "tags": [
-        "Sales"
-      ],
-      "postedAt": "2026-08-02T13:00:41.000Z",
-      "url": "https://www.arbeitnow.co.uk/jobs/companies/fundingcircle/asset-finance-account-manager-london-380422"
-    },
-    {
-      "id": "arbeitnow-platform-workplace-engineering-director-london-468260",
-      "title": "Platform & Workplace Engineering Director",
-      "company": "Fundingcircle",
-      "platform": "Arbeitnow",
-      "location": "London",
-      "salary": "Competitive",
-      "type": "Full-time",
-      "tags": [
-        "Security & Infrastructure"
-      ],
-      "postedAt": "2026-08-02T13:00:41.000Z",
-      "url": "https://www.arbeitnow.co.uk/jobs/companies/fundingcircle/platform-workplace-engineering-director-london-468260"
-    },
-    {
-      "id": "arbeitnow-associate-capital-markets-london-276737",
-      "title": "Associate, Capital Markets",
-      "company": "Fundingcircle",
-      "platform": "Arbeitnow",
-      "location": "London",
-      "salary": "Competitive",
-      "type": "Full-time",
-      "tags": [
-        "Capital Markets"
-      ],
-      "postedAt": "2026-08-02T13:00:41.000Z",
-      "url": "https://www.arbeitnow.co.uk/jobs/companies/fundingcircle/associate-capital-markets-london-276737"
-    },
-    {
-      "id": "arbeitnow-tech-lead-analytics-engineer-london-297123",
-      "title": "Tech Lead, Analytics Engineer",
-      "company": "Fundingcircle",
-      "platform": "Arbeitnow",
-      "location": "London",
-      "salary": "Competitive",
-      "type": "Full-time",
-      "tags": [
-        "Data"
-      ],
-      "postedAt": "2026-08-02T13:00:41.000Z",
-      "url": "https://www.arbeitnow.co.uk/jobs/companies/fundingcircle/tech-lead-analytics-engineer-london-297123"
-    },
-    {
-      "id": "arbeitnow-outbound-sales-manager-london-421450",
-      "title": "Outbound Sales Manager",
-      "company": "Fundingcircle",
-      "platform": "Arbeitnow",
-      "location": "London",
-      "salary": "Competitive",
-      "type": "Full-time",
-      "tags": [
-        "Sales"
-      ],
-      "postedAt": "2026-08-02T13:00:41.000Z",
-      "url": "https://www.arbeitnow.co.uk/jobs/companies/fundingcircle/outbound-sales-manager-london-421450"
-    },
-    {
-      "id": "arbeitnow-account-executive-flexipay-london-180051",
-      "title": "Account Executive - FlexiPay",
-      "company": "Fundingcircle",
-      "platform": "Arbeitnow",
-      "location": "London",
-      "salary": "Competitive",
-      "type": "Full-time",
-      "tags": [
-        "Sales"
-      ],
-      "postedAt": "2026-08-02T13:00:41.000Z",
-      "url": "https://www.arbeitnow.co.uk/jobs/companies/fundingcircle/account-executive-flexipay-london-180051"
-    },
-    {
-      "id": "arbeitnow-strategy-commercial-manager-london-278723",
-      "title": "Strategy & Commercial Manager",
-      "company": "Fundingcircle",
-      "platform": "Arbeitnow",
-      "location": "London",
-      "salary": "Competitive",
-      "type": "Full-time",
-      "tags": [
-        "FlexiPay & Cards"
-      ],
-      "postedAt": "2026-08-02T13:00:41.000Z",
-      "url": "https://www.arbeitnow.co.uk/jobs/companies/fundingcircle/strategy-commercial-manager-london-278723"
-    },
-    {
-      "id": "arbeitnow-senior-engineer-salesforce-london-407309",
-      "title": "Senior Engineer (Salesforce)",
-      "company": "Fundingcircle",
-      "platform": "Arbeitnow",
-      "location": "London",
-      "salary": "Competitive",
-      "type": "Full-time",
-      "tags": [
-        "Product Engineering"
-      ],
-      "postedAt": "2026-08-02T13:00:41.000Z",
-      "url": "https://www.arbeitnow.co.uk/jobs/companies/fundingcircle/senior-engineer-salesforce-london-407309"
-    },
-    {
-      "id": "arbeitnow-senior-engineer-customer-auth-london-200296",
-      "title": "Senior Engineer (Customer Auth)",
-      "company": "Fundingcircle",
-      "platform": "Arbeitnow",
-      "location": "London",
-      "salary": "Competitive",
-      "type": "Full-time",
-      "tags": [
-        "Product Engineering"
-      ],
-      "postedAt": "2026-08-02T13:00:41.000Z",
-      "url": "https://www.arbeitnow.co.uk/jobs/companies/fundingcircle/senior-engineer-customer-auth-london-200296"
-    },
-    {
-      "id": "arbeitnow-senior-mobile-engineer-london-354934",
-      "title": "Senior Mobile Engineer",
-      "company": "Fundingcircle",
-      "platform": "Arbeitnow",
-      "location": "London",
-      "salary": "Competitive",
-      "type": "Full-time",
-      "tags": [
-        "Product Engineering"
-      ],
-      "postedAt": "2026-08-02T13:00:41.000Z",
-      "url": "https://www.arbeitnow.co.uk/jobs/companies/fundingcircle/senior-mobile-engineer-london-354934"
-    },
-    {
-      "id": "arbeitnow-remote-technical-customer-success-manager-amer-462705",
-      "title": "Technical Customer Success Manager - AMER",
-      "company": "Camunda",
-      "platform": "Arbeitnow",
-      "location": "Remote",
-      "salary": "Competitive",
-      "type": "Full-time",
-      "tags": [
-        "Customer Success"
-      ],
-      "postedAt": "2026-08-02T13:00:32.000Z",
-      "url": "https://www.arbeitnow.co.uk/jobs/companies/camunda/remote-technical-customer-success-manager-amer-462705"
-    },
-    {
-      "id": "arbeitnow-senior-field-marketing-manager-uk-united-kingdom-90711",
-      "title": "Senior Field Marketing Manager - UK",
-      "company": "Camunda",
-      "platform": "Arbeitnow",
-      "location": "United Kingdom",
-      "salary": "Competitive",
-      "type": "Full-time",
-      "tags": [
-        "Marketing"
-      ],
-      "postedAt": "2026-08-02T13:00:32.000Z",
-      "url": "https://www.arbeitnow.co.uk/jobs/companies/camunda/senior-field-marketing-manager-uk-united-kingdom-90711"
-    },
-    {
-      "id": "arbeitnow-remote-director-solution-and-product-marketing-267384",
-      "title": "Director, Solution and Product Marketing",
-      "company": "Camunda",
-      "platform": "Arbeitnow",
-      "location": "Remote",
-      "salary": "Competitive",
-      "type": "Full-time",
-      "tags": [
-        "Marketing"
-      ],
-      "postedAt": "2026-08-02T13:00:32.000Z",
-      "url": "https://www.arbeitnow.co.uk/jobs/companies/camunda/remote-director-solution-and-product-marketing-267384"
-    },
-    {
-      "id": "arbeitnow-remote-ai-forward-deployed-engineer-emea-421717",
-      "title": "AI Forward Deployed Engineer, EMEA",
-      "company": "Camunda",
-      "platform": "Arbeitnow",
-      "location": "Remote",
-      "salary": "Competitive",
-      "type": "Full-time",
-      "tags": [
-        "Products"
-      ],
-      "postedAt": "2026-08-02T13:00:32.000Z",
-      "url": "https://www.arbeitnow.co.uk/jobs/companies/camunda/remote-ai-forward-deployed-engineer-emea-421717"
-    },
-    {
-      "id": "arbeitnow-remote-senior-field-revenue-operations-strategist-north-america-447585",
-      "title": "Senior Field Revenue Operations Strategist-North America",
-      "company": "Camunda",
-      "platform": "Arbeitnow",
-      "location": "Remote",
-      "salary": "Competitive",
-      "type": "Full-time",
-      "tags": [
-        "Revenue Operations"
-      ],
-      "postedAt": "2026-08-02T13:00:32.000Z",
-      "url": "https://www.arbeitnow.co.uk/jobs/companies/camunda/remote-senior-field-revenue-operations-strategist-north-america-447585"
-    },
-    {
-      "id": "arbeitnow-remote-account-development-representative-i-north-america-201004",
-      "title": "Account Development Representative I - North America",
-      "company": "Camunda",
-      "platform": "Arbeitnow",
-      "location": "Remote",
-      "salary": "Competitive",
-      "type": "Full-time",
-      "tags": [
-        "Marketing"
-      ],
-      "postedAt": "2026-08-02T13:00:32.000Z",
-      "url": "https://www.arbeitnow.co.uk/jobs/companies/camunda/remote-account-development-representative-i-north-america-201004"
-    },
-    {
-      "id": "arbeitnow-senior-solution-architect-emea-north-london-221453",
-      "title": "Senior Solution Architect - EMEA North",
-      "company": "Camunda",
-      "platform": "Arbeitnow",
-      "location": "London",
-      "salary": "Competitive",
-      "type": "Full-time",
-      "tags": [
-        "Sales"
-      ],
-      "postedAt": "2026-08-02T13:00:32.000Z",
-      "url": "https://www.arbeitnow.co.uk/jobs/companies/camunda/senior-solution-architect-emea-north-london-221453"
-    },
-    {
-      "id": "arbeitnow-remote-senior-product-builder-3446",
-      "title": "Senior Product Builder",
-      "company": "Camunda",
-      "platform": "Arbeitnow",
-      "location": "Remote",
-      "salary": "Competitive",
-      "type": "Full-time",
-      "tags": [
-        "Products"
-      ],
-      "postedAt": "2026-08-02T13:00:32.000Z",
-      "url": "https://www.arbeitnow.co.uk/jobs/companies/camunda/remote-senior-product-builder-3446"
-    },
-    {
-      "id": "arbeitnow-remote-technical-writer-486186",
-      "title": "Technical Writer",
-      "company": "Camunda",
-      "platform": "Arbeitnow",
-      "location": "Remote",
-      "salary": "Competitive",
-      "type": "Full-time",
-      "tags": [
-        "Products"
-      ],
-      "postedAt": "2026-08-02T13:00:32.000Z",
-      "url": "https://www.arbeitnow.co.uk/jobs/companies/camunda/remote-technical-writer-486186"
-    },
-    {
-      "id": "arbeitnow-majors-account-executive-441800",
-      "title": "Majors Account Executive",
-      "company": "Rubrik",
-      "platform": "Arbeitnow",
-      "location": "Remote",
-      "salary": "Competitive",
-      "type": "Full-time",
-      "tags": [
-        "Sales"
-      ],
-      "postedAt": "2026-08-02T12:16:14.000Z",
-      "url": "https://www.arbeitnow.com/jobs/companies/rubrik/majors-account-executive-441800"
-    },
-    {
-      "id": "arbeitnow-remote-account-executive-466178",
-      "title": "Account Executive",
-      "company": "Rubrik",
-      "platform": "Arbeitnow",
-      "location": "Remote",
-      "salary": "Competitive",
-      "type": "Full-time",
-      "tags": [
-        "Sales"
-      ],
-      "postedAt": "2026-08-02T12:16:14.000Z",
-      "url": "https://www.arbeitnow.com/jobs/companies/rubrik/remote-account-executive-466178"
-    },
-    {
-      "id": "arbeitnow-forward-deployed-engineer-hebrew-speaker-hybrid-366623",
-      "title": "Forward Deployed Engineer, Hebrew speaker",
-      "company": "cloudflare",
-      "platform": "Arbeitnow",
-      "location": "Hybrid",
-      "salary": "Competitive",
-      "type": "Full-time",
-      "tags": [
-        "Developer Relations"
-      ],
-      "postedAt": "2026-08-02T12:15:50.000Z",
-      "url": "https://www.arbeitnow.com/jobs/companies/cloudflare/forward-deployed-engineer-hebrew-speaker-hybrid-366623"
-    },
-    {
-      "id": "arbeitnow-forward-deployed-engineer-hybrid-455609",
-      "title": "Forward Deployed Engineer",
-      "company": "cloudflare",
-      "platform": "Arbeitnow",
-      "location": "Hybrid",
-      "salary": "Competitive",
-      "type": "Full-time",
-      "tags": [
-        "Developer Relations"
-      ],
-      "postedAt": "2026-08-02T12:15:50.000Z",
-      "url": "https://www.arbeitnow.com/jobs/companies/cloudflare/forward-deployed-engineer-hybrid-455609"
     },
     {
       "id": "jobicy-150108",
@@ -2761,6 +2658,133 @@
       "tags": [],
       "postedAt": "2026-08-02T12:09:38+00:00",
       "url": "https://jobicy.com/jobs/150089-founding-senior-customer-engineer"
+    },
+    {
+      "id": "jobicy-146045",
+      "title": "Cloud Sales Specialist",
+      "company": "Autodesk",
+      "platform": "Jobicy",
+      "location": "EMEA,  Italy",
+      "salary": "Competitive",
+      "type": "Full-Time",
+      "tags": [],
+      "postedAt": "2026-08-01T18:35:03+00:00",
+      "url": "https://jobicy.com/jobs/146045-cloud-sales-specialist"
+    },
+    {
+      "id": "jobicy-146184",
+      "title": "Fusion Sr. Sales Specialist, Territory",
+      "company": "Autodesk",
+      "platform": "Jobicy",
+      "location": "APAC,  South Korea",
+      "salary": "Competitive",
+      "type": "Full-Time",
+      "tags": [],
+      "postedAt": "2026-08-01T16:25:02+00:00",
+      "url": "https://jobicy.com/jobs/146184-fusion-sr-sales-specialist-territory"
+    },
+    {
+      "id": "remoteok-1135912",
+      "title": "Join The Berry Avionics Team",
+      "company": "Berry Avionics",
+      "platform": "RemoteOK",
+      "location": "Kakori, ",
+      "salary": "Competitive",
+      "type": "Full-time",
+      "tags": [
+        "infosec",
+        "testing"
+      ],
+      "postedAt": "2026-08-01T15:45:16+00:00",
+      "url": "https://remoteOK.com/remote-jobs/remote-join-the-berry-avionics-team-berry-avionics-1135912"
+    },
+    {
+      "id": "remoteok-1135838",
+      "title": "WordiQt",
+      "company": "koodup",
+      "platform": "RemoteOK",
+      "location": "Cumbria, ",
+      "salary": "Competitive",
+      "type": "Full-time",
+      "tags": [
+        "recruiter",
+        "non tech"
+      ],
+      "postedAt": "2026-08-01T15:08:18+00:00",
+      "url": "https://remoteOK.com/remote-jobs/remote-wordiqt-koodup-1135838"
+    },
+    {
+      "id": "remoteok-1135839",
+      "title": "Story Seed",
+      "company": "koodup",
+      "platform": "RemoteOK",
+      "location": "Cumbria, ",
+      "salary": "Competitive",
+      "type": "Full-time",
+      "tags": [
+        "recruiter",
+        "non tech"
+      ],
+      "postedAt": "2026-08-01T15:08:15+00:00",
+      "url": "https://remoteOK.com/remote-jobs/remote-story-seed-koodup-1135839"
+    },
+    {
+      "id": "remoteok-1135837",
+      "title": "Labourer",
+      "company": "One Way",
+      "platform": "RemoteOK",
+      "location": "Weymouth, ",
+      "salary": "Competitive",
+      "type": "Full-time",
+      "tags": [
+        "recruiter",
+        "non tech"
+      ],
+      "postedAt": "2026-08-01T14:33:20+00:00",
+      "url": "https://remoteOK.com/remote-jobs/remote-labourer-one-way-1135837"
+    },
+    {
+      "id": "remoteok-1135785",
+      "title": "Vendor Application Template",
+      "company": "Docs And Slides",
+      "platform": "RemoteOK",
+      "location": "Content, ",
+      "salary": "Competitive",
+      "type": "Full-time",
+      "tags": [],
+      "postedAt": "2026-08-01T14:16:57+00:00",
+      "url": "https://remoteOK.com/remote-jobs/remote-vendor-application-template-docs-and-slides-1135785"
+    },
+    {
+      "id": "remoteok-1135784",
+      "title": "Friendship Application Template",
+      "company": "Docs And Slides",
+      "platform": "RemoteOK",
+      "location": "Content, ",
+      "salary": "Competitive",
+      "type": "Full-time",
+      "tags": [],
+      "postedAt": "2026-08-01T14:16:56+00:00",
+      "url": "https://remoteOK.com/remote-jobs/remote-friendship-application-template-docs-and-slides-1135784"
+    },
+    {
+      "id": "remoteok-1135787",
+      "title": "Housekeeper",
+      "company": "Phoenix Senior Living",
+      "platform": "RemoteOK",
+      "location": "Retreat, ",
+      "salary": "Competitive",
+      "type": "Full-time",
+      "tags": [
+        "ads",
+        "sys admin",
+        "supervisor",
+        "education",
+        "senior",
+        "non tech"
+      ],
+      "postedAt": "2026-08-01T11:56:27+00:00",
+      "url": "https://remoteOK.com/remote-jobs/remote-housekeeper-phoenix-senior-living-1135787"
     }
   ]
 }
