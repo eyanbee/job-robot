@@ -1,6 +1,52 @@
 {
-  "lastUpdated": "2026-08-06T12:27:28.742Z",
+  "lastUpdated": "2026-08-06T14:57:00.638Z",
   "jobs": [
+    {
+      "id": "remoteok-1136207",
+      "title": "CovalFlow",
+      "company": "CovalTech",
+      "platform": "RemoteOK",
+      "location": "Full Sutton, ",
+      "salary": "Competitive",
+      "type": "Full-time",
+      "tags": [
+        "education",
+        "non tech",
+        "finance",
+        "exec",
+        "saas",
+        "sys admin",
+        "vfx",
+        "c",
+        "embedded",
+        "infosec",
+        "technical",
+        "customer support",
+        "web dev",
+        "travel",
+        "html",
+        "ads",
+        "content writing",
+        "marketing",
+        "stats",
+        "golang",
+        "recruiter",
+        "engineer",
+        "consulting",
+        "dev",
+        "virtual assistant",
+        "firebase",
+        "cloud",
+        "typescript",
+        "node",
+        "api",
+        "apache",
+        "backend",
+        "digital nomad"
+      ],
+      "postedAt": "2026-08-05T14:29:44+00:00",
+      "url": "https://remoteOK.com/remote-jobs/remote-covalflow-covaltech-1136207"
+    },
     {
       "id": "remoteok-1136223",
       "title": "Cabin Crew Virtual Interviews PAN India",
@@ -143,6 +189,27 @@
       "tags": [],
       "postedAt": "2026-08-06T06:20:03+00:00",
       "url": "https://jobicy.com/jobs/148755-seo-content-writer-2"
+    },
+    {
+      "id": "remoteok-1136248",
+      "title": "Signitic",
+      "company": "Wesaas",
+      "platform": "RemoteOK",
+      "location": "Sardhana, ",
+      "salary": "Competitive",
+      "type": "Full-time",
+      "tags": [
+        "dev",
+        "exec",
+        "digital nomad",
+        "ruby",
+        "education",
+        "finance",
+        "medical",
+        "ecommerce"
+      ],
+      "postedAt": "2026-08-05T13:48:34+00:00",
+      "url": "https://remoteOK.com/remote-jobs/remote-signitic-wesaas-1136248"
     },
     {
       "id": "remoteok-1136250",
@@ -323,20 +390,6 @@
       "url": "https://jobicy.com/jobs/148754-manager-seo-aeo"
     },
     {
-      "id": "arbeitnow-remote-founding-ui-ux-graphic-designer-423214",
-      "title": "Founding UI/UX & Graphic Designer",
-      "company": "Clera",
-      "platform": "Arbeitnow",
-      "location": "remote",
-      "salary": "Competitive",
-      "type": "Full-time",
-      "tags": [
-        "Engineering"
-      ],
-      "postedAt": "2026-08-06T05:40:26.000Z",
-      "url": "https://www.arbeitnow.com/jobs/companies/clera/remote-founding-ui-ux-graphic-designer-423214"
-    },
-    {
       "id": "jobicy-148689",
       "title": "Manager, Customer Support Engineering",
       "company": "Fivetran",
@@ -347,6 +400,132 @@
       "tags": [],
       "postedAt": "2026-08-06T06:05:02+00:00",
       "url": "https://jobicy.com/jobs/148689-manager-customer-support-engineering"
+    },
+    {
+      "id": "remoteok-1136184",
+      "title": "Donât Put Yourself a Box",
+      "company": "Order From Chaos, Today!",
+      "platform": "RemoteOK",
+      "location": "Ottawa, ",
+      "salary": "Competitive",
+      "type": "Full-time",
+      "tags": [
+        "exec",
+        "full time",
+        "part time",
+        "sys admin",
+        "infosec",
+        "technical",
+        "customer support",
+        "marketing",
+        "finance",
+        "c",
+        "sales",
+        "medical",
+        "mobile",
+        "dev",
+        "chatbot",
+        "ops",
+        "legal",
+        "engineer",
+        "digital nomad",
+        "testing",
+        "api",
+        "hr",
+        "recruiter",
+        "math",
+        "ads",
+        "senior",
+        "golang"
+      ],
+      "postedAt": "2026-08-05T14:27:40+00:00",
+      "url": "https://remoteOK.com/remote-jobs/remote-dont-put-yourself-a-box-order-from-chaos-today-1136184"
+    },
+    {
+      "id": "remoteok-1136185",
+      "title": "Stay Hungry. Stay Foolish. Serve Others",
+      "company": "AS UNEXPECTED",
+      "platform": "RemoteOK",
+      "location": "Mankota 45, ",
+      "salary": "Competitive",
+      "type": "Full-time",
+      "tags": [
+        "exec",
+        "full time",
+        "part time",
+        "sys admin",
+        "infosec",
+        "technical",
+        "customer support",
+        "marketing",
+        "finance",
+        "c",
+        "sales",
+        "medical",
+        "mobile",
+        "dev",
+        "chatbot",
+        "ops",
+        "legal",
+        "engineer",
+        "digital nomad",
+        "testing",
+        "api",
+        "hr",
+        "recruiter",
+        "math",
+        "ads",
+        "senior",
+        "golang"
+      ],
+      "postedAt": "2026-08-05T13:57:50+00:00",
+      "url": "https://remoteOK.com/remote-jobs/remote-stay-hungry-stay-foolish-serve-others-as-unexpected-1136185"
+    },
+    {
+      "id": "remoteok-1136214",
+      "title": "Procurement Specialist",
+      "company": "Robert Half",
+      "platform": "RemoteOK",
+      "location": "New York, New York, New York, United States",
+      "salary": "Competitive",
+      "type": "Full-time",
+      "tags": [
+        "exec",
+        "design",
+        "architecture",
+        "recruiter",
+        "customer support",
+        "marketing",
+        "content writing",
+        "ops",
+        "golang",
+        "full time",
+        "digital nomad",
+        "dev",
+        "senior",
+        "medical",
+        "engineer",
+        "infosec",
+        "react",
+        "embedded",
+        "technical",
+        "finance",
+        "cloud",
+        "postgres",
+        "typescript",
+        "ruby",
+        "stats",
+        "accounting",
+        "designer",
+        "web dev",
+        "video",
+        "ads",
+        "education",
+        "excel",
+        "legal"
+      ],
+      "postedAt": "2026-08-05T13:13:07+00:00",
+      "url": "https://remoteOK.com/remote-jobs/remote-procurement-specialist-robert-half-1136214"
     },
     {
       "id": "remoteok-1136186",
@@ -1152,128 +1331,6 @@
       "url": "https://remoteOK.com/remote-jobs/remote-15-15-paul-b-1136153"
     },
     {
-      "id": "remoteok-1136101",
-      "title": "Diver III",
-      "company": "Amentum",
-      "platform": "RemoteOK",
-      "location": "New Providence, ",
-      "salary": "Competitive",
-      "type": "Full-time",
-      "tags": [
-        "dev",
-        "digital nomad",
-        "infosec",
-        "education",
-        "technical",
-        "supervisor",
-        "customer support",
-        "testing",
-        "video",
-        "ops"
-      ],
-      "postedAt": "2026-08-04T20:44:57+00:00",
-      "url": "https://remoteOK.com/remote-jobs/remote-diver-iii-amentum-1136101"
-    },
-    {
-      "id": "remoteok-1136148",
-      "title": "Application for Payment Template",
-      "company": "The Site Office",
-      "platform": "RemoteOK",
-      "location": "Ranaghat, ",
-      "salary": "Competitive",
-      "type": "Full-time",
-      "tags": [
-        "dev",
-        "digital nomad",
-        "customer support",
-        "non tech",
-        "quality assurance",
-        "math",
-        "ops",
-        "golang",
-        "web dev",
-        "infosec",
-        "cloud"
-      ],
-      "postedAt": "2026-08-04T20:22:27+00:00",
-      "url": "https://remoteOK.com/remote-jobs/remote-application-for-payment-template-the-site-office-1136148"
-    },
-    {
-      "id": "remoteok-1136139",
-      "title": "Guide",
-      "company": "Svetoviz",
-      "platform": "RemoteOK",
-      "location": "Nadbai, ",
-      "salary": "Competitive",
-      "type": "Full-time",
-      "tags": [
-        "dev",
-        "digital nomad",
-        "customer support",
-        "non tech"
-      ],
-      "postedAt": "2026-08-04T19:54:35+00:00",
-      "url": "https://remoteOK.com/remote-jobs/remote-guide-svetoviz-1136139"
-    },
-    {
-      "id": "remoteok-1136102",
-      "title": "Document Controller",
-      "company": "Fox Group of Companies",
-      "platform": "RemoteOK",
-      "location": "Nassau, ",
-      "salary": "Competitive",
-      "type": "Full-time",
-      "tags": [
-        "dev",
-        "digital nomad",
-        "infosec",
-        "education",
-        "technical",
-        "supervisor",
-        "customer support",
-        "testing",
-        "video",
-        "ops",
-        "controller"
-      ],
-      "postedAt": "2026-08-04T19:38:59+00:00",
-      "url": "https://remoteOK.com/remote-jobs/remote-document-controller-fox-group-of-companies-1136102"
-    },
-    {
-      "id": "remoteok-1136182",
-      "title": "Currently no vacancies",
-      "company": "Securancy Intelligence",
-      "platform": "RemoteOK",
-      "location": "Division No. 11, ",
-      "salary": "Competitive",
-      "type": "Full-time",
-      "tags": [
-        "exec",
-        "full time",
-        "part time",
-        "sys admin",
-        "infosec",
-        "technical",
-        "customer support",
-        "marketing",
-        "finance",
-        "c",
-        "sales",
-        "medical",
-        "mobile",
-        "dev",
-        "chatbot",
-        "ops",
-        "legal",
-        "engineer",
-        "digital nomad",
-        "testing",
-        "api"
-      ],
-      "postedAt": "2026-08-04T19:26:09+00:00",
-      "url": "https://remoteOK.com/remote-jobs/remote-currently-no-vacancies-securancy-intelligence-1136182"
-    },
-    {
       "id": "arbeitnow-senior-ads-sales-planning-operations-manager-london-28573",
       "title": "Senior Ads Sales Planning & Operations Manager",
       "company": "Trainline",
@@ -1338,6 +1395,342 @@
       ],
       "postedAt": "2026-08-06T03:55:27.000Z",
       "url": "https://www.arbeitnow.co.uk/jobs/companies/gocardless/senior-global-performance-marketing-manager-leeds-229076"
+    },
+    {
+      "id": "arbeitnow-director-implementation-planning-london-165344",
+      "title": "Director, Implementation Planning",
+      "company": "Wppmedia",
+      "platform": "Arbeitnow",
+      "location": "London",
+      "salary": "Competitive",
+      "type": "Full-time",
+      "tags": [
+        "Media Management & Delivery"
+      ],
+      "postedAt": "2026-08-06T12:55:07.000Z",
+      "url": "https://www.arbeitnow.co.uk/jobs/companies/wppmedia/director-implementation-planning-london-165344"
+    },
+    {
+      "id": "arbeitnow-adooh-solutions-associate-director-london-468073",
+      "title": "ADOOH Solutions, Associate Director",
+      "company": "Wppmedia",
+      "platform": "Arbeitnow",
+      "location": "London",
+      "salary": "Competitive",
+      "type": "Full-time",
+      "tags": [
+        "Technology & Data"
+      ],
+      "postedAt": "2026-08-06T12:55:06.000Z",
+      "url": "https://www.arbeitnow.co.uk/jobs/companies/wppmedia/adooh-solutions-associate-director-london-468073"
+    },
+    {
+      "id": "arbeitnow-staff-engineer-london-105846",
+      "title": "Staff Engineer",
+      "company": "Flagstone",
+      "platform": "Arbeitnow",
+      "location": "London Office",
+      "salary": "Competitive",
+      "type": "Full-time",
+      "tags": [
+        "Operations"
+      ],
+      "postedAt": "2026-08-06T12:40:16.000Z",
+      "url": "https://www.arbeitnow.co.uk/jobs/companies/flagstone/staff-engineer-london-105846"
+    },
+    {
+      "id": "arbeitnow-accounts-assistant-6-month-ftc-london-273203",
+      "title": "Accounts Assistant - 6 month FTC",
+      "company": "Flagstone",
+      "platform": "Arbeitnow",
+      "location": "London Office",
+      "salary": "Competitive",
+      "type": "Full-time",
+      "tags": [
+        "Finance"
+      ],
+      "postedAt": "2026-08-06T12:40:16.000Z",
+      "url": "https://www.arbeitnow.co.uk/jobs/companies/flagstone/accounts-assistant-6-month-ftc-london-273203"
+    },
+    {
+      "id": "arbeitnow-product-manager-12-month-ftc-london-435011",
+      "title": "Product Manager - 12 month FTC",
+      "company": "Flagstone",
+      "platform": "Arbeitnow",
+      "location": "London Office",
+      "salary": "Competitive",
+      "type": "Full-time",
+      "tags": [
+        "Product"
+      ],
+      "postedAt": "2026-08-06T12:40:16.000Z",
+      "url": "https://www.arbeitnow.co.uk/jobs/companies/flagstone/product-manager-12-month-ftc-london-435011"
+    },
+    {
+      "id": "arbeitnow-manager-solutions-consultants-uki-london-159655",
+      "title": "Manager, Solutions Consultants, UKI",
+      "company": "Notion",
+      "platform": "Arbeitnow",
+      "location": "London, United Kingdom",
+      "salary": "Competitive",
+      "type": "Full-time",
+      "tags": [
+        "Sales"
+      ],
+      "postedAt": "2026-08-06T12:40:12.000Z",
+      "url": "https://www.arbeitnow.co.uk/jobs/companies/notion/manager-solutions-consultants-uki-london-159655"
+    },
+    {
+      "id": "arbeitnow-remote-tech-lead-431444",
+      "title": "Tech Lead",
+      "company": "Clera",
+      "platform": "Arbeitnow",
+      "location": "remote",
+      "salary": "Competitive",
+      "type": "Full-time",
+      "tags": [
+        "Engineering"
+      ],
+      "postedAt": "2026-08-06T12:40:09.000Z",
+      "url": "https://www.arbeitnow.co.uk/jobs/companies/clera/remote-tech-lead-431444"
+    },
+    {
+      "id": "arbeitnow-cricket-systems-operator-uk-london-463771",
+      "title": "Cricket Systems Operator - UK",
+      "company": "Hawkeyeinnovations",
+      "platform": "Arbeitnow",
+      "location": "UK Based with Global Travel",
+      "salary": "Competitive",
+      "type": "Full-time",
+      "tags": [
+        "Hawk-Eye Innovations"
+      ],
+      "postedAt": "2026-08-06T12:40:08.000Z",
+      "url": "https://www.arbeitnow.co.uk/jobs/companies/hawkeyeinnovations/cricket-systems-operator-uk-london-463771"
+    },
+    {
+      "id": "arbeitnow-site-associate-nottingham-london-324717",
+      "title": "Site Associate - Nottingham",
+      "company": "Deliveroo",
+      "platform": "Arbeitnow",
+      "location": "London - Acton (Editions)",
+      "salary": "Competitive",
+      "type": "Full-time",
+      "tags": [
+        "All Cost Centers"
+      ],
+      "postedAt": "2026-08-06T12:40:06.000Z",
+      "url": "https://www.arbeitnow.co.uk/jobs/companies/deliveroo/site-associate-nottingham-london-324717"
+    },
+    {
+      "id": "arbeitnow-product-manager-double-order-london-134731",
+      "title": "Product Manager, Double Order",
+      "company": "Deliveroo",
+      "platform": "Arbeitnow",
+      "location": "London - The River Building HQ",
+      "salary": "Competitive",
+      "type": "Full-time",
+      "tags": [
+        "All Cost Centers"
+      ],
+      "postedAt": "2026-08-06T12:40:06.000Z",
+      "url": "https://www.arbeitnow.co.uk/jobs/companies/deliveroo/product-manager-double-order-london-134731"
+    },
+    {
+      "id": "arbeitnow-uki-promotions-value-strategy-manager-london-312350",
+      "title": "UKI Promotions & Value Strategy Manager",
+      "company": "Deliveroo",
+      "platform": "Arbeitnow",
+      "location": "London - The River Building HQ",
+      "salary": "Competitive",
+      "type": "Full-time",
+      "tags": [
+        "All Cost Centers"
+      ],
+      "postedAt": "2026-08-06T12:40:06.000Z",
+      "url": "https://www.arbeitnow.co.uk/jobs/companies/deliveroo/uki-promotions-value-strategy-manager-london-312350"
+    },
+    {
+      "id": "arbeitnow-implementation-manager-london-35942",
+      "title": "Implementation Manager",
+      "company": "Deliveroo",
+      "platform": "Arbeitnow",
+      "location": "London - The River Building HQ",
+      "salary": "Competitive",
+      "type": "Full-time",
+      "tags": [
+        "All Cost Centers"
+      ],
+      "postedAt": "2026-08-06T12:40:06.000Z",
+      "url": "https://www.arbeitnow.co.uk/jobs/companies/deliveroo/implementation-manager-london-35942"
+    },
+    {
+      "id": "arbeitnow-head-of-brand-campaigns-deliveroo-for-work-london-290076",
+      "title": "Head of Brand & Campaigns, Deliveroo for Work",
+      "company": "Deliveroo",
+      "platform": "Arbeitnow",
+      "location": "London - The River Building HQ",
+      "salary": "Competitive",
+      "type": "Full-time",
+      "tags": [
+        "All Cost Centers"
+      ],
+      "postedAt": "2026-08-06T12:40:06.000Z",
+      "url": "https://www.arbeitnow.co.uk/jobs/companies/deliveroo/head-of-brand-campaigns-deliveroo-for-work-london-290076"
+    },
+    {
+      "id": "arbeitnow-senior-manager-of-engineering-brand-ads-and-promotions-london-472226",
+      "title": "Senior Manager of Engineering, Brand Ads and Promotions",
+      "company": "Deliveroo",
+      "platform": "Arbeitnow",
+      "location": "London - The River Building HQ",
+      "salary": "Competitive",
+      "type": "Full-time",
+      "tags": [
+        "All Cost Centers"
+      ],
+      "postedAt": "2026-08-06T12:40:06.000Z",
+      "url": "https://www.arbeitnow.co.uk/jobs/companies/deliveroo/senior-manager-of-engineering-brand-ads-and-promotions-london-472226"
+    },
+    {
+      "id": "arbeitnow-rider-compliance-representative-london-291249",
+      "title": "Rider Compliance Representative",
+      "company": "Deliveroo",
+      "platform": "Arbeitnow",
+      "location": "London - The River Building HQ",
+      "salary": "Competitive",
+      "type": "Full-time",
+      "tags": [
+        "All Cost Centers"
+      ],
+      "postedAt": "2026-08-06T12:40:06.000Z",
+      "url": "https://www.arbeitnow.co.uk/jobs/companies/deliveroo/rider-compliance-representative-london-291249"
+    },
+    {
+      "id": "arbeitnow-sales-development-representative-italian-speaking-manchester-480320",
+      "title": "Sales Development Representative (Italian Speaking)",
+      "company": "Deliveroo",
+      "platform": "Arbeitnow",
+      "location": "Manchester - Main Office",
+      "salary": "Competitive",
+      "type": "Full-time",
+      "tags": [
+        "All Cost Centers"
+      ],
+      "postedAt": "2026-08-06T12:40:06.000Z",
+      "url": "https://www.arbeitnow.co.uk/jobs/companies/deliveroo/sales-development-representative-italian-speaking-manchester-480320"
+    },
+    {
+      "id": "arbeitnow-warehouse-supervisor-kentish-town-london-40120",
+      "title": "Warehouse Supervisor, Kentish Town",
+      "company": "Deliveroo",
+      "platform": "Arbeitnow",
+      "location": "London - Kentish Town (Hop)",
+      "salary": "Competitive",
+      "type": "Full-time",
+      "tags": [
+        "All Cost Centers"
+      ],
+      "postedAt": "2026-08-06T12:40:06.000Z",
+      "url": "https://www.arbeitnow.co.uk/jobs/companies/deliveroo/warehouse-supervisor-kentish-town-london-40120"
+    },
+    {
+      "id": "arbeitnow-account-manager-commuter-belt-north-bishop-stortford-stevenage-london-58702",
+      "title": "Account Manager, Commuter Belt North (Bishop Stortford, Stevenage)",
+      "company": "Deliveroo",
+      "platform": "Arbeitnow",
+      "location": "London - The River Building HQ",
+      "salary": "Competitive",
+      "type": "Full-time",
+      "tags": [
+        "All Cost Centers"
+      ],
+      "postedAt": "2026-08-06T12:40:06.000Z",
+      "url": "https://www.arbeitnow.co.uk/jobs/companies/deliveroo/account-manager-commuter-belt-north-bishop-stortford-stevenage-london-58702"
+    },
+    {
+      "id": "arbeitnow-senior-national-account-manager-london-418499",
+      "title": "Senior National Account Manager",
+      "company": "Deliveroo",
+      "platform": "Arbeitnow",
+      "location": "London - The River Building HQ",
+      "salary": "Competitive",
+      "type": "Full-time",
+      "tags": [
+        "All Cost Centers"
+      ],
+      "postedAt": "2026-08-06T12:40:06.000Z",
+      "url": "https://www.arbeitnow.co.uk/jobs/companies/deliveroo/senior-national-account-manager-london-418499"
+    },
+    {
+      "id": "arbeitnow-senior-management-accountant-finchley-central-north-london-227935",
+      "title": "Senior Management Accountant",
+      "company": "Vision RT Ltd.",
+      "platform": "Arbeitnow",
+      "location": "Finchley Central, North London",
+      "salary": "Competitive",
+      "type": "Full-time",
+      "tags": [
+        "Finance & Payroll"
+      ],
+      "postedAt": "2026-08-06T12:25:18.000Z",
+      "url": "https://www.arbeitnow.co.uk/jobs/companies/vision-rt-ltd/senior-management-accountant-finchley-central-north-london-227935"
+    },
+    {
+      "id": "arbeitnow-senior-technical-product-manager-platform-11862",
+      "title": "Senior Technical Product Manager (Platform)",
+      "company": "constructortech",
+      "platform": "Arbeitnow",
+      "location": "Remote",
+      "salary": "Competitive",
+      "type": "Full-time",
+      "tags": [
+        "Product Management"
+      ],
+      "postedAt": "2026-08-06T11:55:34.000Z",
+      "url": "https://www.arbeitnow.com/jobs/companies/constructortech/senior-technical-product-manager-platform-11862"
+    },
+    {
+      "id": "arbeitnow-senior-product-manager-edtech-ai-299018",
+      "title": "Senior Product Manager (EdTech & AI)",
+      "company": "constructortech",
+      "platform": "Arbeitnow",
+      "location": "Remote",
+      "salary": "Competitive",
+      "type": "Full-time",
+      "tags": [
+        "Product Management"
+      ],
+      "postedAt": "2026-08-06T11:55:34.000Z",
+      "url": "https://www.arbeitnow.com/jobs/companies/constructortech/senior-product-manager-edtech-ai-299018"
+    },
+    {
+      "id": "arbeitnow-ml-research-intern-in-agentic-runtime-systems-bremen-372453",
+      "title": "ML Research Intern in Agentic Runtime Systems",
+      "company": "constructortech",
+      "platform": "Arbeitnow",
+      "location": "Bremen",
+      "salary": "Competitive",
+      "type": "Full-time",
+      "tags": [
+        "Internship"
+      ],
+      "postedAt": "2026-08-06T11:55:34.000Z",
+      "url": "https://www.arbeitnow.com/jobs/companies/constructortech/ml-research-intern-in-agentic-runtime-systems-bremen-372453"
+    },
+    {
+      "id": "arbeitnow-frontend-engineer-intern-bremen-406306",
+      "title": "Frontend Engineer (Intern)",
+      "company": "constructortech",
+      "platform": "Arbeitnow",
+      "location": "Bremen",
+      "salary": "Competitive",
+      "type": "Full-time",
+      "tags": [
+        "Internship"
+      ],
+      "postedAt": "2026-08-06T11:55:34.000Z",
+      "url": "https://www.arbeitnow.com/jobs/companies/constructortech/frontend-engineer-intern-bremen-406306"
     },
     {
       "id": "arbeitnow-senior-product-manager-new-york-new-york-united-states-59239",
@@ -1732,6 +2125,18 @@
       "url": "https://www.arbeitnow.com/jobs/companies/doctolib/senior-account-executive-saas-b2b-unterfranken-wurzburg-445956"
     },
     {
+      "id": "jobicy-142765",
+      "title": "Customer Success Manager, Corporate",
+      "company": "AlphaSense",
+      "platform": "Jobicy",
+      "location": "USA",
+      "salary": "Competitive",
+      "type": "Full-Time",
+      "tags": [],
+      "postedAt": "2026-08-06T08:55:03+00:00",
+      "url": "https://jobicy.com/jobs/142765-customer-success-manager-corporate"
+    },
+    {
       "id": "arbeitnow-remote-growth-product-manager-berlin-269698",
       "title": "Growth Product Manager",
       "company": "ScholarshipOwl",
@@ -1909,90 +2314,6 @@
       "tags": [],
       "postedAt": "2026-08-06T05:45:02+00:00",
       "url": "https://jobicy.com/jobs/148693-enterprise-sales-director-3"
-    },
-    {
-      "id": "arbeitnow-remote-technical-account-manager-472960",
-      "title": "Technical Account Manager",
-      "company": "Clera",
-      "platform": "Arbeitnow",
-      "location": "remote",
-      "salary": "Competitive",
-      "type": "Full-time",
-      "tags": [
-        "Engineering"
-      ],
-      "postedAt": "2026-08-06T05:40:26.000Z",
-      "url": "https://www.arbeitnow.com/jobs/companies/clera/remote-technical-account-manager-472960"
-    },
-    {
-      "id": "arbeitnow-remote-founding-lead-recruiter-483239",
-      "title": "Founding Lead Recruiter",
-      "company": "Clera",
-      "platform": "Arbeitnow",
-      "location": "remote",
-      "salary": "Competitive",
-      "type": "Full-time",
-      "tags": [
-        "Engineering"
-      ],
-      "postedAt": "2026-08-06T05:40:26.000Z",
-      "url": "https://www.arbeitnow.com/jobs/companies/clera/remote-founding-lead-recruiter-483239"
-    },
-    {
-      "id": "arbeitnow-remote-pre-sales-deployed-engineer-281425",
-      "title": "Pre-Sales Deployed Engineer",
-      "company": "Clera",
-      "platform": "Arbeitnow",
-      "location": "remote",
-      "salary": "Competitive",
-      "type": "Full-time",
-      "tags": [
-        "Engineering"
-      ],
-      "postedAt": "2026-08-06T05:40:26.000Z",
-      "url": "https://www.arbeitnow.com/jobs/companies/clera/remote-pre-sales-deployed-engineer-281425"
-    },
-    {
-      "id": "arbeitnow-remote-ml-engineer-robotics-303416",
-      "title": "ML Engineer - Robotics",
-      "company": "Clera",
-      "platform": "Arbeitnow",
-      "location": "remote",
-      "salary": "Competitive",
-      "type": "Full-time",
-      "tags": [
-        "Engineering"
-      ],
-      "postedAt": "2026-08-06T05:40:26.000Z",
-      "url": "https://www.arbeitnow.com/jobs/companies/clera/remote-ml-engineer-robotics-303416"
-    },
-    {
-      "id": "arbeitnow-remote-founding-full-stack-ios-engineer-326228",
-      "title": "Founding Full-Stack iOS Engineer",
-      "company": "Clera",
-      "platform": "Arbeitnow",
-      "location": "remote",
-      "salary": "Competitive",
-      "type": "Full-time",
-      "tags": [
-        "Engineering"
-      ],
-      "postedAt": "2026-08-06T05:40:26.000Z",
-      "url": "https://www.arbeitnow.com/jobs/companies/clera/remote-founding-full-stack-ios-engineer-326228"
-    },
-    {
-      "id": "arbeitnow-remote-tech-lead-286865",
-      "title": "Tech Lead",
-      "company": "Clera",
-      "platform": "Arbeitnow",
-      "location": "remote",
-      "salary": "Competitive",
-      "type": "Full-time",
-      "tags": [
-        "Engineering"
-      ],
-      "postedAt": "2026-08-06T05:40:26.000Z",
-      "url": "https://www.arbeitnow.com/jobs/companies/clera/remote-tech-lead-286865"
     },
     {
       "id": "jobicy-148694",
@@ -2280,202 +2601,6 @@
       "url": "https://www.arbeitnow.co.uk/jobs/companies/rtbhouse/account-executive-london-36352"
     },
     {
-      "id": "arbeitnow-go-to-market-reading-united-kingdom-415535",
-      "title": "Go-to-Market - Reading, United Kingdom",
-      "company": "speechify",
-      "platform": "Arbeitnow",
-      "location": "Reading",
-      "salary": "Competitive",
-      "type": "Full-time",
-      "tags": [
-        "Global"
-      ],
-      "postedAt": "2026-08-06T03:55:12.000Z",
-      "url": "https://www.arbeitnow.co.uk/jobs/companies/speechify/go-to-market-reading-united-kingdom-415535"
-    },
-    {
-      "id": "arbeitnow-go-to-market-oxford-united-kingdom-277046",
-      "title": "Go-to-Market - Oxford, United Kingdom",
-      "company": "speechify",
-      "platform": "Arbeitnow",
-      "location": "Oxford",
-      "salary": "Competitive",
-      "type": "Full-time",
-      "tags": [
-        "Global"
-      ],
-      "postedAt": "2026-08-06T03:55:12.000Z",
-      "url": "https://www.arbeitnow.co.uk/jobs/companies/speechify/go-to-market-oxford-united-kingdom-277046"
-    },
-    {
-      "id": "arbeitnow-go-to-market-newcastle-united-kingdom-93632",
-      "title": "Go-to-Market - Newcastle, United Kingdom",
-      "company": "speechify",
-      "platform": "Arbeitnow",
-      "location": "Newcastle",
-      "salary": "Competitive",
-      "type": "Full-time",
-      "tags": [
-        "Global"
-      ],
-      "postedAt": "2026-08-06T03:55:12.000Z",
-      "url": "https://www.arbeitnow.co.uk/jobs/companies/speechify/go-to-market-newcastle-united-kingdom-93632"
-    },
-    {
-      "id": "arbeitnow-go-to-market-manchester-united-kingdom-201728",
-      "title": "Go-to-Market - Manchester, United Kingdom",
-      "company": "speechify",
-      "platform": "Arbeitnow",
-      "location": "Manchester",
-      "salary": "Competitive",
-      "type": "Full-time",
-      "tags": [
-        "Global"
-      ],
-      "postedAt": "2026-08-06T03:55:12.000Z",
-      "url": "https://www.arbeitnow.co.uk/jobs/companies/speechify/go-to-market-manchester-united-kingdom-201728"
-    },
-    {
-      "id": "arbeitnow-go-to-market-london-united-kingdom-235985",
-      "title": "Go-to-Market - London, United Kingdom",
-      "company": "speechify",
-      "platform": "Arbeitnow",
-      "location": "London",
-      "salary": "Competitive",
-      "type": "Full-time",
-      "tags": [
-        "Global"
-      ],
-      "postedAt": "2026-08-06T03:55:12.000Z",
-      "url": "https://www.arbeitnow.co.uk/jobs/companies/speechify/go-to-market-london-united-kingdom-235985"
-    },
-    {
-      "id": "arbeitnow-go-to-market-leeds-united-kingdom-360643",
-      "title": "Go-to-Market - Leeds, United Kingdom",
-      "company": "speechify",
-      "platform": "Arbeitnow",
-      "location": "Leeds",
-      "salary": "Competitive",
-      "type": "Full-time",
-      "tags": [
-        "Global"
-      ],
-      "postedAt": "2026-08-06T03:55:12.000Z",
-      "url": "https://www.arbeitnow.co.uk/jobs/companies/speechify/go-to-market-leeds-united-kingdom-360643"
-    },
-    {
-      "id": "arbeitnow-go-to-market-glasgow-united-kingdom-143100",
-      "title": "Go-to-Market - Glasgow, United Kingdom",
-      "company": "speechify",
-      "platform": "Arbeitnow",
-      "location": "Glasgow",
-      "salary": "Competitive",
-      "type": "Full-time",
-      "tags": [
-        "Global"
-      ],
-      "postedAt": "2026-08-06T03:55:12.000Z",
-      "url": "https://www.arbeitnow.co.uk/jobs/companies/speechify/go-to-market-glasgow-united-kingdom-143100"
-    },
-    {
-      "id": "arbeitnow-go-to-market-cardiff-united-kingdom-125344",
-      "title": "Go-to-Market - Cardiff, United Kingdom",
-      "company": "speechify",
-      "platform": "Arbeitnow",
-      "location": "Cardiff",
-      "salary": "Competitive",
-      "type": "Full-time",
-      "tags": [
-        "Global"
-      ],
-      "postedAt": "2026-08-06T03:55:12.000Z",
-      "url": "https://www.arbeitnow.co.uk/jobs/companies/speechify/go-to-market-cardiff-united-kingdom-125344"
-    },
-    {
-      "id": "arbeitnow-go-to-market-bristol-united-kingdom-222337",
-      "title": "Go-to-Market - Bristol, United Kingdom",
-      "company": "speechify",
-      "platform": "Arbeitnow",
-      "location": "Bristol",
-      "salary": "Competitive",
-      "type": "Full-time",
-      "tags": [
-        "Global"
-      ],
-      "postedAt": "2026-08-06T03:55:12.000Z",
-      "url": "https://www.arbeitnow.co.uk/jobs/companies/speechify/go-to-market-bristol-united-kingdom-222337"
-    },
-    {
-      "id": "arbeitnow-go-to-market-brighton-united-kingdom-146172",
-      "title": "Go-to-Market - Brighton, United Kingdom",
-      "company": "speechify",
-      "platform": "Arbeitnow",
-      "location": "Brighton",
-      "salary": "Competitive",
-      "type": "Full-time",
-      "tags": [
-        "Global"
-      ],
-      "postedAt": "2026-08-06T03:55:12.000Z",
-      "url": "https://www.arbeitnow.co.uk/jobs/companies/speechify/go-to-market-brighton-united-kingdom-146172"
-    },
-    {
-      "id": "arbeitnow-go-to-market-birmingham-united-kingdom-58592",
-      "title": "Go-to-Market - Birmingham, United Kingdom",
-      "company": "speechify",
-      "platform": "Arbeitnow",
-      "location": "Birmingham",
-      "salary": "Competitive",
-      "type": "Full-time",
-      "tags": [
-        "Global"
-      ],
-      "postedAt": "2026-08-06T03:55:12.000Z",
-      "url": "https://www.arbeitnow.co.uk/jobs/companies/speechify/go-to-market-birmingham-united-kingdom-58592"
-    },
-    {
-      "id": "arbeitnow-senior-ai-security-engineer-manchester-88542",
-      "title": "Senior AI Security Engineer",
-      "company": "Obsidiansecurity",
-      "platform": "Arbeitnow",
-      "location": "Manchester",
-      "salary": "Competitive",
-      "type": "Full-time",
-      "tags": [
-        "Engineering (D2010)"
-      ],
-      "postedAt": "2026-08-06T03:55:06.000Z",
-      "url": "https://www.arbeitnow.co.uk/jobs/companies/obsidiansecurity/senior-ai-security-engineer-manchester-88542"
-    },
-    {
-      "id": "arbeitnow-enterprise-account-executive-uk-london-128497",
-      "title": "Enterprise Account Executive - UK",
-      "company": "Obsidiansecurity",
-      "platform": "Arbeitnow",
-      "location": "London",
-      "salary": "Competitive",
-      "type": "Full-time",
-      "tags": [
-        "Sales - Enterprise"
-      ],
-      "postedAt": "2026-08-06T03:55:06.000Z",
-      "url": "https://www.arbeitnow.co.uk/jobs/companies/obsidiansecurity/enterprise-account-executive-uk-london-128497"
-    },
-    {
-      "id": "arbeitnow-enterprise-account-executive-east-new-england-306319",
-      "title": "Enterprise Account Executive - East (New England)",
-      "company": "Obsidiansecurity",
-      "platform": "Arbeitnow",
-      "location": "Remote",
-      "salary": "Competitive",
-      "type": "Full-time",
-      "tags": [
-        "Sales - Enterprise"
-      ],
-      "postedAt": "2026-08-06T03:55:06.000Z",
-      "url": "https://www.arbeitnow.co.uk/jobs/companies/obsidiansecurity/enterprise-account-executive-east-new-england-306319"
-    },
-    {
       "id": "jobicy-149878",
       "title": "Product Owner",
       "company": "Ruby Labs",
@@ -2488,130 +2613,58 @@
       "url": "https://jobicy.com/jobs/149878-product-owner-2"
     },
     {
-      "id": "remoteok-1136242",
-      "title": "Compensation Ratio Estimator",
-      "company": "Chris Greer Press",
+      "id": "remoteok-1136199",
+      "title": "Nestohm",
+      "company": "CovalTech",
       "platform": "RemoteOK",
-      "location": "Anupgarh, ",
-      "salary": "Competitive",
-      "type": "Full-time",
-      "tags": [
-        "dev",
-        "exec",
-        "digital nomad"
-      ],
-      "postedAt": "2026-08-05T12:26:06+00:00",
-      "url": "https://remoteOK.com/remote-jobs/remote-compensation-ratio-estimator-chris-greer-press-1136242"
-    },
-    {
-      "id": "remoteok-1136241",
-      "title": "Superthread",
-      "company": "New Atlantis",
-      "platform": "RemoteOK",
-      "location": "Roorkee, ",
-      "salary": "Competitive",
-      "type": "Full-time",
-      "tags": [
-        "dev",
-        "exec",
-        "digital nomad"
-      ],
-      "postedAt": "2026-08-05T11:51:01+00:00",
-      "url": "https://remoteOK.com/remote-jobs/remote-superthread-new-atlantis-1136241"
-    },
-    {
-      "id": "remoteok-1136168",
-      "title": "Why do you want this new job",
-      "company": "testacy",
-      "platform": "RemoteOK",
-      "location": "Posts, ",
-      "salary": "Competitive",
-      "type": "Full-time",
-      "tags": [
-        "recruiter",
-        "dev",
-        "non tech",
-        "digital nomad"
-      ],
-      "postedAt": "2026-08-05T11:38:20+00:00",
-      "url": "https://remoteOK.com/remote-jobs/remote-why-do-you-want-this-new-job-testacy-1136168"
-    },
-    {
-      "id": "jobicy-149088",
-      "title": "VP, Multinational/Traditional Corp Sales",
-      "company": "BCD Travel",
-      "platform": "Jobicy",
-      "location": "Europe,  UK",
-      "salary": "Competitive",
-      "type": "Full-Time",
-      "tags": [],
-      "postedAt": "2026-08-05T11:20:03+00:00",
-      "url": "https://jobicy.com/jobs/149088-vp-multinational-traditional-corp-sales"
-    },
-    {
-      "id": "remoteok-1136192",
-      "title": "Architectural Designer",
-      "company": "Sophie's Flats Inc.",
-      "platform": "RemoteOK",
-      "location": "Toronto, ",
-      "salary": "Competitive",
-      "type": "Full-time",
-      "tags": [
-        "design",
-        "vfx",
-        "designer",
-        "dev",
-        "marketing",
-        "medical",
-        "full time",
-        "digital nomad"
-      ],
-      "postedAt": "2026-08-05T11:17:03+00:00",
-      "url": "https://remoteOK.com/remote-jobs/remote-architectural-designer-sophies-flats-inc-1136192"
-    },
-    {
-      "id": "remoteok-1136197",
-      "title": "ð± If you think you've got what it takes..",
-      "company": "Remora Technologies Limited",
-      "platform": "RemoteOK",
-      "location": "Bournemouth, ",
+      "location": "Full Sutton, ",
       "salary": "Competitive",
       "type": "Full-time",
       "tags": [
         "education",
         "non tech",
-        "finance"
+        "finance",
+        "exec",
+        "saas"
       ],
-      "postedAt": "2026-08-05T11:14:43+00:00",
-      "url": "https://remoteOK.com/remote-jobs/remote-if-you-think-youve-got-what-it-takes-remora-technologies-limited-1136197"
+      "postedAt": "2026-08-05T14:29:29+00:00",
+      "url": "https://remoteOK.com/remote-jobs/remote-nestohm-covaltech-1136199"
     },
     {
-      "id": "remoteok-1136239",
-      "title": "Fuel Injector",
-      "company": "Skinventory",
+      "id": "remoteok-1136237",
+      "title": "AdFlow",
+      "company": "SimpleTech.AI",
       "platform": "RemoteOK",
-      "location": "Anchorage Borough County, ",
+      "location": "Indiana, ",
       "salary": "Competitive",
       "type": "Full-time",
       "tags": [],
-      "postedAt": "2026-08-05T11:07:50+00:00",
-      "url": "https://remoteOK.com/remote-jobs/remote-fuel-injector-skinventory-1136239"
+      "postedAt": "2026-08-05T14:03:34+00:00",
+      "url": "https://remoteOK.com/remote-jobs/remote-adflow-simpletech-ai-1136237"
     },
     {
-      "id": "remoteok-1136258",
-      "title": "Slingshot",
-      "company": "Skinventory",
+      "id": "remoteok-1136236",
+      "title": "News",
+      "company": "SimpleTech.AI",
       "platform": "RemoteOK",
-      "location": "Loch Sport, ",
+      "location": "Newport News, ",
       "salary": "Competitive",
       "type": "Full-time",
-      "tags": [
-        "testing",
-        "non tech",
-        "education"
-      ],
-      "postedAt": "2026-08-05T11:05:23+00:00",
-      "url": "https://remoteOK.com/remote-jobs/remote-slingshot-skinventory-1136258"
+      "tags": [],
+      "postedAt": "2026-08-05T14:03:22+00:00",
+      "url": "https://remoteOK.com/remote-jobs/remote-news-simpletech-ai-1136236"
+    },
+    {
+      "id": "remoteok-1136238",
+      "title": "Build with us",
+      "company": "Memento AI",
+      "platform": "RemoteOK",
+      "location": "Hagerstown, ",
+      "salary": "Competitive",
+      "type": "Full-time",
+      "tags": [],
+      "postedAt": "2026-08-05T13:36:35+00:00",
+      "url": "https://remoteOK.com/remote-jobs/remote-build-with-us-memento-ai-1136238"
     }
   ]
 }
