@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-08-07T22:44:10.530Z",
+  "lastUpdated": "2026-08-07T23:39:08.822Z",
   "jobs": [
     {
       "id": "remoteok-1136206",
@@ -482,6 +482,20 @@
       ],
       "postedAt": "2026-08-05T04:08:28+00:00",
       "url": "https://remoteOK.com/remote-jobs/remote-go-south-coast-kent-country-1136227"
+    },
+    {
+      "id": "remoteok-1136292",
+      "title": "A glimpse of the pool",
+      "company": "SEO",
+      "platform": "RemoteOK",
+      "location": "Leeds, ",
+      "salary": "Competitive",
+      "type": "Full-time",
+      "tags": [
+        "seo"
+      ],
+      "postedAt": "2026-08-06T23:26:20+00:00",
+      "url": "https://remoteOK.com/remote-jobs/remote-a-glimpse-of-the-pool-seo-1136292"
     },
     {
       "id": "jobicy-148752",
@@ -1155,34 +1169,6 @@
       "url": "https://remoteOK.com/remote-jobs/remote-go-ahead-london-kent-country-1136204"
     },
     {
-      "id": "remoteok-1136161",
-      "title": "House Cleaning",
-      "company": "feef.in",
-      "platform": "RemoteOK",
-      "location": "Malappuram, ",
-      "salary": "Competitive",
-      "type": "Full-time",
-      "tags": [
-        "dev",
-        "digital nomad",
-        "customer support",
-        "non tech",
-        "quality assurance",
-        "math",
-        "ops",
-        "golang",
-        "web dev",
-        "infosec",
-        "cloud",
-        "finance",
-        "microsoft",
-        "medical",
-        "education"
-      ],
-      "postedAt": "2026-08-05T02:21:55+00:00",
-      "url": "https://remoteOK.com/remote-jobs/remote-house-cleaning-feef-in-1136161"
-    },
-    {
       "id": "arbeitnow-recruiter-freelance-baierbrunn-229061",
       "title": "Recruiter freelance",
       "company": "People Places Performance",
@@ -1249,6 +1235,100 @@
       "tags": [],
       "postedAt": "2026-08-06T06:55:03+00:00",
       "url": "https://jobicy.com/jobs/148743-technical-account-manager-ii-customer-onboarding"
+    },
+    {
+      "id": "arbeitnow-account-executive-existing-business-london-421147",
+      "title": "Account Executive, Existing Business",
+      "company": "stripe",
+      "platform": "Arbeitnow",
+      "location": "London",
+      "salary": "Competitive",
+      "type": "Full-time",
+      "tags": [
+        "1185 Account Executives (EMEA)"
+      ],
+      "postedAt": "2026-08-07T21:55:22.000Z",
+      "url": "https://www.arbeitnow.co.uk/jobs/companies/stripe/account-executive-existing-business-london-421147"
+    },
+    {
+      "id": "arbeitnow-senior-product-manager-ai-137878",
+      "title": "Senior Product Manager - AI",
+      "company": "prolific",
+      "platform": "Arbeitnow",
+      "location": "Remote",
+      "salary": "Competitive",
+      "type": "Full-time",
+      "tags": [
+        "Product & Design"
+      ],
+      "postedAt": "2026-08-07T21:55:19.000Z",
+      "url": "https://www.arbeitnow.co.uk/jobs/companies/prolific/senior-product-manager-ai-137878"
+    },
+    {
+      "id": "arbeitnow-director-mobility-partnerships-london-354768",
+      "title": "Director, Mobility Partnerships",
+      "company": "Material Bank",
+      "platform": "Arbeitnow",
+      "location": "London, England, United Kingdom",
+      "salary": "Competitive",
+      "type": "Full-time",
+      "tags": [],
+      "postedAt": "2026-08-07T21:45:26.000Z",
+      "url": "https://www.arbeitnow.co.uk/jobs/companies/material-bank/director-mobility-partnerships-london-354768"
+    },
+    {
+      "id": "arbeitnow-group-account-director-maternity-cover-london-481876",
+      "title": "Group Account Director ( Maternity cover)",
+      "company": "OLIVER Agency",
+      "platform": "Arbeitnow",
+      "location": "London, England, United Kingdom",
+      "salary": "Competitive",
+      "type": "Full-time",
+      "tags": [],
+      "postedAt": "2026-08-07T21:45:23.000Z",
+      "url": "https://www.arbeitnow.co.uk/jobs/companies/oliver-agency/group-account-director-maternity-cover-london-481876"
+    },
+    {
+      "id": "arbeitnow-employee-relations-specialist-12-month-ftc-london-18666",
+      "title": "Employee Relations Specialist - 12 Month FTC",
+      "company": "Trainline",
+      "platform": "Arbeitnow",
+      "location": "London",
+      "salary": "Competitive",
+      "type": "Full-time",
+      "tags": [
+        "People"
+      ],
+      "postedAt": "2026-08-07T21:40:23.000Z",
+      "url": "https://www.arbeitnow.co.uk/jobs/companies/trainline/employee-relations-specialist-12-month-ftc-london-18666"
+    },
+    {
+      "id": "arbeitnow-ai-engineer-enablement-london-297405",
+      "title": "AI Engineer, Enablement (London)",
+      "company": "LangChain",
+      "platform": "Arbeitnow",
+      "location": "London",
+      "salary": "Competitive",
+      "type": "Full-time",
+      "tags": [
+        "Customer Engineering"
+      ],
+      "postedAt": "2026-08-07T21:40:20.000Z",
+      "url": "https://www.arbeitnow.co.uk/jobs/companies/langchain/ai-engineer-enablement-london-297405"
+    },
+    {
+      "id": "arbeitnow-remote-solutions-engineer-emea-238236",
+      "title": "Solutions Engineer - EMEA",
+      "company": "Redpanda Data",
+      "platform": "Arbeitnow",
+      "location": "UK - Remote",
+      "salary": "Competitive",
+      "type": "Full-time",
+      "tags": [
+        "Sales"
+      ],
+      "postedAt": "2026-08-07T21:40:18.000Z",
+      "url": "https://www.arbeitnow.co.uk/jobs/companies/redpanda-data/remote-solutions-engineer-emea-238236"
     },
     {
       "id": "arbeitnow-remote-head-of-music-83455",
@@ -2106,119 +2186,6 @@
       "url": "https://www.arbeitnow.co.uk/jobs/companies/capco/managing-principal-consultant-life-pensions-228035"
     },
     {
-      "id": "arbeitnow-managing-principal-consultant-general-insurance-213860",
-      "title": "Managing Principal Consultant – General Insurance",
-      "company": "capco",
-      "platform": "Arbeitnow",
-      "location": "Remote",
-      "salary": "Competitive",
-      "type": "Full-time",
-      "tags": [
-        "Business Consulting"
-      ],
-      "postedAt": "2026-08-07T12:55:22.000Z",
-      "url": "https://www.arbeitnow.co.uk/jobs/companies/capco/managing-principal-consultant-general-insurance-213860"
-    },
-    {
-      "id": "arbeitnow-senior-data-scientist-payment-intelligence-london-216917",
-      "title": "Senior Data Scientist, Payment Intelligence",
-      "company": "Gocardless",
-      "platform": "Arbeitnow",
-      "location": "London",
-      "salary": "Competitive",
-      "type": "Full-time",
-      "tags": [
-        "Product Development"
-      ],
-      "postedAt": "2026-08-07T12:55:19.000Z",
-      "url": "https://www.arbeitnow.co.uk/jobs/companies/gocardless/senior-data-scientist-payment-intelligence-london-216917"
-    },
-    {
-      "id": "arbeitnow-data-science-manager-london-59610",
-      "title": "Data Science Manager",
-      "company": "Gocardless",
-      "platform": "Arbeitnow",
-      "location": "London",
-      "salary": "Competitive",
-      "type": "Full-time",
-      "tags": [
-        "Product Development"
-      ],
-      "postedAt": "2026-08-07T12:55:19.000Z",
-      "url": "https://www.arbeitnow.co.uk/jobs/companies/gocardless/data-science-manager-london-59610"
-    },
-    {
-      "id": "arbeitnow-product-marketing-manager-london-249401",
-      "title": "Product Marketing Manager",
-      "company": "Ankar",
-      "platform": "Arbeitnow",
-      "location": "London",
-      "salary": "Competitive",
-      "type": "Full-time",
-      "tags": [
-        "Product & Engineering"
-      ],
-      "postedAt": "2026-08-07T12:40:16.000Z",
-      "url": "https://www.arbeitnow.co.uk/jobs/companies/ankar/product-marketing-manager-london-249401"
-    },
-    {
-      "id": "arbeitnow-lead-product-designer-l6-aex-manchester-227663",
-      "title": "Lead Product Designer - L6 (AEX)",
-      "company": "Street Group",
-      "platform": "Arbeitnow",
-      "location": "Manchester",
-      "salary": "Competitive",
-      "type": "Full-time",
-      "tags": [
-        "Engineering"
-      ],
-      "postedAt": "2026-08-07T12:40:06.000Z",
-      "url": "https://www.arbeitnow.co.uk/jobs/companies/street-group/lead-product-designer-l6-aex-manchester-227663"
-    },
-    {
-      "id": "arbeitnow-online-data-analyst-english-speaker-in-uk-london-199240",
-      "title": "Online Data Analyst - English speaker in UK",
-      "company": "TELUS Digital",
-      "platform": "Arbeitnow",
-      "location": "London",
-      "salary": "Competitive",
-      "type": "Full-time",
-      "tags": [
-        "Remote",
-        "Database Administration"
-      ],
-      "postedAt": "2026-08-07T11:30:32.000Z",
-      "url": "https://www.arbeitnow.co.uk/jobs/companies/telus-digital/online-data-analyst-english-speaker-in-uk-london-199240"
-    },
-    {
-      "id": "arbeitnow-staff-engineer-london-465985",
-      "title": "Staff Engineer",
-      "company": "wolt",
-      "platform": "Arbeitnow",
-      "location": "London",
-      "salary": "Competitive",
-      "type": "Full-time",
-      "tags": [
-        "Ads Engineering"
-      ],
-      "postedAt": "2026-08-07T09:55:34.000Z",
-      "url": "https://www.arbeitnow.co.uk/jobs/companies/wolt/staff-engineer-london-465985"
-    },
-    {
-      "id": "arbeitnow-fullstack-engineer-adtech-london-33209",
-      "title": "FullStack Engineer, AdTech",
-      "company": "wolt",
-      "platform": "Arbeitnow",
-      "location": "London",
-      "salary": "Competitive",
-      "type": "Full-time",
-      "tags": [
-        "Ads Engineering"
-      ],
-      "postedAt": "2026-08-07T09:55:33.000Z",
-      "url": "https://www.arbeitnow.co.uk/jobs/companies/wolt/fullstack-engineer-adtech-london-33209"
-    },
-    {
       "id": "jobicy-150022",
       "title": "Senior Customer Success Manager",
       "company": "Twilio",
@@ -2361,6 +2328,20 @@
       "tags": [],
       "postedAt": "2026-08-07T04:20:03+00:00",
       "url": "https://jobicy.com/jobs/148829-account-executive-canada-corporate"
+    },
+    {
+      "id": "remoteok-1136287",
+      "title": "Drive Now",
+      "company": "CarRentalRating.com",
+      "platform": "RemoteOK",
+      "location": "Vancouver, ",
+      "salary": "Competitive",
+      "type": "Full-time",
+      "tags": [
+        "exec"
+      ],
+      "postedAt": "2026-08-06T23:23:04+00:00",
+      "url": "https://remoteOK.com/remote-jobs/remote-drive-now-carrentalrating-com-1136287"
     },
     {
       "id": "remoteok-1136291",
