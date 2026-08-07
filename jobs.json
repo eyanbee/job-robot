@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-08-07T18:24:03.249Z",
+  "lastUpdated": "2026-08-07T19:31:44.933Z",
   "jobs": [
     {
       "id": "remoteok-1136206",
@@ -1235,6 +1235,48 @@
       "url": "https://jobicy.com/jobs/148743-technical-account-manager-ii-customer-onboarding"
     },
     {
+      "id": "arbeitnow-solution-architect-443339",
+      "title": "Solution Architect",
+      "company": "Cognite",
+      "platform": "Arbeitnow",
+      "location": "Remote",
+      "salary": "Competitive",
+      "type": "Full-time",
+      "tags": [
+        "Value Delivery"
+      ],
+      "postedAt": "2026-08-07T17:55:34.000Z",
+      "url": "https://www.arbeitnow.com/jobs/companies/cognite/solution-architect-443339"
+    },
+    {
+      "id": "arbeitnow-remote-account-executive-nordics-enterprise-444760",
+      "title": "Account Executive - Nordics - Enterprise",
+      "company": "ElevenLabs",
+      "platform": "Arbeitnow",
+      "location": "Remote",
+      "salary": "Competitive",
+      "type": "Full-time",
+      "tags": [
+        "Revenue"
+      ],
+      "postedAt": "2026-08-07T17:40:19.000Z",
+      "url": "https://www.arbeitnow.com/jobs/companies/elevenlabs/remote-account-executive-nordics-enterprise-444760"
+    },
+    {
+      "id": "arbeitnow-remote-forward-deployed-engineer-3110",
+      "title": "Forward Deployed Engineer",
+      "company": "Hexa",
+      "platform": "Arbeitnow",
+      "location": "Remote",
+      "salary": "Competitive",
+      "type": "Full-time",
+      "tags": [
+        "Waniwani"
+      ],
+      "postedAt": "2026-08-07T17:40:19.000Z",
+      "url": "https://www.arbeitnow.com/jobs/companies/hexa/remote-forward-deployed-engineer-3110"
+    },
+    {
       "id": "arbeitnow-senior-site-services-manager-derby-488170",
       "title": "Senior Site Services Manager",
       "company": "hellofresh",
@@ -1786,20 +1828,6 @@
       "url": "https://www.arbeitnow.com/jobs/companies/sonar/technical-product-manager-code-quality-bochum-27450"
     },
     {
-      "id": "arbeitnow-sap-wm-ewm-consultant-aachen-117039",
-      "title": "SAP WM/EWM Consultant",
-      "company": "Pertemps ERP",
-      "platform": "Arbeitnow",
-      "location": "Aachen",
-      "salary": "Competitive",
-      "type": "Full-time",
-      "tags": [
-        "Business Consulting"
-      ],
-      "postedAt": "2026-08-07T13:30:32.000Z",
-      "url": "https://www.arbeitnow.com/jobs/companies/pertemps-erp/sap-wm-ewm-consultant-aachen-117039"
-    },
-    {
       "id": "arbeitnow-senior-manager-data-uk-458133",
       "title": "Senior Manager, Data, UK",
       "company": "Eucalyptus",
@@ -2335,6 +2363,21 @@
       "url": "https://jobicy.com/jobs/148829-account-executive-canada-corporate"
     },
     {
+      "id": "remoteok-1136291",
+      "title": "Porter",
+      "company": "NHS Ayrshire &amp; Arran",
+      "platform": "RemoteOK",
+      "location": "Greater Perth Area, ",
+      "salary": "Competitive",
+      "type": "Full-time",
+      "tags": [
+        "testing",
+        "non tech"
+      ],
+      "postedAt": "2026-08-06T19:22:08+00:00",
+      "url": "https://remoteOK.com/remote-jobs/remote-porter-nhs-ayrshire-amp-arran-1136291"
+    },
+    {
       "id": "remoteok-1136274",
       "title": "Multiple Positions",
       "company": "City of Lancaster, Pennsylvania",
@@ -2573,49 +2616,6 @@
       "tags": [],
       "postedAt": "2026-08-06T14:10:04+00:00",
       "url": "https://jobicy.com/jobs/150271-non-linguistic-qc-china-us-time-zone"
-    },
-    {
-      "id": "jobicy-147131",
-      "title": "Customer Success Manager, Corporate",
-      "company": "AlphaSense",
-      "platform": "Jobicy",
-      "location": "USA",
-      "salary": "Competitive",
-      "type": "Full-Time",
-      "tags": [],
-      "postedAt": "2026-08-06T13:15:02+00:00",
-      "url": "https://jobicy.com/jobs/147131-customer-success-manager-corporate-2"
-    },
-    {
-      "id": "remoteok-1136278",
-      "title": "Junior Team Members weekdays availability",
-      "company": "Supply Coffee",
-      "platform": "RemoteOK",
-      "location": "Coffs Harbour, ",
-      "salary": "Competitive",
-      "type": "Full-time",
-      "tags": [
-        "education",
-        "marketing",
-        "junior",
-        "ops",
-        "full time",
-        "non tech"
-      ],
-      "postedAt": "2026-08-06T12:52:03+00:00",
-      "url": "https://remoteOK.com/remote-jobs/remote-junior-team-members-weekdays-availability-supply-coffee-1136278"
-    },
-    {
-      "id": "remoteok-1136273",
-      "title": "The Future Belongs People Who Build Together",
-      "company": "EventThone Network",
-      "platform": "RemoteOK",
-      "location": "Recruit, ",
-      "salary": "Competitive",
-      "type": "Full-time",
-      "tags": [],
-      "postedAt": "2026-08-06T12:00:00+00:00",
-      "url": "https://remoteOK.com/remote-jobs/remote-the-future-belongs-people-who-build-together-eventthone-network-1136273"
     }
   ]
 }
