@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-08-08T18:47:44.160Z",
+  "lastUpdated": "2026-08-08T19:35:29.739Z",
   "jobs": [
     {
       "id": "remoteok-1136206",
@@ -516,6 +516,26 @@
       ],
       "postedAt": "2026-08-08T03:40:24.000Z",
       "url": "https://www.arbeitnow.co.uk/jobs/companies/quantum/customer-service-operations-manager-maidstone-187833"
+    },
+    {
+      "id": "remoteok-1136324",
+      "title": "Page Not Found",
+      "company": "PAXIO",
+      "platform": "RemoteOK",
+      "location": "Coral Bay, ",
+      "salary": "Competitive",
+      "type": "Full-time",
+      "tags": [
+        "game dev",
+        "customer support",
+        "dev",
+        "video",
+        "exec",
+        "senior",
+        "digital nomad"
+      ],
+      "postedAt": "2026-08-07T19:01:50+00:00",
+      "url": "https://remoteOK.com/remote-jobs/remote-page-not-found-paxio-1136324"
     },
     {
       "id": "remoteok-1136303",
@@ -1307,48 +1327,6 @@
       ],
       "postedAt": "2026-08-08T14:40:22.000Z",
       "url": "https://www.arbeitnow.com/jobs/companies/clera/remote-founding-operations-customer-success-lead-14073"
-    },
-    {
-      "id": "arbeitnow-remote-sap-pp-qm-consultant-senior-210638",
-      "title": "SAP PP/QM Consultant (Senior)",
-      "company": "Clera",
-      "platform": "Arbeitnow",
-      "location": "remote",
-      "salary": "Competitive",
-      "type": "Full-time",
-      "tags": [
-        "Engineering"
-      ],
-      "postedAt": "2026-08-08T14:40:22.000Z",
-      "url": "https://www.arbeitnow.com/jobs/companies/clera/remote-sap-pp-qm-consultant-senior-210638"
-    },
-    {
-      "id": "arbeitnow-remote-founding-forward-deployed-ml-engineer-295402",
-      "title": "Founding Forward-Deployed ML Engineer",
-      "company": "Clera",
-      "platform": "Arbeitnow",
-      "location": "remote",
-      "salary": "Competitive",
-      "type": "Full-time",
-      "tags": [
-        "Engineering"
-      ],
-      "postedAt": "2026-08-08T14:40:22.000Z",
-      "url": "https://www.arbeitnow.com/jobs/companies/clera/remote-founding-forward-deployed-ml-engineer-295402"
-    },
-    {
-      "id": "arbeitnow-remote-tech-lead-397141",
-      "title": "Tech Lead",
-      "company": "Clera",
-      "platform": "Arbeitnow",
-      "location": "remote",
-      "salary": "Competitive",
-      "type": "Full-time",
-      "tags": [
-        "Engineering"
-      ],
-      "postedAt": "2026-08-08T14:40:22.000Z",
-      "url": "https://www.arbeitnow.com/jobs/companies/clera/remote-tech-lead-397141"
     },
     {
       "id": "arbeitnow-senior-manager-sales-account-management-emea-352354",
@@ -2187,6 +2165,18 @@
       "url": "https://www.arbeitnow.co.uk/jobs/companies/quantum/graduate-commercial-insights-analyst-london-45236"
     },
     {
+      "id": "remoteok-1136312",
+      "title": "Assembler",
+      "company": "Manunor Inc.",
+      "platform": "RemoteOK",
+      "location": "Street, ",
+      "salary": "Competitive",
+      "type": "Full-time",
+      "tags": [],
+      "postedAt": "2026-08-07T19:15:25+00:00",
+      "url": "https://remoteOK.com/remote-jobs/remote-assembler-manunor-inc-1136312"
+    },
+    {
       "id": "remoteok-1136308",
       "title": "$15.15 $17 HR depending on location",
       "company": "Wildflower",
@@ -2469,6 +2459,18 @@
       "tags": [],
       "postedAt": "2026-08-07T04:30:06+00:00",
       "url": "https://jobicy.com/jobs/145614-accountant-part-time"
+    },
+    {
+      "id": "jobicy-145658",
+      "title": "Pay Customer Success Manager, SMB",
+      "company": "Remote",
+      "platform": "Jobicy",
+      "location": "EMEA",
+      "salary": "Competitive",
+      "type": "Full-Time",
+      "tags": [],
+      "postedAt": "2026-08-07T04:25:08+00:00",
+      "url": "https://jobicy.com/jobs/145658-pay-customer-success-manager-smb"
     }
   ]
 }
