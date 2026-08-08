@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-08-08T13:01:45.467Z",
+  "lastUpdated": "2026-08-08T14:07:19.627Z",
   "jobs": [
     {
       "id": "remoteok-1136206",
@@ -1055,31 +1055,6 @@
       "url": "https://remoteOK.com/remote-jobs/remote-freelance-designer-control-shift-video-1136213"
     },
     {
-      "id": "remoteok-1136151",
-      "title": "Join Our Team",
-      "company": "HapScale",
-      "platform": "RemoteOK",
-      "location": "å©å³¶, ",
-      "salary": "Competitive",
-      "type": "Full-time",
-      "tags": [
-        "dev",
-        "digital nomad",
-        "customer support",
-        "non tech",
-        "quality assurance",
-        "math",
-        "ops",
-        "golang",
-        "web dev",
-        "infosec",
-        "cloud",
-        "finance"
-      ],
-      "postedAt": "2026-08-05T07:30:37+00:00",
-      "url": "https://remoteOK.com/remote-jobs/remote-join-our-team-hapscale-1136151"
-    },
-    {
       "id": "arbeitnow-senior-tax-specialist-london-379560",
       "title": "Senior Tax Specialist",
       "company": "1St%20Formations",
@@ -1151,20 +1126,6 @@
       "url": "https://www.arbeitnow.com/jobs/companies/people-places-performance/recruiter-freelance-baierbrunn-229061"
     },
     {
-      "id": "arbeitnow-senior-people-operations-manager-london-280847",
-      "title": "Senior People Operations Manager",
-      "company": "Taptapsend",
-      "platform": "Arbeitnow",
-      "location": "London",
-      "salary": "Competitive",
-      "type": "Full-time",
-      "tags": [
-        "People Operations"
-      ],
-      "postedAt": "2026-08-08T03:40:13.000Z",
-      "url": "https://www.arbeitnow.co.uk/jobs/companies/taptapsend/senior-people-operations-manager-london-280847"
-    },
-    {
       "id": "jobicy-148743",
       "title": "Technical Account Manager II - Customer Onboarding",
       "company": "CrowdStrike",
@@ -1215,6 +1176,104 @@
       ],
       "postedAt": "2026-08-08T03:40:24.000Z",
       "url": "https://www.arbeitnow.co.uk/jobs/companies/quantum/paid-social-specialist-london-59180"
+    },
+    {
+      "id": "arbeitnow-senior-manager-sales-account-management-emea-352354",
+      "title": "Senior Manager, Sales - Account Management",
+      "company": "Remotereferralboardinternaluseonly",
+      "platform": "Arbeitnow",
+      "location": "EMEA",
+      "salary": "Competitive",
+      "type": "Full-time",
+      "tags": [
+        "Account Management"
+      ],
+      "postedAt": "2026-08-08T12:55:27.000Z",
+      "url": "https://www.arbeitnow.co.uk/jobs/companies/remotereferralboardinternaluseonly/senior-manager-sales-account-management-emea-352354"
+    },
+    {
+      "id": "arbeitnow-senior-account-manager-emea-154470",
+      "title": "Senior Account Manager - EMEA",
+      "company": "Remotereferralboardinternaluseonly",
+      "platform": "Arbeitnow",
+      "location": "EMEA",
+      "salary": "Competitive",
+      "type": "Full-time",
+      "tags": [
+        "Account Management"
+      ],
+      "postedAt": "2026-08-08T12:55:27.000Z",
+      "url": "https://www.arbeitnow.co.uk/jobs/companies/remotereferralboardinternaluseonly/senior-account-manager-emea-154470"
+    },
+    {
+      "id": "arbeitnow-senior-social-commerce-strategist-london-manchester-288392",
+      "title": "Senior Social Commerce Strategist",
+      "company": "Vmlenterprisesolutions",
+      "platform": "Arbeitnow",
+      "location": "London; Manchester",
+      "salary": "Competitive",
+      "type": "Full-time",
+      "tags": [
+        "Technology & Innovation"
+      ],
+      "postedAt": "2026-08-08T12:55:18.000Z",
+      "url": "https://www.arbeitnow.co.uk/jobs/companies/vmlenterprisesolutions/senior-social-commerce-strategist-london-manchester-288392"
+    },
+    {
+      "id": "arbeitnow-payments-operations-specialist-ftc-london-220398",
+      "title": "Payments Operations Specialist - FTC",
+      "company": "Omaze",
+      "platform": "Arbeitnow",
+      "location": "London",
+      "salary": "Competitive",
+      "type": "Full-time",
+      "tags": [
+        "Finance"
+      ],
+      "postedAt": "2026-08-08T12:40:20.000Z",
+      "url": "https://www.arbeitnow.co.uk/jobs/companies/omaze/payments-operations-specialist-ftc-london-220398"
+    },
+    {
+      "id": "arbeitnow-payment-operations-specialist-london-444290",
+      "title": "Payment Operations Specialist",
+      "company": "Omaze",
+      "platform": "Arbeitnow",
+      "location": "London",
+      "salary": "Competitive",
+      "type": "Full-time",
+      "tags": [
+        "Finance"
+      ],
+      "postedAt": "2026-08-08T12:40:20.000Z",
+      "url": "https://www.arbeitnow.co.uk/jobs/companies/omaze/payment-operations-specialist-london-444290"
+    },
+    {
+      "id": "arbeitnow-chemistry-expert-uk-london-424772",
+      "title": "Chemistry Expert (UK)",
+      "company": "Anyone Ai",
+      "platform": "Arbeitnow",
+      "location": "United Kingdom",
+      "salary": "Competitive",
+      "type": "Full-time",
+      "tags": [
+        "STEM"
+      ],
+      "postedAt": "2026-08-08T12:40:11.000Z",
+      "url": "https://www.arbeitnow.co.uk/jobs/companies/anyone-ai/chemistry-expert-uk-london-424772"
+    },
+    {
+      "id": "arbeitnow-remote-data-analyst-retail-media-360467",
+      "title": "Data Analyst: Retail Media",
+      "company": "Constructor",
+      "platform": "Arbeitnow",
+      "location": "Remote - EMEA",
+      "salary": "Competitive",
+      "type": "Full-time",
+      "tags": [
+        "Engineering"
+      ],
+      "postedAt": "2026-08-08T12:40:09.000Z",
+      "url": "https://www.arbeitnow.co.uk/jobs/companies/constructor/remote-data-analyst-retail-media-360467"
     },
     {
       "id": "arbeitnow-forward-deployed-engineer-293037",
@@ -1999,78 +2058,6 @@
       "url": "https://www.arbeitnow.co.uk/jobs/companies/airwallex/senior-associate-regulatory-compliance-london-269294"
     },
     {
-      "id": "arbeitnow-senior-director-financial-risk-london-66549",
-      "title": "Senior Director, Financial Risk",
-      "company": "Airwallex",
-      "platform": "Arbeitnow",
-      "location": "UK - London",
-      "salary": "Competitive",
-      "type": "Full-time",
-      "tags": [
-        "Regulatory & Compliance"
-      ],
-      "postedAt": "2026-08-08T03:40:15.000Z",
-      "url": "https://www.arbeitnow.co.uk/jobs/companies/airwallex/senior-director-financial-risk-london-66549"
-    },
-    {
-      "id": "arbeitnow-sales-development-manager-sdr-emea-london-408545",
-      "title": "Sales Development Manager (SDR) EMEA",
-      "company": "n8n",
-      "platform": "Arbeitnow",
-      "location": "London Office",
-      "salary": "Competitive",
-      "type": "Full-time",
-      "tags": [
-        "Sales"
-      ],
-      "postedAt": "2026-08-08T03:40:14.000Z",
-      "url": "https://www.arbeitnow.co.uk/jobs/companies/n8n/sales-development-manager-sdr-emea-london-408545"
-    },
-    {
-      "id": "arbeitnow-tax-compliance-manager-london-312936",
-      "title": "Tax Compliance Manager",
-      "company": "Taptapsend",
-      "platform": "Arbeitnow",
-      "location": "London",
-      "salary": "Competitive",
-      "type": "Full-time",
-      "tags": [
-        "Finance"
-      ],
-      "postedAt": "2026-08-08T03:40:13.000Z",
-      "url": "https://www.arbeitnow.co.uk/jobs/companies/taptapsend/tax-compliance-manager-london-312936"
-    },
-    {
-      "id": "arbeitnow-site-lead-data-ml-london-385342",
-      "title": "Site Lead Data & ML",
-      "company": "Almedia",
-      "platform": "Arbeitnow",
-      "location": "London",
-      "salary": "Competitive",
-      "type": "Full-time",
-      "tags": [
-        "Tech"
-      ],
-      "postedAt": "2026-08-08T03:40:09.000Z",
-      "url": "https://www.arbeitnow.co.uk/jobs/companies/almedia/site-lead-data-ml-london-385342"
-    },
-    {
-      "id": "arbeitnow-senior-construction-project-manager-london-153121",
-      "title": "Senior Construction Project Manager",
-      "company": "Elgin Energy",
-      "platform": "Arbeitnow",
-      "location": "London",
-      "salary": "Competitive",
-      "type": "Full-time",
-      "tags": [
-        "BESS",
-        "SOLAR",
-        "PROJECT MANAGER"
-      ],
-      "postedAt": "2026-08-08T03:09:40.000Z",
-      "url": "https://www.arbeitnow.co.uk/jobs/companies/elgin-energy/senior-construction-project-manager-london-153121"
-    },
-    {
       "id": "arbeitnow-senior-rd-chef-all-genders-verden-niedersachsen-406584",
       "title": "Senior R&D Chef (all genders)",
       "company": "hellofresh",
@@ -2125,48 +2112,6 @@
       ],
       "postedAt": "2026-08-08T02:55:15.000Z",
       "url": "https://www.arbeitnow.com/jobs/companies/remotecom/remote-senior-account-manager-emea-315190"
-    },
-    {
-      "id": "arbeitnow-senior-manager-revenue-operations-london-173842",
-      "title": "Senior Manager, Revenue Operations",
-      "company": "newrelic",
-      "platform": "Arbeitnow",
-      "location": "London",
-      "salary": "Competitive",
-      "type": "Full-time",
-      "tags": [
-        "Enterprise"
-      ],
-      "postedAt": "2026-08-08T00:55:42.000Z",
-      "url": "https://www.arbeitnow.co.uk/jobs/companies/newrelic/senior-manager-revenue-operations-london-173842"
-    },
-    {
-      "id": "arbeitnow-principal-apac-partner-enablement-sydney-au-317338",
-      "title": "Principal, APAC Partner Enablement",
-      "company": "Klaviyo",
-      "platform": "Arbeitnow",
-      "location": "Sydney, AU",
-      "salary": "Competitive",
-      "type": "Full-time",
-      "tags": [
-        "Sales"
-      ],
-      "postedAt": "2026-08-08T00:55:41.000Z",
-      "url": "https://www.arbeitnow.co.uk/jobs/companies/klaviyo/principal-apac-partner-enablement-sydney-au-317338"
-    },
-    {
-      "id": "arbeitnow-mid-enterprise-account-executive-sydney-au-166936",
-      "title": "Mid Enterprise Account Executive",
-      "company": "Klaviyo",
-      "platform": "Arbeitnow",
-      "location": "Sydney, AU",
-      "salary": "Competitive",
-      "type": "Full-time",
-      "tags": [
-        "Sales"
-      ],
-      "postedAt": "2026-08-08T00:55:41.000Z",
-      "url": "https://www.arbeitnow.co.uk/jobs/companies/klaviyo/mid-enterprise-account-executive-sydney-au-166936"
     },
     {
       "id": "arbeitnow-remote-director-partner-solution-architecture-428548",
@@ -2507,6 +2452,58 @@
       "tags": [],
       "postedAt": "2026-08-07T04:20:03+00:00",
       "url": "https://jobicy.com/jobs/148829-account-executive-canada-corporate"
+    },
+    {
+      "id": "remoteok-1136285",
+      "title": "Spontaneous Application Halifax",
+      "company": "Germain HÃ´tels",
+      "platform": "RemoteOK",
+      "location": "Enfield, ",
+      "salary": "Competitive",
+      "type": "Full-time",
+      "tags": [],
+      "postedAt": "2026-08-07T03:56:12+00:00",
+      "url": "https://remoteOK.com/remote-jobs/remote-spontaneous-application-halifax-germain-hotels-1136285"
+    },
+    {
+      "id": "remoteok-1136290",
+      "title": "Test",
+      "company": "Compact Home Lifts",
+      "platform": "RemoteOK",
+      "location": "Collingwood, ",
+      "salary": "Competitive",
+      "type": "Full-time",
+      "tags": [
+        "testing",
+        "non tech"
+      ],
+      "postedAt": "2026-08-07T02:12:23+00:00",
+      "url": "https://remoteOK.com/remote-jobs/remote-test-compact-home-lifts-1136290"
+    },
+    {
+      "id": "remotive-2091045",
+      "title": "Tier III Service Desk Engineer",
+      "company": "Unio Digital",
+      "platform": "Remotive",
+      "location": "USA",
+      "salary": "Competitive",
+      "type": "full_time",
+      "tags": [
+        "azure",
+        "cisco",
+        "security",
+        "video",
+        "documentation",
+        "hardware",
+        "helpdesk",
+        "onboarding",
+        "MSP",
+        "ticketing",
+        "Microsoft 365",
+        "IT systems"
+      ],
+      "postedAt": "2026-08-07T01:10:06",
+      "url": "https://remotive.com/remote-jobs/information-technology/tier-iii-service-desk-engineer-2091045"
     }
   ]
 }
