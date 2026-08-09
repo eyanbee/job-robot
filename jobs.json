@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-08-09T15:02:08.035Z",
+  "lastUpdated": "2026-08-09T15:59:20.499Z",
   "jobs": [
     {
       "id": "remoteok-1136206",
@@ -307,27 +307,6 @@
       ],
       "postedAt": "2026-08-05T13:48:34+00:00",
       "url": "https://remoteOK.com/remote-jobs/remote-signitic-wesaas-1136248"
-    },
-    {
-      "id": "remoteok-1136250",
-      "title": "Insight",
-      "company": "METRIQ SRL",
-      "platform": "RemoteOK",
-      "location": "Indus, ",
-      "salary": "Competitive",
-      "type": "Full-time",
-      "tags": [
-        "dev",
-        "exec",
-        "digital nomad",
-        "ruby",
-        "education",
-        "finance",
-        "medical",
-        "ecommerce"
-      ],
-      "postedAt": "2026-08-05T11:07:30+00:00",
-      "url": "https://remoteOK.com/remote-jobs/remote-insight-metriq-srl-1136250"
     },
     {
       "id": "remoteok-1136293",
@@ -2255,20 +2234,6 @@
       "url": "https://www.arbeitnow.com/jobs/companies/clera/remote-founding-cloud-infrastructure-engineer-257151"
     },
     {
-      "id": "arbeitnow-remote-staff-engineer-founding-131517",
-      "title": "Staff Engineer (Founding)",
-      "company": "Clera",
-      "platform": "Arbeitnow",
-      "location": "remote",
-      "salary": "Competitive",
-      "type": "Full-time",
-      "tags": [
-        "Engineering"
-      ],
-      "postedAt": "2026-08-09T02:40:09.000Z",
-      "url": "https://www.arbeitnow.com/jobs/companies/clera/remote-staff-engineer-founding-131517"
-    },
-    {
       "id": "arbeitnow-account-executive-at-cfo-insights-london-183106",
       "title": "Account Executive at CFO Insights",
       "company": "Cfoinsights",
@@ -2309,6 +2274,34 @@
       ],
       "postedAt": "2026-08-09T00:40:14.000Z",
       "url": "https://www.arbeitnow.co.uk/jobs/companies/bunch/head-of-sales-fund-administration-vc-pe-private-markets-london-287729"
+    },
+    {
+      "id": "arbeitnow-specialist-account-executive-data-security-city-of-london-corporation-gbr-418257",
+      "title": "Specialist Account Executive, Data Security",
+      "company": "zscaler",
+      "platform": "Arbeitnow",
+      "location": "City of London Corporation, GBR",
+      "salary": "Competitive",
+      "type": "Full-time",
+      "tags": [
+        "Global Specialty Sales"
+      ],
+      "postedAt": "2026-08-08T21:55:18.000Z",
+      "url": "https://www.arbeitnow.co.uk/jobs/companies/zscaler/specialist-account-executive-data-security-city-of-london-corporation-gbr-418257"
+    },
+    {
+      "id": "arbeitnow-senior-sales-engineer-uk-298487",
+      "title": "Senior Sales Engineer - UK",
+      "company": "zscaler",
+      "platform": "Arbeitnow",
+      "location": "Remote",
+      "salary": "Competitive",
+      "type": "Full-time",
+      "tags": [
+        "EMEA Field Sales"
+      ],
+      "postedAt": "2026-08-08T21:55:18.000Z",
+      "url": "https://www.arbeitnow.co.uk/jobs/companies/zscaler/senior-sales-engineer-uk-298487"
     }
   ]
 }
