@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-08-12T15:08:07.017Z",
+  "lastUpdated": "2026-08-12T16:27:10.208Z",
   "jobs": [
     {
       "id": "remoteok-1136548",
@@ -615,18 +615,6 @@
       "url": "https://www.arbeitnow.co.uk/jobs/companies/plaud/localisation-content-manager-france-london-296490"
     },
     {
-      "id": "jobicy-149035",
-      "title": "Customer Solutions Architect, Amazon Connect",
-      "company": "Caylent",
-      "platform": "Jobicy",
-      "location": "Canada",
-      "salary": "Competitive",
-      "type": "Full-Time",
-      "tags": [],
-      "postedAt": "2026-08-09T03:45:00+00:00",
-      "url": "https://jobicy.com/jobs/149035-customer-solutions-architect-amazon-connect"
-    },
-    {
       "id": "remoteok-1136293",
       "title": "CHECK BACK SOON",
       "company": "Yacht Club Games",
@@ -666,6 +654,30 @@
       "tags": [],
       "postedAt": "2026-08-10T10:25:03+00:00",
       "url": "https://jobicy.com/jobs/149058-google-ads-manager-ai-native"
+    },
+    {
+      "id": "jobicy-150555",
+      "title": "Customer Support Specialist (Mon-Fri 3pm-11pm CST)",
+      "company": "AlertMedia",
+      "platform": "Jobicy",
+      "location": "USA",
+      "salary": "Competitive",
+      "type": "Full-Time",
+      "tags": [],
+      "postedAt": "2026-08-12T12:08:27+00:00",
+      "url": "https://jobicy.com/jobs/150555-customer-support-specialist-mon-fri-3pm-11pm-cst"
+    },
+    {
+      "id": "jobicy-150537",
+      "title": "Staff Security Engineer, Customer Support and Integrity",
+      "company": "DoorDash",
+      "platform": "Jobicy",
+      "location": "USA",
+      "salary": "Competitive",
+      "type": "Full-Time",
+      "tags": [],
+      "postedAt": "2026-08-12T12:08:15+00:00",
+      "url": "https://jobicy.com/jobs/150537-staff-security-engineer-customer-support-and-integrity"
     },
     {
       "id": "jobicy-150030",
@@ -1018,16 +1030,20 @@
       "url": "https://remoteOK.com/remote-jobs/remote-sales-team-member-cotton-on-westfield-bondi-cotton-on-group-1136393"
     },
     {
-      "id": "jobicy-149031",
-      "title": "Customer Support Systems & Analytics Lead",
-      "company": "Mercury",
-      "platform": "Jobicy",
-      "location": "Canada,  USA",
+      "id": "remoteok-1136567",
+      "title": "Expression of Interest â All Field Roles",
+      "company": "ProFlo",
+      "platform": "RemoteOK",
+      "location": "Naval Base, ",
       "salary": "Competitive",
-      "type": "Full-Time",
-      "tags": [],
-      "postedAt": "2026-08-09T03:45:01+00:00",
-      "url": "https://jobicy.com/jobs/149031-customer-support-systems-analytics-lead"
+      "type": "Full-time",
+      "tags": [
+        "customer support",
+        "c",
+        "non tech"
+      ],
+      "postedAt": "2026-08-08T22:19:09+00:00",
+      "url": "https://remoteOK.com/remote-jobs/remote-expression-of-interest-all-field-roles-proflo-1136567"
     },
     {
       "id": "remoteok-1136344",
@@ -1133,32 +1149,40 @@
       "url": "https://remoteOK.com/remote-jobs/remote-cr281-customs-agent-fedex-1136279"
     },
     {
-      "id": "arbeitnow-accounting-solutions-consultant-london-hybrid-376010",
-      "title": "Accounting Solutions Consultant (London, Hybrid)",
-      "company": "Dualentry",
-      "platform": "Arbeitnow",
-      "location": "London, UK (Hybrid)",
+      "id": "jobicy-150560",
+      "title": "Research Accounting Specialist",
+      "company": "Baylor College of Medicine",
+      "platform": "Jobicy",
+      "location": "USA",
       "salary": "Competitive",
-      "type": "Full-time",
-      "tags": [
-        "Sales"
-      ],
-      "postedAt": "2026-08-12T06:40:14.000Z",
-      "url": "https://www.arbeitnow.co.uk/jobs/companies/dualentry/accounting-solutions-consultant-london-hybrid-376010"
+      "type": "Full-Time",
+      "tags": [],
+      "postedAt": "2026-08-12T12:08:39+00:00",
+      "url": "https://jobicy.com/jobs/150560-research-accounting-specialist"
     },
     {
-      "id": "arbeitnow-senior-accounting-solutions-consultant-hybrid-london-441570",
-      "title": "Senior Accounting Solutions Consultant (Hybrid, London)",
-      "company": "Dualentry",
-      "platform": "Arbeitnow",
-      "location": "London, UK (Hybrid)",
+      "id": "jobicy-150554",
+      "title": "Sales Operations Manager",
+      "company": "Instructure",
+      "platform": "Jobicy",
+      "location": "USA",
       "salary": "Competitive",
-      "type": "Full-time",
-      "tags": [
-        "Sales"
-      ],
-      "postedAt": "2026-08-12T06:40:14.000Z",
-      "url": "https://www.arbeitnow.co.uk/jobs/companies/dualentry/senior-accounting-solutions-consultant-hybrid-london-441570"
+      "type": "Full-Time",
+      "tags": [],
+      "postedAt": "2026-08-12T12:08:38+00:00",
+      "url": "https://jobicy.com/jobs/150554-sales-operations-manager-3"
+    },
+    {
+      "id": "jobicy-150558",
+      "title": "People Operations Manager",
+      "company": "Cint",
+      "platform": "Jobicy",
+      "location": "USA",
+      "salary": "Competitive",
+      "type": "Full-Time",
+      "tags": [],
+      "postedAt": "2026-08-12T12:08:36+00:00",
+      "url": "https://jobicy.com/jobs/150558-people-operations-manager-2"
     },
     {
       "id": "arbeitnow-strategy-operations-manager-categories-london-328707",
@@ -1189,6 +1213,20 @@
       "url": "https://www.arbeitnow.co.uk/jobs/companies/bjak/business-operations-manager-ceo-office-london-120369"
     },
     {
+      "id": "arbeitnow-senior-performance-marketing-manager-b2c-london-gb-137800",
+      "title": "Senior Performance Marketing Manager (B2C)",
+      "company": "Octopus Energy Group",
+      "platform": "Arbeitnow",
+      "location": "London (GB)",
+      "salary": "Competitive",
+      "type": "Full-time",
+      "tags": [
+        "Marketing (Growth)"
+      ],
+      "postedAt": "2026-08-12T15:04:46.000Z",
+      "url": "https://www.arbeitnow.co.uk/jobs/companies/octopus-energy-group/senior-performance-marketing-manager-b2c-london-gb-137800"
+    },
+    {
       "id": "arbeitnow-senior-performance-marketing-sea-ppc-manager-all-genders-augsburg-141799",
       "title": "Senior Performance Marketing (SEA/PPC) Manager (all genders) Augsburg",
       "company": "MAI Group",
@@ -1201,6 +1239,113 @@
       ],
       "postedAt": "2026-08-12T13:30:44.000Z",
       "url": "https://www.arbeitnow.com/jobs/companies/mai-group/senior-performance-marketing-sea-ppc-manager-all-genders-augsburg-141799"
+    },
+    {
+      "id": "arbeitnow-senior-system-analyst-platform-hybrid-or-remote-424188",
+      "title": "Senior System Analyst (Platform) (Hybrid or Remote)",
+      "company": "Vivid",
+      "platform": "Arbeitnow",
+      "location": "Remote",
+      "salary": "Competitive",
+      "type": "Full-time",
+      "tags": [
+        "Business Analyst",
+        "System Analyst"
+      ],
+      "postedAt": "2026-08-12T15:09:34.000Z",
+      "url": "https://www.arbeitnow.co.uk/jobs/companies/vivid/senior-system-analyst-platform-hybrid-or-remote-424188"
+    },
+    {
+      "id": "arbeitnow-principal-engineer-belfast-436558",
+      "title": "Principal Engineer",
+      "company": "Bazaarvoice",
+      "platform": "Arbeitnow",
+      "location": "Belfast",
+      "salary": "Competitive",
+      "type": "Full-time",
+      "tags": [
+        "Engineering - General"
+      ],
+      "postedAt": "2026-08-12T15:05:29.000Z",
+      "url": "https://www.arbeitnow.co.uk/jobs/companies/bazaarvoice/principal-engineer-belfast-436558"
+    },
+    {
+      "id": "arbeitnow-lead-product-designer-belfast-36470",
+      "title": "Lead Product Designer",
+      "company": "Bazaarvoice",
+      "platform": "Arbeitnow",
+      "location": "Belfast",
+      "salary": "Competitive",
+      "type": "Full-time",
+      "tags": [
+        "Product Management - General"
+      ],
+      "postedAt": "2026-08-12T15:05:29.000Z",
+      "url": "https://www.arbeitnow.co.uk/jobs/companies/bazaarvoice/lead-product-designer-belfast-36470"
+    },
+    {
+      "id": "arbeitnow-senior-staff-engineer-platform-partner-experience-london-209255",
+      "title": "Senior Staff Engineer - Platform & Partner Experience",
+      "company": "Spotify",
+      "platform": "Arbeitnow",
+      "location": "London",
+      "salary": "Competitive",
+      "type": "Full-time",
+      "tags": [
+        "Experience"
+      ],
+      "postedAt": "2026-08-12T15:05:21.000Z",
+      "url": "https://www.arbeitnow.co.uk/jobs/companies/spotify/senior-staff-engineer-platform-partner-experience-london-209255"
+    },
+    {
+      "id": "arbeitnow-senior-application-security-consultant-london-314144",
+      "title": "Senior Application Security Consultant",
+      "company": "Veracode",
+      "platform": "Arbeitnow",
+      "location": "London, England, United Kingdom",
+      "salary": "Competitive",
+      "type": "Full-time",
+      "tags": [],
+      "postedAt": "2026-08-12T14:45:25.000Z",
+      "url": "https://www.arbeitnow.co.uk/jobs/companies/veracode/senior-application-security-consultant-london-314144"
+    },
+    {
+      "id": "arbeitnow-client-success-director-manchester-167038",
+      "title": "Client Success Director",
+      "company": "PHMG Careers",
+      "platform": "Arbeitnow",
+      "location": "Manchester, England, United Kingdom",
+      "salary": "Competitive",
+      "type": "Full-time",
+      "tags": [],
+      "postedAt": "2026-08-12T14:45:25.000Z",
+      "url": "https://www.arbeitnow.co.uk/jobs/companies/phmg-careers/client-success-director-manchester-167038"
+    },
+    {
+      "id": "arbeitnow-senior-computer-vision-engineer-london-67896",
+      "title": "Senior Computer Vision Engineer",
+      "company": "Catapult Sports",
+      "platform": "Arbeitnow",
+      "location": "London, England, United Kingdom",
+      "salary": "Competitive",
+      "type": "Full-time",
+      "tags": [],
+      "postedAt": "2026-08-12T14:45:23.000Z",
+      "url": "https://www.arbeitnow.co.uk/jobs/companies/catapult-sports/senior-computer-vision-engineer-london-67896"
+    },
+    {
+      "id": "arbeitnow-founding-engineer-ml-ps120k-equity-london-188907",
+      "title": "Founding Engineer (ML) £120k + Equity",
+      "company": "Authority.inc",
+      "platform": "Arbeitnow",
+      "location": "London",
+      "salary": "Competitive",
+      "type": "Full-time",
+      "tags": [
+        "Engineering"
+      ],
+      "postedAt": "2026-08-12T14:00:38.000Z",
+      "url": "https://www.arbeitnow.co.uk/jobs/companies/authorityinc/founding-engineer-ml-ps120k-equity-london-188907"
     },
     {
       "id": "arbeitnow-principal-product-manager-stablecoins-payments-london-36166",
@@ -1427,34 +1572,244 @@
       "url": "https://www.arbeitnow.co.uk/jobs/companies/kinly/av-technician-senior-london-77851"
     },
     {
-      "id": "arbeitnow-remote-internship-working-student-finance-freiburg-174597",
-      "title": "Internship / Working Student Finance (m/f/x)",
-      "company": "Virtual Identity",
-      "platform": "Arbeitnow",
-      "location": "Remote job",
+      "id": "jobicy-150564",
+      "title": "Inpatient Corporate Coder - Remote based in the US",
+      "company": "Tenet Healthcare",
+      "platform": "Jobicy",
+      "location": "USA",
       "salary": "Competitive",
-      "type": "Full-time",
-      "tags": [
-        "General",
-        "Remote"
-      ],
-      "postedAt": "2026-08-12T11:30:23.000Z",
-      "url": "https://www.arbeitnow.com/jobs/companies/virtual-identity/remote-internship-working-student-finance-freiburg-174597"
+      "type": "Full-Time",
+      "tags": [],
+      "postedAt": "2026-08-12T12:08:46+00:00",
+      "url": "https://jobicy.com/jobs/150564-inpatient-corporate-coder-remote-based-in-the-us"
     },
     {
-      "id": "arbeitnow-remote-creative-director-director-digital-creation-freiburg-388887",
-      "title": "Creative Director/ Director Digital Creation (m/f/x)",
-      "company": "Virtual Identity",
-      "platform": "Arbeitnow",
-      "location": "Remote job",
+      "id": "jobicy-150563",
+      "title": "Manager, Cyber Compliance, Deloitte Global Technology",
+      "company": "Deloitte",
+      "platform": "Jobicy",
+      "location": "Canada",
       "salary": "Competitive",
-      "type": "Full-time",
-      "tags": [
-        "Creative",
-        "Remote"
-      ],
-      "postedAt": "2026-08-12T11:30:23.000Z",
-      "url": "https://www.arbeitnow.com/jobs/companies/virtual-identity/remote-creative-director-director-digital-creation-freiburg-388887"
+      "type": "Full-Time",
+      "tags": [],
+      "postedAt": "2026-08-12T12:08:44+00:00",
+      "url": "https://jobicy.com/jobs/150563-manager-cyber-compliance-deloitte-global-technology"
+    },
+    {
+      "id": "jobicy-150562",
+      "title": "Lead Specialist, Network Management, Deloitte Global Technology",
+      "company": "Deloitte",
+      "platform": "Jobicy",
+      "location": "Canada",
+      "salary": "Competitive",
+      "type": "Full-Time",
+      "tags": [],
+      "postedAt": "2026-08-12T12:08:42+00:00",
+      "url": "https://jobicy.com/jobs/150562-lead-specialist-network-management-deloitte-global-technology"
+    },
+    {
+      "id": "jobicy-150561",
+      "title": "Sr. Manager, Business Transformation & Operations",
+      "company": "TE Connectivity",
+      "platform": "Jobicy",
+      "location": "USA",
+      "salary": "Competitive",
+      "type": "Full-Time",
+      "tags": [],
+      "postedAt": "2026-08-12T12:08:41+00:00",
+      "url": "https://jobicy.com/jobs/150561-sr-manager-business-transformation-operations"
+    },
+    {
+      "id": "jobicy-150556",
+      "title": "Senior Solution Sales Executive - Finance & Supply Chain Solutions",
+      "company": "ServiceNow",
+      "platform": "Jobicy",
+      "location": "Canada,  USA",
+      "salary": "Competitive",
+      "type": "Full-Time",
+      "tags": [],
+      "postedAt": "2026-08-12T12:08:39+00:00",
+      "url": "https://jobicy.com/jobs/150556-senior-solution-sales-executive-finance-supply-chain-solutions"
+    },
+    {
+      "id": "jobicy-150550",
+      "title": "Territory Sales Representative (San Francisco)",
+      "company": "Staples",
+      "platform": "Jobicy",
+      "location": "USA",
+      "salary": "Competitive",
+      "type": "Full-Time",
+      "tags": [],
+      "postedAt": "2026-08-12T12:08:35+00:00",
+      "url": "https://jobicy.com/jobs/150550-territory-sales-representative-san-francisco"
+    },
+    {
+      "id": "jobicy-150549",
+      "title": "Salesforce Business Analyst",
+      "company": "Nielsen",
+      "platform": "Jobicy",
+      "location": "USA",
+      "salary": "Competitive",
+      "type": "Full-Time",
+      "tags": [],
+      "postedAt": "2026-08-12T12:08:33+00:00",
+      "url": "https://jobicy.com/jobs/150549-salesforce-business-analyst"
+    },
+    {
+      "id": "jobicy-150546",
+      "title": "Principal Compensation Partner, Sales",
+      "company": "HubSpot",
+      "platform": "Jobicy",
+      "location": "USA",
+      "salary": "Competitive",
+      "type": "Full-Time",
+      "tags": [],
+      "postedAt": "2026-08-12T12:08:31+00:00",
+      "url": "https://jobicy.com/jobs/150546-principal-compensation-partner-sales"
+    },
+    {
+      "id": "jobicy-150544",
+      "title": "Sales Compensation Analyst",
+      "company": "Liftoff",
+      "platform": "Jobicy",
+      "location": "USA",
+      "salary": "Competitive",
+      "type": "Full-Time",
+      "tags": [],
+      "postedAt": "2026-08-12T12:08:30+00:00",
+      "url": "https://jobicy.com/jobs/150544-sales-compensation-analyst"
+    },
+    {
+      "id": "jobicy-150542",
+      "title": "Senior Sales Recruiter | UK, Ireland, Spain | Remote",
+      "company": "Grafana Labs",
+      "platform": "Jobicy",
+      "location": "EMEA,  Ireland,  Spain,  UK",
+      "salary": "Competitive",
+      "type": "Full-Time",
+      "tags": [],
+      "postedAt": "2026-08-12T12:08:28+00:00",
+      "url": "https://jobicy.com/jobs/150542-senior-sales-recruiter-uk-ireland-spain-remote"
+    },
+    {
+      "id": "jobicy-150553",
+      "title": "Senior Manager, Customer Success Engineering",
+      "company": "Veeam Software",
+      "platform": "Jobicy",
+      "location": "UK",
+      "salary": "Competitive",
+      "type": "Full-Time",
+      "tags": [],
+      "postedAt": "2026-08-12T12:08:26+00:00",
+      "url": "https://jobicy.com/jobs/150553-senior-manager-customer-success-engineering"
+    },
+    {
+      "id": "jobicy-150540",
+      "title": "Inside Sales Associate-Remote (Start Date: 9/28/26)",
+      "company": "Intoxalock",
+      "platform": "Jobicy",
+      "location": "USA",
+      "salary": "Competitive",
+      "type": "Full-Time",
+      "tags": [],
+      "postedAt": "2026-08-12T12:08:25+00:00",
+      "url": "https://jobicy.com/jobs/150540-inside-sales-associate-remote-start-date-9-28-26"
+    },
+    {
+      "id": "jobicy-150551",
+      "title": "Director, Business Operations - Customer Success",
+      "company": "Zscaler",
+      "platform": "Jobicy",
+      "location": "USA",
+      "salary": "Competitive",
+      "type": "Full-Time",
+      "tags": [],
+      "postedAt": "2026-08-12T12:08:24+00:00",
+      "url": "https://jobicy.com/jobs/150551-director-business-operations-customer-success"
+    },
+    {
+      "id": "jobicy-150548",
+      "title": "Associate, Customer & Product Support",
+      "company": "AlphaSense",
+      "platform": "Jobicy",
+      "location": "Canada",
+      "salary": "Competitive",
+      "type": "Full-Time",
+      "tags": [],
+      "postedAt": "2026-08-12T12:08:23+00:00",
+      "url": "https://jobicy.com/jobs/150548-associate-customer-product-support-2"
+    },
+    {
+      "id": "jobicy-150538",
+      "title": "Bilingual Inside Sales Associate - Remote (Start Date: 9/28/26) (Spanish/English)",
+      "company": "Intoxalock",
+      "platform": "Jobicy",
+      "location": "USA",
+      "salary": "Competitive",
+      "type": "Full-Time",
+      "tags": [],
+      "postedAt": "2026-08-12T12:08:23+00:00",
+      "url": "https://jobicy.com/jobs/150538-bilingual-inside-sales-associate-remote-start-date-9-28-26-spanish-english"
+    },
+    {
+      "id": "jobicy-150534",
+      "title": "Director, Strategic Sales",
+      "company": "Pindrop",
+      "platform": "Jobicy",
+      "location": "USA",
+      "salary": "Competitive",
+      "type": "Full-Time",
+      "tags": [],
+      "postedAt": "2026-08-12T12:08:22+00:00",
+      "url": "https://jobicy.com/jobs/150534-director-strategic-sales-2"
+    },
+    {
+      "id": "jobicy-150533",
+      "title": "Sr. Sales Enablement Program Manager",
+      "company": "Rubrik",
+      "platform": "Jobicy",
+      "location": "USA",
+      "salary": "Competitive",
+      "type": "Full-Time",
+      "tags": [],
+      "postedAt": "2026-08-12T12:08:20+00:00",
+      "url": "https://jobicy.com/jobs/150533-sr-sales-enablement-program-manager"
+    },
+    {
+      "id": "jobicy-150539",
+      "title": "Senior Director, Customer Lifecycle Marketing - Usage & Engagement",
+      "company": "AlphaSense",
+      "platform": "Jobicy",
+      "location": "USA",
+      "salary": "Competitive",
+      "type": "Full-Time",
+      "tags": [],
+      "postedAt": "2026-08-12T12:08:17+00:00",
+      "url": "https://jobicy.com/jobs/150539-senior-director-customer-lifecycle-marketing-usage-engagement"
+    },
+    {
+      "id": "jobicy-150531",
+      "title": "Sales Director, EMEA",
+      "company": "Tailscale",
+      "platform": "Jobicy",
+      "location": "UK",
+      "salary": "Competitive",
+      "type": "Full-Time",
+      "tags": [],
+      "postedAt": "2026-08-12T12:08:17+00:00",
+      "url": "https://jobicy.com/jobs/150531-sales-director-emea"
+    },
+    {
+      "id": "jobicy-150535",
+      "title": "Regional Director, Customer Success, LATAM",
+      "company": "Coursera",
+      "platform": "Jobicy",
+      "location": "Brazil",
+      "salary": "Competitive",
+      "type": "Full-Time",
+      "tags": [],
+      "postedAt": "2026-08-12T12:08:11+00:00",
+      "url": "https://jobicy.com/jobs/150535-regional-director-customer-success-latam"
     },
     {
       "id": "arbeitnow-aws-solution-architect-application-solution-development-london-483891",
@@ -1990,90 +2345,6 @@
       "url": "https://www.arbeitnow.co.uk/jobs/companies/heidi/design-quality-engineer-london-428330"
     },
     {
-      "id": "arbeitnow-senior-mep-planner-gatwick-airport-251624",
-      "title": "Senior MEP Planner",
-      "company": "Cmr.london",
-      "platform": "Arbeitnow",
-      "location": "Gatwick Airport",
-      "salary": "Competitive",
-      "type": "Full-time",
-      "tags": [
-        "Planning & Scheduling"
-      ],
-      "postedAt": "2026-08-12T06:40:17.000Z",
-      "url": "https://www.arbeitnow.co.uk/jobs/companies/cmrlondon/senior-mep-planner-gatwick-airport-251624"
-    },
-    {
-      "id": "arbeitnow-remote-recruiter-research-184816",
-      "title": "Recruiter (Research)",
-      "company": "Whitecircle",
-      "platform": "Arbeitnow",
-      "location": "Remote",
-      "salary": "Competitive",
-      "type": "Full-time",
-      "tags": [
-        "Operations"
-      ],
-      "postedAt": "2026-08-12T06:40:16.000Z",
-      "url": "https://www.arbeitnow.co.uk/jobs/companies/whitecircle/remote-recruiter-research-184816"
-    },
-    {
-      "id": "arbeitnow-facilities-events-supervisor-london-315045",
-      "title": "Facilities & Events Supervisor",
-      "company": "Legal 500",
-      "platform": "Arbeitnow",
-      "location": "London",
-      "salary": "Competitive",
-      "type": "Full-time",
-      "tags": [
-        "IAC"
-      ],
-      "postedAt": "2026-08-12T06:40:16.000Z",
-      "url": "https://www.arbeitnow.co.uk/jobs/companies/legal-500/facilities-events-supervisor-london-315045"
-    },
-    {
-      "id": "arbeitnow-customer-success-lead-hybrid-london-427905",
-      "title": "Customer Success Lead (Hybrid, London)",
-      "company": "Dualentry",
-      "platform": "Arbeitnow",
-      "location": "London, UK (Hybrid)",
-      "salary": "Competitive",
-      "type": "Full-time",
-      "tags": [
-        "Customer Experience"
-      ],
-      "postedAt": "2026-08-12T06:40:14.000Z",
-      "url": "https://www.arbeitnow.co.uk/jobs/companies/dualentry/customer-success-lead-hybrid-london-427905"
-    },
-    {
-      "id": "arbeitnow-ai-erp-implementations-lead-hybrid-london-456727",
-      "title": "AI ERP Implementations Lead (Hybrid, London)",
-      "company": "Dualentry",
-      "platform": "Arbeitnow",
-      "location": "London, UK (Hybrid)",
-      "salary": "Competitive",
-      "type": "Full-time",
-      "tags": [
-        "Customer Experience"
-      ],
-      "postedAt": "2026-08-12T06:40:14.000Z",
-      "url": "https://www.arbeitnow.co.uk/jobs/companies/dualentry/ai-erp-implementations-lead-hybrid-london-456727"
-    },
-    {
-      "id": "arbeitnow-senior-account-executive-london-hybrid-186128",
-      "title": "Senior Account Executive (London, Hybrid)",
-      "company": "Dualentry",
-      "platform": "Arbeitnow",
-      "location": "London, UK (Hybrid)",
-      "salary": "Competitive",
-      "type": "Full-time",
-      "tags": [
-        "Sales"
-      ],
-      "postedAt": "2026-08-12T06:40:14.000Z",
-      "url": "https://www.arbeitnow.co.uk/jobs/companies/dualentry/senior-account-executive-london-hybrid-186128"
-    },
-    {
       "id": "jobicy-150095",
       "title": "Head of Customer Education",
       "company": "Ashby",
@@ -2234,296 +2505,6 @@
       "tags": [],
       "postedAt": "2026-08-11T11:09:53+00:00",
       "url": "https://jobicy.com/jobs/150490-customer-care-agent-english-and-spanish-2"
-    },
-    {
-      "id": "jobicy-150489",
-      "title": "Senior Manager - Customer Success",
-      "company": "Coursera",
-      "platform": "Jobicy",
-      "location": "Singapore",
-      "salary": "Competitive",
-      "type": "Full-Time",
-      "tags": [],
-      "postedAt": "2026-08-11T11:09:52+00:00",
-      "url": "https://jobicy.com/jobs/150489-senior-manager-customer-success-3"
-    },
-    {
-      "id": "jobicy-150485",
-      "title": "Customer Growth Account Executive",
-      "company": "Toast",
-      "platform": "Jobicy",
-      "location": "USA",
-      "salary": "Competitive",
-      "type": "Full-Time",
-      "tags": [],
-      "postedAt": "2026-08-11T11:09:45+00:00",
-      "url": "https://jobicy.com/jobs/150485-customer-growth-account-executive"
-    },
-    {
-      "id": "jobicy-150482",
-      "title": "Customer Growth Sales Account Executive",
-      "company": "Toast",
-      "platform": "Jobicy",
-      "location": "USA",
-      "salary": "Competitive",
-      "type": "Full-Time",
-      "tags": [],
-      "postedAt": "2026-08-11T11:09:41+00:00",
-      "url": "https://jobicy.com/jobs/150482-customer-growth-sales-account-executive"
-    },
-    {
-      "id": "jobicy-150481",
-      "title": "Senior Customer Success Manager, K12",
-      "company": "Instructure",
-      "platform": "Jobicy",
-      "location": "USA",
-      "salary": "Competitive",
-      "type": "Full-Time",
-      "tags": [],
-      "postedAt": "2026-08-11T11:09:39+00:00",
-      "url": "https://jobicy.com/jobs/150481-senior-customer-success-manager-k12"
-    },
-    {
-      "id": "jobicy-150479",
-      "title": "Manager I, Customer Success Manager",
-      "company": "Samsara",
-      "platform": "Jobicy",
-      "location": "Canada",
-      "salary": "Competitive",
-      "type": "Full-Time",
-      "tags": [],
-      "postedAt": "2026-08-11T11:09:36+00:00",
-      "url": "https://jobicy.com/jobs/150479-manager-i-customer-success-manager"
-    },
-    {
-      "id": "jobicy-150478",
-      "title": "Senior Customer Activation Manager | Partnerships",
-      "company": "Ramp",
-      "platform": "Jobicy",
-      "location": "Canada,  USA",
-      "salary": "Competitive",
-      "type": "Full-Time",
-      "tags": [],
-      "postedAt": "2026-08-11T11:09:34+00:00",
-      "url": "https://jobicy.com/jobs/150478-senior-customer-activation-manager-partnerships"
-    },
-    {
-      "id": "jobicy-150477",
-      "title": "Customer Activation | Partnerships",
-      "company": "Ramp",
-      "platform": "Jobicy",
-      "location": "Canada,  USA",
-      "salary": "Competitive",
-      "type": "Full-Time",
-      "tags": [],
-      "postedAt": "2026-08-11T11:09:33+00:00",
-      "url": "https://jobicy.com/jobs/150477-customer-activation-partnerships"
-    },
-    {
-      "id": "jobicy-150475",
-      "title": "Principal Customer Success Manager - Veza",
-      "company": "ServiceNow",
-      "platform": "Jobicy",
-      "location": "USA",
-      "salary": "Competitive",
-      "type": "Full-Time",
-      "tags": [],
-      "postedAt": "2026-08-11T11:09:29+00:00",
-      "url": "https://jobicy.com/jobs/150475-principal-customer-success-manager-veza"
-    },
-    {
-      "id": "jobicy-150474",
-      "title": "Director of Customer Success Operations",
-      "company": "Securly",
-      "platform": "Jobicy",
-      "location": "USA",
-      "salary": "Competitive",
-      "type": "Full-Time",
-      "tags": [],
-      "postedAt": "2026-08-11T11:09:28+00:00",
-      "url": "https://jobicy.com/jobs/150474-director-of-customer-success-operations"
-    },
-    {
-      "id": "jobicy-150472",
-      "title": "Customer Success Manager",
-      "company": "Magic",
-      "platform": "Jobicy",
-      "location": "Philippines",
-      "salary": "Competitive",
-      "type": "Full-Time",
-      "tags": [],
-      "postedAt": "2026-08-11T11:09:24+00:00",
-      "url": "https://jobicy.com/jobs/150472-customer-success-manager-11"
-    },
-    {
-      "id": "remoteok-1136384",
-      "title": "Expression of Interest",
-      "company": "Alloy Robotics",
-      "platform": "RemoteOK",
-      "location": "Sydney, ",
-      "salary": "Competitive",
-      "type": "Full-time",
-      "tags": [
-        "robotics"
-      ],
-      "postedAt": "2026-08-11T10:41:45+00:00",
-      "url": "https://remoteOK.com/remote-jobs/remote-expression-of-interest-alloy-robotics-1136384"
-    },
-    {
-      "id": "remoteok-1136385",
-      "title": "Non Teaching Staff",
-      "company": "University of Patanjali",
-      "platform": "RemoteOK",
-      "location": "Tikamgarh, ",
-      "salary": "Competitive",
-      "type": "Full-time",
-      "tags": [
-        "teaching"
-      ],
-      "postedAt": "2026-08-11T08:38:36+00:00",
-      "url": "https://remoteOK.com/remote-jobs/remote-non-teaching-staff-university-of-patanjali-1136385"
-    },
-    {
-      "id": "remoteok-1136379",
-      "title": "Sales Development Representative Attributeâ",
-      "company": "DoiT",
-      "platform": "RemoteOK",
-      "location": "Remote UK",
-      "salary": "Competitive",
-      "type": "Full-time",
-      "tags": [
-        "technical",
-        "marketing",
-        "cloud",
-        "microsoft",
-        "exec",
-        "sales"
-      ],
-      "postedAt": "2026-08-11T08:00:43+00:00",
-      "url": "https://remoteOK.com/remote-jobs/"
-    },
-    {
-      "id": "jobicy-149655",
-      "title": "Customer Success Associate",
-      "company": "First Advantage",
-      "platform": "Jobicy",
-      "location": "Philippines",
-      "salary": "Competitive",
-      "type": "Full-Time",
-      "tags": [],
-      "postedAt": "2026-08-11T06:20:06+00:00",
-      "url": "https://jobicy.com/jobs/149655-customer-success-associate"
-    },
-    {
-      "id": "remoteok-1136381",
-      "title": "Join a team helping people make better financial decisions",
-      "company": "Valley Bank Women in Business",
-      "platform": "RemoteOK",
-      "location": "Better Hope, ",
-      "salary": "Competitive",
-      "type": "Full-time",
-      "tags": [
-        "finance",
-        "non tech"
-      ],
-      "postedAt": "2026-08-11T06:19:43+00:00",
-      "url": "https://remoteOK.com/remote-jobs/remote-join-a-team-helping-people-make-better-financial-decisions-valley-bank-women-in-business-1136381"
-    },
-    {
-      "id": "jobicy-145648",
-      "title": "Principal, Marketing Analytics",
-      "company": "Remote",
-      "platform": "Jobicy",
-      "location": "USA",
-      "salary": "Competitive",
-      "type": "Full-Time",
-      "tags": [],
-      "postedAt": "2026-08-11T04:10:04+00:00",
-      "url": "https://jobicy.com/jobs/145648-principal-marketing-analytics"
-    },
-    {
-      "id": "jobicy-149103",
-      "title": "Technical Problem Solver Expert - Red X",
-      "company": "TE Connectivity",
-      "platform": "Jobicy",
-      "location": "USA",
-      "salary": "Competitive",
-      "type": "Full-Time",
-      "tags": [],
-      "postedAt": "2026-08-11T03:30:10+00:00",
-      "url": "https://jobicy.com/jobs/149103-technical-problem-solver-expert-red-x"
-    },
-    {
-      "id": "jobicy-149102",
-      "title": "Principal Project Manager Engineer - remote must be in the US",
-      "company": "TE Connectivity",
-      "platform": "Jobicy",
-      "location": "USA",
-      "salary": "Competitive",
-      "type": "Full-Time",
-      "tags": [],
-      "postedAt": "2026-08-11T03:30:08+00:00",
-      "url": "https://jobicy.com/jobs/149102-principal-project-manager-engineer-remote-must-be-in-the-us"
-    },
-    {
-      "id": "jobicy-149104",
-      "title": "Manager, Ad Operations",
-      "company": "StackAdapt",
-      "platform": "Jobicy",
-      "location": "Canada,  USA",
-      "salary": "Competitive",
-      "type": "Full-Time",
-      "tags": [],
-      "postedAt": "2026-08-11T03:30:07+00:00",
-      "url": "https://jobicy.com/jobs/149104-manager-ad-operations"
-    },
-    {
-      "id": "jobicy-145885",
-      "title": "Project Director, Qualitative Research",
-      "company": "M3 USA",
-      "platform": "Jobicy",
-      "location": "UK",
-      "salary": "Competitive",
-      "type": "Full-Time",
-      "tags": [],
-      "postedAt": "2026-08-11T03:30:04+00:00",
-      "url": "https://jobicy.com/jobs/145885-project-director-qualitative-research"
-    },
-    {
-      "id": "jobicy-149110",
-      "title": "Staff Product Designer",
-      "company": "Fieldguide",
-      "platform": "Jobicy",
-      "location": "USA",
-      "salary": "Competitive",
-      "type": "Full-Time",
-      "tags": [],
-      "postedAt": "2026-08-11T03:25:17+00:00",
-      "url": "https://jobicy.com/jobs/149110-staff-product-designer"
-    },
-    {
-      "id": "jobicy-149107",
-      "title": "Compliance Risk & Controls Manager, Unsecured Line",
-      "company": "Upstart",
-      "platform": "Jobicy",
-      "location": "USA",
-      "salary": "Competitive",
-      "type": "Full-Time",
-      "tags": [],
-      "postedAt": "2026-08-11T03:25:13+00:00",
-      "url": "https://jobicy.com/jobs/149107-compliance-risk-controls-manager-unsecured-line"
-    },
-    {
-      "id": "jobicy-149098",
-      "title": "Application Support Engineer",
-      "company": "Cresta",
-      "platform": "Jobicy",
-      "location": "USA",
-      "salary": "Competitive",
-      "type": "Full-Time",
-      "tags": [],
-      "postedAt": "2026-08-11T03:25:12+00:00",
-      "url": "https://jobicy.com/jobs/149098-application-support-engineer"
     }
   ]
 }
