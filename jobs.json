@@ -1,6 +1,52 @@
 {
-  "lastUpdated": "2026-08-12T13:59:11.282Z",
+  "lastUpdated": "2026-08-12T15:08:07.017Z",
   "jobs": [
+    {
+      "id": "remoteok-1136548",
+      "title": "barber",
+      "company": "Tommy Gun's Original Barbershop",
+      "platform": "RemoteOK",
+      "location": "Regina, ",
+      "salary": "Competitive",
+      "type": "Full-time",
+      "tags": [
+        "education",
+        "supervisor",
+        "web dev",
+        "travel",
+        "exec",
+        "sales",
+        "customer support",
+        "recruiter",
+        "marketing",
+        "testing",
+        "technical",
+        "dev",
+        "medical",
+        "digital nomad",
+        "sys admin",
+        "virtual assistant",
+        "finance",
+        "ops",
+        "full time",
+        "part time",
+        "music",
+        "payroll",
+        "internship",
+        "game dev",
+        "excel",
+        "hr",
+        "speech",
+        "golang",
+        "infosec",
+        "consulting",
+        "ecommerce",
+        "assembly",
+        "engineer"
+      ],
+      "postedAt": "2026-08-11T14:44:39+00:00",
+      "url": "https://remoteOK.com/remote-jobs/remote-barber-tommy-guns-original-barbershop-1136548"
+    },
     {
       "id": "remoteok-1136416",
       "title": "Estimator",
@@ -1141,6 +1187,20 @@
       ],
       "postedAt": "2026-08-12T06:40:25.000Z",
       "url": "https://www.arbeitnow.co.uk/jobs/companies/bjak/business-operations-manager-ceo-office-london-120369"
+    },
+    {
+      "id": "arbeitnow-senior-performance-marketing-sea-ppc-manager-all-genders-augsburg-141799",
+      "title": "Senior Performance Marketing (SEA/PPC) Manager (all genders) Augsburg",
+      "company": "MAI Group",
+      "platform": "Arbeitnow",
+      "location": "Augsburg",
+      "salary": "Competitive",
+      "type": "Full-time",
+      "tags": [
+        "Online Marketing"
+      ],
+      "postedAt": "2026-08-12T13:30:44.000Z",
+      "url": "https://www.arbeitnow.com/jobs/companies/mai-group/senior-performance-marketing-sea-ppc-manager-all-genders-augsburg-141799"
     },
     {
       "id": "arbeitnow-principal-product-manager-stablecoins-payments-london-36166",
@@ -2464,30 +2524,6 @@
       "tags": [],
       "postedAt": "2026-08-11T03:25:12+00:00",
       "url": "https://jobicy.com/jobs/149098-application-support-engineer"
-    },
-    {
-      "id": "jobicy-149090",
-      "title": "EDD Analyst",
-      "company": "Remote",
-      "platform": "Jobicy",
-      "location": "Europe",
-      "salary": "Competitive",
-      "type": "Full-Time",
-      "tags": [],
-      "postedAt": "2026-08-11T03:25:11+00:00",
-      "url": "https://jobicy.com/jobs/149090-edd-analyst"
-    },
-    {
-      "id": "jobicy-149097",
-      "title": "Application Engineer - Digital Solutions",
-      "company": "Grundfos",
-      "platform": "Jobicy",
-      "location": "Mexico",
-      "salary": "Competitive",
-      "type": "Full-Time",
-      "tags": [],
-      "postedAt": "2026-08-11T03:25:09+00:00",
-      "url": "https://jobicy.com/jobs/149097-application-engineer-digital-solutions"
     }
   ]
 }
