@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-08-12T11:03:32.494Z",
+  "lastUpdated": "2026-08-12T12:25:31.245Z",
   "jobs": [
     {
       "id": "remoteok-1136416",
@@ -564,52 +564,6 @@
       "url": "https://remoteOK.com/remote-jobs/remote-platypus-store-manager-tuggeranong-platypus-shoes-1136411"
     },
     {
-      "id": "remoteok-1136414",
-      "title": "Platypus Store Manager Mt Barker",
-      "company": "Platypus Shoes",
-      "platform": "RemoteOK",
-      "location": "Mount Barker, ",
-      "salary": "Competitive",
-      "type": "Full-time",
-      "tags": [
-        "customer support",
-        "marketing",
-        "travel",
-        "speech",
-        "finance",
-        "sales",
-        "medical",
-        "recruiter",
-        "non tech",
-        "architecture",
-        "exec",
-        "education",
-        "ops",
-        "golang",
-        "scheme",
-        "full time",
-        "game dev",
-        "engineer",
-        "music",
-        "ios",
-        "design",
-        "swift",
-        "technical",
-        "dev",
-        "c",
-        "haskell",
-        "senior",
-        "digital nomad",
-        "microsoft",
-        "excel",
-        "virtual assistant",
-        "html",
-        "legal"
-      ],
-      "postedAt": "2026-08-06T04:52:37+00:00",
-      "url": "https://remoteOK.com/remote-jobs/remote-platypus-store-manager-mt-barker-platypus-shoes-1136414"
-    },
-    {
       "id": "remotive-1749306",
       "title": "Freelance Copywriter",
       "company": "Coalition Technologies ",
@@ -750,6 +704,23 @@
       "tags": [],
       "postedAt": "2026-08-11T18:40:02+00:00",
       "url": "https://jobicy.com/jobs/150030-customer-support-specialist-shift-monday-friday-300pm-1100pm-cst"
+    },
+    {
+      "id": "remoteok-1136450",
+      "title": "Talk us here if you canât find the job that youâre looking for",
+      "company": "Universal Wolf",
+      "platform": "RemoteOK",
+      "location": "Blyth, ",
+      "salary": "Competitive",
+      "type": "Full-time",
+      "tags": [
+        "marketing",
+        "exec",
+        "ops",
+        "customer support"
+      ],
+      "postedAt": "2026-08-11T11:20:43+00:00",
+      "url": "https://remoteOK.com/remote-jobs/remote-talk-us-here-if-you-cant-find-the-job-that-youre-looking-for-universal-wolf-1136450"
     },
     {
       "id": "jobicy-150484",
@@ -1188,26 +1159,6 @@
       "url": "https://remoteOK.com/remote-jobs/remote-cr281-customs-agent-fedex-1136279"
     },
     {
-      "id": "remoteok-1136338",
-      "title": "Baxters Food Group",
-      "company": "Washington State University School of Food Science",
-      "platform": "RemoteOK",
-      "location": "Baxters, ",
-      "salary": "Competitive",
-      "type": "Full-time",
-      "tags": [
-        "coordinator",
-        "customer support",
-        "travel",
-        "exec",
-        "ops",
-        "legal",
-        "medical"
-      ],
-      "postedAt": "2026-08-06T03:43:02+00:00",
-      "url": "https://remoteOK.com/remote-jobs/remote-baxters-food-group-washington-state-university-school-of-food-science-1136338"
-    },
-    {
       "id": "arbeitnow-accounting-solutions-consultant-london-hybrid-376010",
       "title": "Accounting Solutions Consultant (London, Hybrid)",
       "company": "Dualentry",
@@ -1290,6 +1241,20 @@
       ],
       "postedAt": "2026-08-12T03:40:12.000Z",
       "url": "https://www.arbeitnow.co.uk/jobs/companies/supercell/head-of-performance-marketing-london-259727"
+    },
+    {
+      "id": "arbeitnow-aws-solution-architect-application-solution-development-london-483891",
+      "title": "AWS Solution Architect ( Application & Solution Development)",
+      "company": "Kryptos Technologies limited",
+      "platform": "Arbeitnow",
+      "location": "London",
+      "salary": "Competitive",
+      "type": "Full-time",
+      "tags": [
+        "IT"
+      ],
+      "postedAt": "2026-08-12T10:00:29.000Z",
+      "url": "https://www.arbeitnow.co.uk/jobs/companies/kryptos-technologies-limited/aws-solution-architect-application-solution-development-london-483891"
     },
     {
       "id": "arbeitnow-enterprise-account-executive-retail-london-298136",
@@ -2091,20 +2056,6 @@
       "url": "https://www.arbeitnow.co.uk/jobs/companies/rogo/sales-manager-enterprise-london-489246"
     },
     {
-      "id": "arbeitnow-lead-customer-marketing-manager-london-101515",
-      "title": "Lead Customer Marketing Manager",
-      "company": "Deepl",
-      "platform": "Arbeitnow",
-      "location": "London",
-      "salary": "Competitive",
-      "type": "Full-time",
-      "tags": [
-        "Marketing"
-      ],
-      "postedAt": "2026-08-12T03:40:07.000Z",
-      "url": "https://www.arbeitnow.co.uk/jobs/companies/deepl/lead-customer-marketing-manager-london-101515"
-    },
-    {
       "id": "jobicy-150095",
       "title": "Head of Customer Education",
       "company": "Ashby",
@@ -2201,18 +2152,33 @@
       "url": "https://jobicy.com/jobs/149126-legal-consultant-financial-services-2"
     },
     {
-      "id": "arbeitnow-staff-security-engineer-466165",
-      "title": "Staff Security Engineer",
-      "company": "Mozilla",
-      "platform": "Arbeitnow",
-      "location": "Remote",
+      "id": "remoteok-1136557",
+      "title": "Lifeguard",
+      "company": "City of Kamloops",
+      "platform": "RemoteOK",
+      "location": "Kamloops, ",
       "salary": "Competitive",
       "type": "Full-time",
       "tags": [
-        "Infrastructure"
+        "hr",
+        "education",
+        "admin",
+        "non tech"
       ],
-      "postedAt": "2026-08-12T02:55:05.000Z",
-      "url": "https://www.arbeitnow.com/jobs/companies/mozilla/staff-security-engineer-466165"
+      "postedAt": "2026-08-11T12:24:19+00:00",
+      "url": "https://remoteOK.com/remote-jobs/remote-lifeguard-city-of-kamloops-1136557"
+    },
+    {
+      "id": "remoteok-1136448",
+      "title": "Your Next Role",
+      "company": "Warmup PLC",
+      "platform": "RemoteOK",
+      "location": "London Area, ",
+      "salary": "Competitive",
+      "type": "Full-time",
+      "tags": [],
+      "postedAt": "2026-08-11T12:10:04+00:00",
+      "url": "https://remoteOK.com/remote-jobs/remote-your-next-role-warmup-plc-1136448"
     },
     {
       "id": "jobicy-150490",
