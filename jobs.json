@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-08-12T06:54:06.434Z",
+  "lastUpdated": "2026-08-12T08:23:22.177Z",
   "jobs": [
     {
       "id": "remoteok-1136553",
@@ -803,6 +803,33 @@
       "url": "https://jobicy.com/jobs/149838-american-english-customer-support-consultant-latam"
     },
     {
+      "id": "remoteok-1136378",
+      "title": "Senior Software QA Engineer",
+      "company": "CoverGo",
+      "platform": "RemoteOK",
+      "location": "Remote",
+      "salary": "Competitive",
+      "type": "Full-time",
+      "tags": [
+        "dev",
+        "customer support",
+        "testing",
+        "quality assurance",
+        "video",
+        "finance",
+        "c",
+        "api",
+        "exec",
+        "content writing",
+        "senior",
+        "medical",
+        "engineer",
+        "digital nomad"
+      ],
+      "postedAt": "2026-08-11T08:00:19+00:00",
+      "url": "https://remoteOK.com/remote-jobs/remote-senior-software-qa-engineer-covergo-1136378"
+    },
+    {
       "id": "remoteok-1136369",
       "title": "Expression of Interest",
       "company": "Immutable",
@@ -1290,18 +1317,6 @@
       "url": "https://www.arbeitnow.co.uk/jobs/companies/bjak/business-operations-manager-ceo-office-london-120369"
     },
     {
-      "id": "jobicy-150393",
-      "title": "Sales Operations Manager",
-      "company": "Zendesk",
-      "platform": "Jobicy",
-      "location": "Singapore",
-      "salary": "Competitive",
-      "type": "Full-Time",
-      "tags": [],
-      "postedAt": "2026-08-09T03:32:41+00:00",
-      "url": "https://jobicy.com/jobs/150393-sales-operations-manager"
-    },
-    {
       "id": "arbeitnow-head-of-performance-marketing-london-259727",
       "title": "Head of Performance Marketing",
       "company": "Supercell",
@@ -1314,6 +1329,48 @@
       ],
       "postedAt": "2026-08-12T03:40:12.000Z",
       "url": "https://www.arbeitnow.co.uk/jobs/companies/supercell/head-of-performance-marketing-london-259727"
+    },
+    {
+      "id": "arbeitnow-windows-system-administrator-windows-server-administrator-eschborn-9937",
+      "title": "Windows System Administrator/Windows Server Administrator",
+      "company": "Market Cloud",
+      "platform": "Arbeitnow",
+      "location": "Eschborn",
+      "salary": "Competitive",
+      "type": "Full-time",
+      "tags": [
+        "System and Network Administration"
+      ],
+      "postedAt": "2026-08-12T07:00:33.000Z",
+      "url": "https://www.arbeitnow.com/jobs/companies/market-cloud/windows-system-administrator-windows-server-administrator-eschborn-9937"
+    },
+    {
+      "id": "arbeitnow-lead-data-analyst-pricing-monetization-london-53093",
+      "title": "Lead Data Analyst (Pricing & Monetization)",
+      "company": "Trustpilot",
+      "platform": "Arbeitnow",
+      "location": "London",
+      "salary": "Competitive",
+      "type": "Full-time",
+      "tags": [
+        "Technology"
+      ],
+      "postedAt": "2026-08-12T06:55:09.000Z",
+      "url": "https://www.arbeitnow.co.uk/jobs/companies/trustpilot/lead-data-analyst-pricing-monetization-london-53093"
+    },
+    {
+      "id": "arbeitnow-remote-principal-benefits-partner-488302",
+      "title": "Principal Benefits Partner",
+      "company": "Precisionmedicinegroup",
+      "platform": "Arbeitnow",
+      "location": "Remote",
+      "salary": "Competitive",
+      "type": "Full-time",
+      "tags": [
+        "Precision Medicine Group"
+      ],
+      "postedAt": "2026-08-12T06:55:03.000Z",
+      "url": "https://www.arbeitnow.co.uk/jobs/companies/precisionmedicinegroup/remote-principal-benefits-partner-488302"
     },
     {
       "id": "arbeitnow-product-manager-ii-fraud-london-52400",
@@ -1905,6 +1962,66 @@
       "url": "https://www.arbeitnow.co.uk/jobs/companies/pharmlogic/product-marketing-manager-london-231688"
     },
     {
+      "id": "jobicy-150095",
+      "title": "Head of Customer Education",
+      "company": "Ashby",
+      "platform": "Jobicy",
+      "location": "USA",
+      "salary": "Competitive",
+      "type": "Full-Time",
+      "tags": [],
+      "postedAt": "2026-08-12T03:35:03+00:00",
+      "url": "https://jobicy.com/jobs/150095-head-of-customer-education"
+    },
+    {
+      "id": "jobicy-149122",
+      "title": "Legal Consultant - GMSLA",
+      "company": "Axiom",
+      "platform": "Jobicy",
+      "location": "APAC,  Singapore",
+      "salary": "Competitive",
+      "type": "Full-Time",
+      "tags": [],
+      "postedAt": "2026-08-12T03:05:06+00:00",
+      "url": "https://jobicy.com/jobs/149122-legal-consultant-gmsla"
+    },
+    {
+      "id": "jobicy-149121",
+      "title": "Legal Consultant - Global Investment Management Firm",
+      "company": "Axiom",
+      "platform": "Jobicy",
+      "location": "APAC,  Hong Kong",
+      "salary": "Competitive",
+      "type": "Full-Time",
+      "tags": [],
+      "postedAt": "2026-08-12T03:05:05+00:00",
+      "url": "https://jobicy.com/jobs/149121-legal-consultant-global-investment-management-firm-2"
+    },
+    {
+      "id": "jobicy-149120",
+      "title": "Banking & Finance Derivatives Counsel",
+      "company": "Axiom",
+      "platform": "Jobicy",
+      "location": "APAC,  Australia",
+      "salary": "Competitive",
+      "type": "Full-Time",
+      "tags": [],
+      "postedAt": "2026-08-12T03:05:03+00:00",
+      "url": "https://jobicy.com/jobs/149120-banking-finance-derivatives-counsel"
+    },
+    {
+      "id": "jobicy-149125",
+      "title": "Senior Legal Counsel",
+      "company": "Axiom",
+      "platform": "Jobicy",
+      "location": "APAC,  Australia",
+      "salary": "Competitive",
+      "type": "Full-Time",
+      "tags": [],
+      "postedAt": "2026-08-12T03:05:02+00:00",
+      "url": "https://jobicy.com/jobs/149125-senior-legal-counsel-2"
+    },
+    {
       "id": "jobicy-149129",
       "title": "Administrative Officer / Legal Administrative Officer - Financial Services",
       "company": "Axiom",
@@ -2061,34 +2178,6 @@
       ],
       "postedAt": "2026-08-12T00:40:24.000Z",
       "url": "https://www.arbeitnow.co.uk/jobs/companies/airspeed/customer-engineer-london-213848"
-    },
-    {
-      "id": "arbeitnow-product-marketing-manager-london-105397",
-      "title": "Product Marketing Manager",
-      "company": "Airspeed",
-      "platform": "Arbeitnow",
-      "location": "London",
-      "salary": "Competitive",
-      "type": "Full-time",
-      "tags": [
-        "Marketing"
-      ],
-      "postedAt": "2026-08-12T00:40:24.000Z",
-      "url": "https://www.arbeitnow.co.uk/jobs/companies/airspeed/product-marketing-manager-london-105397"
-    },
-    {
-      "id": "arbeitnow-verification-test-engineer-london-439342",
-      "title": "Verification Test Engineer",
-      "company": "Comind",
-      "platform": "Arbeitnow",
-      "location": "London, UK",
-      "salary": "Competitive",
-      "type": "Full-time",
-      "tags": [
-        "Product Development"
-      ],
-      "postedAt": "2026-08-12T00:40:20.000Z",
-      "url": "https://www.arbeitnow.co.uk/jobs/companies/comind/verification-test-engineer-london-439342"
     },
     {
       "id": "arbeitnow-customer-success-manager-remote-portugal-17052",
@@ -2279,6 +2368,25 @@
       "url": "https://jobicy.com/jobs/150472-customer-success-manager-11"
     },
     {
+      "id": "remoteok-1136379",
+      "title": "Sales Development Representative Attributeâ",
+      "company": "DoiT",
+      "platform": "RemoteOK",
+      "location": "Remote UK",
+      "salary": "Competitive",
+      "type": "Full-time",
+      "tags": [
+        "technical",
+        "marketing",
+        "cloud",
+        "microsoft",
+        "exec",
+        "sales"
+      ],
+      "postedAt": "2026-08-11T08:00:43+00:00",
+      "url": "https://remoteOK.com/remote-jobs/"
+    },
+    {
       "id": "jobicy-149655",
       "title": "Customer Success Associate",
       "company": "First Advantage",
@@ -2450,98 +2558,6 @@
       "tags": [],
       "postedAt": "2026-08-11T01:56:42+00:00",
       "url": "https://remoteOK.com/remote-jobs/remote-handyman-ocean-hotels-group-barbados-1136373"
-    },
-    {
-      "id": "remoteok-1136454",
-      "title": "Facilities Technician II #JR100294",
-      "company": "City of Peoria, Arizona",
-      "platform": "RemoteOK",
-      "location": "Peoria, ",
-      "salary": "Competitive",
-      "type": "Full-time",
-      "tags": [
-        "ops",
-        "testing",
-        "non tech"
-      ],
-      "postedAt": "2026-08-11T00:00:00+00:00",
-      "url": "https://remoteOK.com/remote-jobs/remote-facilities-technician-ii-jr100294-city-of-peoria-arizona-1136454"
-    },
-    {
-      "id": "remoteok-1136375",
-      "title": "FC Lead",
-      "company": "Cart.com",
-      "platform": "RemoteOK",
-      "location": "Temecula, ",
-      "salary": "Competitive",
-      "type": "Full-time",
-      "tags": [
-        "exec"
-      ],
-      "postedAt": "2026-08-10T22:15:08+00:00",
-      "url": "https://remoteOK.com/remote-jobs/remote-fc-lead-cart-com-1136375"
-    },
-    {
-      "id": "remoteok-1136453",
-      "title": "Interdisciplinary",
-      "company": "US Army Corps of Engineers",
-      "platform": "RemoteOK",
-      "location": "Redstone Arsenal, ",
-      "salary": "Competitive",
-      "type": "Full-time",
-      "tags": [
-        "ops"
-      ],
-      "postedAt": "2026-08-10T21:58:31+00:00",
-      "url": "https://remoteOK.com/remote-jobs/remote-interdisciplinary-us-army-corps-of-engineers-1136453"
-    },
-    {
-      "id": "jobicy-147555",
-      "title": "Director, Property & Specialty Product – Personal Lines",
-      "company": "Liberty Mutual",
-      "platform": "Jobicy",
-      "location": "USA",
-      "salary": "Competitive",
-      "type": "Full-Time",
-      "tags": [],
-      "postedAt": "2026-08-10T18:00:14+00:00",
-      "url": "https://jobicy.com/jobs/147555-director-property-specialty-product-personal-lines"
-    },
-    {
-      "id": "jobicy-148712",
-      "title": "Renewals Representative, Account Based, Denmark",
-      "company": "Autodesk",
-      "platform": "Jobicy",
-      "location": "Denmark",
-      "salary": "Competitive",
-      "type": "Full-Time",
-      "tags": [],
-      "postedAt": "2026-08-10T17:35:04+00:00",
-      "url": "https://jobicy.com/jobs/148712-renewals-representative-account-based-denmark"
-    },
-    {
-      "id": "jobicy-148708",
-      "title": "Senior Enterprise Renewal Representative- Enterprise Accounts- Italian Speaker",
-      "company": "Autodesk",
-      "platform": "Jobicy",
-      "location": "Italy",
-      "salary": "Competitive",
-      "type": "Full-Time",
-      "tags": [],
-      "postedAt": "2026-08-10T17:35:03+00:00",
-      "url": "https://jobicy.com/jobs/148708-senior-enterprise-renewal-representative-enterprise-accounts-italian-speaker"
-    },
-    {
-      "id": "jobicy-149052",
-      "title": "Project Manager I, IPCM",
-      "company": "BCD Travel",
-      "platform": "Jobicy",
-      "location": "Europe",
-      "salary": "Competitive",
-      "type": "Full-Time",
-      "tags": [],
-      "postedAt": "2026-08-10T15:45:04+00:00",
-      "url": "https://jobicy.com/jobs/149052-project-manager-i-ipcm"
     }
   ]
 }
