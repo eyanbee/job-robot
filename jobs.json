@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-08-14T11:01:42.203Z",
+  "lastUpdated": "2026-08-14T12:10:51.909Z",
   "jobs": [
     {
       "id": "remoteok-1136568",
@@ -111,52 +111,6 @@
       ],
       "postedAt": "2026-08-11T10:51:23+00:00",
       "url": "https://remoteOK.com/remote-jobs/remote-estimator-cgc-recruitment-1136416"
-    },
-    {
-      "id": "remoteok-1136553",
-      "title": "Handyman",
-      "company": "Compass Group Canada",
-      "platform": "RemoteOK",
-      "location": "Corunna, ",
-      "salary": "Competitive",
-      "type": "Full-time",
-      "tags": [
-        "education",
-        "supervisor",
-        "web dev",
-        "travel",
-        "exec",
-        "sales",
-        "customer support",
-        "recruiter",
-        "marketing",
-        "testing",
-        "technical",
-        "dev",
-        "medical",
-        "digital nomad",
-        "sys admin",
-        "virtual assistant",
-        "finance",
-        "ops",
-        "full time",
-        "part time",
-        "music",
-        "payroll",
-        "internship",
-        "game dev",
-        "excel",
-        "hr",
-        "speech",
-        "golang",
-        "infosec",
-        "consulting",
-        "ecommerce",
-        "assembly",
-        "engineer"
-      ],
-      "postedAt": "2026-08-11T00:00:00+00:00",
-      "url": "https://remoteOK.com/remote-jobs/remote-handyman-compass-group-canada-1136553"
     },
     {
       "id": "remoteok-1136543",
@@ -320,23 +274,6 @@
       ],
       "postedAt": "2026-08-08T11:00:57+00:00",
       "url": "https://remoteOK.com/remote-jobs/remote-host-hostess-local-public-eatery-garry-st-local-public-eatery-1136513"
-    },
-    {
-      "id": "remotive-2090989",
-      "title": "Assistant Account Payable",
-      "company": "The Obesity Society",
-      "platform": "Remotive",
-      "location": "USA",
-      "salary": "Competitive",
-      "type": "full_time",
-      "tags": [
-        "accounting",
-        "excel",
-        "data entry",
-        "outlook"
-      ],
-      "postedAt": "2026-08-12T06:36:49",
-      "url": "https://remotive.com/remote-jobs/medical/assistant-account-payable-2090989"
     },
     {
       "id": "remotive-1749306",
@@ -1076,6 +1013,20 @@
       ],
       "postedAt": "2026-08-14T00:40:19.000Z",
       "url": "https://www.arbeitnow.co.uk/jobs/companies/zilch/performance-marketing-lead-london-73245"
+    },
+    {
+      "id": "arbeitnow-ai-operating-model-tom-consultant-contract-role-london-68855",
+      "title": "AI Operating Model / TOM Consultant - Contract role",
+      "company": "Project Blackbook",
+      "platform": "Arbeitnow",
+      "location": "London",
+      "salary": "Competitive",
+      "type": "Full-time",
+      "tags": [
+        "Business Consulting"
+      ],
+      "postedAt": "2026-08-14T10:30:35.000Z",
+      "url": "https://www.arbeitnow.co.uk/jobs/companies/project-blackbook/ai-operating-model-tom-consultant-contract-role-london-68855"
     },
     {
       "id": "arbeitnow-director-sales-emea-273383",
@@ -2166,20 +2117,6 @@
       "url": "https://www.arbeitnow.co.uk/jobs/companies/zilch/fpa-manager-london-433382"
     },
     {
-      "id": "arbeitnow-engineering-manager-ii-london-57649",
-      "title": "Engineering Manager II",
-      "company": "Zilch",
-      "platform": "Arbeitnow",
-      "location": "Zilch UK",
-      "salary": "Competitive",
-      "type": "Full-time",
-      "tags": [
-        "Engineering"
-      ],
-      "postedAt": "2026-08-14T00:40:19.000Z",
-      "url": "https://www.arbeitnow.co.uk/jobs/companies/zilch/engineering-manager-ii-london-57649"
-    },
-    {
       "id": "jobicy-147123",
       "title": "Customer Success Advisor -ASEAN",
       "company": "Autodesk",
@@ -2478,6 +2415,30 @@
       "tags": [],
       "postedAt": "2026-08-13T09:40:03+00:00",
       "url": "https://jobicy.com/jobs/146021-group-financial-controller"
+    },
+    {
+      "id": "jobicy-146028",
+      "title": "Entry-level communications specialist",
+      "company": "Canonical Ltd.",
+      "platform": "Jobicy",
+      "location": "EMEA",
+      "salary": "Competitive",
+      "type": "Full-Time",
+      "tags": [],
+      "postedAt": "2026-08-13T09:35:07+00:00",
+      "url": "https://jobicy.com/jobs/146028-entry-level-communications-specialist"
+    },
+    {
+      "id": "jobicy-146029",
+      "title": "Sales Enablement Professional",
+      "company": "Canonical Ltd.",
+      "platform": "Jobicy",
+      "location": "EMEA",
+      "salary": "Competitive",
+      "type": "Full-Time",
+      "tags": [],
+      "postedAt": "2026-08-13T09:35:04+00:00",
+      "url": "https://jobicy.com/jobs/146029-sales-enablement-professional"
     }
   ]
 }
