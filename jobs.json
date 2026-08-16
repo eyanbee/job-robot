@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-08-16T23:25:59.279Z",
+  "lastUpdated": "2026-08-16T23:48:07.505Z",
   "jobs": [
     {
       "id": "remoteok-1136810",
@@ -1672,6 +1672,34 @@
       "url": "https://www.arbeitnow.co.uk/jobs/companies/quantum/graduate-paid-media-analyst-london-168571"
     },
     {
+      "id": "arbeitnow-sales-director-229874",
+      "title": "Sales Director",
+      "company": "Scaleops",
+      "platform": "Arbeitnow",
+      "location": "Remote",
+      "salary": "Competitive",
+      "type": "Full-time",
+      "tags": [
+        "Sales"
+      ],
+      "postedAt": "2026-08-16T22:15:08.000Z",
+      "url": "https://www.arbeitnow.co.uk/jobs/companies/scaleops/sales-director-229874"
+    },
+    {
+      "id": "arbeitnow-account-executive-uk-311126",
+      "title": "Account Executive - UK",
+      "company": "Scaleops",
+      "platform": "Arbeitnow",
+      "location": "Remote",
+      "salary": "Competitive",
+      "type": "Full-time",
+      "tags": [
+        "Sales"
+      ],
+      "postedAt": "2026-08-16T22:15:08.000Z",
+      "url": "https://www.arbeitnow.co.uk/jobs/companies/scaleops/account-executive-uk-311126"
+    },
+    {
       "id": "arbeitnow-supplier-quality-assurance-technologist-thg-nutrition-manchester-355690",
       "title": "Supplier Quality Assurance Technologist - THG Nutrition",
       "company": "Thehutgroup",
@@ -2806,48 +2834,6 @@
       "url": "https://www.arbeitnow.co.uk/jobs/companies/isomorphiclabs/data-scientist-drug-discovery-london-174952"
     },
     {
-      "id": "arbeitnow-head-of-privacy-london-485726",
-      "title": "Head of Privacy",
-      "company": "Perk",
-      "platform": "Arbeitnow",
-      "location": "London",
-      "salary": "Competitive",
-      "type": "Full-time",
-      "tags": [
-        "Legal"
-      ],
-      "postedAt": "2026-08-15T21:40:16.000Z",
-      "url": "https://www.arbeitnow.co.uk/jobs/companies/perk/head-of-privacy-london-485726"
-    },
-    {
-      "id": "arbeitnow-live-lesson-moderator-maths-united-kingdom-367722",
-      "title": "Live Lesson Moderator - Maths",
-      "company": "MyEdSpace",
-      "platform": "Arbeitnow",
-      "location": "United Kingdom",
-      "salary": "Competitive",
-      "type": "Full-time",
-      "tags": [
-        "Education"
-      ],
-      "postedAt": "2026-08-15T21:40:10.000Z",
-      "url": "https://www.arbeitnow.co.uk/jobs/companies/myedspace/live-lesson-moderator-maths-united-kingdom-367722"
-    },
-    {
-      "id": "arbeitnow-live-lesson-moderator-biology-united-kingdom-451139",
-      "title": "Live Lesson Moderator - Biology",
-      "company": "MyEdSpace",
-      "platform": "Arbeitnow",
-      "location": "United Kingdom",
-      "salary": "Competitive",
-      "type": "Full-time",
-      "tags": [
-        "Education"
-      ],
-      "postedAt": "2026-08-15T21:40:10.000Z",
-      "url": "https://www.arbeitnow.co.uk/jobs/companies/myedspace/live-lesson-moderator-biology-united-kingdom-451139"
-    },
-    {
       "id": "jobicy-149694",
       "title": "Director, Marketing - Mexico",
       "company": "Samsara",
@@ -2858,6 +2844,18 @@
       "tags": [],
       "postedAt": "2026-08-15T20:30:03+00:00",
       "url": "https://jobicy.com/jobs/149694-director-marketing-mexico"
+    },
+    {
+      "id": "jobicy-150821",
+      "title": "Associate (CPA/SMMM)",
+      "company": "Manay CPA Inc.",
+      "platform": "Jobicy",
+      "location": "Türkiye",
+      "salary": "Competitive",
+      "type": "Full-Time",
+      "tags": [],
+      "postedAt": "2026-08-15T16:20:22+00:00",
+      "url": "https://jobicy.com/jobs/150821-associate-cpa-smmm"
     }
   ]
 }
