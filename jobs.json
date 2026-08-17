@@ -1,6 +1,36 @@
 {
-  "lastUpdated": "2026-08-17T07:33:54.154Z",
+  "lastUpdated": "2026-08-17T08:51:43.174Z",
   "jobs": [
+    {
+      "id": "remoteok-1136808",
+      "title": "Executive Assistant",
+      "company": "Numeris",
+      "platform": "RemoteOK",
+      "location": "North York, Ontario",
+      "salary": "Competitive",
+      "type": "Full-time",
+      "tags": [
+        "virtual assistant",
+        "hr",
+        "sys admin",
+        "education",
+        "game dev",
+        "customer support",
+        "marketing",
+        "travel",
+        "finance",
+        "c",
+        "exec",
+        "content writing",
+        "senior",
+        "ops",
+        "excel",
+        "legal",
+        "medical"
+      ],
+      "postedAt": "2026-08-16T08:00:03+00:00",
+      "url": "https://remoteOK.com/remote-jobs/remote-executive-assistant-numeris-1136808"
+    },
     {
       "id": "remoteok-1136810",
       "title": "Maintenance Planner",
@@ -731,55 +761,6 @@
       ],
       "postedAt": "2026-08-11T10:39:22+00:00",
       "url": "https://remoteOK.com/remote-jobs/remote-electrician-eto-msc-cruises-1136753"
-    },
-    {
-      "id": "remoteok-1136723",
-      "title": "1st Class Machinist",
-      "company": "BAE Systems Australia",
-      "platform": "RemoteOK",
-      "location": "Edinburgh, ",
-      "salary": "Competitive",
-      "type": "Full-time",
-      "tags": [
-        "architecture",
-        "medical",
-        "exec",
-        "education",
-        "customer support",
-        "marketing",
-        "virtual assistant",
-        "ops",
-        "sales",
-        "infosec",
-        "travel",
-        "finance",
-        "recruiter",
-        "design",
-        "python",
-        "vfx",
-        "technical",
-        "supervisor",
-        "c",
-        "c plus plus",
-        "senior",
-        "digital nomad",
-        "legal",
-        "payroll",
-        "admin",
-        "scheme",
-        "full time",
-        "dev",
-        "english teacher",
-        "teaching",
-        "hr",
-        "music",
-        "junior",
-        "sys admin",
-        "golang",
-        "engineer"
-      ],
-      "postedAt": "2026-08-11T03:53:54+00:00",
-      "url": "https://remoteOK.com/remote-jobs/remote-1st-class-machinist-bae-systems-australia-1136723"
     },
     {
       "id": "jobicy-150782",
@@ -1550,6 +1531,18 @@
       "url": "https://www.arbeitnow.co.uk/jobs/companies/comind/principal-talent-acquisition-london-172705"
     },
     {
+      "id": "jobicy-149368",
+      "title": "Growth Manager (Conversion Rate Optimization)",
+      "company": "Ruby Labs",
+      "platform": "Jobicy",
+      "location": "Europe",
+      "salary": "Competitive",
+      "type": "Full-Time",
+      "tags": [],
+      "postedAt": "2026-08-17T05:30:07+00:00",
+      "url": "https://jobicy.com/jobs/149368-growth-manager-conversion-rate-optimization"
+    },
+    {
       "id": "arbeitnow-product-manager-customer-onboarding-experience-munich-3938",
       "title": "Product Manager: Customer Onboarding Experience",
       "company": "Constructor",
@@ -1578,6 +1571,20 @@
       "url": "https://www.arbeitnow.co.uk/jobs/companies/quantum/graduate-paid-media-analyst-london-168571"
     },
     {
+      "id": "arbeitnow-field-cto-england-221599",
+      "title": "Field CTO",
+      "company": "Docker",
+      "platform": "Arbeitnow",
+      "location": "England",
+      "salary": "Competitive",
+      "type": "Full-time",
+      "tags": [
+        "Sales"
+      ],
+      "postedAt": "2026-08-17T06:40:08.000Z",
+      "url": "https://www.arbeitnow.co.uk/jobs/companies/docker/field-cto-england-221599"
+    },
+    {
       "id": "arbeitnow-remote-enterprise-business-development-83817",
       "title": "Enterprise Business Development",
       "company": "0G",
@@ -1590,6 +1597,174 @@
       ],
       "postedAt": "2026-08-17T05:40:20.000Z",
       "url": "https://www.arbeitnow.com/jobs/companies/0g/remote-enterprise-business-development-83817"
+    },
+    {
+      "id": "jobicy-146611",
+      "title": "Manager, Applications - ADF/ETL/AI",
+      "company": "Molina Healthcare",
+      "platform": "Jobicy",
+      "location": "USA",
+      "salary": "Competitive",
+      "type": "Full-Time",
+      "tags": [],
+      "postedAt": "2026-08-17T05:40:10+00:00",
+      "url": "https://jobicy.com/jobs/146611-manager-applications-adf-etl-ai"
+    },
+    {
+      "id": "jobicy-146614",
+      "title": "Database Engineer",
+      "company": "Ruby Labs",
+      "platform": "Jobicy",
+      "location": "Europe,  Türkiye",
+      "salary": "Competitive",
+      "type": "Full-Time",
+      "tags": [],
+      "postedAt": "2026-08-17T05:40:07+00:00",
+      "url": "https://jobicy.com/jobs/146614-database-engineer"
+    },
+    {
+      "id": "jobicy-149391",
+      "title": "Sales Engineer II",
+      "company": "Spectrio",
+      "platform": "Jobicy",
+      "location": "USA",
+      "salary": "Competitive",
+      "type": "Full-Time",
+      "tags": [],
+      "postedAt": "2026-08-17T05:35:08+00:00",
+      "url": "https://jobicy.com/jobs/149391-sales-engineer-ii"
+    },
+    {
+      "id": "jobicy-149364",
+      "title": "Senior Payroll Implementation Specialist - NL & Belgium",
+      "company": "Remote",
+      "platform": "Jobicy",
+      "location": "Europe",
+      "salary": "Competitive",
+      "type": "Full-Time",
+      "tags": [],
+      "postedAt": "2026-08-17T05:35:06+00:00",
+      "url": "https://jobicy.com/jobs/149364-senior-payroll-implementation-specialist-nl-belgium"
+    },
+    {
+      "id": "jobicy-146618",
+      "title": "Travel Consultant (GDS Sabre)",
+      "company": "BCD Travel",
+      "platform": "Jobicy",
+      "location": "Poland,  Spain",
+      "salary": "Competitive",
+      "type": "Full-Time",
+      "tags": [],
+      "postedAt": "2026-08-17T05:35:05+00:00",
+      "url": "https://jobicy.com/jobs/146618-travel-consultant-gds-sabre"
+    },
+    {
+      "id": "jobicy-149362",
+      "title": "Vulnerability Operation Center Lead",
+      "company": "Nebius",
+      "platform": "Jobicy",
+      "location": "Europe",
+      "salary": "Competitive",
+      "type": "Full-Time",
+      "tags": [],
+      "postedAt": "2026-08-17T05:35:04+00:00",
+      "url": "https://jobicy.com/jobs/149362-vulnerability-operation-center-lead"
+    },
+    {
+      "id": "jobicy-149361",
+      "title": "Senior Technical Product Manager, Token Factory",
+      "company": "Nebius",
+      "platform": "Jobicy",
+      "location": "Europe,  Netherlands,  UK",
+      "salary": "Competitive",
+      "type": "Full-Time",
+      "tags": [],
+      "postedAt": "2026-08-17T05:35:02+00:00",
+      "url": "https://jobicy.com/jobs/149361-senior-technical-product-manager-token-factory"
+    },
+    {
+      "id": "jobicy-149365",
+      "title": "Offensive Security Lead",
+      "company": "Nebius",
+      "platform": "Jobicy",
+      "location": "Europe",
+      "salary": "Competitive",
+      "type": "Full-Time",
+      "tags": [],
+      "postedAt": "2026-08-17T05:30:04+00:00",
+      "url": "https://jobicy.com/jobs/149365-offensive-security-lead"
+    },
+    {
+      "id": "jobicy-149377",
+      "title": "Sales Director - Healthcare",
+      "company": "Sierra",
+      "platform": "Jobicy",
+      "location": "Canada",
+      "salary": "Competitive",
+      "type": "Full-Time",
+      "tags": [],
+      "postedAt": "2026-08-17T05:25:07+00:00",
+      "url": "https://jobicy.com/jobs/149377-sales-director-healthcare"
+    },
+    {
+      "id": "jobicy-149376",
+      "title": "Sales Director - Retail",
+      "company": "Sierra",
+      "platform": "Jobicy",
+      "location": "Canada",
+      "salary": "Competitive",
+      "type": "Full-Time",
+      "tags": [],
+      "postedAt": "2026-08-17T05:25:04+00:00",
+      "url": "https://jobicy.com/jobs/149376-sales-director-retail"
+    },
+    {
+      "id": "jobicy-149375",
+      "title": "Senior Principal, Sales Compensation Design & Strategy",
+      "company": "Cloudflare, Inc.",
+      "platform": "Jobicy",
+      "location": "USA",
+      "salary": "Competitive",
+      "type": "Full-Time",
+      "tags": [],
+      "postedAt": "2026-08-17T05:25:03+00:00",
+      "url": "https://jobicy.com/jobs/149375-senior-principal-sales-compensation-design-strategy"
+    },
+    {
+      "id": "jobicy-149390",
+      "title": "Sales Development Representative - Bilingual Spanish and Italian (UK Remote)",
+      "company": "Turnitin, LLC",
+      "platform": "Jobicy",
+      "location": "UK",
+      "salary": "Competitive",
+      "type": "Full-Time",
+      "tags": [],
+      "postedAt": "2026-08-17T05:20:07+00:00",
+      "url": "https://jobicy.com/jobs/149390-sales-development-representative-bilingual-spanish-and-italian-uk-remote"
+    },
+    {
+      "id": "jobicy-149387",
+      "title": "Ecosystem Sales Manager, Carahsoft (Washington DC)",
+      "company": "GitLab",
+      "platform": "Jobicy",
+      "location": "USA",
+      "salary": "Competitive",
+      "type": "Full-Time",
+      "tags": [],
+      "postedAt": "2026-08-17T05:20:06+00:00",
+      "url": "https://jobicy.com/jobs/149387-ecosystem-sales-manager-carahsoft-washington-dc"
+    },
+    {
+      "id": "jobicy-149389",
+      "title": "Sales Development Representative - API/CPaaS (NwPS)",
+      "company": "Vonage",
+      "platform": "Jobicy",
+      "location": "Mexico,  USA",
+      "salary": "Competitive",
+      "type": "Full-Time",
+      "tags": [],
+      "postedAt": "2026-08-17T05:20:05+00:00",
+      "url": "https://jobicy.com/jobs/149389-sales-development-representative-api-cpaas-nwps"
     },
     {
       "id": "arbeitnow-solution-architect-emea-257769",
@@ -2610,210 +2785,6 @@
       ],
       "postedAt": "2026-08-16T06:40:11.000Z",
       "url": "https://www.arbeitnow.co.uk/jobs/companies/iwoca/business-development-representative-insurance-venture-london-86533"
-    },
-    {
-      "id": "arbeitnow-senior-enterprise-customer-success-manager-london-6806",
-      "title": "Senior Enterprise Customer Success Manager",
-      "company": "Pleo",
-      "platform": "Arbeitnow",
-      "location": "London",
-      "salary": "Competitive",
-      "type": "Full-time",
-      "tags": [
-        "Customer Experience"
-      ],
-      "postedAt": "2026-08-16T06:40:06.000Z",
-      "url": "https://www.arbeitnow.co.uk/jobs/companies/pleo/senior-enterprise-customer-success-manager-london-6806"
-    },
-    {
-      "id": "arbeitnow-senior-application-security-manager-united-kingdom-356151",
-      "title": "Senior Application Security Manager",
-      "company": "Pleo",
-      "platform": "Arbeitnow",
-      "location": "United Kingdom",
-      "salary": "Competitive",
-      "type": "Full-time",
-      "tags": [
-        "Engineering"
-      ],
-      "postedAt": "2026-08-16T06:40:06.000Z",
-      "url": "https://www.arbeitnow.co.uk/jobs/companies/pleo/senior-application-security-manager-united-kingdom-356151"
-    },
-    {
-      "id": "arbeitnow-senior-application-security-manager-london-273782",
-      "title": "Senior Application Security Manager",
-      "company": "Pleo",
-      "platform": "Arbeitnow",
-      "location": "London",
-      "salary": "Competitive",
-      "type": "Full-time",
-      "tags": [
-        "Engineering"
-      ],
-      "postedAt": "2026-08-16T06:40:06.000Z",
-      "url": "https://www.arbeitnow.co.uk/jobs/companies/pleo/senior-application-security-manager-london-273782"
-    },
-    {
-      "id": "jobicy-150835",
-      "title": "Enterprise Account Executive",
-      "company": "Submittable",
-      "platform": "Jobicy",
-      "location": "USA",
-      "salary": "Competitive",
-      "type": "Full-Time",
-      "tags": [],
-      "postedAt": "2026-08-16T03:41:10+00:00",
-      "url": "https://jobicy.com/jobs/150835-enterprise-account-executive-2"
-    },
-    {
-      "id": "jobicy-150834",
-      "title": "Senior Application Security Engineer",
-      "company": "Consensys",
-      "platform": "Jobicy",
-      "location": "EMEA,  USA",
-      "salary": "Competitive",
-      "type": "Full-Time",
-      "tags": [],
-      "postedAt": "2026-08-16T03:41:08+00:00",
-      "url": "https://jobicy.com/jobs/150834-senior-application-security-engineer"
-    },
-    {
-      "id": "jobicy-150833",
-      "title": "Category Manager - Health & Wellness, Lifestyle",
-      "company": "Gopuff",
-      "platform": "Jobicy",
-      "location": "USA",
-      "salary": "Competitive",
-      "type": "Full-Time",
-      "tags": [],
-      "postedAt": "2026-08-16T03:41:06+00:00",
-      "url": "https://jobicy.com/jobs/150833-category-manager-health-wellness-lifestyle"
-    },
-    {
-      "id": "jobicy-150832",
-      "title": "Chief Technology Officer",
-      "company": "Submittable",
-      "platform": "Jobicy",
-      "location": "USA",
-      "salary": "Competitive",
-      "type": "Full-Time",
-      "tags": [],
-      "postedAt": "2026-08-16T03:41:04+00:00",
-      "url": "https://jobicy.com/jobs/150832-chief-technology-officer"
-    },
-    {
-      "id": "arbeitnow-senior-product-manager-london-395973",
-      "title": "Senior Product Manager",
-      "company": "Trainline",
-      "platform": "Arbeitnow",
-      "location": "London",
-      "salary": "Competitive",
-      "type": "Full-time",
-      "tags": [
-        "Product"
-      ],
-      "postedAt": "2026-08-16T03:40:23.000Z",
-      "url": "https://www.arbeitnow.co.uk/jobs/companies/trainline/senior-product-manager-london-395973"
-    },
-    {
-      "id": "arbeitnow-physician-clinical-ai-expert-remote-united-kingdom-397847",
-      "title": "Physician - Clinical AI Expert (Remote)",
-      "company": "Aptura",
-      "platform": "Arbeitnow",
-      "location": "United Kingdom",
-      "salary": "Competitive",
-      "type": "Full-time",
-      "tags": [
-        "Healthcare"
-      ],
-      "postedAt": "2026-08-16T03:40:17.000Z",
-      "url": "https://www.arbeitnow.co.uk/jobs/companies/aptura/physician-clinical-ai-expert-remote-united-kingdom-397847"
-    },
-    {
-      "id": "arbeitnow-sports-trader-united-kingdom-219520",
-      "title": "Sports Trader",
-      "company": "Midnite",
-      "platform": "Arbeitnow",
-      "location": "United Kingdom",
-      "salary": "Competitive",
-      "type": "Full-time",
-      "tags": [
-        "Trading"
-      ],
-      "postedAt": "2026-08-16T03:40:16.000Z",
-      "url": "https://www.arbeitnow.co.uk/jobs/companies/midnite/sports-trader-united-kingdom-219520"
-    },
-    {
-      "id": "jobicy-146254",
-      "title": "Atlassian Administrator 1726",
-      "company": "Softgic",
-      "platform": "Jobicy",
-      "location": "Anywhere",
-      "salary": "Competitive",
-      "type": "Full-Time",
-      "tags": [],
-      "postedAt": "2026-08-16T03:15:08+00:00",
-      "url": "https://jobicy.com/jobs/146254-atlassian-administrator-1726"
-    },
-    {
-      "id": "jobicy-146303",
-      "title": "Change Management Consultant",
-      "company": "NTT DATA",
-      "platform": "Jobicy",
-      "location": "LATAM",
-      "salary": "Competitive",
-      "type": "Full-Time",
-      "tags": [],
-      "postedAt": "2026-08-16T03:15:06+00:00",
-      "url": "https://jobicy.com/jobs/146303-change-management-consultant"
-    },
-    {
-      "id": "jobicy-146279",
-      "title": "Lifecycle Specialist, Employee Relations & Transitions - LATAM",
-      "company": "Remote",
-      "platform": "Jobicy",
-      "location": "LATAM",
-      "salary": "Competitive",
-      "type": "Full-Time",
-      "tags": [],
-      "postedAt": "2026-08-16T03:15:05+00:00",
-      "url": "https://jobicy.com/jobs/146279-lifecycle-specialist-employee-relations-transitions-latam"
-    },
-    {
-      "id": "jobicy-146500",
-      "title": "Product Manager, Fraud and Compliance",
-      "company": "Remote",
-      "platform": "Jobicy",
-      "location": "EMEA",
-      "salary": "Competitive",
-      "type": "Full-Time",
-      "tags": [],
-      "postedAt": "2026-08-16T03:10:08+00:00",
-      "url": "https://jobicy.com/jobs/146500-product-manager-fraud-and-compliance"
-    },
-    {
-      "id": "jobicy-146434",
-      "title": "AI Vendor Market Expert (Senior Director, Analyst – Fully Remote United States)",
-      "company": "Gartner",
-      "platform": "Jobicy",
-      "location": "USA",
-      "salary": "Competitive",
-      "type": "Full-Time",
-      "tags": [],
-      "postedAt": "2026-08-16T03:10:07+00:00",
-      "url": "https://jobicy.com/jobs/146434-ai-vendor-market-expert-senior-director-analyst-fully-remote-united-states"
-    },
-    {
-      "id": "jobicy-146426",
-      "title": "Principal, Strategic Data Center Partnerships",
-      "company": "Meta",
-      "platform": "Jobicy",
-      "location": "USA",
-      "salary": "Competitive",
-      "type": "Full-Time",
-      "tags": [],
-      "postedAt": "2026-08-16T03:10:04+00:00",
-      "url": "https://jobicy.com/jobs/146426-principal-strategic-data-center-partnerships"
     }
   ]
 }
