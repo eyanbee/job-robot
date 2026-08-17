@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-08-17T15:31:03.123Z",
+  "lastUpdated": "2026-08-17T16:34:33.756Z",
   "jobs": [
     {
       "id": "remoteok-1136808",
@@ -720,18 +720,6 @@
       "url": "https://remoteOK.com/remote-jobs/remote-estimator-cgc-recruitment-1136416"
     },
     {
-      "id": "jobicy-150782",
-      "title": "Executive Communications and Content Manager",
-      "company": "Chainguard",
-      "platform": "Jobicy",
-      "location": "USA",
-      "salary": "Competitive",
-      "type": "Full-Time",
-      "tags": [],
-      "postedAt": "2026-08-15T14:31:11+00:00",
-      "url": "https://jobicy.com/jobs/150782-executive-communications-and-content-manager"
-    },
-    {
       "id": "remoteok-1136826",
       "title": "Store Manager White House Black Market",
       "company": "Chico's FAS, Inc.",
@@ -1049,6 +1037,18 @@
       ],
       "postedAt": "2026-08-11T20:18:02",
       "url": "https://remotive.com/remote-jobs/marketing/remote-office-assistant-1680495"
+    },
+    {
+      "id": "jobicy-150915",
+      "title": "Graphic Designer",
+      "company": "Instructure",
+      "platform": "Jobicy",
+      "location": "Philippines",
+      "salary": "Competitive",
+      "type": "Full-Time",
+      "tags": [],
+      "postedAt": "2026-08-17T13:04:20+00:00",
+      "url": "https://jobicy.com/jobs/150915-graphic-designer"
     },
     {
       "id": "jobicy-146330",
@@ -1500,6 +1500,30 @@
       "url": "https://remotive.com/remote-jobs/marketing/head-of-marketing-communications-2091068"
     },
     {
+      "id": "jobicy-150908",
+      "title": "Sr. Revenue Operations Manager",
+      "company": "Instructure",
+      "platform": "Jobicy",
+      "location": "UK",
+      "salary": "Competitive",
+      "type": "Full-Time",
+      "tags": [],
+      "postedAt": "2026-08-17T13:04:04+00:00",
+      "url": "https://jobicy.com/jobs/150908-sr-revenue-operations-manager"
+    },
+    {
+      "id": "jobicy-150900",
+      "title": "Principal Business Operations Manager - Remote (USA)",
+      "company": "Instructure",
+      "platform": "Jobicy",
+      "location": "USA",
+      "salary": "Competitive",
+      "type": "Full-Time",
+      "tags": [],
+      "postedAt": "2026-08-17T13:03:44+00:00",
+      "url": "https://jobicy.com/jobs/150900-principal-business-operations-manager-remote-usa"
+    },
+    {
       "id": "jobicy-149368",
       "title": "Growth Manager (Conversion Rate Optimization)",
       "company": "Ruby Labs",
@@ -1510,6 +1534,88 @@
       "tags": [],
       "postedAt": "2026-08-17T05:30:07+00:00",
       "url": "https://jobicy.com/jobs/149368-growth-manager-conversion-rate-optimization"
+    },
+    {
+      "id": "arbeitnow-senior-solutions-engineer-new-business-71624",
+      "title": "Senior Solutions Engineer, New Business",
+      "company": "Redwoodsoftware",
+      "platform": "Arbeitnow",
+      "location": "Remote",
+      "salary": "Competitive",
+      "type": "Full-time",
+      "tags": [
+        "Sales"
+      ],
+      "postedAt": "2026-08-17T14:55:08.000Z",
+      "url": "https://www.arbeitnow.com/jobs/companies/redwoodsoftware/senior-solutions-engineer-new-business-71624"
+    },
+    {
+      "id": "arbeitnow-associate-contractor-fire-health-and-safety-consultant-birmingham-279463",
+      "title": "Associate/Contractor - Fire, Health and Safety Consultant",
+      "company": "Ark Workplace Risk ",
+      "platform": "Arbeitnow",
+      "location": "Birmingham, England, United Kingdom",
+      "salary": "Competitive",
+      "type": "Full-time",
+      "tags": [],
+      "postedAt": "2026-08-17T14:45:25.000Z",
+      "url": "https://www.arbeitnow.co.uk/jobs/companies/ark-workplace-risk/associate-contractor-fire-health-and-safety-consultant-birmingham-279463"
+    },
+    {
+      "id": "arbeitnow-associate-contractor-fire-health-and-safety-consultant-london-2020",
+      "title": "Associate/Contractor - Fire, Health and Safety Consultant",
+      "company": "Helix International Group",
+      "platform": "Arbeitnow",
+      "location": "London, England, United Kingdom",
+      "salary": "Competitive",
+      "type": "Full-time",
+      "tags": [],
+      "postedAt": "2026-08-17T14:45:25.000Z",
+      "url": "https://www.arbeitnow.co.uk/jobs/companies/helix-international-group/associate-contractor-fire-health-and-safety-consultant-london-2020"
+    },
+    {
+      "id": "arbeitnow-graduate-sales-executive-at-united-media-london-286021",
+      "title": "Graduate Sales Executive at United Media",
+      "company": "United Media",
+      "platform": "Arbeitnow",
+      "location": "London, England, United Kingdom",
+      "salary": "Competitive",
+      "type": "Full-time",
+      "tags": [],
+      "postedAt": "2026-08-17T14:45:25.000Z",
+      "url": "https://www.arbeitnow.co.uk/jobs/companies/united-media/graduate-sales-executive-at-united-media-london-286021"
+    },
+    {
+      "id": "arbeitnow-senior-project-manager-post-merger-integration-bremen-43076",
+      "title": "(Senior) Project Manager Post Merger Integration [m/w/d]",
+      "company": "GBC Group",
+      "platform": "Arbeitnow",
+      "location": "Bremen",
+      "salary": "Competitive",
+      "type": "Full-time",
+      "tags": [
+        "Post Merger",
+        "Post Merger Integration",
+        "Projektmanagement",
+        "Prozessmanagement",
+        "Management Consulting"
+      ],
+      "postedAt": "2026-08-17T14:30:19.000Z",
+      "url": "https://www.arbeitnow.com/jobs/companies/gbc-group/senior-project-manager-post-merger-integration-bremen-43076"
+    },
+    {
+      "id": "arbeitnow-remote-senior-product-manager-berlin-144784",
+      "title": "Senior Product Manager",
+      "company": "Nucs AI",
+      "platform": "Arbeitnow",
+      "location": "Remote job",
+      "salary": "Competitive",
+      "type": "Full-time",
+      "tags": [
+        "Remote"
+      ],
+      "postedAt": "2026-08-17T14:30:19.000Z",
+      "url": "https://www.arbeitnow.com/jobs/companies/nucs-ai/remote-senior-product-manager-berlin-144784"
     },
     {
       "id": "arbeitnow-senior-fullstack-entwickler-alle-geschlechter-fulda-407232",
@@ -1525,6 +1631,234 @@
       ],
       "postedAt": "2026-08-17T14:01:15.000Z",
       "url": "https://www.arbeitnow.com/jobs/companies/it-novum/senior-fullstack-entwickler-alle-geschlechter-fulda-407232"
+    },
+    {
+      "id": "jobicy-150914",
+      "title": "Director, AI Center of Excellence",
+      "company": "Instructure",
+      "platform": "Jobicy",
+      "location": "USA",
+      "salary": "Competitive",
+      "type": "Full-Time",
+      "tags": [],
+      "postedAt": "2026-08-17T13:04:17+00:00",
+      "url": "https://jobicy.com/jobs/150914-director-ai-center-of-excellence"
+    },
+    {
+      "id": "jobicy-150913",
+      "title": "Sr. Manager, Product Marketing (Fintech)",
+      "company": "Jobber",
+      "platform": "Jobicy",
+      "location": "Canada",
+      "salary": "Competitive",
+      "type": "Full-Time",
+      "tags": [],
+      "postedAt": "2026-08-17T13:04:15+00:00",
+      "url": "https://jobicy.com/jobs/150913-sr-manager-product-marketing-fintech"
+    },
+    {
+      "id": "jobicy-150912",
+      "title": "International Accountant",
+      "company": "Instructure",
+      "platform": "Jobicy",
+      "location": "Philippines",
+      "salary": "Competitive",
+      "type": "Full-Time",
+      "tags": [],
+      "postedAt": "2026-08-17T13:04:13+00:00",
+      "url": "https://jobicy.com/jobs/150912-international-accountant"
+    },
+    {
+      "id": "jobicy-150911",
+      "title": "Decision Scientist",
+      "company": "Instructure",
+      "platform": "Jobicy",
+      "location": "Mexico",
+      "salary": "Competitive",
+      "type": "Full-Time",
+      "tags": [],
+      "postedAt": "2026-08-17T13:04:11+00:00",
+      "url": "https://jobicy.com/jobs/150911-decision-scientist"
+    },
+    {
+      "id": "jobicy-150910",
+      "title": "Payments GTM (Go-to-Market) Operations and Strategy Lead",
+      "company": "Jobber",
+      "platform": "Jobicy",
+      "location": "Canada",
+      "salary": "Competitive",
+      "type": "Full-Time",
+      "tags": [],
+      "postedAt": "2026-08-17T13:04:09+00:00",
+      "url": "https://jobicy.com/jobs/150910-payments-gtm-go-to-market-operations-and-strategy-lead"
+    },
+    {
+      "id": "jobicy-150909",
+      "title": "Senior Decision Scientist",
+      "company": "Instructure",
+      "platform": "Jobicy",
+      "location": "Mexico",
+      "salary": "Competitive",
+      "type": "Full-Time",
+      "tags": [],
+      "postedAt": "2026-08-17T13:04:07+00:00",
+      "url": "https://jobicy.com/jobs/150909-senior-decision-scientist"
+    },
+    {
+      "id": "jobicy-150906",
+      "title": "Manager Marketing, Customer Marketing NORAM K-12",
+      "company": "Instructure",
+      "platform": "Jobicy",
+      "location": "USA",
+      "salary": "Competitive",
+      "type": "Full-Time",
+      "tags": [],
+      "postedAt": "2026-08-17T13:03:57+00:00",
+      "url": "https://jobicy.com/jobs/150906-manager-marketing-customer-marketing-noram-k-12"
+    },
+    {
+      "id": "jobicy-150899",
+      "title": "Principal Product Manager, Accounts & Automation",
+      "company": "PolicyMe",
+      "platform": "Jobicy",
+      "location": "Canada",
+      "salary": "Competitive",
+      "type": "Full-Time",
+      "tags": [],
+      "postedAt": "2026-08-17T13:03:42+00:00",
+      "url": "https://jobicy.com/jobs/150899-principal-product-manager-accounts-automation"
+    },
+    {
+      "id": "jobicy-150898",
+      "title": "Product Specialist: Platform",
+      "company": "Instructure",
+      "platform": "Jobicy",
+      "location": "USA",
+      "salary": "Competitive",
+      "type": "Full-Time",
+      "tags": [],
+      "postedAt": "2026-08-17T13:03:40+00:00",
+      "url": "https://jobicy.com/jobs/150898-product-specialist-platform"
+    },
+    {
+      "id": "jobicy-150897",
+      "title": "Senior Product Engineer (Typescirpt)",
+      "company": "Playbook",
+      "platform": "Jobicy",
+      "location": "Europe",
+      "salary": "Competitive",
+      "type": "Full-Time",
+      "tags": [],
+      "postedAt": "2026-08-17T13:03:38+00:00",
+      "url": "https://jobicy.com/jobs/150897-senior-product-engineer-typescirpt"
+    },
+    {
+      "id": "jobicy-150895",
+      "title": "Senior iOS Engineer",
+      "company": "Playbook",
+      "platform": "Jobicy",
+      "location": "Europe",
+      "salary": "Competitive",
+      "type": "Contract",
+      "tags": [],
+      "postedAt": "2026-08-17T13:03:33+00:00",
+      "url": "https://jobicy.com/jobs/150895-senior-ios-engineer-2"
+    },
+    {
+      "id": "jobicy-150893",
+      "title": "Assessment Item Writer/Editor (CONTRACT)",
+      "company": "Instructure",
+      "platform": "Jobicy",
+      "location": "USA",
+      "salary": "Competitive",
+      "type": "Contract",
+      "tags": [],
+      "postedAt": "2026-08-17T13:03:29+00:00",
+      "url": "https://jobicy.com/jobs/150893-assessment-item-writer-editor-contract"
+    },
+    {
+      "id": "jobicy-150892",
+      "title": "Social Media Lead for Talent",
+      "company": "Playbook",
+      "platform": "Jobicy",
+      "location": "USA",
+      "salary": "Competitive",
+      "type": "Full-Time",
+      "tags": [],
+      "postedAt": "2026-08-17T13:03:27+00:00",
+      "url": "https://jobicy.com/jobs/150892-social-media-lead-for-talent"
+    },
+    {
+      "id": "jobicy-150891",
+      "title": "Growth Marketing Specialist",
+      "company": "PolicyMe",
+      "platform": "Jobicy",
+      "location": "Canada",
+      "salary": "Competitive",
+      "type": "Full-Time",
+      "tags": [],
+      "postedAt": "2026-08-17T13:03:25+00:00",
+      "url": "https://jobicy.com/jobs/150891-growth-marketing-specialist"
+    },
+    {
+      "id": "jobicy-150890",
+      "title": "Sales Lead",
+      "company": "Playbook",
+      "platform": "Jobicy",
+      "location": "USA",
+      "salary": "Competitive",
+      "type": "Full-Time",
+      "tags": [],
+      "postedAt": "2026-08-17T13:03:22+00:00",
+      "url": "https://jobicy.com/jobs/150890-sales-lead"
+    },
+    {
+      "id": "jobicy-150889",
+      "title": "Bilingual Quebec Licensed Insurance Advisor",
+      "company": "PolicyMe",
+      "platform": "Jobicy",
+      "location": "Canada",
+      "salary": "Competitive",
+      "type": "Full-Time",
+      "tags": [],
+      "postedAt": "2026-08-17T13:03:20+00:00",
+      "url": "https://jobicy.com/jobs/150889-bilingual-quebec-licensed-insurance-advisor"
+    },
+    {
+      "id": "jobicy-150888",
+      "title": "Account Executive - Benelux",
+      "company": "Instructure",
+      "platform": "Jobicy",
+      "location": "UK",
+      "salary": "Competitive",
+      "type": "Full-Time",
+      "tags": [],
+      "postedAt": "2026-08-17T13:03:18+00:00",
+      "url": "https://jobicy.com/jobs/150888-account-executive-benelux"
+    },
+    {
+      "id": "jobicy-150887",
+      "title": "Premium Creator Account Manager",
+      "company": "Playbook",
+      "platform": "Jobicy",
+      "location": "USA",
+      "salary": "Competitive",
+      "type": "Full-Time",
+      "tags": [],
+      "postedAt": "2026-08-17T13:03:16+00:00",
+      "url": "https://jobicy.com/jobs/150887-premium-creator-account-manager"
+    },
+    {
+      "id": "jobicy-150886",
+      "title": "Bilingual Licensed Insurance Advisor",
+      "company": "PolicyMe",
+      "platform": "Jobicy",
+      "location": "Canada",
+      "salary": "Competitive",
+      "type": "Full-Time",
+      "tags": [],
+      "postedAt": "2026-08-17T13:03:14+00:00",
+      "url": "https://jobicy.com/jobs/150886-bilingual-licensed-insurance-advisor"
     },
     {
       "id": "arbeitnow-cnc-fraser-polymechaniker-100-region-st-gallen-schweiz-wasserburg-am-bodensee-487937",
@@ -2435,354 +2769,6 @@
       ],
       "postedAt": "2026-08-17T00:55:08.000Z",
       "url": "https://www.arbeitnow.co.uk/jobs/companies/alphafmcroles/senior-manager-financial-advice-wealth-management-retail-investments-london-edinburgh-172005"
-    },
-    {
-      "id": "arbeitnow-senior-field-marketing-manager-london-56387",
-      "title": "Senior Field Marketing Manager",
-      "company": "Collibra",
-      "platform": "Arbeitnow",
-      "location": "London",
-      "salary": "Competitive",
-      "type": "Full-time",
-      "tags": [
-        "Marketing"
-      ],
-      "postedAt": "2026-08-17T00:55:08.000Z",
-      "url": "https://www.arbeitnow.co.uk/jobs/companies/collibra/senior-field-marketing-manager-london-56387"
-    },
-    {
-      "id": "arbeitnow-sales-director-229874",
-      "title": "Sales Director",
-      "company": "Scaleops",
-      "platform": "Arbeitnow",
-      "location": "Remote",
-      "salary": "Competitive",
-      "type": "Full-time",
-      "tags": [
-        "Sales"
-      ],
-      "postedAt": "2026-08-16T22:15:08.000Z",
-      "url": "https://www.arbeitnow.co.uk/jobs/companies/scaleops/sales-director-229874"
-    },
-    {
-      "id": "arbeitnow-account-executive-uk-311126",
-      "title": "Account Executive - UK",
-      "company": "Scaleops",
-      "platform": "Arbeitnow",
-      "location": "Remote",
-      "salary": "Competitive",
-      "type": "Full-time",
-      "tags": [
-        "Sales"
-      ],
-      "postedAt": "2026-08-16T22:15:08.000Z",
-      "url": "https://www.arbeitnow.co.uk/jobs/companies/scaleops/account-executive-uk-311126"
-    },
-    {
-      "id": "arbeitnow-supplier-quality-assurance-technologist-thg-nutrition-manchester-355690",
-      "title": "Supplier Quality Assurance Technologist - THG Nutrition",
-      "company": "Thehutgroup",
-      "platform": "Arbeitnow",
-      "location": "Manchester",
-      "salary": "Competitive",
-      "type": "Full-time",
-      "tags": [
-        "THG Nutrition"
-      ],
-      "postedAt": "2026-08-16T21:56:07.000Z",
-      "url": "https://www.arbeitnow.co.uk/jobs/companies/thehutgroup/supplier-quality-assurance-technologist-thg-nutrition-manchester-355690"
-    },
-    {
-      "id": "arbeitnow-senior-social-executive-lookfantastic-manchester-43885",
-      "title": "Senior Social Executive | Lookfantastic",
-      "company": "Thehutgroup",
-      "platform": "Arbeitnow",
-      "location": "Manchester",
-      "salary": "Competitive",
-      "type": "Full-time",
-      "tags": [
-        "THG Beauty"
-      ],
-      "postedAt": "2026-08-16T21:56:07.000Z",
-      "url": "https://www.arbeitnow.co.uk/jobs/companies/thehutgroup/senior-social-executive-lookfantastic-manchester-43885"
-    },
-    {
-      "id": "arbeitnow-senior-social-executive-lookfantastic-london-223591",
-      "title": "Senior Social Executive | Lookfantastic",
-      "company": "Thehutgroup",
-      "platform": "Arbeitnow",
-      "location": "London",
-      "salary": "Competitive",
-      "type": "Full-time",
-      "tags": [
-        "THG Beauty"
-      ],
-      "postedAt": "2026-08-16T21:56:07.000Z",
-      "url": "https://www.arbeitnow.co.uk/jobs/companies/thehutgroup/senior-social-executive-lookfantastic-london-223591"
-    },
-    {
-      "id": "arbeitnow-senior-manager-internal-audit-manchester-226285",
-      "title": "Senior Manager - Internal Audit",
-      "company": "Thehutgroup",
-      "platform": "Arbeitnow",
-      "location": "Manchester",
-      "salary": "Competitive",
-      "type": "Full-time",
-      "tags": [
-        "THG Shared Services"
-      ],
-      "postedAt": "2026-08-16T21:56:07.000Z",
-      "url": "https://www.arbeitnow.co.uk/jobs/companies/thehutgroup/senior-manager-internal-audit-manchester-226285"
-    },
-    {
-      "id": "arbeitnow-senior-events-manager-thg-nutrition-myprotein-manchester-149568",
-      "title": "Senior Events Manager - THG Nutrition | Myprotein",
-      "company": "Thehutgroup",
-      "platform": "Arbeitnow",
-      "location": "Manchester",
-      "salary": "Competitive",
-      "type": "Full-time",
-      "tags": [
-        "THG Nutrition"
-      ],
-      "postedAt": "2026-08-16T21:56:07.000Z",
-      "url": "https://www.arbeitnow.co.uk/jobs/companies/thehutgroup/senior-events-manager-thg-nutrition-myprotein-manchester-149568"
-    },
-    {
-      "id": "arbeitnow-senior-affiliates-partnerships-manager-cult-beauty-london-411008",
-      "title": "Senior Affiliates & Partnerships Manager | Cult Beauty",
-      "company": "Thehutgroup",
-      "platform": "Arbeitnow",
-      "location": "London",
-      "salary": "Competitive",
-      "type": "Full-time",
-      "tags": [
-        "THG Beauty"
-      ],
-      "postedAt": "2026-08-16T21:56:07.000Z",
-      "url": "https://www.arbeitnow.co.uk/jobs/companies/thehutgroup/senior-affiliates-partnerships-manager-cult-beauty-london-411008"
-    },
-    {
-      "id": "arbeitnow-quality-assurance-technician-thg-manufacturing-warrington-72019",
-      "title": "Quality Assurance Technician - THG Manufacturing",
-      "company": "Thehutgroup",
-      "platform": "Arbeitnow",
-      "location": "Warrington",
-      "salary": "Competitive",
-      "type": "Full-time",
-      "tags": [
-        "THG Nutrition Manufacturing"
-      ],
-      "postedAt": "2026-08-16T21:56:07.000Z",
-      "url": "https://www.arbeitnow.co.uk/jobs/companies/thehutgroup/quality-assurance-technician-thg-manufacturing-warrington-72019"
-    },
-    {
-      "id": "arbeitnow-marketing-analytics-manager-thg-nutrition-manchester-109702",
-      "title": "Marketing Analytics Manager - THG Nutrition",
-      "company": "Thehutgroup",
-      "platform": "Arbeitnow",
-      "location": "Manchester",
-      "salary": "Competitive",
-      "type": "Full-time",
-      "tags": [
-        "THG Nutrition"
-      ],
-      "postedAt": "2026-08-16T21:56:07.000Z",
-      "url": "https://www.arbeitnow.co.uk/jobs/companies/thehutgroup/marketing-analytics-manager-thg-nutrition-manchester-109702"
-    },
-    {
-      "id": "arbeitnow-buying-director-lookfantastic-manchester-214860",
-      "title": "Buying Director | Lookfantastic",
-      "company": "Thehutgroup",
-      "platform": "Arbeitnow",
-      "location": "Manchester",
-      "salary": "Competitive",
-      "type": "Full-time",
-      "tags": [
-        "THG Beauty"
-      ],
-      "postedAt": "2026-08-16T21:56:07.000Z",
-      "url": "https://www.arbeitnow.co.uk/jobs/companies/thehutgroup/buying-director-lookfantastic-manchester-214860"
-    },
-    {
-      "id": "jobicy-150870",
-      "title": "Enterprise Account Executive, Iberia",
-      "company": "Cresta",
-      "platform": "Jobicy",
-      "location": "Spain",
-      "salary": "Competitive",
-      "type": "Full-Time",
-      "tags": [],
-      "postedAt": "2026-08-16T16:47:20+00:00",
-      "url": "https://jobicy.com/jobs/150870-enterprise-account-executive-iberia"
-    },
-    {
-      "id": "jobicy-150869",
-      "title": "Enterprise Account Executive, EMEA",
-      "company": "Cresta",
-      "platform": "Jobicy",
-      "location": "EMEA,  UK",
-      "salary": "Competitive",
-      "type": "Full-Time",
-      "tags": [],
-      "postedAt": "2026-08-16T16:47:17+00:00",
-      "url": "https://jobicy.com/jobs/150869-enterprise-account-executive-emea"
-    },
-    {
-      "id": "jobicy-150867",
-      "title": "Enterprise Account Executive, APAC",
-      "company": "Cresta",
-      "platform": "Jobicy",
-      "location": "APAC,  Australia",
-      "salary": "Competitive",
-      "type": "Full-Time",
-      "tags": [],
-      "postedAt": "2026-08-16T16:47:14+00:00",
-      "url": "https://jobicy.com/jobs/150867-enterprise-account-executive-apac"
-    },
-    {
-      "id": "jobicy-150866",
-      "title": "Embedded AI Expert",
-      "company": "Cresta",
-      "platform": "Jobicy",
-      "location": "USA",
-      "salary": "Competitive",
-      "type": "Full-Time",
-      "tags": [],
-      "postedAt": "2026-08-16T16:47:12+00:00",
-      "url": "https://jobicy.com/jobs/150866-embedded-ai-expert"
-    },
-    {
-      "id": "jobicy-150863",
-      "title": "Data Science Intern (Customer Success)",
-      "company": "Cresta",
-      "platform": "Jobicy",
-      "location": "USA",
-      "salary": "Competitive",
-      "type": "Full-Time",
-      "tags": [],
-      "postedAt": "2026-08-16T16:47:05+00:00",
-      "url": "https://jobicy.com/jobs/150863-data-science-intern-customer-success"
-    },
-    {
-      "id": "jobicy-150862",
-      "title": "AI Deployment Manager",
-      "company": "Cresta",
-      "platform": "Jobicy",
-      "location": "APAC,  Australia",
-      "salary": "Competitive",
-      "type": "Full-Time",
-      "tags": [],
-      "postedAt": "2026-08-16T16:47:02+00:00",
-      "url": "https://jobicy.com/jobs/150862-ai-deployment-manager"
-    },
-    {
-      "id": "jobicy-150861",
-      "title": "Senior Public Relations Manager",
-      "company": "AudioEye",
-      "platform": "Jobicy",
-      "location": "USA",
-      "salary": "Competitive",
-      "type": "Full-Time",
-      "tags": [],
-      "postedAt": "2026-08-16T16:47:00+00:00",
-      "url": "https://jobicy.com/jobs/150861-senior-public-relations-manager"
-    },
-    {
-      "id": "jobicy-150860",
-      "title": "Account Executive (SaaS)",
-      "company": "Housecall Pro",
-      "platform": "Jobicy",
-      "location": "USA",
-      "salary": "Competitive",
-      "type": "Full-Time",
-      "tags": [],
-      "postedAt": "2026-08-16T16:33:07+00:00",
-      "url": "https://jobicy.com/jobs/150860-account-executive-saas"
-    },
-    {
-      "id": "jobicy-150858",
-      "title": "Account Executive, Partners",
-      "company": "Housecall Pro",
-      "platform": "Jobicy",
-      "location": "USA",
-      "salary": "Competitive",
-      "type": "Full-Time",
-      "tags": [],
-      "postedAt": "2026-08-16T16:33:03+00:00",
-      "url": "https://jobicy.com/jobs/150858-account-executive-partners"
-    },
-    {
-      "id": "jobicy-150856",
-      "title": "Account Executive (Key Accounts)",
-      "company": "Housecall Pro",
-      "platform": "Jobicy",
-      "location": "USA",
-      "salary": "Competitive",
-      "type": "Full-Time",
-      "tags": [],
-      "postedAt": "2026-08-16T16:32:58+00:00",
-      "url": "https://jobicy.com/jobs/150856-account-executive-key-accounts"
-    },
-    {
-      "id": "jobicy-150855",
-      "title": "Clinical Operations Lead",
-      "company": "Alimentiv",
-      "platform": "Jobicy",
-      "location": "Poland",
-      "salary": "Competitive",
-      "type": "Full-Time",
-      "tags": [],
-      "postedAt": "2026-08-16T16:32:56+00:00",
-      "url": "https://jobicy.com/jobs/150855-clinical-operations-lead"
-    },
-    {
-      "id": "jobicy-150854",
-      "title": "Chief Financial Officer",
-      "company": "Grove Collaborative",
-      "platform": "Jobicy",
-      "location": "USA",
-      "salary": "Competitive",
-      "type": "Full-Time",
-      "tags": [],
-      "postedAt": "2026-08-16T16:32:54+00:00",
-      "url": "https://jobicy.com/jobs/150854-chief-financial-officer"
-    },
-    {
-      "id": "jobicy-150853",
-      "title": "Account Executive, EMEA",
-      "company": "Temporal Technologies",
-      "platform": "Jobicy",
-      "location": "EMEA,  France",
-      "salary": "Competitive",
-      "type": "Full-Time",
-      "tags": [],
-      "postedAt": "2026-08-16T16:32:52+00:00",
-      "url": "https://jobicy.com/jobs/150853-account-executive-emea"
-    },
-    {
-      "id": "jobicy-150852",
-      "title": "Account Executive",
-      "company": "Housecall Pro",
-      "platform": "Jobicy",
-      "location": "USA",
-      "salary": "Competitive",
-      "type": "Full-Time",
-      "tags": [],
-      "postedAt": "2026-08-16T16:32:50+00:00",
-      "url": "https://jobicy.com/jobs/150852-account-executive-2"
-    },
-    {
-      "id": "jobicy-150851",
-      "title": "AI-First Android Engineer",
-      "company": "Grove Collaborative",
-      "platform": "Jobicy",
-      "location": "USA",
-      "salary": "Competitive",
-      "type": "Full-Time",
-      "tags": [],
-      "postedAt": "2026-08-16T16:32:48+00:00",
-      "url": "https://jobicy.com/jobs/150851-ai-first-android-engineer"
     }
   ]
 }
