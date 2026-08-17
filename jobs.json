@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-08-17T10:37:56.771Z",
+  "lastUpdated": "2026-08-17T11:31:33.901Z",
   "jobs": [
     {
       "id": "remoteok-1136808",
@@ -1531,6 +1531,30 @@
       "url": "https://www.arbeitnow.co.uk/jobs/companies/comind/principal-talent-acquisition-london-172705"
     },
     {
+      "id": "remotive-2091068",
+      "title": "Head of Marketing & Communications",
+      "company": "garden3d",
+      "platform": "Remotive",
+      "location": "Worldwide",
+      "salary": "$150k - $230k",
+      "type": "contract",
+      "tags": [
+        "C",
+        "video",
+        "open source",
+        "AI/ML",
+        "Figma",
+        "project management",
+        "editing",
+        "IoT",
+        "testing",
+        "themes",
+        "mobile development"
+      ],
+      "postedAt": "2026-08-15T19:58:15",
+      "url": "https://remotive.com/remote-jobs/marketing/head-of-marketing-communications-2091068"
+    },
+    {
       "id": "jobicy-149368",
       "title": "Growth Manager (Conversion Rate Optimization)",
       "company": "Ruby Labs",
@@ -2717,6 +2741,26 @@
       "url": "https://jobicy.com/jobs/150844-mid-level-front-end-engineer"
     },
     {
+      "id": "remotive-1919266",
+      "title": "Senior Independent AI Engineer / Architect",
+      "company": "A.Team",
+      "platform": "Remotive",
+      "location": "Americas, Europe, Israel",
+      "salary": "$120 - $170 /hour",
+      "type": "contract",
+      "tags": [
+        "go",
+        "UI/UX",
+        "wordpress",
+        "chat",
+        "apple",
+        "testing",
+        "catalyst"
+      ],
+      "postedAt": "2026-08-16T10:09:41",
+      "url": "https://remotive.com/remote-jobs/software-development/senior-independent-ai-engineer-architect-1919266"
+    },
+    {
       "id": "arbeitnow-senior-ai-engineer-london-339258",
       "title": "Senior AI Engineer",
       "company": "Quberesearchandtechnologies",
@@ -2757,34 +2801,6 @@
       ],
       "postedAt": "2026-08-16T09:40:15.000Z",
       "url": "https://www.arbeitnow.co.uk/jobs/companies/comind/operations-lead-london-445240"
-    },
-    {
-      "id": "arbeitnow-senior-firmware-engineer-bristol-115220",
-      "title": "Senior Firmware Engineer",
-      "company": "Graphcore",
-      "platform": "Arbeitnow",
-      "location": "Bristol",
-      "salary": "Competitive",
-      "type": "Full-time",
-      "tags": [
-        "SW Device"
-      ],
-      "postedAt": "2026-08-16T06:55:20.000Z",
-      "url": "https://www.arbeitnow.co.uk/jobs/companies/graphcore/senior-firmware-engineer-bristol-115220"
-    },
-    {
-      "id": "arbeitnow-financial-auditor-gtm-customer-growth-london-495722",
-      "title": "Financial Auditor – GTM & Customer Growth",
-      "company": "Cortea AI",
-      "platform": "Arbeitnow",
-      "location": "London",
-      "salary": "Competitive",
-      "type": "Full-time",
-      "tags": [
-        "Auditing"
-      ],
-      "postedAt": "2026-08-16T06:40:15.000Z",
-      "url": "https://www.arbeitnow.co.uk/jobs/companies/cortea-ai/financial-auditor-gtm-customer-growth-london-495722"
     }
   ]
 }
