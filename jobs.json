@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-08-17T04:20:00.509Z",
+  "lastUpdated": "2026-08-17T05:10:01.052Z",
   "jobs": [
     {
       "id": "remoteok-1136810",
@@ -1550,45 +1550,6 @@
       "url": "https://www.arbeitnow.co.uk/jobs/companies/comind/principal-talent-acquisition-london-172705"
     },
     {
-      "id": "arbeitnow-product-manager-ki-ai-100-remote-182721",
-      "title": "Product Manager KI // AI // (100% remote)",
-      "company": "Workidentity",
-      "platform": "Arbeitnow",
-      "location": "Remote",
-      "salary": "Competitive",
-      "type": "Full-time",
-      "tags": [
-        "Product Manager",
-        "Product Owner",
-        "Produktmanagement",
-        "KI",
-        "AI",
-        "Agenten",
-        "LLMs",
-        "LLM",
-        "Claude",
-        "Claude Code",
-        "Beratung",
-        "Consulting"
-      ],
-      "postedAt": "2026-08-16T00:09:08.000Z",
-      "url": "https://www.arbeitnow.co.uk/jobs/companies/workidentity/product-manager-ki-ai-100-remote-182721"
-    },
-    {
-      "id": "arbeitnow-operations-manager-product-engineering-london-129839",
-      "title": "Operations Manager, Product & Engineering",
-      "company": "Sierra",
-      "platform": "Arbeitnow",
-      "location": "London",
-      "salary": "Competitive",
-      "type": "Full-time",
-      "tags": [
-        "Operations"
-      ],
-      "postedAt": "2026-08-16T00:40:22.000Z",
-      "url": "https://www.arbeitnow.co.uk/jobs/companies/sierra/operations-manager-product-engineering-london-129839"
-    },
-    {
       "id": "arbeitnow-product-manager-customer-onboarding-experience-munich-3938",
       "title": "Product Manager: Customer Onboarding Experience",
       "company": "Constructor",
@@ -1615,6 +1576,132 @@
       ],
       "postedAt": "2026-08-16T15:40:07.000Z",
       "url": "https://www.arbeitnow.co.uk/jobs/companies/quantum/graduate-paid-media-analyst-london-168571"
+    },
+    {
+      "id": "arbeitnow-solution-architect-emea-257769",
+      "title": "Solution Architect, EMEA",
+      "company": "Fireblocks",
+      "platform": "Arbeitnow",
+      "location": "Remote",
+      "salary": "Competitive",
+      "type": "Full-time",
+      "tags": [
+        "Customer Operations"
+      ],
+      "postedAt": "2026-08-17T03:55:40.000Z",
+      "url": "https://www.arbeitnow.co.uk/jobs/companies/fireblocks/solution-architect-emea-257769"
+    },
+    {
+      "id": "arbeitnow-sales-director-tradfi-banking-london-39537",
+      "title": "Sales Director, TradFi & Banking",
+      "company": "Fireblocks",
+      "platform": "Arbeitnow",
+      "location": "London",
+      "salary": "Competitive",
+      "type": "Full-time",
+      "tags": [
+        "Sales"
+      ],
+      "postedAt": "2026-08-17T03:55:40.000Z",
+      "url": "https://www.arbeitnow.co.uk/jobs/companies/fireblocks/sales-director-tradfi-banking-london-39537"
+    },
+    {
+      "id": "arbeitnow-senior-geotechnical-engineer-465894",
+      "title": "Senior Geotechnical Engineer",
+      "company": "Langanengineeringandenvironmentalservicesllc",
+      "platform": "Arbeitnow",
+      "location": "Remote",
+      "salary": "Competitive",
+      "type": "Full-time",
+      "tags": [
+        "Geotechnical"
+      ],
+      "postedAt": "2026-08-17T03:55:20.000Z",
+      "url": "https://www.arbeitnow.co.uk/jobs/companies/langanengineeringandenvironmentalservicesllc/senior-geotechnical-engineer-465894"
+    },
+    {
+      "id": "arbeitnow-senior-civil-engineer-96670",
+      "title": "Senior Civil Engineer",
+      "company": "Langanengineeringandenvironmentalservicesllc",
+      "platform": "Arbeitnow",
+      "location": "Remote",
+      "salary": "Competitive",
+      "type": "Full-time",
+      "tags": [
+        "Site/Civil"
+      ],
+      "postedAt": "2026-08-17T03:55:20.000Z",
+      "url": "https://www.arbeitnow.co.uk/jobs/companies/langanengineeringandenvironmentalservicesllc/senior-civil-engineer-96670"
+    },
+    {
+      "id": "arbeitnow-senior-civil-engineer-139597",
+      "title": "Senior Civil Engineer",
+      "company": "Langanengineeringandenvironmentalservicesllc",
+      "platform": "Arbeitnow",
+      "location": "Remote",
+      "salary": "Competitive",
+      "type": "Full-time",
+      "tags": [
+        "Site/Civil"
+      ],
+      "postedAt": "2026-08-17T03:55:20.000Z",
+      "url": "https://www.arbeitnow.co.uk/jobs/companies/langanengineeringandenvironmentalservicesllc/senior-civil-engineer-139597"
+    },
+    {
+      "id": "arbeitnow-principal-civil-engineer-148368",
+      "title": "Principal Civil Engineer",
+      "company": "Langanengineeringandenvironmentalservicesllc",
+      "platform": "Arbeitnow",
+      "location": "Remote",
+      "salary": "Competitive",
+      "type": "Full-time",
+      "tags": [
+        "Site/Civil"
+      ],
+      "postedAt": "2026-08-17T03:55:19.000Z",
+      "url": "https://www.arbeitnow.co.uk/jobs/companies/langanengineeringandenvironmentalservicesllc/principal-civil-engineer-148368"
+    },
+    {
+      "id": "arbeitnow-graduate-geotechnical-engineer-373705",
+      "title": "Graduate Geotechnical Engineer",
+      "company": "Langanengineeringandenvironmentalservicesllc",
+      "platform": "Arbeitnow",
+      "location": "Remote",
+      "salary": "Competitive",
+      "type": "Full-time",
+      "tags": [
+        "Geotechnical"
+      ],
+      "postedAt": "2026-08-17T03:55:19.000Z",
+      "url": "https://www.arbeitnow.co.uk/jobs/companies/langanengineeringandenvironmentalservicesllc/graduate-geotechnical-engineer-373705"
+    },
+    {
+      "id": "arbeitnow-graduate-civil-engineer-296837",
+      "title": "Graduate Civil Engineer",
+      "company": "Langanengineeringandenvironmentalservicesllc",
+      "platform": "Arbeitnow",
+      "location": "Remote",
+      "salary": "Competitive",
+      "type": "Full-time",
+      "tags": [
+        "Site/Civil"
+      ],
+      "postedAt": "2026-08-17T03:55:19.000Z",
+      "url": "https://www.arbeitnow.co.uk/jobs/companies/langanengineeringandenvironmentalservicesllc/graduate-civil-engineer-296837"
+    },
+    {
+      "id": "arbeitnow-graduate-civil-engineer-140109",
+      "title": "Graduate Civil Engineer",
+      "company": "Langanengineeringandenvironmentalservicesllc",
+      "platform": "Arbeitnow",
+      "location": "Remote",
+      "salary": "Competitive",
+      "type": "Full-time",
+      "tags": [
+        "Site/Civil"
+      ],
+      "postedAt": "2026-08-17T03:55:19.000Z",
+      "url": "https://www.arbeitnow.co.uk/jobs/companies/langanengineeringandenvironmentalservicesllc/graduate-civil-engineer-140109"
     },
     {
       "id": "arbeitnow-cloud-ai-system-engineer-bicester-united-kingdom-33662",
@@ -2643,48 +2730,6 @@
       "url": "https://www.arbeitnow.co.uk/jobs/companies/midnite/sports-trader-united-kingdom-219520"
     },
     {
-      "id": "arbeitnow-remote-principal-product-manager-conversational-ai-260822",
-      "title": "Principal Product Manager- Conversational AI",
-      "company": "Hopper",
-      "platform": "Arbeitnow",
-      "location": "England - Remote",
-      "salary": "Competitive",
-      "type": "Full-time",
-      "tags": [
-        "Service"
-      ],
-      "postedAt": "2026-08-16T03:40:14.000Z",
-      "url": "https://www.arbeitnow.co.uk/jobs/companies/hopper/remote-principal-product-manager-conversational-ai-260822"
-    },
-    {
-      "id": "arbeitnow-vendor-manager-london-394561",
-      "title": "Vendor Manager",
-      "company": "Harvey",
-      "platform": "Arbeitnow",
-      "location": "London",
-      "salary": "Competitive",
-      "type": "Full-time",
-      "tags": [
-        "Product"
-      ],
-      "postedAt": "2026-08-16T03:40:11.000Z",
-      "url": "https://www.arbeitnow.co.uk/jobs/companies/harvey/vendor-manager-london-394561"
-    },
-    {
-      "id": "arbeitnow-senior-deal-desk-analyst-london-459270",
-      "title": "Senior Deal Desk Analyst",
-      "company": "Harvey",
-      "platform": "Arbeitnow",
-      "location": "London",
-      "salary": "Competitive",
-      "type": "Full-time",
-      "tags": [
-        "Go to Market"
-      ],
-      "postedAt": "2026-08-16T03:40:11.000Z",
-      "url": "https://www.arbeitnow.co.uk/jobs/companies/harvey/senior-deal-desk-analyst-london-459270"
-    },
-    {
       "id": "jobicy-146254",
       "title": "Atlassian Administrator 1726",
       "company": "Softgic",
@@ -2767,64 +2812,6 @@
       "tags": [],
       "postedAt": "2026-08-16T03:05:04+00:00",
       "url": "https://jobicy.com/jobs/146851-graduate-total-account-manager-scientific-sales-auckland"
-    },
-    {
-      "id": "remoteok-1136803",
-      "title": "Getting It Right",
-      "company": "Brite Enterprises",
-      "platform": "RemoteOK",
-      "location": "ç§å°æ²å³ç¿¼åæ, ",
-      "salary": "Competitive",
-      "type": "Full-time",
-      "tags": [],
-      "postedAt": "2026-08-16T02:09:25+00:00",
-      "url": "https://remoteOK.com/remote-jobs/remote-getting-it-right-brite-enterprises-1136803"
-    },
-    {
-      "id": "remoteok-1136831",
-      "title": "Custom Role",
-      "company": "TAR",
-      "platform": "RemoteOK",
-      "location": "San Francisco, ",
-      "salary": "Competitive",
-      "type": "Full-time",
-      "tags": [
-        "dev",
-        "sales",
-        "golang",
-        "non tech",
-        "digital nomad"
-      ],
-      "postedAt": "2026-08-16T01:56:57+00:00",
-      "url": "https://remoteOK.com/remote-jobs/remote-custom-role-tar-1136831"
-    },
-    {
-      "id": "arbeitnow-enterprise-sales-leader-london-124931",
-      "title": "Enterprise Sales Leader",
-      "company": "Sierra",
-      "platform": "Arbeitnow",
-      "location": "London",
-      "salary": "Competitive",
-      "type": "Full-time",
-      "tags": [
-        "Sales"
-      ],
-      "postedAt": "2026-08-16T00:40:22.000Z",
-      "url": "https://www.arbeitnow.co.uk/jobs/companies/sierra/enterprise-sales-leader-london-124931"
-    },
-    {
-      "id": "arbeitnow-remote-sales-development-representative-69828",
-      "title": "Sales Development Representative",
-      "company": "Livekit",
-      "platform": "Arbeitnow",
-      "location": "Remote, London",
-      "salary": "Competitive",
-      "type": "Full-time",
-      "tags": [
-        "S&M"
-      ],
-      "postedAt": "2026-08-16T00:40:09.000Z",
-      "url": "https://www.arbeitnow.co.uk/jobs/companies/livekit/remote-sales-development-representative-69828"
     }
   ]
 }
