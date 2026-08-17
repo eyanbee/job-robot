@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-08-17T01:43:57.084Z",
+  "lastUpdated": "2026-08-17T03:06:10.475Z",
   "jobs": [
     {
       "id": "remoteok-1136810",
@@ -2752,6 +2752,36 @@
       "url": "https://jobicy.com/jobs/146851-graduate-total-account-manager-scientific-sales-auckland"
     },
     {
+      "id": "remoteok-1136803",
+      "title": "Getting It Right",
+      "company": "Brite Enterprises",
+      "platform": "RemoteOK",
+      "location": "ç§å°æ²å³ç¿¼åæ, ",
+      "salary": "Competitive",
+      "type": "Full-time",
+      "tags": [],
+      "postedAt": "2026-08-16T02:09:25+00:00",
+      "url": "https://remoteOK.com/remote-jobs/remote-getting-it-right-brite-enterprises-1136803"
+    },
+    {
+      "id": "remoteok-1136831",
+      "title": "Custom Role",
+      "company": "TAR",
+      "platform": "RemoteOK",
+      "location": "San Francisco, ",
+      "salary": "Competitive",
+      "type": "Full-time",
+      "tags": [
+        "dev",
+        "sales",
+        "golang",
+        "non tech",
+        "digital nomad"
+      ],
+      "postedAt": "2026-08-16T01:56:57+00:00",
+      "url": "https://remoteOK.com/remote-jobs/remote-custom-role-tar-1136831"
+    },
+    {
       "id": "arbeitnow-enterprise-sales-leader-london-124931",
       "title": "Enterprise Sales Leader",
       "company": "Sierra",
@@ -2792,34 +2822,6 @@
       ],
       "postedAt": "2026-08-16T00:40:08.000Z",
       "url": "https://www.arbeitnow.co.uk/jobs/companies/elevenlabs/remote-proposal-manager-global-29814"
-    },
-    {
-      "id": "arbeitnow-senior-technical-program-manager-applied-ai-london-344540",
-      "title": "Senior Technical Program Manager, Applied AI",
-      "company": "Lilt Corporate",
-      "platform": "Arbeitnow",
-      "location": "London, UK",
-      "salary": "Competitive",
-      "type": "Full-time",
-      "tags": [
-        "Production"
-      ],
-      "postedAt": "2026-08-16T00:40:06.000Z",
-      "url": "https://www.arbeitnow.co.uk/jobs/companies/lilt-corporate/senior-technical-program-manager-applied-ai-london-344540"
-    },
-    {
-      "id": "arbeitnow-senior-rd-scientist-quantum-algorithms-905-uk-london-330782",
-      "title": "Senior R&D Scientist, Quantum Algorithms - 905",
-      "company": "Quantinuum",
-      "platform": "Arbeitnow",
-      "location": "UK London",
-      "salary": "Competitive",
-      "type": "Full-time",
-      "tags": [
-        "Quantum Algorithms and Machine Learning"
-      ],
-      "postedAt": "2026-08-16T00:05:18.000Z",
-      "url": "https://www.arbeitnow.co.uk/jobs/companies/quantinuum/senior-rd-scientist-quantum-algorithms-905-uk-london-330782"
     }
   ]
 }
