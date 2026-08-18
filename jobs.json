@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-08-18T11:30:50.539Z",
+  "lastUpdated": "2026-08-18T12:57:35.904Z",
   "jobs": [
     {
       "id": "remoteok-1136899",
@@ -1984,6 +1984,20 @@
       "url": "https://jobicy.com/jobs/149368-growth-manager-conversion-rate-optimization"
     },
     {
+      "id": "arbeitnow-aws-security-cloud-platform-consultant-london-227558",
+      "title": "AWS Security & Cloud Platform Consultant",
+      "company": "Kryptos Technologies limited",
+      "platform": "Arbeitnow",
+      "location": "London",
+      "salary": "Competitive",
+      "type": "Full-time",
+      "tags": [
+        "IT"
+      ],
+      "postedAt": "2026-08-18T10:30:32.000Z",
+      "url": "https://www.arbeitnow.co.uk/jobs/companies/kryptos-technologies-limited/aws-security-cloud-platform-consultant-london-227558"
+    },
+    {
       "id": "arbeitnow-director-technical-program-management-engineering-business-operations-london-416232",
       "title": "Director, Technical Program Management & Engineering Business Operations",
       "company": "Sonyinteractiveentertainmentglobal",
@@ -2113,21 +2127,6 @@
       ],
       "postedAt": "2026-08-18T08:30:29.000Z",
       "url": "https://www.arbeitnow.com/jobs/companies/bell-food-group/bi-specialist-financial-reporting-data-analytics-radolfzell-10657"
-    },
-    {
-      "id": "arbeitnow-senior-tech-operations-specialist-all-genders-81021",
-      "title": "Senior Tech Operations Specialist (all genders)",
-      "company": "Distribusion Technologies",
-      "platform": "Arbeitnow",
-      "location": "All",
-      "salary": "Competitive",
-      "type": "Full-time",
-      "tags": [
-        "Information technology",
-        "bachelor's degree"
-      ],
-      "postedAt": "2026-08-18T07:20:23.000Z",
-      "url": "https://www.arbeitnow.com/jobs/companies/distribusion-technologies/senior-tech-operations-specialist-all-genders-81021"
     },
     {
       "id": "arbeitnow-senior-financial-crime-investigator-business-banking-279018",
@@ -2944,20 +2943,6 @@
       "url": "https://www.arbeitnow.co.uk/jobs/companies/aircall/managing-director-north-uki-london-office-215600"
     },
     {
-      "id": "arbeitnow-graduate-sales-executive-at-retail-insights-london-349541",
-      "title": "Graduate Sales Executive at Retail Insights",
-      "company": "Retailinsights",
-      "platform": "Arbeitnow",
-      "location": "London",
-      "salary": "Competitive",
-      "type": "Full-time",
-      "tags": [
-        "Sales"
-      ],
-      "postedAt": "2026-08-17T18:56:11.000Z",
-      "url": "https://www.arbeitnow.co.uk/jobs/companies/retailinsights/graduate-sales-executive-at-retail-insights-london-349541"
-    },
-    {
       "id": "jobicy-150947",
       "title": "[Internal] Developer, Rust",
       "company": "1Password",
@@ -3028,6 +3013,18 @@
       "tags": [],
       "postedAt": "2026-08-17T14:30:22+00:00",
       "url": "https://jobicy.com/jobs/150935-customer-engineer-apac"
+    },
+    {
+      "id": "jobicy-150932",
+      "title": "Senior Operations Specialist",
+      "company": "Precision Medicine Group",
+      "platform": "Jobicy",
+      "location": "Europe,  Romania",
+      "salary": "Competitive",
+      "type": "Full-Time",
+      "tags": [],
+      "postedAt": "2026-08-17T14:17:18+00:00",
+      "url": "https://jobicy.com/jobs/150932-senior-operations-specialist"
     }
   ]
 }
