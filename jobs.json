@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-08-19T19:31:09.114Z",
+  "lastUpdated": "2026-08-19T20:35:12.333Z",
   "jobs": [
     {
       "id": "remoteok-1136981",
@@ -950,24 +950,6 @@
       "url": "https://remoteOK.com/remote-jobs/remote-facilities-planner-booz-allen-hamilton-1136789"
     },
     {
-      "id": "remoteok-1136568",
-      "title": "P2P BD Assistant",
-      "company": "Bybit",
-      "platform": "RemoteOK",
-      "location": "LATAM",
-      "salary": "Competitive",
-      "type": "Full-time",
-      "tags": [
-        "virtual assistant",
-        "web3",
-        "crypto",
-        "finance",
-        "exec"
-      ],
-      "postedAt": "2026-08-12T16:00:24+00:00",
-      "url": "https://remoteOK.com/remote-jobs/remote-p2p-bd-assistant-bybit-1136568"
-    },
-    {
       "id": "jobicy-151023",
       "title": "Executive Assistant, Design",
       "company": "Figma",
@@ -1252,6 +1234,22 @@
       "tags": [],
       "postedAt": "2026-08-19T07:00:59+00:00",
       "url": "https://jobicy.com/jobs/151085-customer-support-specialist-4"
+    },
+    {
+      "id": "remoteok-1136962",
+      "title": "All Other Roles",
+      "company": "Collate",
+      "platform": "RemoteOK",
+      "location": "San Francisco, ",
+      "salary": "Competitive",
+      "type": "Full-time",
+      "tags": [
+        "customer support",
+        "recruiter",
+        "non tech"
+      ],
+      "postedAt": "2026-08-18T19:57:52+00:00",
+      "url": "https://remoteOK.com/remote-jobs/remote-all-other-roles-collate-1136962"
     },
     {
       "id": "remoteok-1136950",
@@ -1928,6 +1926,174 @@
       "tags": [],
       "postedAt": "2026-08-19T07:00:56+00:00",
       "url": "https://jobicy.com/jobs/151083-business-operations-manager-customer-success"
+    },
+    {
+      "id": "arbeitnow-senior-account-executive-uki-75529",
+      "title": "Senior Account Executive - UK&I",
+      "company": "nice",
+      "platform": "Arbeitnow",
+      "location": "Remote",
+      "salary": "Competitive",
+      "type": "Full-time",
+      "tags": [
+        "CX - Agentic Experience Automation"
+      ],
+      "postedAt": "2026-08-19T18:56:07.000Z",
+      "url": "https://www.arbeitnow.co.uk/jobs/companies/nice/senior-account-executive-uki-75529"
+    },
+    {
+      "id": "arbeitnow-account-executive-emea-specialist-279193",
+      "title": "Account Executive - EMEA Specialist",
+      "company": "Samsara",
+      "platform": "Arbeitnow",
+      "location": "Remote",
+      "salary": "Competitive",
+      "type": "Full-time",
+      "tags": [
+        "Product Specialists"
+      ],
+      "postedAt": "2026-08-19T18:55:11.000Z",
+      "url": "https://www.arbeitnow.co.uk/jobs/companies/samsara/account-executive-emea-specialist-279193"
+    },
+    {
+      "id": "arbeitnow-remote-product-engineer-26924",
+      "title": "Product Engineer",
+      "company": "0G",
+      "platform": "Arbeitnow",
+      "location": "Remote",
+      "salary": "Competitive",
+      "type": "Full-time",
+      "tags": [
+        "Engineering"
+      ],
+      "postedAt": "2026-08-19T18:40:22.000Z",
+      "url": "https://www.arbeitnow.co.uk/jobs/companies/0g/remote-product-engineer-26924"
+    },
+    {
+      "id": "arbeitnow-remote-brand-design-lead-171938",
+      "title": "Brand Design Lead",
+      "company": "0G",
+      "platform": "Arbeitnow",
+      "location": "Remote",
+      "salary": "Competitive",
+      "type": "Full-time",
+      "tags": [
+        "Marketing"
+      ],
+      "postedAt": "2026-08-19T18:40:22.000Z",
+      "url": "https://www.arbeitnow.co.uk/jobs/companies/0g/remote-brand-design-lead-171938"
+    },
+    {
+      "id": "arbeitnow-remote-enterprise-product-manager-79603",
+      "title": "Enterprise Product Manager",
+      "company": "0G",
+      "platform": "Arbeitnow",
+      "location": "Remote",
+      "salary": "Competitive",
+      "type": "Full-time",
+      "tags": [
+        "Product"
+      ],
+      "postedAt": "2026-08-19T18:40:22.000Z",
+      "url": "https://www.arbeitnow.co.uk/jobs/companies/0g/remote-enterprise-product-manager-79603"
+    },
+    {
+      "id": "arbeitnow-remote-enterprise-business-development-470732",
+      "title": "Enterprise Business Development",
+      "company": "0G",
+      "platform": "Arbeitnow",
+      "location": "Remote",
+      "salary": "Competitive",
+      "type": "Full-time",
+      "tags": [
+        "Go to Market"
+      ],
+      "postedAt": "2026-08-19T18:40:22.000Z",
+      "url": "https://www.arbeitnow.co.uk/jobs/companies/0g/remote-enterprise-business-development-470732"
+    },
+    {
+      "id": "arbeitnow-forward-deployed-engineer-london-306244",
+      "title": "Forward Deployed Engineer",
+      "company": "Getscope",
+      "platform": "Arbeitnow",
+      "location": "London",
+      "salary": "Competitive",
+      "type": "Full-time",
+      "tags": [
+        "Engineering and Product"
+      ],
+      "postedAt": "2026-08-19T18:40:16.000Z",
+      "url": "https://www.arbeitnow.co.uk/jobs/companies/getscope/forward-deployed-engineer-london-306244"
+    },
+    {
+      "id": "arbeitnow-senior-platform-architect-uk-united-kingdom-309849",
+      "title": "Senior Platform Architect - UK",
+      "company": "Temporal Technologies",
+      "platform": "Arbeitnow",
+      "location": "United Kingdom",
+      "salary": "Competitive",
+      "type": "Full-time",
+      "tags": [
+        "Platform Architecture"
+      ],
+      "postedAt": "2026-08-19T18:40:15.000Z",
+      "url": "https://www.arbeitnow.co.uk/jobs/companies/temporal-technologies/senior-platform-architect-uk-united-kingdom-309849"
+    },
+    {
+      "id": "arbeitnow-market-abuse-associate-london-278093",
+      "title": "Market Abuse Associate",
+      "company": "Trading212",
+      "platform": "Arbeitnow",
+      "location": "London",
+      "salary": "Competitive",
+      "type": "Full-time",
+      "tags": [
+        "Global Compliance"
+      ],
+      "postedAt": "2026-08-19T18:40:09.000Z",
+      "url": "https://www.arbeitnow.co.uk/jobs/companies/trading212/market-abuse-associate-london-278093"
+    },
+    {
+      "id": "arbeitnow-associate-corporate-development-london-170711",
+      "title": "Associate, Corporate Development",
+      "company": "Kraken",
+      "platform": "Arbeitnow",
+      "location": "United Kingdom",
+      "salary": "Competitive",
+      "type": "Full-time",
+      "tags": [
+        "Business Expansion"
+      ],
+      "postedAt": "2026-08-19T18:40:08.000Z",
+      "url": "https://www.arbeitnow.co.uk/jobs/companies/kraken/associate-corporate-development-london-170711"
+    },
+    {
+      "id": "arbeitnow-assistant-general-counsel-commercial-partnerships-london-215330",
+      "title": "Assistant General Counsel - Commercial (Partnerships)",
+      "company": "Kraken",
+      "platform": "Arbeitnow",
+      "location": "United Kingdom",
+      "salary": "Competitive",
+      "type": "Full-time",
+      "tags": [
+        "Legal"
+      ],
+      "postedAt": "2026-08-19T18:40:08.000Z",
+      "url": "https://www.arbeitnow.co.uk/jobs/companies/kraken/assistant-general-counsel-commercial-partnerships-london-215330"
+    },
+    {
+      "id": "arbeitnow-mearley-vets-director-of-practice-accrington-lancashire-england-391076",
+      "title": "Mearley Vets - Director of Practice",
+      "company": "Ivcevidensia",
+      "platform": "Arbeitnow",
+      "location": "Accrington, Lancashire, England",
+      "salary": "Competitive",
+      "type": "Full-time",
+      "tags": [
+        "Leadership"
+      ],
+      "postedAt": "2026-08-19T18:04:53.000Z",
+      "url": "https://www.arbeitnow.co.uk/jobs/companies/ivcevidensia/mearley-vets-director-of-practice-accrington-lancashire-england-391076"
     },
     {
       "id": "arbeitnow-applied-ai-architect-industries-london-369437",
@@ -2801,34 +2967,6 @@
       "url": "https://www.arbeitnow.co.uk/jobs/companies/netholabs/neuroscientist-brighton-13750"
     },
     {
-      "id": "arbeitnow-animal-welfare-and-research-technician-brighton-213622",
-      "title": "Animal Welfare and Research Technician",
-      "company": "Netholabs",
-      "platform": "Arbeitnow",
-      "location": "Brighton",
-      "salary": "Competitive",
-      "type": "Full-time",
-      "tags": [
-        "Neuroscience"
-      ],
-      "postedAt": "2026-08-19T12:40:10.000Z",
-      "url": "https://www.arbeitnow.co.uk/jobs/companies/netholabs/animal-welfare-and-research-technician-brighton-213622"
-    },
-    {
-      "id": "arbeitnow-interim-senior-manager-sales-international-london-england-173526",
-      "title": "Interim Senior Manager, Sales, International",
-      "company": "e.l.f. Beauty",
-      "platform": "Arbeitnow",
-      "location": "London, England",
-      "salary": "Competitive",
-      "type": "Full-time",
-      "tags": [
-        "EMEA Sales"
-      ],
-      "postedAt": "2026-08-19T12:24:53.000Z",
-      "url": "https://www.arbeitnow.co.uk/jobs/companies/elf-beauty/interim-senior-manager-sales-international-london-england-173526"
-    },
-    {
       "id": "arbeitnow-principal-solutions-engineer-73779",
       "title": "Principal Solutions Engineer",
       "company": "wizinc",
@@ -2841,100 +2979,6 @@
       ],
       "postedAt": "2026-08-19T12:15:50.000Z",
       "url": "https://www.arbeitnow.com/jobs/companies/wizinc/principal-solutions-engineer-73779"
-    },
-    {
-      "id": "arbeitnow-senior-payroll-manager-london-128124",
-      "title": "Senior Payroll Manager",
-      "company": "Sonymusicentertainment",
-      "platform": "Arbeitnow",
-      "location": "London",
-      "salary": "Competitive",
-      "type": "Full-time",
-      "tags": [
-        "People Experience"
-      ],
-      "postedAt": "2026-08-19T09:55:37.000Z",
-      "url": "https://www.arbeitnow.co.uk/jobs/companies/sonymusicentertainment/senior-payroll-manager-london-128124"
-    },
-    {
-      "id": "arbeitnow-senior-director-pr-emea-london-64884",
-      "title": "Senior Director PR, EMEA",
-      "company": "Sharkninjaoperatingllc",
-      "platform": "Arbeitnow",
-      "location": "London",
-      "salary": "Competitive",
-      "type": "Full-time",
-      "tags": [
-        "20000 - Brand Marketing"
-      ],
-      "postedAt": "2026-08-19T09:55:18.000Z",
-      "url": "https://www.arbeitnow.co.uk/jobs/companies/sharkninjaoperatingllc/senior-director-pr-emea-london-64884"
-    },
-    {
-      "id": "arbeitnow-digital-sharks-performance-data-associate-marketplace-intelligence-early-careers-london-300833",
-      "title": "Digital Sharks: Performance Data Associate — Marketplace Intelligence (Early Careers)",
-      "company": "Sharkninjaoperatingllc",
-      "platform": "Arbeitnow",
-      "location": "London",
-      "salary": "Competitive",
-      "type": "Full-time",
-      "tags": [
-        "25000 - Commercial"
-      ],
-      "postedAt": "2026-08-19T09:55:18.000Z",
-      "url": "https://www.arbeitnow.co.uk/jobs/companies/sharkninjaoperatingllc/digital-sharks-performance-data-associate-marketplace-intelligence-early-careers-london-300833"
-    },
-    {
-      "id": "arbeitnow-field-sales-account-executive-manchester-51741",
-      "title": "Field Sales Account Executive",
-      "company": "Lightspeedhq",
-      "platform": "Arbeitnow",
-      "location": "Manchester",
-      "salary": "Competitive",
-      "type": "Full-time",
-      "tags": [
-        "Sales"
-      ],
-      "postedAt": "2026-08-19T09:40:12.000Z",
-      "url": "https://www.arbeitnow.co.uk/jobs/companies/lightspeedhq/field-sales-account-executive-manchester-51741"
-    },
-    {
-      "id": "arbeitnow-senior-manager-hr-business-partnering-leeds-110272",
-      "title": "Senior Manager, HR Business Partnering",
-      "company": "Leovegasgroup",
-      "platform": "Arbeitnow",
-      "location": "Leeds, UK",
-      "salary": "Competitive",
-      "type": "Full-time",
-      "tags": [
-        "People & Business Partnering"
-      ],
-      "postedAt": "2026-08-19T09:40:10.000Z",
-      "url": "https://www.arbeitnow.co.uk/jobs/companies/leovegasgroup/senior-manager-hr-business-partnering-leeds-110272"
-    },
-    {
-      "id": "arbeitnow-senior-sales-executive-live-events-london-457432",
-      "title": "Senior Sales Executive- Live Events",
-      "company": "Convene Hospitality Group",
-      "platform": "Arbeitnow",
-      "location": "London, London, United Kingdom",
-      "salary": "Competitive",
-      "type": "Full-time",
-      "tags": [],
-      "postedAt": "2026-08-19T07:45:26.000Z",
-      "url": "https://www.arbeitnow.co.uk/jobs/companies/convene-hospitality-group/senior-sales-executive-live-events-london-457432"
-    },
-    {
-      "id": "arbeitnow-senior-account-manager-london-18645",
-      "title": "Senior Account Manager",
-      "company": "Convene Hospitality Group",
-      "platform": "Arbeitnow",
-      "location": "London, London, United Kingdom",
-      "salary": "Competitive",
-      "type": "Full-time",
-      "tags": [],
-      "postedAt": "2026-08-19T07:45:26.000Z",
-      "url": "https://www.arbeitnow.co.uk/jobs/companies/convene-hospitality-group/senior-account-manager-london-18645"
     },
     {
       "id": "jobicy-151087",
@@ -2971,42 +3015,6 @@
       "tags": [],
       "postedAt": "2026-08-19T07:00:58+00:00",
       "url": "https://jobicy.com/jobs/151084-customer-experience-associate-3"
-    },
-    {
-      "id": "jobicy-151081",
-      "title": "Sr Customer Success Manager - Justice",
-      "company": "Axon",
-      "platform": "Jobicy",
-      "location": "USA",
-      "salary": "Competitive",
-      "type": "Full-Time",
-      "tags": [],
-      "postedAt": "2026-08-19T07:00:53+00:00",
-      "url": "https://jobicy.com/jobs/151081-sr-customer-success-manager-justice"
-    },
-    {
-      "id": "jobicy-151080",
-      "title": "Customer Success Manager, APAC",
-      "company": "Instructure",
-      "platform": "Jobicy",
-      "location": "Australia",
-      "salary": "Competitive",
-      "type": "Full-Time",
-      "tags": [],
-      "postedAt": "2026-08-19T07:00:52+00:00",
-      "url": "https://jobicy.com/jobs/151080-customer-success-manager-apac"
-    },
-    {
-      "id": "jobicy-151079",
-      "title": "Compliance Manager (Australia)",
-      "company": "Affirm",
-      "platform": "Jobicy",
-      "location": "Australia",
-      "salary": "Competitive",
-      "type": "Full-Time",
-      "tags": [],
-      "postedAt": "2026-08-19T06:56:55+00:00",
-      "url": "https://jobicy.com/jobs/151079-compliance-manager-australia"
     }
   ]
 }
