@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-08-20T14:09:17.667Z",
+  "lastUpdated": "2026-08-20T15:06:10.066Z",
   "jobs": [
     {
       "id": "remoteok-1137006",
@@ -2091,6 +2091,20 @@
       "url": "https://jobicy.com/jobs/151083-business-operations-manager-customer-success"
     },
     {
+      "id": "arbeitnow-fachassistent-digitalisierung-und-it-prozesse-fait-nackenheim-162417",
+      "title": "Fachassistent Digitalisierung und IT-Prozesse (FAIT)",
+      "company": "Kuhn & Partner Rechtsanwälte Steuerberater Wirtschaftsprüfer mbB",
+      "platform": "Arbeitnow",
+      "location": "Nackenheim",
+      "salary": "Competitive",
+      "type": "Full-time",
+      "tags": [
+        "Finance"
+      ],
+      "postedAt": "2026-08-20T13:30:35.000Z",
+      "url": "https://www.arbeitnow.com/jobs/companies/kuhn-partner-rechtsanwalte-steuerberater-wirtschaftsprufer-mbb/fachassistent-digitalisierung-und-it-prozesse-fait-nackenheim-162417"
+    },
+    {
       "id": "arbeitnow-data-scientist-belfast-northern-ireland-165930",
       "title": "Data Scientist",
       "company": "Everquote",
@@ -2567,34 +2581,6 @@
       "url": "https://www.arbeitnow.co.uk/jobs/companies/profound/associate-people-partner-london-301171"
     },
     {
-      "id": "arbeitnow-principal-product-designer-312349",
-      "title": "Principal Product Designer",
-      "company": "Nice",
-      "platform": "Arbeitnow",
-      "location": "Remote",
-      "salary": "Competitive",
-      "type": "Full-time",
-      "tags": [
-        "CX - Agentic Experience Automation"
-      ],
-      "postedAt": "2026-08-20T08:55:12.000Z",
-      "url": "https://www.arbeitnow.com/jobs/companies/nice/principal-product-designer-312349"
-    },
-    {
-      "id": "arbeitnow-software-trainer-396209",
-      "title": "Software Trainer (f/m/d)",
-      "company": "Thinkcellsoftware",
-      "platform": "Arbeitnow",
-      "location": "Remote",
-      "salary": "Competitive",
-      "type": "Full-time",
-      "tags": [
-        "Product"
-      ],
-      "postedAt": "2026-08-20T08:55:11.000Z",
-      "url": "https://www.arbeitnow.com/jobs/companies/thinkcellsoftware/software-trainer-396209"
-    },
-    {
       "id": "arbeitnow-senior-lifecycle-marketing-manager-london-252371",
       "title": "Senior Lifecycle Marketing Manager",
       "company": "Realtimeboardglobal",
@@ -3011,6 +2997,18 @@
       "tags": [],
       "postedAt": "2026-08-20T02:55:07+00:00",
       "url": "https://jobicy.com/jobs/147118-senior-ai-creative-designer"
+    },
+    {
+      "id": "jobicy-147134",
+      "title": "Customer Engineer",
+      "company": "Nebius",
+      "platform": "Jobicy",
+      "location": "Canada,  USA",
+      "salary": "Competitive",
+      "type": "Full-Time",
+      "tags": [],
+      "postedAt": "2026-08-20T02:55:05+00:00",
+      "url": "https://jobicy.com/jobs/147134-customer-engineer"
     }
   ]
 }
