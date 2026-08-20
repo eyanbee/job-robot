@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-08-20T11:35:44.125Z",
+  "lastUpdated": "2026-08-20T13:01:27.951Z",
   "jobs": [
     {
       "id": "remoteok-1137006",
@@ -900,40 +900,38 @@
       "url": "https://remoteOK.com/remote-jobs/remote-store-manager-macpac-carindale-macpac-ltd-1136709"
     },
     {
-      "id": "remoteok-1136712",
-      "title": "Store Manager Dan Murphy's Canberra Region",
-      "company": "Dan Murphy's",
+      "id": "remoteok-1137012",
+      "title": "COSTING ENGINEER",
+      "company": "Larsen &amp; Toubro",
       "platform": "RemoteOK",
-      "location": "Majura, ",
+      "location": "Coimbatore South, ",
       "salary": "Competitive",
       "type": "Full-time",
       "tags": [
-        "architecture",
-        "medical",
-        "exec",
-        "education",
         "customer support",
         "marketing",
-        "virtual assistant",
-        "ops",
-        "sales",
+        "exec",
+        "golang",
+        "data entry",
         "infosec",
-        "travel",
         "finance",
-        "recruiter",
+        "excel",
+        "full time",
         "design",
-        "python",
-        "vfx",
-        "technical",
-        "supervisor",
-        "c",
-        "c plus plus",
-        "senior",
+        "math",
+        "ops",
+        "engineer",
         "digital nomad",
-        "legal"
+        "sales",
+        "technical",
+        "dev",
+        "testing",
+        "education",
+        "assembly",
+        "ruby"
       ],
-      "postedAt": "2026-08-13T12:41:50+00:00",
-      "url": "https://remoteOK.com/remote-jobs/remote-store-manager-dan-murphys-canberra-region-dan-murphys-1136712"
+      "postedAt": "2026-08-19T12:46:47+00:00",
+      "url": "https://remoteOK.com/remote-jobs/remote-costing-engineer-larsen-amp-toubro-1137012"
     },
     {
       "id": "remoteok-1137013",
@@ -1980,18 +1978,6 @@
       "url": "https://www.arbeitnow.co.uk/jobs/companies/angi/senior-analyst-fpa-london-455421"
     },
     {
-      "id": "arbeitnow-senior-talent-acquisition-partner-london-234171",
-      "title": "Senior Talent Acquisition Partner",
-      "company": "SumUp",
-      "platform": "Arbeitnow",
-      "location": "London, London, United Kingdom",
-      "salary": "Competitive",
-      "type": "Full-time",
-      "tags": [],
-      "postedAt": "2026-08-19T21:45:23.000Z",
-      "url": "https://www.arbeitnow.co.uk/jobs/companies/sumup/senior-talent-acquisition-partner-london-234171"
-    },
-    {
       "id": "arbeitnow-network-performance-manager-london-299257",
       "title": "Network Performance Manager (m/f/x)",
       "company": "ubitricity - Gesellschaft für verteilte Energiesysteme mbH",
@@ -2104,6 +2090,20 @@
       "tags": [],
       "postedAt": "2026-08-19T07:00:56+00:00",
       "url": "https://jobicy.com/jobs/151083-business-operations-manager-customer-success"
+    },
+    {
+      "id": "arbeitnow-team-lead-commercial-partnerships-uki-london-294037",
+      "title": "Team Lead Commercial Partnerships UK&I",
+      "company": "Mollie",
+      "platform": "Arbeitnow",
+      "location": "London",
+      "salary": "Competitive",
+      "type": "Full-time",
+      "tags": [
+        "Go To Market"
+      ],
+      "postedAt": "2026-08-20T10:00:45.000Z",
+      "url": "https://www.arbeitnow.co.uk/jobs/companies/mollie/team-lead-commercial-partnerships-uki-london-294037"
     },
     {
       "id": "arbeitnow-deployment-strategist-london-134896",
@@ -2427,48 +2427,6 @@
       ],
       "postedAt": "2026-08-20T06:05:03.000Z",
       "url": "https://www.arbeitnow.co.uk/jobs/companies/zeeco/graduate-applications-engineer-rental-and-rapid-response-stamford-england-320629"
-    },
-    {
-      "id": "arbeitnow-associate-account-director-medical-communications-marketing-113535",
-      "title": "Associate Account Director (Medical Communications & Marketing)",
-      "company": "Realchemistry",
-      "platform": "Arbeitnow",
-      "location": "Remote",
-      "salary": "Competitive",
-      "type": "Full-time",
-      "tags": [
-        "EMEA Medical Education"
-      ],
-      "postedAt": "2026-08-20T05:55:34.000Z",
-      "url": "https://www.arbeitnow.com/jobs/companies/realchemistry/associate-account-director-medical-communications-marketing-113535"
-    },
-    {
-      "id": "arbeitnow-lifecycle-senior-specialist-ohs-contract-management-185137",
-      "title": "Lifecycle Senior Specialist (OHS): Contract Management",
-      "company": "remotecom",
-      "platform": "Arbeitnow",
-      "location": "Remote",
-      "salary": "Competitive",
-      "type": "Full-time",
-      "tags": [
-        "Occupational Health & Safety"
-      ],
-      "postedAt": "2026-08-20T05:55:27.000Z",
-      "url": "https://www.arbeitnow.com/jobs/companies/remotecom/lifecycle-senior-specialist-ohs-contract-management-185137"
-    },
-    {
-      "id": "arbeitnow-engineering-manager-customer-developer-experience-munich-128504",
-      "title": "Engineering Manager - Customer Developer Experience",
-      "company": "Constructor",
-      "platform": "Arbeitnow",
-      "location": "Remote",
-      "salary": "Competitive",
-      "type": "Full-time",
-      "tags": [
-        "Engineering"
-      ],
-      "postedAt": "2026-08-20T05:40:18.000Z",
-      "url": "https://www.arbeitnow.com/jobs/companies/constructor/engineering-manager-customer-developer-experience-munich-128504"
     },
     {
       "id": "arbeitnow-founding-commercial-account-executive-emea-tavily-46623",
@@ -3012,6 +2970,51 @@
       ],
       "postedAt": "2026-08-20T00:30:32.000Z",
       "url": "https://www.arbeitnow.co.uk/jobs/companies/emplyfy/remote-uk-nominee-director-company-appointment-chalkhouse-green-428228"
+    },
+    {
+      "id": "arbeitnow-remote-professional-nominee-director-chalkhouse-green-399080",
+      "title": "Professional Nominee Director",
+      "company": "Emplyfy",
+      "platform": "Arbeitnow",
+      "location": "Remote job",
+      "salary": "Competitive",
+      "type": "Full-time",
+      "tags": [
+        "Nominee Director",
+        "Remote"
+      ],
+      "postedAt": "2026-08-20T00:30:32.000Z",
+      "url": "https://www.arbeitnow.co.uk/jobs/companies/emplyfy/remote-professional-nominee-director-chalkhouse-green-399080"
+    },
+    {
+      "id": "arbeitnow-remote-nominee-director-corporate-compliance-chalkhouse-green-291434",
+      "title": "Nominee Director – Corporate Compliance",
+      "company": "Emplyfy",
+      "platform": "Arbeitnow",
+      "location": "Remote job",
+      "salary": "Competitive",
+      "type": "Full-time",
+      "tags": [
+        "Nominee Director",
+        "Remote"
+      ],
+      "postedAt": "2026-08-20T00:30:32.000Z",
+      "url": "https://www.arbeitnow.co.uk/jobs/companies/emplyfy/remote-nominee-director-corporate-compliance-chalkhouse-green-291434"
+    },
+    {
+      "id": "arbeitnow-remote-nominee-director-uk-representation-chalkhouse-green-413946",
+      "title": "Nominee Director – UK Representation",
+      "company": "Emplyfy",
+      "platform": "Arbeitnow",
+      "location": "Remote job",
+      "salary": "Competitive",
+      "type": "Full-time",
+      "tags": [
+        "Nominee Director",
+        "Remote"
+      ],
+      "postedAt": "2026-08-20T00:30:32.000Z",
+      "url": "https://www.arbeitnow.co.uk/jobs/companies/emplyfy/remote-nominee-director-uk-representation-chalkhouse-green-413946"
     }
   ]
 }
