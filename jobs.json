@@ -1,6 +1,64 @@
 {
-  "lastUpdated": "2026-08-20T07:00:18.184Z",
+  "lastUpdated": "2026-08-20T08:06:19.975Z",
   "jobs": [
+    {
+      "id": "remoteok-1137006",
+      "title": "Store Manager",
+      "company": "JACK &amp; JONES",
+      "platform": "RemoteOK",
+      "location": "Aberdeen, ",
+      "salary": "Competitive",
+      "type": "Full-time",
+      "tags": [
+        "education",
+        "supervisor",
+        "exec",
+        "virtual assistant",
+        "ops",
+        "senior",
+        "golang",
+        "medical",
+        "engineer",
+        "design",
+        "sys admin",
+        "infosec",
+        "python",
+        "technical",
+        "customer support",
+        "testing",
+        "finance",
+        "math",
+        "admin",
+        "microsoft",
+        "digital nomad",
+        "marketing",
+        "scheme",
+        "mobile",
+        "sales",
+        "recruiter",
+        "junior"
+      ],
+      "postedAt": "2026-08-18T19:42:52+00:00",
+      "url": "https://remoteOK.com/remote-jobs/remote-store-manager-jack-amp-jones-1137006"
+    },
+    {
+      "id": "remoteok-1137002",
+      "title": "Bellboy",
+      "company": "The Chedi LuÅ¡tica Bay",
+      "platform": "RemoteOK",
+      "location": "Tivat, ",
+      "salary": "Competitive",
+      "type": "Full-time",
+      "tags": [
+        "education",
+        "supervisor",
+        "exec",
+        "virtual assistant",
+        "ops"
+      ],
+      "postedAt": "2026-08-18T18:26:17+00:00",
+      "url": "https://remoteOK.com/remote-jobs/remote-bellboy-the-chedi-lustica-bay-1137002"
+    },
     {
       "id": "remoteok-1136981",
       "title": "General Cleaner Caribe Hilton",
@@ -902,52 +960,6 @@
       ],
       "postedAt": "2026-08-13T08:10:05+00:00",
       "url": "https://remoteOK.com/remote-jobs/remote-store-manager-macpac-adelaide-airport-macpac-ltd-1136707"
-    },
-    {
-      "id": "remoteok-1136789",
-      "title": "Facilities Planner",
-      "company": "Booz Allen Hamilton",
-      "platform": "RemoteOK",
-      "location": "é£è¦é½å¸é¨, ",
-      "salary": "Competitive",
-      "type": "Full-time",
-      "tags": [
-        "infosec",
-        "javascript",
-        "technical",
-        "exec",
-        "sys admin",
-        "customer support",
-        "web dev",
-        "virtual assistant",
-        "video",
-        "api",
-        "ops",
-        "marketing",
-        "engineer",
-        "ecommerce",
-        "education",
-        "consulting",
-        "testing",
-        "analyst",
-        "design",
-        "digital nomad",
-        "hr",
-        "dev",
-        "payroll",
-        "finance",
-        "content writing",
-        "junior",
-        "travel",
-        "excel",
-        "microsoft",
-        "senior",
-        "medical",
-        "full time",
-        "part time"
-      ],
-      "postedAt": "2026-08-13T02:09:24+00:00",
-      "url": "https://remoteOK.com/remote-jobs/remote-facilities-planner-booz-allen-hamilton-1136789"
     },
     {
       "id": "jobicy-151169",
@@ -1989,6 +2001,90 @@
       "url": "https://jobicy.com/jobs/151083-business-operations-manager-customer-success"
     },
     {
+      "id": "arbeitnow-senior-lifecycle-marketing-manager-london-252371",
+      "title": "Senior Lifecycle Marketing Manager",
+      "company": "Realtimeboardglobal",
+      "platform": "Arbeitnow",
+      "location": "London",
+      "salary": "Competitive",
+      "type": "Full-time",
+      "tags": [
+        "Lifecycle"
+      ],
+      "postedAt": "2026-08-20T06:55:23.000Z",
+      "url": "https://www.arbeitnow.co.uk/jobs/companies/realtimeboardglobal/senior-lifecycle-marketing-manager-london-252371"
+    },
+    {
+      "id": "arbeitnow-senior-manager-development-remote-us-or-uk-109670",
+      "title": "Senior Manager, Development (Remote - US or UK)",
+      "company": "Resolvetosavelives",
+      "platform": "Arbeitnow",
+      "location": "Remote",
+      "salary": "Competitive",
+      "type": "Full-time",
+      "tags": [
+        "Development"
+      ],
+      "postedAt": "2026-08-20T06:55:14.000Z",
+      "url": "https://www.arbeitnow.co.uk/jobs/companies/resolvetosavelives/senior-manager-development-remote-us-or-uk-109670"
+    },
+    {
+      "id": "arbeitnow-software-development-engineer-london-221132",
+      "title": "Software Development Engineer",
+      "company": "AnyVan",
+      "platform": "Arbeitnow",
+      "location": "London",
+      "salary": "Competitive",
+      "type": "Full-time",
+      "tags": [
+        "Technology"
+      ],
+      "postedAt": "2026-08-20T06:40:31.000Z",
+      "url": "https://www.arbeitnow.co.uk/jobs/companies/anyvan/software-development-engineer-london-221132"
+    },
+    {
+      "id": "arbeitnow-legal-engineer-product-specialist-in-house-london-72864",
+      "title": "Legal Engineer, Product Specialist (in-house)",
+      "company": "Harvey",
+      "platform": "Arbeitnow",
+      "location": "London",
+      "salary": "Competitive",
+      "type": "Full-time",
+      "tags": [
+        "Go to Market"
+      ],
+      "postedAt": "2026-08-20T06:40:19.000Z",
+      "url": "https://www.arbeitnow.co.uk/jobs/companies/harvey/legal-engineer-product-specialist-in-house-london-72864"
+    },
+    {
+      "id": "arbeitnow-legal-engineer-emea-funds-or-ip-london-493325",
+      "title": "Legal Engineer, EMEA (Funds or IP)",
+      "company": "Harvey",
+      "platform": "Arbeitnow",
+      "location": "London",
+      "salary": "Competitive",
+      "type": "Full-time",
+      "tags": [
+        "Go to Market"
+      ],
+      "postedAt": "2026-08-20T06:40:18.000Z",
+      "url": "https://www.arbeitnow.co.uk/jobs/companies/harvey/legal-engineer-emea-funds-or-ip-london-493325"
+    },
+    {
+      "id": "arbeitnow-graduate-applications-engineer-rental-and-rapid-response-stamford-england-320629",
+      "title": "Graduate Applications Engineer - Rental and Rapid Response",
+      "company": "Zeeco",
+      "platform": "Arbeitnow",
+      "location": "Stamford, England",
+      "salary": "Competitive",
+      "type": "Full-time",
+      "tags": [
+        "Applications Engineering"
+      ],
+      "postedAt": "2026-08-20T06:05:03.000Z",
+      "url": "https://www.arbeitnow.co.uk/jobs/companies/zeeco/graduate-applications-engineer-rental-and-rapid-response-stamford-england-320629"
+    },
+    {
       "id": "arbeitnow-associate-account-director-medical-communications-marketing-113535",
       "title": "Associate Account Director (Medical Communications & Marketing)",
       "company": "Realchemistry",
@@ -2115,6 +2211,54 @@
       "url": "https://www.arbeitnow.co.uk/jobs/companies/teneo/reputation-strategy-research-senior-consultant-london-493773"
     },
     {
+      "id": "jobicy-150046",
+      "title": "Senior Product Designer - Benefits Servicing",
+      "company": "Humana",
+      "platform": "Jobicy",
+      "location": "USA",
+      "salary": "Competitive",
+      "type": "Full-Time",
+      "tags": [],
+      "postedAt": "2026-08-20T03:50:03+00:00",
+      "url": "https://jobicy.com/jobs/150046-senior-product-designer-benefits-servicing"
+    },
+    {
+      "id": "jobicy-150341",
+      "title": "Manager, Customer Success Operations",
+      "company": "AlphaSense",
+      "platform": "Jobicy",
+      "location": "USA",
+      "salary": "Competitive",
+      "type": "Full-Time",
+      "tags": [],
+      "postedAt": "2026-08-20T03:45:06+00:00",
+      "url": "https://jobicy.com/jobs/150341-manager-customer-success-operations"
+    },
+    {
+      "id": "jobicy-150340",
+      "title": "Senior Manager, Customer Success Operations",
+      "company": "AlphaSense",
+      "platform": "Jobicy",
+      "location": "USA",
+      "salary": "Competitive",
+      "type": "Full-Time",
+      "tags": [],
+      "postedAt": "2026-08-20T03:45:04+00:00",
+      "url": "https://jobicy.com/jobs/150340-senior-manager-customer-success-operations"
+    },
+    {
+      "id": "jobicy-150339",
+      "title": "Senior Analyst, Customer Success Operations",
+      "company": "AlphaSense",
+      "platform": "Jobicy",
+      "location": "USA",
+      "salary": "Competitive",
+      "type": "Full-Time",
+      "tags": [],
+      "postedAt": "2026-08-20T03:45:03+00:00",
+      "url": "https://jobicy.com/jobs/150339-senior-analyst-customer-success-operations"
+    },
+    {
       "id": "arbeitnow-director-global-field-partner-marketing-london-130708",
       "title": "Director, Global Field & Partner Marketing",
       "company": "DeepL",
@@ -2197,6 +2341,18 @@
       ],
       "postedAt": "2026-08-20T03:40:06.000Z",
       "url": "https://www.arbeitnow.co.uk/jobs/companies/duck-duck-go/remote-senior-product-design-engineer-351077"
+    },
+    {
+      "id": "jobicy-146614",
+      "title": "Database Engineer",
+      "company": "Ruby Labs",
+      "platform": "Jobicy",
+      "location": "Europe,  Türkiye",
+      "salary": "Competitive",
+      "type": "Full-Time",
+      "tags": [],
+      "postedAt": "2026-08-20T03:35:03+00:00",
+      "url": "https://jobicy.com/jobs/146614-database-engineer"
     },
     {
       "id": "arbeitnow-engineering-manager-belfast-10808",
@@ -2832,156 +2988,6 @@
       ],
       "postedAt": "2026-08-19T20:55:17.000Z",
       "url": "https://www.arbeitnow.com/jobs/companies/cognite/senior-project-manager-370920"
-    },
-    {
-      "id": "arbeitnow-consultant-data-ai-digitale-transformation-public-sector-all-genders-mainz-215643",
-      "title": "Consultant Data & AI / Digitale Transformation Public Sector (all genders)",
-      "company": "Init Ag",
-      "platform": "Arbeitnow",
-      "location": "Mainz",
-      "salary": "Competitive",
-      "type": "Full-time",
-      "tags": [
-        "consulting",
-        "IT-Beratung",
-        "Digitalisierung",
-        "öffentliche Verwaltung",
-        "Beratung"
-      ],
-      "postedAt": "2026-08-19T20:30:32.000Z",
-      "url": "https://www.arbeitnow.com/jobs/companies/init-ag/consultant-data-ai-digitale-transformation-public-sector-all-genders-mainz-215643"
-    },
-    {
-      "id": "jobicy-151179",
-      "title": "Account Executive",
-      "company": "Boulevard",
-      "platform": "Jobicy",
-      "location": "USA",
-      "salary": "Competitive",
-      "type": "Full-Time",
-      "tags": [],
-      "postedAt": "2026-08-19T20:10:32+00:00",
-      "url": "https://jobicy.com/jobs/151179-account-executive-6"
-    },
-    {
-      "id": "jobicy-151178",
-      "title": "Senior Fullstack Engineer",
-      "company": "Dispatch",
-      "platform": "Jobicy",
-      "location": "USA",
-      "salary": "Competitive",
-      "type": "Full-Time",
-      "tags": [],
-      "postedAt": "2026-08-19T20:10:11+00:00",
-      "url": "https://jobicy.com/jobs/151178-senior-fullstack-engineer-2"
-    },
-    {
-      "id": "jobicy-151177",
-      "title": "1 on 1 Math Tutor (Grades 5-8)",
-      "company": "Think Academy US",
-      "platform": "Jobicy",
-      "location": "Anywhere",
-      "salary": "Competitive",
-      "type": "Full-Time",
-      "tags": [],
-      "postedAt": "2026-08-19T20:09:52+00:00",
-      "url": "https://jobicy.com/jobs/151177-1-on-1-math-tutor-grades-5-8"
-    },
-    {
-      "id": "jobicy-151176",
-      "title": "Sr. Global Payroll Specialist",
-      "company": "Contentstack",
-      "platform": "Jobicy",
-      "location": "USA",
-      "salary": "Competitive",
-      "type": "Full-Time",
-      "tags": [],
-      "postedAt": "2026-08-19T20:09:35+00:00",
-      "url": "https://jobicy.com/jobs/151176-sr-global-payroll-specialist"
-    },
-    {
-      "id": "jobicy-151168",
-      "title": "Fullstack Engineer",
-      "company": "Monks",
-      "platform": "Jobicy",
-      "location": "LATAM,  Brazil",
-      "salary": "Competitive",
-      "type": "Full-Time",
-      "tags": [],
-      "postedAt": "2026-08-19T19:31:00+00:00",
-      "url": "https://jobicy.com/jobs/151168-fullstack-engineer"
-    },
-    {
-      "id": "jobicy-151167",
-      "title": "Growth Account Director, Enterprise",
-      "company": "Demandbase, Inc.",
-      "platform": "Jobicy",
-      "location": "USA",
-      "salary": "Competitive",
-      "type": "Full-Time",
-      "tags": [],
-      "postedAt": "2026-08-19T19:30:58+00:00",
-      "url": "https://jobicy.com/jobs/151167-growth-account-director-enterprise"
-    },
-    {
-      "id": "jobicy-151164",
-      "title": "Director of Product Marketing",
-      "company": "ActiveCampaign",
-      "platform": "Jobicy",
-      "location": "USA",
-      "salary": "Competitive",
-      "type": "Full-Time",
-      "tags": [],
-      "postedAt": "2026-08-19T19:30:52+00:00",
-      "url": "https://jobicy.com/jobs/151164-director-of-product-marketing"
-    },
-    {
-      "id": "jobicy-151163",
-      "title": "Enterprise Growth Account Director – Financial Services",
-      "company": "Demandbase, Inc.",
-      "platform": "Jobicy",
-      "location": "USA",
-      "salary": "Competitive",
-      "type": "Full-Time",
-      "tags": [],
-      "postedAt": "2026-08-19T19:30:50+00:00",
-      "url": "https://jobicy.com/jobs/151163-enterprise-growth-account-director-financial-services"
-    },
-    {
-      "id": "jobicy-151162",
-      "title": "Sr. Manager, Product Marketing (Fintech) - US",
-      "company": "Jobber",
-      "platform": "Jobicy",
-      "location": "USA",
-      "salary": "Competitive",
-      "type": "Full-Time",
-      "tags": [],
-      "postedAt": "2026-08-19T19:30:48+00:00",
-      "url": "https://jobicy.com/jobs/151162-sr-manager-product-marketing-fintech-us"
-    },
-    {
-      "id": "jobicy-151160",
-      "title": "Director, Revenue Operations",
-      "company": "Qventus",
-      "platform": "Jobicy",
-      "location": "USA",
-      "salary": "Competitive",
-      "type": "Full-Time",
-      "tags": [],
-      "postedAt": "2026-08-19T19:11:17+00:00",
-      "url": "https://jobicy.com/jobs/151160-director-revenue-operations"
-    },
-    {
-      "id": "jobicy-151159",
-      "title": "Principal Engineer - Platform & Data",
-      "company": "Masabi",
-      "platform": "Jobicy",
-      "location": "UK",
-      "salary": "Competitive",
-      "type": "Full-Time",
-      "tags": [],
-      "postedAt": "2026-08-19T19:11:15+00:00",
-      "url": "https://jobicy.com/jobs/151159-principal-engineer-platform-data"
     }
   ]
 }
