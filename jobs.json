@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-08-22T07:36:36.707Z",
+  "lastUpdated": "2026-08-22T08:37:26.468Z",
   "jobs": [
     {
       "id": "remoteok-1137043",
@@ -792,18 +792,6 @@
       "url": "https://jobicy.com/jobs/147135-customer-support-manager"
     },
     {
-      "id": "jobicy-149437",
-      "title": "Customer Service Rep Up to 19/hour - No Degree Needed",
-      "company": "NoGigiddy",
-      "platform": "Jobicy",
-      "location": "USA",
-      "salary": "Competitive",
-      "type": "Full-Time",
-      "tags": [],
-      "postedAt": "2026-08-21T03:35:03+00:00",
-      "url": "https://jobicy.com/jobs/149437-customer-service-rep-up-to-19-hour-no-degree-needed"
-    },
-    {
       "id": "remoteok-1137037",
       "title": "Open positions",
       "company": "UzEats",
@@ -817,18 +805,6 @@
       ],
       "postedAt": "2026-08-21T03:25:38+00:00",
       "url": "https://remoteOK.com/remote-jobs/remote-open-positions-uzeats-1137037"
-    },
-    {
-      "id": "jobicy-149454",
-      "title": "Senior Customer Support Engineer (Tier 3), Customer Escalations",
-      "company": "Tailscale",
-      "platform": "Jobicy",
-      "location": "UK",
-      "salary": "Competitive",
-      "type": "Full-Time",
-      "tags": [],
-      "postedAt": "2026-08-21T03:25:07+00:00",
-      "url": "https://jobicy.com/jobs/149454-senior-customer-support-engineer-tier-3-customer-escalations"
     },
     {
       "id": "remoteok-1137055",
@@ -1109,6 +1085,23 @@
       ],
       "postedAt": "2026-08-19T10:58:55+00:00",
       "url": "https://remoteOK.com/remote-jobs/remote-general-physician-srikara-hospitals-1136993"
+    },
+    {
+      "id": "remoteok-1137067",
+      "title": "Justice Officer Grounds and Services",
+      "company": "Department of Justice and Community Safety, Victoria",
+      "platform": "RemoteOK",
+      "location": "Geelong, ",
+      "salary": "Competitive",
+      "type": "Full-time",
+      "tags": [
+        "customer support",
+        "exec",
+        "recruiter",
+        "full time"
+      ],
+      "postedAt": "2026-08-19T06:53:38+00:00",
+      "url": "https://remoteOK.com/remote-jobs/remote-justice-officer-grounds-and-services-department-of-justice-and-community-safety-victoria-1137067"
     },
     {
       "id": "remoteok-1136968",
@@ -1864,34 +1857,6 @@
       "url": "https://www.arbeitnow.co.uk/jobs/companies/deliveroo/senior-strategy-operations-manager-london-357631"
     },
     {
-      "id": "arbeitnow-strategy-operations-manager-payments-risk-fraud-london-495924",
-      "title": "Strategy & Operations Manager - Payments Risk & Fraud",
-      "company": "Deliveroo",
-      "platform": "Arbeitnow",
-      "location": "London - The River Building HQ",
-      "salary": "Competitive",
-      "type": "Full-time",
-      "tags": [
-        "All Cost Centers"
-      ],
-      "postedAt": "2026-08-21T12:40:22.000Z",
-      "url": "https://www.arbeitnow.co.uk/jobs/companies/deliveroo/strategy-operations-manager-payments-risk-fraud-london-495924"
-    },
-    {
-      "id": "arbeitnow-strategy-operations-manager-emerging-fraud-abuse-london-101573",
-      "title": "Strategy & Operations Manager – Emerging Fraud & Abuse",
-      "company": "Deliveroo",
-      "platform": "Arbeitnow",
-      "location": "London - The River Building HQ",
-      "salary": "Competitive",
-      "type": "Full-time",
-      "tags": [
-        "All Cost Centers"
-      ],
-      "postedAt": "2026-08-21T12:40:22.000Z",
-      "url": "https://www.arbeitnow.co.uk/jobs/companies/deliveroo/strategy-operations-manager-emerging-fraud-abuse-london-101573"
-    },
-    {
       "id": "remotive-2091104",
       "title": "Vice President, Technology & Digital Strategy",
       "company": "Shatterproof",
@@ -1929,6 +1894,48 @@
       "url": "https://remotive.com/remote-jobs/all-others/vice-president-technology-digital-strategy-2091104"
     },
     {
+      "id": "arbeitnow-data-privacy-lawyer-425462",
+      "title": "Data Privacy Lawyer",
+      "company": "Axiomtalentplatform",
+      "platform": "Arbeitnow",
+      "location": "Remote",
+      "salary": "Competitive",
+      "type": "Full-time",
+      "tags": [
+        "Lawyer"
+      ],
+      "postedAt": "2026-08-22T06:55:21.000Z",
+      "url": "https://www.arbeitnow.co.uk/jobs/companies/axiomtalentplatform/data-privacy-lawyer-425462"
+    },
+    {
+      "id": "arbeitnow-senior-back-end-engineer-contract-london-494867",
+      "title": "Senior Back End Engineer - Contract",
+      "company": "Flagstone",
+      "platform": "Arbeitnow",
+      "location": "London Office",
+      "salary": "Competitive",
+      "type": "Full-time",
+      "tags": [
+        "Engineering"
+      ],
+      "postedAt": "2026-08-22T06:40:22.000Z",
+      "url": "https://www.arbeitnow.co.uk/jobs/companies/flagstone/senior-back-end-engineer-contract-london-494867"
+    },
+    {
+      "id": "arbeitnow-director-of-solutions-engineering-emea-london-235327",
+      "title": "Director of Solutions Engineering - EMEA",
+      "company": "Airwallex",
+      "platform": "Arbeitnow",
+      "location": "UK - London",
+      "salary": "Competitive",
+      "type": "Full-time",
+      "tags": [
+        "Merchant Services"
+      ],
+      "postedAt": "2026-08-22T06:40:12.000Z",
+      "url": "https://www.arbeitnow.co.uk/jobs/companies/airwallex/director-of-solutions-engineering-emea-london-235327"
+    },
+    {
       "id": "arbeitnow-senior-account-executive-paris-france-amsterdam-netherlands-london-united-kingdom-366078",
       "title": "Senior Account Executive",
       "company": "blackforestlabs",
@@ -1941,6 +1948,162 @@
       ],
       "postedAt": "2026-08-22T05:55:05.000Z",
       "url": "https://www.arbeitnow.com/jobs/companies/blackforestlabs/senior-account-executive-paris-france-amsterdam-netherlands-london-united-kingdom-366078"
+    },
+    {
+      "id": "jobicy-151381",
+      "title": "Senior Manager, GTM Enablement",
+      "company": "NetBox Labs",
+      "platform": "Jobicy",
+      "location": "USA",
+      "salary": "Competitive",
+      "type": "Full-Time",
+      "tags": [],
+      "postedAt": "2026-08-22T04:34:17+00:00",
+      "url": "https://jobicy.com/jobs/151381-senior-manager-gtm-enablement"
+    },
+    {
+      "id": "jobicy-151380",
+      "title": "Associate Director, Clinical Operations/Country Manager",
+      "company": "Precision Medicine Group",
+      "platform": "Jobicy",
+      "location": "South Korea",
+      "salary": "Competitive",
+      "type": "Full-Time",
+      "tags": [],
+      "postedAt": "2026-08-22T04:34:00+00:00",
+      "url": "https://jobicy.com/jobs/151380-associate-director-clinical-operations-country-manager"
+    },
+    {
+      "id": "jobicy-151379",
+      "title": "Cloud Release Quality Manager",
+      "company": "Legion",
+      "platform": "Jobicy",
+      "location": "USA",
+      "salary": "Competitive",
+      "type": "Full-Time",
+      "tags": [],
+      "postedAt": "2026-08-22T04:33:47+00:00",
+      "url": "https://jobicy.com/jobs/151379-cloud-release-quality-manager"
+    },
+    {
+      "id": "jobicy-151376",
+      "title": "Solutions Engineer",
+      "company": "NetBox Labs",
+      "platform": "Jobicy",
+      "location": "USA",
+      "salary": "Competitive",
+      "type": "Full-Time",
+      "tags": [],
+      "postedAt": "2026-08-22T04:33:04+00:00",
+      "url": "https://jobicy.com/jobs/151376-solutions-engineer-2"
+    },
+    {
+      "id": "jobicy-151375",
+      "title": "Account Development Manager",
+      "company": "Precision Medicine Group",
+      "platform": "Jobicy",
+      "location": "LATAM,  Argentina,  Brazil,  Mexico",
+      "salary": "Competitive",
+      "type": "Full-Time",
+      "tags": [],
+      "postedAt": "2026-08-22T04:32:51+00:00",
+      "url": "https://jobicy.com/jobs/151375-account-development-manager"
+    },
+    {
+      "id": "jobicy-151374",
+      "title": "Chief Architect",
+      "company": "Legion",
+      "platform": "Jobicy",
+      "location": "USA",
+      "salary": "Competitive",
+      "type": "Full-Time",
+      "tags": [],
+      "postedAt": "2026-08-22T04:32:35+00:00",
+      "url": "https://jobicy.com/jobs/151374-chief-architect"
+    },
+    {
+      "id": "jobicy-151373",
+      "title": "Account Director",
+      "company": "Monks",
+      "platform": "Jobicy",
+      "location": "USA",
+      "salary": "Competitive",
+      "type": "Full-Time",
+      "tags": [],
+      "postedAt": "2026-08-22T04:32:21+00:00",
+      "url": "https://jobicy.com/jobs/151373-account-director-3"
+    },
+    {
+      "id": "jobicy-151372",
+      "title": "Account Executive | in Österreich",
+      "company": "DeepL",
+      "platform": "Jobicy",
+      "location": "Austria,  Switzerland",
+      "salary": "Competitive",
+      "type": "Full-Time",
+      "tags": [],
+      "postedAt": "2026-08-22T04:32:05+00:00",
+      "url": "https://jobicy.com/jobs/151372-account-executive-in-osterreich"
+    },
+    {
+      "id": "jobicy-151371",
+      "title": "Channel Account Manager",
+      "company": "NetBox Labs",
+      "platform": "Jobicy",
+      "location": "USA",
+      "salary": "Competitive",
+      "type": "Full-Time",
+      "tags": [],
+      "postedAt": "2026-08-22T04:30:04+00:00",
+      "url": "https://jobicy.com/jobs/151371-channel-account-manager"
+    },
+    {
+      "id": "jobicy-151370",
+      "title": "Clinical Assistant",
+      "company": "SWORD Health",
+      "platform": "Jobicy",
+      "location": "Portugal",
+      "salary": "Competitive",
+      "type": "Full-Time",
+      "tags": [],
+      "postedAt": "2026-08-22T04:29:50+00:00",
+      "url": "https://jobicy.com/jobs/151370-clinical-assistant"
+    },
+    {
+      "id": "jobicy-151369",
+      "title": "Staff Product Engineer",
+      "company": "Help Scout",
+      "platform": "Jobicy",
+      "location": "USA",
+      "salary": "Competitive",
+      "type": "Full-Time",
+      "tags": [],
+      "postedAt": "2026-08-22T04:29:37+00:00",
+      "url": "https://jobicy.com/jobs/151369-staff-product-engineer-2"
+    },
+    {
+      "id": "jobicy-151368",
+      "title": "Controls Engineer II",
+      "company": "ICON plc",
+      "platform": "Jobicy",
+      "location": "USA",
+      "salary": "Competitive",
+      "type": "Full-Time",
+      "tags": [],
+      "postedAt": "2026-08-22T04:29:24+00:00",
+      "url": "https://jobicy.com/jobs/151368-controls-engineer-ii"
+    },
+    {
+      "id": "jobicy-151367",
+      "title": "Account Executive",
+      "company": "Brafton",
+      "platform": "Jobicy",
+      "location": "Canada",
+      "salary": "Competitive",
+      "type": "Full-Time",
+      "tags": [],
+      "postedAt": "2026-08-22T04:29:09+00:00",
+      "url": "https://jobicy.com/jobs/151367-account-executive-10"
     },
     {
       "id": "jobicy-151365",
@@ -2656,174 +2819,6 @@
       "tags": [],
       "postedAt": "2026-08-21T15:58:46+00:00",
       "url": "https://jobicy.com/jobs/151340-senior-product-manager-field-ai"
-    },
-    {
-      "id": "jobicy-151339",
-      "title": "Cloud & ISV Alliances and Marketplaces Lead",
-      "company": "Keyfactor, Inc.",
-      "platform": "Jobicy",
-      "location": "USA",
-      "salary": "Competitive",
-      "type": "Full-Time",
-      "tags": [],
-      "postedAt": "2026-08-21T15:58:28+00:00",
-      "url": "https://jobicy.com/jobs/151339-cloud-isv-alliances-and-marketplaces-lead"
-    },
-    {
-      "id": "jobicy-151338",
-      "title": "Scout Junior Quality Coordinator - Spanish (Mexico)",
-      "company": "Welo Global",
-      "platform": "Jobicy",
-      "location": "Mexico",
-      "salary": "Competitive",
-      "type": "Full-Time",
-      "tags": [],
-      "postedAt": "2026-08-21T15:58:11+00:00",
-      "url": "https://jobicy.com/jobs/151338-scout-junior-quality-coordinator-spanish-mexico"
-    },
-    {
-      "id": "jobicy-151337",
-      "title": "Technical Lead Manager",
-      "company": "Homebound",
-      "platform": "Jobicy",
-      "location": "USA",
-      "salary": "Competitive",
-      "type": "Full-Time",
-      "tags": [],
-      "postedAt": "2026-08-21T15:57:55+00:00",
-      "url": "https://jobicy.com/jobs/151337-technical-lead-manager"
-    },
-    {
-      "id": "jobicy-151336",
-      "title": "Director of Business Development",
-      "company": "Hello Alice",
-      "platform": "Jobicy",
-      "location": "USA",
-      "salary": "Competitive",
-      "type": "Full-Time",
-      "tags": [],
-      "postedAt": "2026-08-21T15:57:37+00:00",
-      "url": "https://jobicy.com/jobs/151336-director-of-business-development"
-    },
-    {
-      "id": "jobicy-151335",
-      "title": "Account Executive, Commercial - Mid Market (Central / East)",
-      "company": "Smartsheet",
-      "platform": "Jobicy",
-      "location": "USA",
-      "salary": "Competitive",
-      "type": "Full-Time",
-      "tags": [],
-      "postedAt": "2026-08-21T15:57:21+00:00",
-      "url": "https://jobicy.com/jobs/151335-account-executive-commercial-mid-market-central-east"
-    },
-    {
-      "id": "jobicy-151334",
-      "title": "Channel Account Director",
-      "company": "Keyfactor, Inc.",
-      "platform": "Jobicy",
-      "location": "Netherlands,  Sweden",
-      "salary": "Competitive",
-      "type": "Full-Time",
-      "tags": [],
-      "postedAt": "2026-08-21T15:57:02+00:00",
-      "url": "https://jobicy.com/jobs/151334-channel-account-director"
-    },
-    {
-      "id": "jobicy-151333",
-      "title": "Scout Junior Quality Coordinator - Portuguese (Brazil)",
-      "company": "Welo Global",
-      "platform": "Jobicy",
-      "location": "Brazil",
-      "salary": "Competitive",
-      "type": "Full-Time",
-      "tags": [],
-      "postedAt": "2026-08-21T15:56:44+00:00",
-      "url": "https://jobicy.com/jobs/151333-scout-junior-quality-coordinator-portuguese-brazil"
-    },
-    {
-      "id": "arbeitnow-senior-online-merchandiser-6-month-ftc-london-6443",
-      "title": "Senior Online Merchandiser - 6 Month FTC",
-      "company": "dept",
-      "platform": "Arbeitnow",
-      "location": "London",
-      "salary": "Competitive",
-      "type": "Full-time",
-      "tags": [
-        "Merchandising"
-      ],
-      "postedAt": "2026-08-21T15:56:04.000Z",
-      "url": "https://www.arbeitnow.co.uk/jobs/companies/dept/senior-online-merchandiser-6-month-ftc-london-6443"
-    },
-    {
-      "id": "arbeitnow-director-of-data-payments-cardiff-339567",
-      "title": "Director of Data, Payments",
-      "company": "Monzo",
-      "platform": "Arbeitnow",
-      "location": "Cardiff",
-      "salary": "Competitive",
-      "type": "Full-time",
-      "tags": [
-        "Data"
-      ],
-      "postedAt": "2026-08-21T15:55:09.000Z",
-      "url": "https://www.arbeitnow.co.uk/jobs/companies/monzo/director-of-data-payments-cardiff-339567"
-    },
-    {
-      "id": "arbeitnow-credit-risk-director-cardiff-483911",
-      "title": "Credit Risk Director",
-      "company": "Monzo",
-      "platform": "Arbeitnow",
-      "location": "Cardiff",
-      "salary": "Competitive",
-      "type": "Full-time",
-      "tags": [
-        "Borrowing"
-      ],
-      "postedAt": "2026-08-21T15:55:09.000Z",
-      "url": "https://www.arbeitnow.co.uk/jobs/companies/monzo/credit-risk-director-cardiff-483911"
-    },
-    {
-      "id": "arbeitnow-security-engineer-product-london-421812",
-      "title": "Security Engineer - Product",
-      "company": "Wizinc",
-      "platform": "Arbeitnow",
-      "location": "London",
-      "salary": "Competitive",
-      "type": "Full-time",
-      "tags": [
-        "Product Security"
-      ],
-      "postedAt": "2026-08-21T15:55:09.000Z",
-      "url": "https://www.arbeitnow.co.uk/jobs/companies/wizinc/security-engineer-product-london-421812"
-    },
-    {
-      "id": "arbeitnow-senior-regulatory-officer-uk-eu-thg-nutrition-manchester-165000",
-      "title": "Senior Regulatory Officer (UK/EU) - THG Nutrition",
-      "company": "Thehutgroup",
-      "platform": "Arbeitnow",
-      "location": "Manchester",
-      "salary": "Competitive",
-      "type": "Full-time",
-      "tags": [
-        "THG Nutrition"
-      ],
-      "postedAt": "2026-08-21T15:55:07.000Z",
-      "url": "https://www.arbeitnow.co.uk/jobs/companies/thehutgroup/senior-regulatory-officer-uk-eu-thg-nutrition-manchester-165000"
-    },
-    {
-      "id": "arbeitnow-associate-director-platform-engineering-london-467941",
-      "title": "Associate Director, Platform Engineering",
-      "company": "Relationrx",
-      "platform": "Arbeitnow",
-      "location": "London",
-      "salary": "Competitive",
-      "type": "Full-time",
-      "tags": [
-        "Engineering"
-      ],
-      "postedAt": "2026-08-21T15:40:21.000Z",
-      "url": "https://www.arbeitnow.co.uk/jobs/companies/relationrx/associate-director-platform-engineering-london-467941"
     }
   ]
 }
