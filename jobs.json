@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-08-23T15:28:20.121Z",
+  "lastUpdated": "2026-08-23T15:51:55.955Z",
   "jobs": [
     {
       "id": "remoteok-1137043",
@@ -1734,6 +1734,37 @@
       "url": "https://remotive.com/remote-jobs/all-others/vice-president-technology-digital-strategy-2091104"
     },
     {
+      "id": "arbeitnow-security-architect-london-496869",
+      "title": "Security Architect",
+      "company": "Intelance",
+      "platform": "Arbeitnow",
+      "location": "London",
+      "salary": "Competitive",
+      "type": "Full-time",
+      "tags": [
+        "Remote",
+        "IT Security"
+      ],
+      "postedAt": "2026-08-23T15:00:45.000Z",
+      "url": "https://www.arbeitnow.co.uk/jobs/companies/intelance/security-architect-london-496869"
+    },
+    {
+      "id": "arbeitnow-oracle-technical-architect-london-179390",
+      "title": "Oracle Technical Architect",
+      "company": "Intelance",
+      "platform": "Arbeitnow",
+      "location": "London",
+      "salary": "Competitive",
+      "type": "Full-time",
+      "tags": [
+        "Remote",
+        "SAP/ERP Consulting",
+        "Development"
+      ],
+      "postedAt": "2026-08-23T15:00:44.000Z",
+      "url": "https://www.arbeitnow.co.uk/jobs/companies/intelance/oracle-technical-architect-london-179390"
+    },
+    {
       "id": "arbeitnow-senior-growth-manager-contract-207657",
       "title": "Senior Growth Manager (Contract)",
       "company": "reddit",
@@ -2051,24 +2082,6 @@
       "tags": [],
       "postedAt": "2026-08-23T05:10:04+00:00",
       "url": "https://jobicy.com/jobs/149590-regional-director-enterprise-2"
-    },
-    {
-      "id": "arbeitnow-senior-project-manager-post-merger-integration-bremen-306225",
-      "title": "(Senior) Project Manager Post Merger Integration [m/w/d]",
-      "company": "GBC Group",
-      "platform": "Arbeitnow",
-      "location": "Bremen",
-      "salary": "Competitive",
-      "type": "Full-time",
-      "tags": [
-        "Post Merger",
-        "Post Merger Integration",
-        "Projektmanagement",
-        "Prozessmanagement",
-        "Management Consulting"
-      ],
-      "postedAt": "2026-08-23T05:09:46.000Z",
-      "url": "https://www.arbeitnow.com/jobs/companies/gbc-group/senior-project-manager-post-merger-integration-bremen-306225"
     },
     {
       "id": "jobicy-149596",
@@ -2449,34 +2462,6 @@
       "url": "https://www.arbeitnow.co.uk/jobs/companies/dex/growth-lead-lifecycle-crm-london-352780"
     },
     {
-      "id": "arbeitnow-senior-maintenance-manager-all-genders-barleben-saxony-anhalt-magdeburg-saxony-anhalt-37564",
-      "title": "Senior Maintenance Manager (all genders)",
-      "company": "hellofresh",
-      "platform": "Arbeitnow",
-      "location": "Barleben, Saxony-Anhalt; Magdeburg, Saxony-Anhalt",
-      "salary": "Competitive",
-      "type": "Full-time",
-      "tags": [
-        "Supply Chain Management & Operations"
-      ],
-      "postedAt": "2026-08-22T23:55:11.000Z",
-      "url": "https://www.arbeitnow.com/jobs/companies/hellofresh/senior-maintenance-manager-all-genders-barleben-saxony-anhalt-magdeburg-saxony-anhalt-37564"
-    },
-    {
-      "id": "arbeitnow-senior-maintenance-manager-all-genders-barleben-saxony-anhalt-magdeburg-saxony-anhalt-117257",
-      "title": "Senior Maintenance Manager (all genders)",
-      "company": "hellofresh",
-      "platform": "Arbeitnow",
-      "location": "Barleben, Saxony-Anhalt; Magdeburg, Saxony-Anhalt",
-      "salary": "Competitive",
-      "type": "Full-time",
-      "tags": [
-        "Supply Chain Management & Operations"
-      ],
-      "postedAt": "2026-08-22T23:55:11.000Z",
-      "url": "https://www.arbeitnow.com/jobs/companies/hellofresh/senior-maintenance-manager-all-genders-barleben-saxony-anhalt-magdeburg-saxony-anhalt-117257"
-    },
-    {
       "id": "arbeitnow-senior-account-executive-insurance-saas-background-480207",
       "title": "Senior Account Executive - Insurance & SaaS background",
       "company": "Shifttechnology",
@@ -2773,6 +2758,18 @@
       "tags": [],
       "postedAt": "2026-08-22T17:05:02+00:00",
       "url": "https://jobicy.com/jobs/149561-engineering-manager-data-platform"
+    },
+    {
+      "id": "jobicy-149564",
+      "title": "Security Risk Management Specialist",
+      "company": "Canonical Ltd.",
+      "platform": "Jobicy",
+      "location": "Anywhere",
+      "salary": "Competitive",
+      "type": "Full-Time",
+      "tags": [],
+      "postedAt": "2026-08-22T17:00:08+00:00",
+      "url": "https://jobicy.com/jobs/149564-security-risk-management-specialist"
     }
   ]
 }
