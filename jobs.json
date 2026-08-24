@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-08-24T15:10:56.945Z",
+  "lastUpdated": "2026-08-24T16:04:51.403Z",
   "jobs": [
     {
       "id": "remoteok-1137043",
@@ -1656,6 +1656,18 @@
       "url": "https://remotive.com/remote-jobs/all-others/vice-president-technology-digital-strategy-2091104"
     },
     {
+      "id": "arbeitnow-cyber-security-engineer-ii-london-452112",
+      "title": "Cyber Security Engineer II",
+      "company": "Ping Identity",
+      "platform": "Arbeitnow",
+      "location": "London, England, United Kingdom",
+      "salary": "Competitive",
+      "type": "Full-time",
+      "tags": [],
+      "postedAt": "2026-08-24T14:45:27.000Z",
+      "url": "https://www.arbeitnow.co.uk/jobs/companies/ping-identity/cyber-security-engineer-ii-london-452112"
+    },
+    {
       "id": "arbeitnow-senior-applied-research-engineer-video-london-202817",
       "title": "Senior Applied Research Engineer - Video",
       "company": "Synthesia",
@@ -1912,48 +1924,6 @@
       ],
       "postedAt": "2026-08-24T09:04:41.000Z",
       "url": "https://www.arbeitnow.co.uk/jobs/companies/numan/lead-product-manager-healthcare-categories-london-226152"
-    },
-    {
-      "id": "arbeitnow-steuerfachangestellte-r-mit-schwerpunkt-buchhaltung-giessen-118067",
-      "title": "Steuerfachangestellte/r mit Schwerpunkt Buchhaltung",
-      "company": "BINGMANN & Partner mbB | Mein Steuerladen",
-      "platform": "Arbeitnow",
-      "location": "Giessen",
-      "salary": "Competitive",
-      "type": "Full-time",
-      "tags": [
-        "Finance"
-      ],
-      "postedAt": "2026-08-24T09:00:27.000Z",
-      "url": "https://www.arbeitnow.com/jobs/companies/bingmann-partner-mbb-mein-steuerladen/steuerfachangestellte-r-mit-schwerpunkt-buchhaltung-giessen-118067"
-    },
-    {
-      "id": "arbeitnow-ux-designer-figma-eschborn-378017",
-      "title": "UX Designer (Figma)",
-      "company": "Market Cloud",
-      "platform": "Arbeitnow",
-      "location": "Eschborn",
-      "salary": "Competitive",
-      "type": "Full-time",
-      "tags": [
-        "Graphic Arts and Communication Design"
-      ],
-      "postedAt": "2026-08-24T08:30:35.000Z",
-      "url": "https://www.arbeitnow.com/jobs/companies/market-cloud/ux-designer-figma-eschborn-378017"
-    },
-    {
-      "id": "arbeitnow-referent-gn-private-banking-team-furstenfeldbruck-260169",
-      "title": "Referent *(gn) Private Banking Team",
-      "company": "Volksbank Raiffeisenbank Fürstenfeldbruck eG",
-      "platform": "Arbeitnow",
-      "location": "Fürstenfeldbruck",
-      "salary": "Competitive",
-      "type": "Full-time",
-      "tags": [
-        "Finance"
-      ],
-      "postedAt": "2026-08-24T08:30:34.000Z",
-      "url": "https://www.arbeitnow.com/jobs/companies/volksbank-raiffeisenbank-furstenfeldbruck-eg/referent-gn-private-banking-team-furstenfeldbruck-260169"
     },
     {
       "id": "arbeitnow-technical-operations-analyst-london-33766",
@@ -2731,6 +2701,36 @@
       ],
       "postedAt": "2026-08-23T10:30:32.000Z",
       "url": "https://www.arbeitnow.co.uk/jobs/companies/authorityinc/telecommunications-expert-united-kingdom-london-81255"
+    },
+    {
+      "id": "arbeitnow-ai-data-expert-united-kingdom-london-410090",
+      "title": "AI & Data Expert (United Kingdom)",
+      "company": "Authority.inc",
+      "platform": "Arbeitnow",
+      "location": "London",
+      "salary": "Competitive",
+      "type": "Full-time",
+      "tags": [
+        "Remote",
+        "Data Scientist"
+      ],
+      "postedAt": "2026-08-23T10:30:32.000Z",
+      "url": "https://www.arbeitnow.co.uk/jobs/companies/authorityinc/ai-data-expert-united-kingdom-london-410090"
+    },
+    {
+      "id": "arbeitnow-cybersecurity-expert-united-kingdom-london-123844",
+      "title": "Cybersecurity Expert (United Kingdom)",
+      "company": "Authority.inc",
+      "platform": "Arbeitnow",
+      "location": "London",
+      "salary": "Competitive",
+      "type": "Full-time",
+      "tags": [
+        "Remote",
+        "IT Security"
+      ],
+      "postedAt": "2026-08-23T10:30:32.000Z",
+      "url": "https://www.arbeitnow.co.uk/jobs/companies/authorityinc/cybersecurity-expert-united-kingdom-london-123844"
     }
   ]
 }
