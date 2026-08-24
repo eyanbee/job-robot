@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-08-24T03:09:45.972Z",
+  "lastUpdated": "2026-08-24T04:22:39.072Z",
   "jobs": [
     {
       "id": "remoteok-1137043",
@@ -1630,20 +1630,6 @@
       "url": "https://remoteOK.com/remote-jobs/remote-consultant-implementation-engineer-harbor-1136987"
     },
     {
-      "id": "arbeitnow-junior-talent-acquisition-manager-375354",
-      "title": "Junior Talent Acquisition Manager (f/m/d)",
-      "company": "Think Cell",
-      "platform": "Arbeitnow",
-      "location": "Remote",
-      "salary": "Competitive",
-      "type": "Full-time",
-      "tags": [
-        "People"
-      ],
-      "postedAt": "2026-08-23T17:55:11.000Z",
-      "url": "https://www.arbeitnow.com/jobs/companies/think-cell/junior-talent-acquisition-manager-375354"
-    },
-    {
       "id": "arbeitnow-associate-talent-acquisition-london-69674",
       "title": "Associate, Talent Acquisition",
       "company": "Bjak",
@@ -2107,48 +2093,6 @@
       "url": "https://jobicy.com/jobs/149030-senior-customer-success-manager-quora"
     },
     {
-      "id": "arbeitnow-senior-product-designer-67298",
-      "title": "Senior Product Designer (f/m/d)",
-      "company": "Think Cell",
-      "platform": "Arbeitnow",
-      "location": "Remote",
-      "salary": "Competitive",
-      "type": "Full-time",
-      "tags": [
-        "Product"
-      ],
-      "postedAt": "2026-08-23T17:55:11.000Z",
-      "url": "https://www.arbeitnow.com/jobs/companies/think-cell/senior-product-designer-67298"
-    },
-    {
-      "id": "arbeitnow-senior-financial-accountant-248547",
-      "title": "Senior Financial Accountant (f/m/d)",
-      "company": "Think Cell",
-      "platform": "Arbeitnow",
-      "location": "Remote",
-      "salary": "Competitive",
-      "type": "Full-time",
-      "tags": [
-        "Finance"
-      ],
-      "postedAt": "2026-08-23T17:55:11.000Z",
-      "url": "https://www.arbeitnow.com/jobs/companies/think-cell/senior-financial-accountant-248547"
-    },
-    {
-      "id": "arbeitnow-principal-product-manager-ai-product-393112",
-      "title": "Principal Product Manager (AI Product) (f/m/d)",
-      "company": "Think Cell",
-      "platform": "Arbeitnow",
-      "location": "Remote",
-      "salary": "Competitive",
-      "type": "Full-time",
-      "tags": [
-        "Product"
-      ],
-      "postedAt": "2026-08-23T17:55:11.000Z",
-      "url": "https://www.arbeitnow.com/jobs/companies/think-cell/principal-product-manager-ai-product-393112"
-    },
-    {
       "id": "jobicy-149873",
       "title": "Associate Billing Specialist - Portugal",
       "company": "Cloudbeds",
@@ -2159,18 +2103,6 @@
       "tags": [],
       "postedAt": "2026-08-23T17:30:04+00:00",
       "url": "https://jobicy.com/jobs/149873-associate-billing-specialist-portugal"
-    },
-    {
-      "id": "arbeitnow-working-student-all-genders-robust-feed-forward-3d-reconstruction-for-dynamic-scene-augsburg-38126",
-      "title": "Working Student (all genders) – Robust Feed-Forward 3D Reconstruction for Dynamic Scene",
-      "company": "Xitaso",
-      "platform": "Arbeitnow",
-      "location": "Augsburg",
-      "salary": "Competitive",
-      "type": "Full-time",
-      "tags": [],
-      "postedAt": "2026-08-23T17:09:42.000Z",
-      "url": "https://www.arbeitnow.com/jobs/companies/xitaso/working-student-all-genders-robust-feed-forward-3d-reconstruction-for-dynamic-scene-augsburg-38126"
     },
     {
       "id": "arbeitnow-account-executive-affiliate-marketing-london-manchester-newcastle-upon-tyne-353058",
@@ -2815,6 +2747,76 @@
       ],
       "postedAt": "2026-08-23T03:40:08.000Z",
       "url": "https://www.arbeitnow.co.uk/jobs/companies/deepgram/remote-solutions-architect-mena-58145"
+    },
+    {
+      "id": "arbeitnow-business-performance-manager-london-304056",
+      "title": "Business Performance Manager",
+      "company": "Bjak",
+      "platform": "Arbeitnow",
+      "location": "United Kingdom",
+      "salary": "Competitive",
+      "type": "Full-time",
+      "tags": [
+        "A1 CEO Office"
+      ],
+      "postedAt": "2026-08-23T00:40:27.000Z",
+      "url": "https://www.arbeitnow.co.uk/jobs/companies/bjak/business-performance-manager-london-304056"
+    },
+    {
+      "id": "arbeitnow-product-designer-ux-hci-london-272222",
+      "title": "Product Designer (UX), HCI",
+      "company": "Bjak",
+      "platform": "Arbeitnow",
+      "location": "United Kingdom",
+      "salary": "Competitive",
+      "type": "Full-time",
+      "tags": [
+        "A1 Product"
+      ],
+      "postedAt": "2026-08-23T00:40:27.000Z",
+      "url": "https://www.arbeitnow.co.uk/jobs/companies/bjak/product-designer-ux-hci-london-272222"
+    },
+    {
+      "id": "arbeitnow-lead-ux-designer-london-434627",
+      "title": "Lead UX Designer",
+      "company": "Bjak",
+      "platform": "Arbeitnow",
+      "location": "United Kingdom",
+      "salary": "Competitive",
+      "type": "Full-time",
+      "tags": [
+        "A1 Product"
+      ],
+      "postedAt": "2026-08-23T00:40:22.000Z",
+      "url": "https://www.arbeitnow.co.uk/jobs/companies/bjak/lead-ux-designer-london-434627"
+    },
+    {
+      "id": "arbeitnow-technical-recruiter-london-435367",
+      "title": "Technical Recruiter",
+      "company": "Bjak",
+      "platform": "Arbeitnow",
+      "location": "United Kingdom",
+      "salary": "Competitive",
+      "type": "Full-time",
+      "tags": [
+        "A1 HR"
+      ],
+      "postedAt": "2026-08-23T00:40:22.000Z",
+      "url": "https://www.arbeitnow.co.uk/jobs/companies/bjak/technical-recruiter-london-435367"
+    },
+    {
+      "id": "arbeitnow-communications-media-relations-manager-london-498079",
+      "title": "Communications & Media Relations Manager",
+      "company": "Bjak",
+      "platform": "Arbeitnow",
+      "location": "United Kingdom",
+      "salary": "Competitive",
+      "type": "Full-time",
+      "tags": [
+        "A1 CEO Office"
+      ],
+      "postedAt": "2026-08-23T00:40:22.000Z",
+      "url": "https://www.arbeitnow.co.uk/jobs/companies/bjak/communications-media-relations-manager-london-498079"
     }
   ]
 }
