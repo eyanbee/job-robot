@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-08-24T01:45:49.147Z",
+  "lastUpdated": "2026-08-24T03:09:45.972Z",
   "jobs": [
     {
       "id": "remoteok-1137043",
@@ -1747,6 +1747,47 @@
       "url": "https://remotive.com/remote-jobs/all-others/vice-president-technology-digital-strategy-2091104"
     },
     {
+      "id": "arbeitnow-senior-frontend-angular-developer-all-genders-mainz-375160",
+      "title": "Senior Frontend Angular Developer (all genders)",
+      "company": "Init Ag",
+      "platform": "Arbeitnow",
+      "location": "Mainz",
+      "salary": "Competitive",
+      "type": "Full-time",
+      "tags": [
+        "JavaScript",
+        "TypeScript",
+        "Angular",
+        "React",
+        "HTML5",
+        "CSS3",
+        "ES6",
+        "Atomic Design",
+        "BEM",
+        "Frontend"
+      ],
+      "postedAt": "2026-08-24T02:09:54.000Z",
+      "url": "https://www.arbeitnow.com/jobs/companies/init-ag/senior-frontend-angular-developer-all-genders-mainz-375160"
+    },
+    {
+      "id": "arbeitnow-consultant-data-ai-digitale-transformation-public-sector-all-genders-mainz-413151",
+      "title": "Consultant Data & AI / Digitale Transformation Public Sector (all genders)",
+      "company": "Init Ag",
+      "platform": "Arbeitnow",
+      "location": "Mainz",
+      "salary": "Competitive",
+      "type": "Full-time",
+      "tags": [
+        "consulting",
+        "IT-Beratung",
+        "Digitalisierung",
+        "öffentliche Verwaltung",
+        "Beratung"
+      ],
+      "postedAt": "2026-08-24T02:09:54.000Z",
+      "url": "https://www.arbeitnow.com/jobs/companies/init-ag/consultant-data-ai-digitale-transformation-public-sector-all-genders-mainz-413151"
+    },
+    {
       "id": "arbeitnow-senior-vtc-engineer-wiesbaden-ge-232085",
       "title": "Senior VTC Engineer",
       "company": "Redhorsecorp",
@@ -2774,34 +2815,6 @@
       ],
       "postedAt": "2026-08-23T03:40:08.000Z",
       "url": "https://www.arbeitnow.co.uk/jobs/companies/deepgram/remote-solutions-architect-mena-58145"
-    },
-    {
-      "id": "arbeitnow-business-performance-manager-london-304056",
-      "title": "Business Performance Manager",
-      "company": "Bjak",
-      "platform": "Arbeitnow",
-      "location": "United Kingdom",
-      "salary": "Competitive",
-      "type": "Full-time",
-      "tags": [
-        "A1 CEO Office"
-      ],
-      "postedAt": "2026-08-23T00:40:27.000Z",
-      "url": "https://www.arbeitnow.co.uk/jobs/companies/bjak/business-performance-manager-london-304056"
-    },
-    {
-      "id": "arbeitnow-product-designer-ux-hci-london-272222",
-      "title": "Product Designer (UX), HCI",
-      "company": "Bjak",
-      "platform": "Arbeitnow",
-      "location": "United Kingdom",
-      "salary": "Competitive",
-      "type": "Full-time",
-      "tags": [
-        "A1 Product"
-      ],
-      "postedAt": "2026-08-23T00:40:27.000Z",
-      "url": "https://www.arbeitnow.co.uk/jobs/companies/bjak/product-designer-ux-hci-london-272222"
     }
   ]
 }
