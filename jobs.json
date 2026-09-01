@@ -1,33 +1,6 @@
 {
-  "lastUpdated": "2026-09-01T01:59:47.714Z",
+  "lastUpdated": "2026-09-01T07:43:25.431Z",
   "jobs": [
-    {
-      "id": "remoteok-1137220",
-      "title": "Assistant Manager",
-      "company": "Clarks International",
-      "platform": "RemoteOK",
-      "location": "Oxford, ",
-      "salary": "Competitive",
-      "type": "Full-time",
-      "tags": [
-        "testing",
-        "sys admin",
-        "education",
-        "finance",
-        "scheme",
-        "non tech",
-        "customer support",
-        "marketing",
-        "admin",
-        "ops",
-        "exec",
-        "virtual assistant",
-        "microsoft",
-        "sales"
-      ],
-      "postedAt": "2026-08-30T03:30:16+00:00",
-      "url": "https://remoteOK.com/remote-jobs/remote-assistant-manager-clarks-international-1137220"
-    },
     {
       "id": "remoteok-1137221",
       "title": "Wireperson",
@@ -183,6 +156,27 @@
       "url": "https://remoteOK.com/remote-jobs/remote-residential-technician-the-abaco-club-1137096"
     },
     {
+      "id": "remoteok-1137231",
+      "title": "Cloud Computing",
+      "company": "Amazon Web Services (AWS)",
+      "platform": "RemoteOK",
+      "location": "Telangana, ",
+      "salary": "Competitive",
+      "type": "Full-time",
+      "tags": [
+        "education",
+        "exec",
+        "ops",
+        "engineer",
+        "amazon",
+        "web dev",
+        "cloud",
+        "aws"
+      ],
+      "postedAt": "2026-08-31T06:05:15+00:00",
+      "url": "https://remoteOK.com/remote-jobs/remote-cloud-computing-amazon-web-services-aws-1137231"
+    },
+    {
       "id": "remoteok-1137169",
       "title": "Programmatic Campaign Operations Specialist Trader",
       "company": "VirtuHire",
@@ -335,6 +329,28 @@
       ],
       "postedAt": "2026-08-31T23:40:03.000Z",
       "url": "https://www.arbeitnow.com/jobs/companies/gismart/remote-ai-automation-engineer-fitme-395989"
+    },
+    {
+      "id": "remoteok-1137227",
+      "title": "Manager Rewards Management",
+      "company": "Coca-Cola Cambodia Beverage Company Ltd",
+      "platform": "RemoteOK",
+      "location": "Phnom Penh, ",
+      "salary": "Competitive",
+      "type": "Full-time",
+      "tags": [
+        "exec",
+        "design",
+        "hr",
+        "infosec",
+        "customer support",
+        "payroll",
+        "finance",
+        "ops",
+        "digital nomad"
+      ],
+      "postedAt": "2026-08-31T07:32:20+00:00",
+      "url": "https://remoteOK.com/remote-jobs/remote-manager-rewards-management-coca-cola-cambodia-beverage-company-ltd-1137227"
     },
     {
       "id": "remoteok-1137228",
@@ -1080,6 +1096,20 @@
       "url": "https://remoteOK.com/remote-jobs/remote-dtp-operator-jobtrade-1137099"
     },
     {
+      "id": "arbeitnow-remote-recruitment-sourcer-385646",
+      "title": "Recruitment Sourcer",
+      "company": "Scorewarrior",
+      "platform": "Arbeitnow",
+      "location": "Remote",
+      "salary": "Competitive",
+      "type": "Full-time",
+      "tags": [
+        "Core"
+      ],
+      "postedAt": "2026-09-01T05:40:16.000Z",
+      "url": "https://www.arbeitnow.com/jobs/companies/scorewarrior/remote-recruitment-sourcer-385646"
+    },
+    {
       "id": "jobicy-152159",
       "title": "Manager, Global Talent Acquisition",
       "company": "Cloudbeds",
@@ -1090,6 +1120,20 @@
       "tags": [],
       "postedAt": "2026-08-31T05:10:57+00:00",
       "url": "https://jobicy.com/jobs/152159-manager-global-talent-acquisition"
+    },
+    {
+      "id": "arbeitnow-sap-developer-london-102030",
+      "title": "SAP Developer",
+      "company": "BLP Digital AG",
+      "platform": "Arbeitnow",
+      "location": "UK",
+      "salary": "Competitive",
+      "type": "Full-time",
+      "tags": [
+        "Project Management"
+      ],
+      "postedAt": "2026-09-01T06:40:08.000Z",
+      "url": "https://www.arbeitnow.co.uk/jobs/companies/blp-digital-ag/sap-developer-london-102030"
     },
     {
       "id": "jobicy-152169",
@@ -1139,6 +1183,197 @@
       ],
       "postedAt": "2026-08-20T09:54:55",
       "url": "https://remotive.com/remote-jobs/all-others/vice-president-technology-digital-strategy-2091104"
+    },
+    {
+      "id": "arbeitnow-senior-analytics-consultant-63946",
+      "title": "Senior Analytics Consultant",
+      "company": "Forter",
+      "platform": "Arbeitnow",
+      "location": "Remote",
+      "salary": "Competitive",
+      "type": "Full-time",
+      "tags": [
+        "Solutions Consulting"
+      ],
+      "postedAt": "2026-09-01T06:55:23.000Z",
+      "url": "https://www.arbeitnow.co.uk/jobs/companies/forter/senior-analytics-consultant-63946"
+    },
+    {
+      "id": "arbeitnow-senior-social-designer-12-month-ftc-london-333293",
+      "title": "Senior Social Designer - 12 month FTC",
+      "company": "oliver",
+      "platform": "Arbeitnow",
+      "location": "London",
+      "salary": "Competitive",
+      "type": "Full-time",
+      "tags": [
+        "Client Services/Account Management"
+      ],
+      "postedAt": "2026-09-01T06:55:20.000Z",
+      "url": "https://www.arbeitnow.co.uk/jobs/companies/oliver/senior-social-designer-12-month-ftc-london-333293"
+    },
+    {
+      "id": "arbeitnow-senior-growth-consultant-pm-programmatic-137695",
+      "title": "Senior Growth Consultant - PM (Programmatic)",
+      "company": "phiture2",
+      "platform": "Arbeitnow",
+      "location": "Remote",
+      "salary": "Competitive",
+      "type": "Full-time",
+      "tags": [
+        "Growth Marketing"
+      ],
+      "postedAt": "2026-09-01T03:55:05.000Z",
+      "url": "https://www.arbeitnow.co.uk/jobs/companies/phiture2/senior-growth-consultant-pm-programmatic-137695"
+    },
+    {
+      "id": "arbeitnow-senior-growth-consultant-crm-maternity-cover-178611",
+      "title": "Senior Growth Consultant - CRM – Maternity Cover",
+      "company": "phiture2",
+      "platform": "Arbeitnow",
+      "location": "Remote",
+      "salary": "Competitive",
+      "type": "Full-time",
+      "tags": [
+        "Growth Marketing"
+      ],
+      "postedAt": "2026-09-01T03:55:05.000Z",
+      "url": "https://www.arbeitnow.co.uk/jobs/companies/phiture2/senior-growth-consultant-crm-maternity-cover-178611"
+    },
+    {
+      "id": "arbeitnow-clinical-specialist-physiotherapist-manchester-203405",
+      "title": "Clinical Specialist - Physiotherapist",
+      "company": "Trexo Robotics",
+      "platform": "Arbeitnow",
+      "location": "Manchester",
+      "salary": "Competitive",
+      "type": "Full-time",
+      "tags": [
+        "Business Operations"
+      ],
+      "postedAt": "2026-09-01T03:40:09.000Z",
+      "url": "https://www.arbeitnow.co.uk/jobs/companies/trexo-robotics/clinical-specialist-physiotherapist-manchester-203405"
+    },
+    {
+      "id": "arbeitnow-chief-of-staff-london-47507",
+      "title": "Chief of Staff",
+      "company": "More In Common",
+      "platform": "Arbeitnow",
+      "location": "London",
+      "salary": "Competitive",
+      "type": "Full-time",
+      "tags": [],
+      "postedAt": "2026-09-01T03:09:56.000Z",
+      "url": "https://www.arbeitnow.co.uk/jobs/companies/more-in-common/chief-of-staff-london-47507"
+    },
+    {
+      "id": "arbeitnow-senior-om-asset-manager-europe-uk-london-194901",
+      "title": "Senior O&M Asset Manager - Europe",
+      "company": "Sungrow Emea",
+      "platform": "Arbeitnow",
+      "location": "UK - London",
+      "salary": "Competitive",
+      "type": "Full-time",
+      "tags": [
+        "Asset Management",
+        "PV",
+        "ESS",
+        "Renewable Energy",
+        "O&M",
+        "Solar",
+        "Energy Storage",
+        "Contract Management",
+        "Technical Oversight",
+        "Team Leadership",
+        "Europe",
+        "UK"
+      ],
+      "postedAt": "2026-09-01T03:09:46.000Z",
+      "url": "https://www.arbeitnow.co.uk/jobs/companies/sungrow-emea/senior-om-asset-manager-europe-uk-london-194901"
+    },
+    {
+      "id": "arbeitnow-enterprise-account-executive-82241",
+      "title": "Enterprise Account Executive",
+      "company": "Abnormalsecurity",
+      "platform": "Arbeitnow",
+      "location": "Remote",
+      "salary": "Competitive",
+      "type": "Full-time",
+      "tags": [
+        "Enterprise"
+      ],
+      "postedAt": "2026-09-01T02:55:07.000Z",
+      "url": "https://www.arbeitnow.com/jobs/companies/abnormalsecurity/enterprise-account-executive-82241"
+    },
+    {
+      "id": "arbeitnow-remote-language-lead-french-contract-94123",
+      "title": "Language Lead - French (Contract)",
+      "company": "Cartesia",
+      "platform": "Arbeitnow",
+      "location": "Remote",
+      "salary": "Competitive",
+      "type": "Full-time",
+      "tags": [
+        "Product"
+      ],
+      "postedAt": "2026-09-01T02:40:16.000Z",
+      "url": "https://www.arbeitnow.com/jobs/companies/cartesia/remote-language-lead-french-contract-94123"
+    },
+    {
+      "id": "arbeitnow-remote-language-lead-japanese-contract-350770",
+      "title": "Language Lead - Japanese (Contract)",
+      "company": "Cartesia",
+      "platform": "Arbeitnow",
+      "location": "Remote",
+      "salary": "Competitive",
+      "type": "Full-time",
+      "tags": [
+        "Product"
+      ],
+      "postedAt": "2026-09-01T02:40:16.000Z",
+      "url": "https://www.arbeitnow.com/jobs/companies/cartesia/remote-language-lead-japanese-contract-350770"
+    },
+    {
+      "id": "arbeitnow-remote-language-lead-hindi-contract-6988",
+      "title": "Language Lead - Hindi (Contract)",
+      "company": "Cartesia",
+      "platform": "Arbeitnow",
+      "location": "Remote",
+      "salary": "Competitive",
+      "type": "Full-time",
+      "tags": [
+        "Product"
+      ],
+      "postedAt": "2026-09-01T02:40:16.000Z",
+      "url": "https://www.arbeitnow.com/jobs/companies/cartesia/remote-language-lead-hindi-contract-6988"
+    },
+    {
+      "id": "arbeitnow-remote-language-lead-english-contract-488911",
+      "title": "Language Lead - English (Contract)",
+      "company": "Cartesia",
+      "platform": "Arbeitnow",
+      "location": "Remote",
+      "salary": "Competitive",
+      "type": "Full-time",
+      "tags": [
+        "Product"
+      ],
+      "postedAt": "2026-09-01T02:40:16.000Z",
+      "url": "https://www.arbeitnow.com/jobs/companies/cartesia/remote-language-lead-english-contract-488911"
+    },
+    {
+      "id": "arbeitnow-remote-initiative-application-448178",
+      "title": "Initiative Application",
+      "company": "Certa",
+      "platform": "Arbeitnow",
+      "location": "Remote",
+      "salary": "Competitive",
+      "type": "Full-time",
+      "tags": [
+        "Future Opportunities"
+      ],
+      "postedAt": "2026-09-01T02:40:13.000Z",
+      "url": "https://www.arbeitnow.com/jobs/companies/certa/remote-initiative-application-448178"
     },
     {
       "id": "arbeitnow-senior-security-engineer-117600",
@@ -2107,34 +2342,6 @@
       "url": "https://jobicy.com/jobs/152259-insights-editor"
     },
     {
-      "id": "arbeitnow-remote-software-development-engineers-in-test-python-130060",
-      "title": "Software Development Engineers in Test (Python)",
-      "company": "Xm",
-      "platform": "Arbeitnow",
-      "location": "Remote",
-      "salary": "Competitive",
-      "type": "Full-time",
-      "tags": [
-        "Quality Assurance"
-      ],
-      "postedAt": "2026-08-31T20:04:06.000Z",
-      "url": "https://www.arbeitnow.com/jobs/companies/xm/remote-software-development-engineers-in-test-python-130060"
-    },
-    {
-      "id": "arbeitnow-remote-qa-software-test-automation-engineers-java-204520",
-      "title": "QA Software Test Automation Engineers (Java)",
-      "company": "Xm",
-      "platform": "Arbeitnow",
-      "location": "Remote",
-      "salary": "Competitive",
-      "type": "Full-time",
-      "tags": [
-        "Quality Assurance"
-      ],
-      "postedAt": "2026-08-31T20:04:06.000Z",
-      "url": "https://www.arbeitnow.com/jobs/companies/xm/remote-qa-software-test-automation-engineers-java-204520"
-    },
-    {
       "id": "jobicy-152257",
       "title": "Director, Specialist Sales Engineering - Data Security",
       "company": "Zscaler",
@@ -2265,184 +2472,6 @@
       "tags": [],
       "postedAt": "2026-08-31T18:57:11+00:00",
       "url": "https://jobicy.com/jobs/152245-senior-trust-and-safety-manager"
-    },
-    {
-      "id": "jobicy-152244",
-      "title": "Forward Deployed Engineer",
-      "company": "Axiom",
-      "platform": "Jobicy",
-      "location": "USA",
-      "salary": "Competitive",
-      "type": "Full-Time",
-      "tags": [],
-      "postedAt": "2026-08-31T18:56:54+00:00",
-      "url": "https://jobicy.com/jobs/152244-forward-deployed-engineer"
-    },
-    {
-      "id": "jobicy-152243",
-      "title": "Senior Support Engineer",
-      "company": "Obsidian Security",
-      "platform": "Jobicy",
-      "location": "USA",
-      "salary": "Competitive",
-      "type": "Full-Time",
-      "tags": [],
-      "postedAt": "2026-08-31T18:56:37+00:00",
-      "url": "https://jobicy.com/jobs/152243-senior-support-engineer-2"
-    },
-    {
-      "id": "jobicy-152242",
-      "title": "Account Executive, SMB",
-      "company": "Tekmetric",
-      "platform": "Jobicy",
-      "location": "USA",
-      "salary": "Competitive",
-      "type": "Full-Time",
-      "tags": [],
-      "postedAt": "2026-08-31T18:56:19+00:00",
-      "url": "https://jobicy.com/jobs/152242-account-executive-smb-2"
-    },
-    {
-      "id": "jobicy-152241",
-      "title": "Mobile Phlebotomist",
-      "company": "Getlabs",
-      "platform": "Jobicy",
-      "location": "USA",
-      "salary": "Competitive",
-      "type": "Full-Time",
-      "tags": [],
-      "postedAt": "2026-08-31T18:56:01+00:00",
-      "url": "https://jobicy.com/jobs/152241-mobile-phlebotomist"
-    },
-    {
-      "id": "jobicy-152239",
-      "title": "Account Executive, Mid Market",
-      "company": "Tekmetric",
-      "platform": "Jobicy",
-      "location": "USA",
-      "salary": "Competitive",
-      "type": "Full-Time",
-      "tags": [],
-      "postedAt": "2026-08-31T18:55:30+00:00",
-      "url": "https://jobicy.com/jobs/152239-account-executive-mid-market-2"
-    },
-    {
-      "id": "jobicy-152238",
-      "title": "Business Strategy Analyst",
-      "company": "Getlabs",
-      "platform": "Jobicy",
-      "location": "USA",
-      "salary": "Competitive",
-      "type": "Full-Time",
-      "tags": [],
-      "postedAt": "2026-08-31T18:55:12+00:00",
-      "url": "https://jobicy.com/jobs/152238-business-strategy-analyst"
-    },
-    {
-      "id": "arbeitnow-remote-senior-professional-services-project-manager-emea-77475",
-      "title": "Senior Professional Services Project Manager (EMEA)",
-      "company": "gitlab",
-      "platform": "Arbeitnow",
-      "location": "Remote",
-      "salary": "Competitive",
-      "type": "Full-time",
-      "tags": [
-        "Consulting Delivery"
-      ],
-      "postedAt": "2026-08-31T18:55:07.000Z",
-      "url": "https://www.arbeitnow.co.uk/jobs/companies/gitlab/remote-senior-professional-services-project-manager-emea-77475"
-    },
-    {
-      "id": "jobicy-152237",
-      "title": "ZK Proof Engineer",
-      "company": "Axiom",
-      "platform": "Jobicy",
-      "location": "USA",
-      "salary": "Competitive",
-      "type": "Full-Time",
-      "tags": [],
-      "postedAt": "2026-08-31T18:54:54+00:00",
-      "url": "https://jobicy.com/jobs/152237-zk-proof-engineer"
-    },
-    {
-      "id": "arbeitnow-senior-data-scientist-product-london-207553",
-      "title": "Senior Data Scientist - Product",
-      "company": "Legora",
-      "platform": "Arbeitnow",
-      "location": "London",
-      "salary": "Competitive",
-      "type": "Full-time",
-      "tags": [
-        "Analytics"
-      ],
-      "postedAt": "2026-08-31T18:40:06.000Z",
-      "url": "https://www.arbeitnow.co.uk/jobs/companies/legora/senior-data-scientist-product-london-207553"
-    },
-    {
-      "id": "arbeitnow-associate-inbound-sales-uk-chalgrove-99955",
-      "title": "Associate Inbound Sales UK",
-      "company": "Pergolux",
-      "platform": "Arbeitnow",
-      "location": "Chalgrove Office UK",
-      "salary": "Competitive",
-      "type": "Full-time",
-      "tags": [
-        "Sales"
-      ],
-      "postedAt": "2026-08-31T18:20:51.000Z",
-      "url": "https://www.arbeitnow.co.uk/jobs/companies/pergolux/associate-inbound-sales-uk-chalgrove-99955"
-    },
-    {
-      "id": "arbeitnow-analytics-engineer-united-kingdom-489042",
-      "title": "Analytics Engineer",
-      "company": "Pleo",
-      "platform": "Arbeitnow",
-      "location": "United Kingdom",
-      "salary": "Competitive",
-      "type": "Full-time",
-      "tags": [
-        "Data"
-      ],
-      "postedAt": "2026-08-31T18:20:49.000Z",
-      "url": "https://www.arbeitnow.co.uk/jobs/companies/pleo/analytics-engineer-united-kingdom-489042"
-    },
-    {
-      "id": "arbeitnow-analytics-engineer-london-210438",
-      "title": "Analytics Engineer",
-      "company": "Pleo",
-      "platform": "Arbeitnow",
-      "location": "London",
-      "salary": "Competitive",
-      "type": "Full-time",
-      "tags": [
-        "Data"
-      ],
-      "postedAt": "2026-08-31T18:20:49.000Z",
-      "url": "https://www.arbeitnow.co.uk/jobs/companies/pleo/analytics-engineer-london-210438"
-    },
-    {
-      "id": "jobicy-152234",
-      "title": "Center-Based Board Certified Behavior Analyst",
-      "company": "Centria Autism",
-      "platform": "Jobicy",
-      "location": "USA",
-      "salary": "Competitive",
-      "type": "Full-Time",
-      "tags": [],
-      "postedAt": "2026-08-31T17:00:35+00:00",
-      "url": "https://jobicy.com/jobs/152234-center-based-board-certified-behavior-analyst"
-    },
-    {
-      "id": "jobicy-152232",
-      "title": "Enterprise Account Executive - East",
-      "company": "Legion",
-      "platform": "Jobicy",
-      "location": "USA",
-      "salary": "Competitive",
-      "type": "Full-Time",
-      "tags": [],
-      "postedAt": "2026-08-31T17:00:00+00:00",
-      "url": "https://jobicy.com/jobs/152232-enterprise-account-executive-east"
     }
   ]
 }
