@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-09-01T22:46:02.857Z",
+  "lastUpdated": "2026-09-02T00:56:43.534Z",
   "jobs": [
     {
       "id": "remoteok-1137241",
@@ -1244,6 +1244,34 @@
       "url": "https://www.arbeitnow.co.uk/jobs/companies/lendable/senior-complaints-operations-manager-london-38130"
     },
     {
+      "id": "arbeitnow-sap-integration-architect-329226",
+      "title": "SAP Integration Architect",
+      "company": "parloa",
+      "platform": "Arbeitnow",
+      "location": "Remote",
+      "salary": "Competitive",
+      "type": "Full-time",
+      "tags": [
+        "Professional Services"
+      ],
+      "postedAt": "2026-09-01T23:55:09.000Z",
+      "url": "https://www.arbeitnow.com/jobs/companies/parloa/sap-integration-architect-329226"
+    },
+    {
+      "id": "arbeitnow-emea-senior-product-marketing-manager-122041",
+      "title": "EMEA Senior Product Marketing Manager",
+      "company": "parloa",
+      "platform": "Arbeitnow",
+      "location": "Remote",
+      "salary": "Competitive",
+      "type": "Full-time",
+      "tags": [
+        "Marketing"
+      ],
+      "postedAt": "2026-09-01T23:55:09.000Z",
+      "url": "https://www.arbeitnow.com/jobs/companies/parloa/emea-senior-product-marketing-manager-122041"
+    },
+    {
       "id": "arbeitnow-senior-manager-capabilities-organisation-effectiveness-agility-london-180658",
       "title": "Senior Manager, Capabilities, Organisation Effectiveness & Agility",
       "company": "Baringa",
@@ -2196,20 +2224,6 @@
       "url": "https://www.arbeitnow.com/jobs/companies/staffbase/senior-technical-product-manager-chemnitz-sachsen-62431"
     },
     {
-      "id": "arbeitnow-principal-information-security-manager-chemnitz-sachsen-198484",
-      "title": "Principal Information Security Manager",
-      "company": "Staffbase",
-      "platform": "Arbeitnow",
-      "location": "Chemnitz, Sachsen",
-      "salary": "Competitive",
-      "type": "Full-time",
-      "tags": [
-        "Operations"
-      ],
-      "postedAt": "2026-09-01T14:57:05.000Z",
-      "url": "https://www.arbeitnow.com/jobs/companies/staffbase/principal-information-security-manager-chemnitz-sachsen-198484"
-    },
-    {
       "id": "jobicy-152353",
       "title": "Sales Account Executive (MENA Region)",
       "company": "AppSamurai",
@@ -2268,34 +2282,6 @@
       "tags": [],
       "postedAt": "2026-09-01T14:55:24+00:00",
       "url": "https://jobicy.com/jobs/152348-partnership-and-business-development-manager-europe-remote"
-    },
-    {
-      "id": "arbeitnow-senior-solutions-consultant-presales-307385",
-      "title": "Senior Solutions Consultant, Presales",
-      "company": "Anaplan",
-      "platform": "Arbeitnow",
-      "location": "Remote",
-      "salary": "Competitive",
-      "type": "Full-time",
-      "tags": [
-        "Pre-Sales"
-      ],
-      "postedAt": "2026-09-01T14:55:10.000Z",
-      "url": "https://www.arbeitnow.com/jobs/companies/anaplan/senior-solutions-consultant-presales-307385"
-    },
-    {
-      "id": "arbeitnow-director-workforce-strategy-transformation-174366",
-      "title": "Director, Workforce Strategy & Transformation",
-      "company": "Anaplan",
-      "platform": "Arbeitnow",
-      "location": "Remote",
-      "salary": "Competitive",
-      "type": "Full-time",
-      "tags": [
-        "Product Management - Applications"
-      ],
-      "postedAt": "2026-09-01T14:55:10.000Z",
-      "url": "https://www.arbeitnow.com/jobs/companies/anaplan/director-workforce-strategy-transformation-174366"
     },
     {
       "id": "jobicy-152347",
@@ -2440,6 +2426,18 @@
       "tags": [],
       "postedAt": "2026-09-01T14:38:56+00:00",
       "url": "https://jobicy.com/jobs/152333-qa-analyst-future-roles"
+    },
+    {
+      "id": "jobicy-152334",
+      "title": "Senior QA Automation Developer (Platform)",
+      "company": "Upgrade",
+      "platform": "Jobicy",
+      "location": "Canada",
+      "salary": "Competitive",
+      "type": "Full-Time",
+      "tags": [],
+      "postedAt": "2026-09-01T14:36:27+00:00",
+      "url": "https://jobicy.com/jobs/152334-senior-qa-automation-developer-platform"
     }
   ]
 }
