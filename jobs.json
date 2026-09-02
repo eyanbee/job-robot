@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-09-02T21:41:47.514Z",
+  "lastUpdated": "2026-09-02T23:58:10.578Z",
   "jobs": [
     {
       "id": "remoteok-1137255",
@@ -344,18 +344,51 @@
       "url": "https://jobicy.com/jobs/150068-chat-support-agent-remote-15-18-hr"
     },
     {
-      "id": "arbeitnow-customer-service-advisor-trade-support-lakeside-portsmouth-7631",
-      "title": "Customer Service Advisor (Trade Support )",
-      "company": "Checkatrade",
-      "platform": "Arbeitnow",
-      "location": "Lakeside Portsmouth",
+      "id": "remoteok-1137277",
+      "title": "Detailer",
+      "company": "Go Auto",
+      "platform": "RemoteOK",
+      "location": "Edmonton, ",
       "salary": "Competitive",
       "type": "Full-time",
       "tags": [
-        "Commercial  & Operations"
+        "education",
+        "customer support",
+        "recruiter",
+        "non tech",
+        "hr",
+        "marketing",
+        "travel",
+        "teaching",
+        "finance",
+        "golang",
+        "medical",
+        "full time"
       ],
-      "postedAt": "2026-09-01T21:40:10.000Z",
-      "url": "https://www.arbeitnow.co.uk/jobs/companies/checkatrade/customer-service-advisor-trade-support-lakeside-portsmouth-7631"
+      "postedAt": "2026-09-01T23:45:31+00:00",
+      "url": "https://remoteOK.com/remote-jobs/remote-detailer-go-auto-1137277"
+    },
+    {
+      "id": "remoteok-1137265",
+      "title": "Kitchen Technician",
+      "company": "Four Seasons",
+      "platform": "RemoteOK",
+      "location": "Nassau, ",
+      "salary": "Competitive",
+      "type": "Full-time",
+      "tags": [
+        "payroll",
+        "vfx",
+        "customer support",
+        "dev",
+        "non tech",
+        "digital nomad",
+        "exec",
+        "legal",
+        "engineer"
+      ],
+      "postedAt": "2026-09-01T22:55:08+00:00",
+      "url": "https://remoteOK.com/remote-jobs/remote-kitchen-technician-four-seasons-1137265"
     },
     {
       "id": "remoteok-1137278",
@@ -1283,39 +1316,6 @@
       "url": "https://remoteOK.com/remote-jobs/remote-renewables-project-scheduler-transportation-partners-amp-logistics-1137194"
     },
     {
-      "id": "remoteok-1137123",
-      "title": "OVERNIGHT SHIFT Retail Merchandiser",
-      "company": "Bass Pro Shops",
-      "platform": "RemoteOK",
-      "location": "Winnipeg, ",
-      "salary": "Competitive",
-      "type": "Full-time",
-      "tags": [
-        "supervisor",
-        "customer support",
-        "ads",
-        "exec",
-        "ops",
-        "sales"
-      ],
-      "postedAt": "2026-08-25T18:48:35+00:00",
-      "url": "https://remoteOK.com/remote-jobs/remote-overnight-shift-retail-merchandiser-bass-pro-shops-1137123"
-    },
-    {
-      "id": "arbeitnow-senior-manager-recruiting-352152",
-      "title": "Senior Manager, Recruiting",
-      "company": "Affirm",
-      "platform": "Arbeitnow",
-      "location": "Remote",
-      "salary": "Competitive",
-      "type": "Full-time",
-      "tags": [
-        "Talent Acquisition"
-      ],
-      "postedAt": "2026-09-01T18:55:16.000Z",
-      "url": "https://www.arbeitnow.co.uk/jobs/companies/affirm/senior-manager-recruiting-352152"
-    },
-    {
       "id": "arbeitnow-senior-project-manager-sydney-australia-427226",
       "title": "Senior Project Manager",
       "company": "hellofresh",
@@ -1328,6 +1328,160 @@
       ],
       "postedAt": "2026-09-02T09:55:25.000Z",
       "url": "https://www.arbeitnow.co.uk/jobs/companies/hellofresh/senior-project-manager-sydney-australia-427226"
+    },
+    {
+      "id": "arbeitnow-product-owner-communications-channels-ai-manchester-177736",
+      "title": "Product Owner - Communications Channels & AI",
+      "company": "PHMG Careers",
+      "platform": "Arbeitnow",
+      "location": "Manchester, England, United Kingdom",
+      "salary": "Competitive",
+      "type": "Full-time",
+      "tags": [],
+      "postedAt": "2026-09-02T21:45:29.000Z",
+      "url": "https://www.arbeitnow.co.uk/jobs/companies/phmg-careers/product-owner-communications-channels-ai-manchester-177736"
+    },
+    {
+      "id": "arbeitnow-business-development-representative-uk-london-234953",
+      "title": "Business Development Representative - UK",
+      "company": "Moss",
+      "platform": "Arbeitnow",
+      "location": "London",
+      "salary": "Competitive",
+      "type": "Full-time",
+      "tags": [
+        "Commercial"
+      ],
+      "postedAt": "2026-09-02T21:40:08.000Z",
+      "url": "https://www.arbeitnow.co.uk/jobs/companies/moss/business-development-representative-uk-london-234953"
+    },
+    {
+      "id": "arbeitnow-people-partner-eu-london-450307",
+      "title": "People Partner - EU",
+      "company": "Perk",
+      "platform": "Arbeitnow",
+      "location": "London",
+      "salary": "Competitive",
+      "type": "Full-time",
+      "tags": [
+        "People"
+      ],
+      "postedAt": "2026-09-02T21:40:04.000Z",
+      "url": "https://www.arbeitnow.co.uk/jobs/companies/perk/people-partner-eu-london-450307"
+    },
+    {
+      "id": "arbeitnow-senior-revenue-program-manager-england-399960",
+      "title": "Senior Revenue Program Manager",
+      "company": "Kong",
+      "platform": "Arbeitnow",
+      "location": "England, United Kingdom",
+      "salary": "Competitive",
+      "type": "Full-time",
+      "tags": [
+        "All Cost Center"
+      ],
+      "postedAt": "2026-09-02T21:40:03.000Z",
+      "url": "https://www.arbeitnow.co.uk/jobs/companies/kong/senior-revenue-program-manager-england-399960"
+    },
+    {
+      "id": "arbeitnow-electromechanical-quality-inspector-level-ii-welding-hvac-systems-go-worchester-323341",
+      "title": "Electromechanical Quality Inspector Level II – Welding / HVAC Systems - GO",
+      "company": "SQA Services",
+      "platform": "Arbeitnow",
+      "location": "Worchester",
+      "salary": "Competitive",
+      "type": "Full-time",
+      "tags": [
+        "Industrial"
+      ],
+      "postedAt": "2026-09-02T21:04:48.000Z",
+      "url": "https://www.arbeitnow.co.uk/jobs/companies/sqa-services/electromechanical-quality-inspector-level-ii-welding-hvac-systems-go-worchester-323341"
+    },
+    {
+      "id": "arbeitnow-marketing-manager-growth-brand-london-173011",
+      "title": "Marketing Manager, Growth & Brand",
+      "company": "Bifrost Studios",
+      "platform": "Arbeitnow",
+      "location": "London",
+      "salary": "Competitive",
+      "type": "Full-time",
+      "tags": [
+        "Marketing Manager"
+      ],
+      "postedAt": "2026-09-02T20:00:24.000Z",
+      "url": "https://www.arbeitnow.co.uk/jobs/companies/bifrost-studios/marketing-manager-growth-brand-london-173011"
+    },
+    {
+      "id": "jobicy-152397",
+      "title": "Director, Sales Engineering",
+      "company": "Veeam Software",
+      "platform": "Jobicy",
+      "location": "USA",
+      "salary": "Competitive",
+      "type": "Full-Time",
+      "tags": [],
+      "postedAt": "2026-09-02T19:37:22+00:00",
+      "url": "https://jobicy.com/jobs/152397-director-sales-engineering"
+    },
+    {
+      "id": "jobicy-152396",
+      "title": "Engineering Manager, Growth",
+      "company": "Fleetio",
+      "platform": "Jobicy",
+      "location": "Canada,  Mexico,  USA",
+      "salary": "Competitive",
+      "type": "Full-Time",
+      "tags": [],
+      "postedAt": "2026-09-02T19:36:59+00:00",
+      "url": "https://jobicy.com/jobs/152396-engineering-manager-growth"
+    },
+    {
+      "id": "jobicy-152392",
+      "title": "Director, Product Marketing, GTM Strategy",
+      "company": "Fleetio",
+      "platform": "Jobicy",
+      "location": "USA",
+      "salary": "Competitive",
+      "type": "Full-Time",
+      "tags": [],
+      "postedAt": "2026-09-02T19:35:32+00:00",
+      "url": "https://jobicy.com/jobs/152392-director-product-marketing-gtm-strategy"
+    },
+    {
+      "id": "jobicy-152391",
+      "title": "Customer Success Engineer, Australia",
+      "company": "ExtraHop",
+      "platform": "Jobicy",
+      "location": "Australia",
+      "salary": "Competitive",
+      "type": "Full-Time",
+      "tags": [],
+      "postedAt": "2026-09-02T19:35:10+00:00",
+      "url": "https://jobicy.com/jobs/152391-customer-success-engineer-australia"
+    },
+    {
+      "id": "jobicy-152390",
+      "title": "Senior Inside Sales Advisor (Remote/Mountain Time)",
+      "company": "A Place For Mom",
+      "platform": "Jobicy",
+      "location": "USA",
+      "salary": "Competitive",
+      "type": "Full-Time",
+      "tags": [],
+      "postedAt": "2026-09-02T19:34:50+00:00",
+      "url": "https://jobicy.com/jobs/152390-senior-inside-sales-advisor-remote-mountain-time"
+    },
+    {
+      "id": "jobicy-152388",
+      "title": "Associate Product Support Specialist (Remote - UK)",
+      "company": "Fleetio",
+      "platform": "Jobicy",
+      "location": "UK",
+      "salary": "Competitive",
+      "type": "Full-Time",
+      "tags": [],
+      "postedAt": "2026-09-02T19:34:04+00:00",
+      "url": "https://jobicy.com/jobs/152388-associate-product-support-specialist-remote-uk"
     },
     {
       "id": "arbeitnow-senior-solutions-sales-executive-risk-audit-london-179702",
@@ -2053,34 +2207,6 @@
       "url": "https://www.arbeitnow.co.uk/jobs/companies/spa-elite/spa-therapist-luxury-spa-is-coming-to-shepherds-bush-london-195904"
     },
     {
-      "id": "arbeitnow-data-modelling-consultant-insurance-388087",
-      "title": "Data Modelling Consultant (Insurance)",
-      "company": "capco",
-      "platform": "Arbeitnow",
-      "location": "Remote",
-      "salary": "Competitive",
-      "type": "Full-time",
-      "tags": [
-        "Data & Analytics"
-      ],
-      "postedAt": "2026-09-02T11:55:12.000Z",
-      "url": "https://www.arbeitnow.com/jobs/companies/capco/data-modelling-consultant-insurance-388087"
-    },
-    {
-      "id": "arbeitnow-ai-architect-388301",
-      "title": "AI Architect",
-      "company": "capco",
-      "platform": "Arbeitnow",
-      "location": "Remote",
-      "salary": "Competitive",
-      "type": "Full-time",
-      "tags": [
-        "Data & Analytics"
-      ],
-      "postedAt": "2026-09-02T11:55:12.000Z",
-      "url": "https://www.arbeitnow.com/jobs/companies/capco/ai-architect-388301"
-    },
-    {
       "id": "arbeitnow-anz-senior-systems-enablement-manager-sydney-australia-243978",
       "title": "[ANZ] Senior Systems Enablement Manager",
       "company": "hellofresh",
@@ -2335,114 +2461,6 @@
       "tags": [],
       "postedAt": "2026-09-02T04:59:13+00:00",
       "url": "https://jobicy.com/jobs/148140-principal-brand-designer"
-    },
-    {
-      "id": "jobicy-148113",
-      "title": "Accounts Receivable Clerk",
-      "company": "Canonical",
-      "platform": "Jobicy",
-      "location": "EMEA",
-      "salary": "Competitive",
-      "type": "Full-Time",
-      "tags": [],
-      "postedAt": "2026-09-02T04:59:12+00:00",
-      "url": "https://jobicy.com/jobs/148113-accounts-receivable-clerk"
-    },
-    {
-      "id": "jobicy-144915",
-      "title": "Onboarding Project Manager",
-      "company": "Cloudbeds",
-      "platform": "Jobicy",
-      "location": "Europe",
-      "salary": "Competitive",
-      "type": "Full-Time",
-      "tags": [],
-      "postedAt": "2026-09-02T04:59:11+00:00",
-      "url": "https://jobicy.com/jobs/144915-onboarding-project-manager"
-    },
-    {
-      "id": "jobicy-148145",
-      "title": "Senior Solutions Architect - ACE",
-      "company": "Aviatrix",
-      "platform": "Jobicy",
-      "location": "USA",
-      "salary": "Competitive",
-      "type": "Full-Time",
-      "tags": [],
-      "postedAt": "2026-09-02T04:59:09+00:00",
-      "url": "https://jobicy.com/jobs/148145-senior-solutions-architect-ace"
-    },
-    {
-      "id": "jobicy-150064",
-      "title": "Client Full-Stack Engineer — IM Chat Platform, Android Focus",
-      "company": "Binance",
-      "platform": "Jobicy",
-      "location": "APAC",
-      "salary": "Competitive",
-      "type": "Full-Time",
-      "tags": [],
-      "postedAt": "2026-09-02T04:55:29+00:00",
-      "url": "https://jobicy.com/jobs/150064-client-full-stack-engineer-im-chat-platform-android-focus"
-    },
-    {
-      "id": "jobicy-149997",
-      "title": "Senior Design Manager (Infrastructure)",
-      "company": "Canonical",
-      "platform": "Jobicy",
-      "location": "EMEA",
-      "salary": "Competitive",
-      "type": "Full-Time",
-      "tags": [],
-      "postedAt": "2026-09-02T04:55:28+00:00",
-      "url": "https://jobicy.com/jobs/149997-senior-design-manager-infrastructure"
-    },
-    {
-      "id": "jobicy-149993",
-      "title": "Developer Relations Engineer",
-      "company": "Canonical",
-      "platform": "Jobicy",
-      "location": "APAC,  EMEA",
-      "salary": "Competitive",
-      "type": "Full-Time",
-      "tags": [],
-      "postedAt": "2026-09-02T04:55:25+00:00",
-      "url": "https://jobicy.com/jobs/149993-developer-relations-engineer"
-    },
-    {
-      "id": "jobicy-149990",
-      "title": "Talent Scientist",
-      "company": "Canonical",
-      "platform": "Jobicy",
-      "location": "EMEA",
-      "salary": "Competitive",
-      "type": "Full-Time",
-      "tags": [],
-      "postedAt": "2026-09-02T04:55:23+00:00",
-      "url": "https://jobicy.com/jobs/149990-talent-scientist"
-    },
-    {
-      "id": "jobicy-149995",
-      "title": "Content marketing lead",
-      "company": "Canonical",
-      "platform": "Jobicy",
-      "location": "EMEA",
-      "salary": "Competitive",
-      "type": "Full-Time",
-      "tags": [],
-      "postedAt": "2026-09-02T04:55:21+00:00",
-      "url": "https://jobicy.com/jobs/149995-content-marketing-lead"
-    },
-    {
-      "id": "jobicy-149987",
-      "title": "Director, Talent Analytics",
-      "company": "Canonical",
-      "platform": "Jobicy",
-      "location": "EMEA",
-      "salary": "Competitive",
-      "type": "Full-Time",
-      "tags": [],
-      "postedAt": "2026-09-02T04:55:19+00:00",
-      "url": "https://jobicy.com/jobs/149987-director-talent-analytics"
     }
   ]
 }
