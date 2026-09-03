@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-09-03T13:48:08.551Z",
+  "lastUpdated": "2026-09-03T17:45:37.429Z",
   "jobs": [
     {
       "id": "remoteok-1137255",
@@ -106,6 +106,21 @@
       ],
       "postedAt": "2026-08-27T02:27:09+00:00",
       "url": "https://remoteOK.com/remote-jobs/remote-assistant-manager-storage-king-group-1137161"
+    },
+    {
+      "id": "arbeitnow-ecommerce-acceleration-manager-london-81283",
+      "title": "ECommerce Acceleration Manager",
+      "company": "Luzern eCommerce Group",
+      "platform": "Arbeitnow",
+      "location": "London",
+      "salary": "Competitive",
+      "type": "Full-time",
+      "tags": [
+        "Management",
+        "Team Leader"
+      ],
+      "postedAt": "2026-09-03T15:00:22.000Z",
+      "url": "https://www.arbeitnow.co.uk/jobs/companies/luzern-ecommerce-group/ecommerce-acceleration-manager-london-81283"
     },
     {
       "id": "remoteok-1137268",
@@ -246,33 +261,6 @@
       "url": "https://jobicy.com/jobs/150057-international-seo-aeo-manager-2"
     },
     {
-      "id": "arbeitnow-technical-project-support-consultant-legal-software-karlsruhe-ger-216463",
-      "title": "Technical Project & Support Consultant (f/m/d) – Legal Software",
-      "company": "Stp One",
-      "platform": "Arbeitnow",
-      "location": "Karlsruhe, GER",
-      "salary": "Competitive",
-      "type": "Full-time",
-      "tags": [
-        "Projectmanagement",
-        "Projects",
-        "Implementation",
-        "Onboarding",
-        "Customer Onboarding",
-        "Customer Success Manager",
-        "Customer Success",
-        "Customer Relationship Management",
-        "Customer Support",
-        "Technical Support",
-        "Support",
-        "Customer Enablement",
-        "Projectlead",
-        "Projektleitung"
-      ],
-      "postedAt": "2026-09-03T11:09:05.000Z",
-      "url": "https://www.arbeitnow.com/jobs/companies/stp-one/technical-project-support-consultant-legal-software-karlsruhe-ger-216463"
-    },
-    {
       "id": "jobicy-151883",
       "title": "Customer Support Associate",
       "company": "Squarespace",
@@ -309,18 +297,41 @@
       "url": "https://jobicy.com/jobs/150096-customer-service-specialist-4"
     },
     {
-      "id": "arbeitnow-ai-quality-assurance-program-manager-london-295649",
-      "title": "AI Quality Assurance Program Manager",
-      "company": "tripadvisor",
-      "platform": "Arbeitnow",
-      "location": "London",
+      "id": "remoteok-1137280",
+      "title": "Service Sales Executive",
+      "company": "Emplyfy",
+      "platform": "RemoteOK",
+      "location": "Remote",
+      "salary": "$8000 - $25000",
+      "type": "Full-time",
+      "tags": [
+        "customer support",
+        "microsoft",
+        "excel",
+        "sales",
+        "exec"
+      ],
+      "postedAt": "2026-09-02T16:00:15+00:00",
+      "url": "https://remoteOK.com/remote-jobs/remote-service-sales-executive-emplyfy-1137280"
+    },
+    {
+      "id": "remoteok-1137279",
+      "title": "Regional Sales Manager",
+      "company": "OrderYOYO",
+      "platform": "RemoteOK",
+      "location": "Remote",
       "salary": "Competitive",
       "type": "Full-time",
       "tags": [
-        "Customer Service"
+        "exec",
+        "customer support",
+        "marketing",
+        "scheme",
+        "mobile",
+        "sales"
       ],
-      "postedAt": "2026-09-03T00:55:28.000Z",
-      "url": "https://www.arbeitnow.co.uk/jobs/companies/tripadvisor/ai-quality-assurance-program-manager-london-295649"
+      "postedAt": "2026-09-02T16:00:07+00:00",
+      "url": "https://remoteOK.com/remote-jobs/remote-regional-sales-manager-orderyoyo-1137279"
     },
     {
       "id": "jobicy-150041",
@@ -1299,25 +1310,6 @@
       "url": "https://remoteOK.com/remote-jobs/remote-team-manager-newtownards-extra-tesco-1137144"
     },
     {
-      "id": "remoteok-1137153",
-      "title": "Lead Estimator",
-      "company": "Complex Co.",
-      "platform": "RemoteOK",
-      "location": "Canberra, ",
-      "salary": "Competitive",
-      "type": "Full-time",
-      "tags": [
-        "technical",
-        "customer support",
-        "microsoft",
-        "exec",
-        "junior",
-        "excel"
-      ],
-      "postedAt": "2026-08-26T05:24:03+00:00",
-      "url": "https://remoteOK.com/remote-jobs/remote-lead-estimator-complex-co-1137153"
-    },
-    {
       "id": "arbeitnow-senior-manager-accounting-london-405641",
       "title": "Senior Manager, Accounting",
       "company": "Deliveroo",
@@ -1330,6 +1322,338 @@
       ],
       "postedAt": "2026-09-03T09:40:11.000Z",
       "url": "https://www.arbeitnow.co.uk/jobs/companies/deliveroo/senior-manager-accounting-london-405641"
+    },
+    {
+      "id": "arbeitnow-talent-acquisition-manager-gtm-london-145756",
+      "title": "Talent Acquisition Manager GTM - London",
+      "company": "Pigment",
+      "platform": "Arbeitnow",
+      "location": "London",
+      "salary": "Competitive",
+      "type": "Full-time",
+      "tags": [
+        "HR"
+      ],
+      "postedAt": "2026-09-03T15:04:29.000Z",
+      "url": "https://www.arbeitnow.co.uk/jobs/companies/pigment/talent-acquisition-manager-gtm-london-145756"
+    },
+    {
+      "id": "jobicy-151180",
+      "title": "Associate Product Operations Manager",
+      "company": "Best Egg",
+      "platform": "Jobicy",
+      "location": "USA",
+      "salary": "Competitive",
+      "type": "Full-Time",
+      "tags": [],
+      "postedAt": "2026-09-03T10:56:52+00:00",
+      "url": "https://jobicy.com/jobs/151180-associate-product-operations-manager"
+    },
+    {
+      "id": "arbeitnow-cybersecurity-analyst-london-249291",
+      "title": "Cybersecurity Analyst",
+      "company": "Janestreet",
+      "platform": "Arbeitnow",
+      "location": "London",
+      "salary": "Competitive",
+      "type": "Full-time",
+      "tags": [
+        "Cybersecurity"
+      ],
+      "postedAt": "2026-09-03T15:55:25.000Z",
+      "url": "https://www.arbeitnow.co.uk/jobs/companies/janestreet/cybersecurity-analyst-london-249291"
+    },
+    {
+      "id": "arbeitnow-senior-data-scientist-cardiff-219726",
+      "title": "Senior Data Scientist",
+      "company": "Monzoreferrals",
+      "platform": "Arbeitnow",
+      "location": "Cardiff",
+      "salary": "Competitive",
+      "type": "Full-time",
+      "tags": [
+        "Data"
+      ],
+      "postedAt": "2026-09-03T15:55:18.000Z",
+      "url": "https://www.arbeitnow.co.uk/jobs/companies/monzoreferrals/senior-data-scientist-cardiff-219726"
+    },
+    {
+      "id": "arbeitnow-uk-london-ads-test-engineer-london-greater-london-40082",
+      "title": "UK - London - ADS - Test Engineer",
+      "company": "Jobposts",
+      "platform": "Arbeitnow",
+      "location": "London, Greater London",
+      "salary": "Competitive",
+      "type": "Full-time",
+      "tags": [
+        "Aiviq"
+      ],
+      "postedAt": "2026-09-03T15:55:05.000Z",
+      "url": "https://www.arbeitnow.co.uk/jobs/companies/jobposts/uk-london-ads-test-engineer-london-greater-london-40082"
+    },
+    {
+      "id": "arbeitnow-uk-london-ads-senior-cloud-engineer-london-greater-london-204053",
+      "title": "UK - London - ADS - Senior Cloud Engineer",
+      "company": "Jobposts",
+      "platform": "Arbeitnow",
+      "location": "London, Greater London",
+      "salary": "Competitive",
+      "type": "Full-time",
+      "tags": [
+        "Aiviq"
+      ],
+      "postedAt": "2026-09-03T15:55:05.000Z",
+      "url": "https://www.arbeitnow.co.uk/jobs/companies/jobposts/uk-london-ads-senior-cloud-engineer-london-greater-london-204053"
+    },
+    {
+      "id": "arbeitnow-uk-london-ads-cloud-dba-solution-architect-powerbi-london-greater-london-272654",
+      "title": "UK - London - ADS - Cloud DBA & Solution Architect, PowerBI",
+      "company": "Jobposts",
+      "platform": "Arbeitnow",
+      "location": "London, Greater London",
+      "salary": "Competitive",
+      "type": "Full-time",
+      "tags": [
+        "Aiviq"
+      ],
+      "postedAt": "2026-09-03T15:55:05.000Z",
+      "url": "https://www.arbeitnow.co.uk/jobs/companies/jobposts/uk-london-ads-cloud-dba-solution-architect-powerbi-london-greater-london-272654"
+    },
+    {
+      "id": "arbeitnow-data-lead-advisory-334385",
+      "title": "Data Lead (Advisory)",
+      "company": "Alphafmcroles",
+      "platform": "Arbeitnow",
+      "location": "Remote",
+      "salary": "Competitive",
+      "type": "Full-time",
+      "tags": [
+        "Front and Middle Office"
+      ],
+      "postedAt": "2026-09-03T15:55:03.000Z",
+      "url": "https://www.arbeitnow.co.uk/jobs/companies/alphafmcroles/data-lead-advisory-334385"
+    },
+    {
+      "id": "arbeitnow-claims-validation-handler-london-314971",
+      "title": "Claims Validation Handler",
+      "company": "Marshmallow",
+      "platform": "Arbeitnow",
+      "location": "London",
+      "salary": "Competitive",
+      "type": "Full-time",
+      "tags": [
+        "Third Party Claims"
+      ],
+      "postedAt": "2026-09-03T15:40:13.000Z",
+      "url": "https://www.arbeitnow.co.uk/jobs/companies/marshmallow/claims-validation-handler-london-314971"
+    },
+    {
+      "id": "arbeitnow-data-platform-engineer-i-london-162452",
+      "title": "Data Platform Engineer I",
+      "company": "Kraken",
+      "platform": "Arbeitnow",
+      "location": "London, UK",
+      "salary": "Competitive",
+      "type": "Full-time",
+      "tags": [
+        "Tech Development"
+      ],
+      "postedAt": "2026-09-03T15:40:11.000Z",
+      "url": "https://www.arbeitnow.co.uk/jobs/companies/kraken/data-platform-engineer-i-london-162452"
+    },
+    {
+      "id": "arbeitnow-enterprise-account-executive-london-united-kingdom-198229",
+      "title": "Enterprise Account Executive",
+      "company": "Elliptic",
+      "platform": "Arbeitnow",
+      "location": "London, United Kingdom",
+      "salary": "Competitive",
+      "type": "Full-time",
+      "tags": [
+        "Sales"
+      ],
+      "postedAt": "2026-09-03T15:40:10.000Z",
+      "url": "https://www.arbeitnow.co.uk/jobs/companies/elliptic/enterprise-account-executive-london-united-kingdom-198229"
+    },
+    {
+      "id": "arbeitnow-implementation-specialist-london-427736",
+      "title": "Implementation Specialist",
+      "company": "Metaview",
+      "platform": "Arbeitnow",
+      "location": "London",
+      "salary": "Competitive",
+      "type": "Full-time",
+      "tags": [
+        "Go-to-market"
+      ],
+      "postedAt": "2026-09-03T15:40:06.000Z",
+      "url": "https://www.arbeitnow.co.uk/jobs/companies/metaview/implementation-specialist-london-427736"
+    },
+    {
+      "id": "arbeitnow-proposition-manager-london-13490",
+      "title": "Proposition Manager",
+      "company": "Goodlord",
+      "platform": "Arbeitnow",
+      "location": "London",
+      "salary": "Competitive",
+      "type": "Full-time",
+      "tags": [
+        "Referencing"
+      ],
+      "postedAt": "2026-09-03T15:40:02.000Z",
+      "url": "https://www.arbeitnow.co.uk/jobs/companies/goodlord/proposition-manager-london-13490"
+    },
+    {
+      "id": "arbeitnow-account-executive-financial-services-london-126485",
+      "title": "Account Executive - Financial Services",
+      "company": "TransPerfect",
+      "platform": "Arbeitnow",
+      "location": "London, Greater London, United Kingdom",
+      "salary": "Competitive",
+      "type": "Full-time",
+      "tags": [
+        "Sales"
+      ],
+      "postedAt": "2026-09-03T15:30:20.000Z",
+      "url": "https://www.arbeitnow.co.uk/jobs/companies/transperfect/account-executive-financial-services-london-126485"
+    },
+    {
+      "id": "arbeitnow-managing-director-north-uki-london-office-475450",
+      "title": "Managing Director North / UKI",
+      "company": "Aircall",
+      "platform": "Arbeitnow",
+      "location": "London Office",
+      "salary": "Competitive",
+      "type": "Full-time",
+      "tags": [
+        "12006 - Sales Overhead"
+      ],
+      "postedAt": "2026-09-03T15:24:36.000Z",
+      "url": "https://www.arbeitnow.co.uk/jobs/companies/aircall/managing-director-north-uki-london-office-475450"
+    },
+    {
+      "id": "arbeitnow-remote-content-operations-qa-analyst-326919",
+      "title": "Content Operations QA Analyst",
+      "company": "Cargo One",
+      "platform": "Arbeitnow",
+      "location": "Remote (EMEA)",
+      "salary": "Competitive",
+      "type": "Full-time",
+      "tags": [
+        "Content Operations"
+      ],
+      "postedAt": "2026-09-03T14:40:13.000Z",
+      "url": "https://www.arbeitnow.com/jobs/companies/cargo-one/remote-content-operations-qa-analyst-326919"
+    },
+    {
+      "id": "arbeitnow-head-of-demand-generation-remote-united-kingdom-467361",
+      "title": "Head of Demand Generation (Remote, United Kingdom)",
+      "company": "Easygenerator",
+      "platform": "Arbeitnow",
+      "location": "Remote",
+      "salary": "Competitive",
+      "type": "Full-time",
+      "tags": [
+        "Revenue"
+      ],
+      "postedAt": "2026-09-03T14:40:06.000Z",
+      "url": "https://www.arbeitnow.com/jobs/companies/easygenerator/head-of-demand-generation-remote-united-kingdom-467361"
+    },
+    {
+      "id": "jobicy-152408",
+      "title": "Manager, Clinical Review and Quality Assurance",
+      "company": "SmithRx",
+      "platform": "Jobicy",
+      "location": "USA",
+      "salary": "Competitive",
+      "type": "Full-Time",
+      "tags": [],
+      "postedAt": "2026-09-03T13:57:16+00:00",
+      "url": "https://jobicy.com/jobs/152408-manager-clinical-review-and-quality-assurance"
+    },
+    {
+      "id": "jobicy-152407",
+      "title": "Senior QA Automation Engineer (Platform)",
+      "company": "Upgrade",
+      "platform": "Jobicy",
+      "location": "USA",
+      "salary": "Competitive",
+      "type": "Full-Time",
+      "tags": [],
+      "postedAt": "2026-09-03T13:56:55+00:00",
+      "url": "https://jobicy.com/jobs/152407-senior-qa-automation-engineer-platform"
+    },
+    {
+      "id": "jobicy-152406",
+      "title": "Senior Quality Assurance Engineer (Personify team)",
+      "company": "Bloomreach",
+      "platform": "Jobicy",
+      "location": "Czechia",
+      "salary": "Competitive",
+      "type": "Full-Time",
+      "tags": [],
+      "postedAt": "2026-09-03T13:56:36+00:00",
+      "url": "https://jobicy.com/jobs/152406-senior-quality-assurance-engineer-personify-team"
+    },
+    {
+      "id": "jobicy-152405",
+      "title": "Web Automation Test Engineer",
+      "company": "Caylent",
+      "platform": "Jobicy",
+      "location": "Brazil",
+      "salary": "Competitive",
+      "type": "Full-Time",
+      "tags": [],
+      "postedAt": "2026-09-03T13:56:15+00:00",
+      "url": "https://jobicy.com/jobs/152405-web-automation-test-engineer"
+    },
+    {
+      "id": "jobicy-152404",
+      "title": "SDET II, tvScientific",
+      "company": "Pinterest",
+      "platform": "Jobicy",
+      "location": "USA",
+      "salary": "Competitive",
+      "type": "Full-Time",
+      "tags": [],
+      "postedAt": "2026-09-03T13:55:58+00:00",
+      "url": "https://jobicy.com/jobs/152404-sdet-ii-tvscientific"
+    },
+    {
+      "id": "jobicy-152402",
+      "title": "Staff Quality Engineer",
+      "company": "StackAdapt",
+      "platform": "Jobicy",
+      "location": "Canada,  USA",
+      "salary": "Competitive",
+      "type": "Full-Time",
+      "tags": [],
+      "postedAt": "2026-09-03T13:55:10+00:00",
+      "url": "https://jobicy.com/jobs/152402-staff-quality-engineer"
+    },
+    {
+      "id": "jobicy-152401",
+      "title": "QA Tester (Future Roles)",
+      "company": "Testlio",
+      "platform": "Jobicy",
+      "location": "Anywhere",
+      "salary": "Competitive",
+      "type": "Contract",
+      "tags": [],
+      "postedAt": "2026-09-03T13:54:46+00:00",
+      "url": "https://jobicy.com/jobs/152401-qa-tester-future-roles"
+    },
+    {
+      "id": "jobicy-152400",
+      "title": "Senior SDET",
+      "company": "Tala",
+      "platform": "Jobicy",
+      "location": "Mexico",
+      "salary": "Competitive",
+      "type": "Full-Time",
+      "tags": [],
+      "postedAt": "2026-09-03T13:54:26+00:00",
+      "url": "https://jobicy.com/jobs/152400-senior-sdet"
     },
     {
       "id": "arbeitnow-senior-solutions-engineer-london-248265",
@@ -1403,6 +1727,18 @@
       "url": "https://www.arbeitnow.co.uk/jobs/companies/absorblms/account-executive-inbound-sales-london-3499"
     },
     {
+      "id": "jobicy-149012",
+      "title": "Costpoint Cognos Report Writer and General Ledger Business Analyst",
+      "company": "ManTech",
+      "platform": "Jobicy",
+      "location": "USA",
+      "salary": "Competitive",
+      "type": "Full-Time",
+      "tags": [],
+      "postedAt": "2026-09-03T12:35:03+00:00",
+      "url": "https://jobicy.com/jobs/149012-costpoint-cognos-report-writer-and-general-ledger-business-analyst"
+    },
+    {
       "id": "arbeitnow-digital-marketing-specialist-london-499887",
       "title": "Digital Marketing Specialist",
       "company": "ThriveCart",
@@ -1459,30 +1795,6 @@
       ],
       "postedAt": "2026-09-03T12:04:56.000Z",
       "url": "https://www.arbeitnow.co.uk/jobs/companies/moonpay/product-manager-crypto-asset-management-london-hybrid-386040"
-    },
-    {
-      "id": "arbeitnow-working-student-all-genders-robust-feed-forward-3d-reconstruction-for-dynamic-scene-augsburg-52566",
-      "title": "Working Student (all genders) – Robust Feed-Forward 3D Reconstruction for Dynamic Scene",
-      "company": "Xitaso",
-      "platform": "Arbeitnow",
-      "location": "Augsburg",
-      "salary": "Competitive",
-      "type": "Full-time",
-      "tags": [],
-      "postedAt": "2026-09-03T11:09:26.000Z",
-      "url": "https://www.arbeitnow.com/jobs/companies/xitaso/working-student-all-genders-robust-feed-forward-3d-reconstruction-for-dynamic-scene-augsburg-52566"
-    },
-    {
-      "id": "arbeitnow-technical-solutions-engineer-karlsruhe-ger-439213",
-      "title": "Technical Solutions Engineer",
-      "company": "Stp One",
-      "platform": "Arbeitnow",
-      "location": "Karlsruhe, GER",
-      "salary": "Competitive",
-      "type": "Full-time",
-      "tags": [],
-      "postedAt": "2026-09-03T11:09:05.000Z",
-      "url": "https://www.arbeitnow.com/jobs/companies/stp-one/technical-solutions-engineer-karlsruhe-ger-439213"
     },
     {
       "id": "arbeitnow-senior-payroll-specialist-international-emea-apac-london-296554",
@@ -2135,244 +2447,6 @@
       "url": "https://www.arbeitnow.co.uk/jobs/companies/loveholidays/senior-crm-executive-london-227514"
     },
     {
-      "id": "arbeitnow-principal-consultant-senior-manager-trade-transaction-reporting-470406",
-      "title": "Principal Consultant (Senior Manager) - Trade & Transaction Reporting",
-      "company": "capco",
-      "platform": "Arbeitnow",
-      "location": "Remote",
-      "salary": "Competitive",
-      "type": "Full-time",
-      "tags": [
-        "Finance Risk & Compliance"
-      ],
-      "postedAt": "2026-09-03T00:55:31.000Z",
-      "url": "https://www.arbeitnow.co.uk/jobs/companies/capco/principal-consultant-senior-manager-trade-transaction-reporting-470406"
-    },
-    {
-      "id": "arbeitnow-principal-consultant-senior-manager-trade-transaction-reporting-311385",
-      "title": "Principal Consultant - (Senior Manager) Trade & Transaction Reporting",
-      "company": "capco",
-      "platform": "Arbeitnow",
-      "location": "Remote",
-      "salary": "Competitive",
-      "type": "Full-time",
-      "tags": [
-        "Finance Risk & Compliance"
-      ],
-      "postedAt": "2026-09-03T00:55:31.000Z",
-      "url": "https://www.arbeitnow.co.uk/jobs/companies/capco/principal-consultant-senior-manager-trade-transaction-reporting-311385"
-    },
-    {
-      "id": "arbeitnow-principal-consultant-senior-manager-operational-resilience-cyber-289897",
-      "title": "Principal Consultant (Senior Manager) - Operational Resilience & Cyber",
-      "company": "capco",
-      "platform": "Arbeitnow",
-      "location": "Remote",
-      "salary": "Competitive",
-      "type": "Full-time",
-      "tags": [
-        "Finance Risk & Compliance"
-      ],
-      "postedAt": "2026-09-03T00:55:31.000Z",
-      "url": "https://www.arbeitnow.co.uk/jobs/companies/capco/principal-consultant-senior-manager-operational-resilience-cyber-289897"
-    },
-    {
-      "id": "arbeitnow-principal-consultant-senior-manager-operational-resilience-302586",
-      "title": "Principal Consultant - (Senior Manager) Operational Resilience",
-      "company": "capco",
-      "platform": "Arbeitnow",
-      "location": "Remote",
-      "salary": "Competitive",
-      "type": "Full-time",
-      "tags": [
-        "Finance Risk & Compliance"
-      ],
-      "postedAt": "2026-09-03T00:55:31.000Z",
-      "url": "https://www.arbeitnow.co.uk/jobs/companies/capco/principal-consultant-senior-manager-operational-resilience-302586"
-    },
-    {
-      "id": "arbeitnow-principal-consultant-senior-manager-finance-transformation-36708",
-      "title": "Principal Consultant (Senior Manager) - Finance Transformation",
-      "company": "capco",
-      "platform": "Arbeitnow",
-      "location": "Remote",
-      "salary": "Competitive",
-      "type": "Full-time",
-      "tags": [
-        "Finance Risk & Compliance"
-      ],
-      "postedAt": "2026-09-03T00:55:31.000Z",
-      "url": "https://www.arbeitnow.co.uk/jobs/companies/capco/principal-consultant-senior-manager-finance-transformation-36708"
-    },
-    {
-      "id": "arbeitnow-principal-consultant-senior-manager-finance-transformation-447067",
-      "title": "Principal Consultant - (Senior Manager) Finance Transformation",
-      "company": "capco",
-      "platform": "Arbeitnow",
-      "location": "Remote",
-      "salary": "Competitive",
-      "type": "Full-time",
-      "tags": [
-        "Finance Risk & Compliance"
-      ],
-      "postedAt": "2026-09-03T00:55:31.000Z",
-      "url": "https://www.arbeitnow.co.uk/jobs/companies/capco/principal-consultant-senior-manager-finance-transformation-447067"
-    },
-    {
-      "id": "arbeitnow-managing-principal-financial-crime-transformation-aml-investigations-sanctions-fraud-256798",
-      "title": "Managing Principal - Financial Crime Transformation - AML Investigations, Sanctions & Fraud",
-      "company": "capco",
-      "platform": "Arbeitnow",
-      "location": "Remote",
-      "salary": "Competitive",
-      "type": "Full-time",
-      "tags": [
-        "Finance Risk & Compliance"
-      ],
-      "postedAt": "2026-09-03T00:55:31.000Z",
-      "url": "https://www.arbeitnow.co.uk/jobs/companies/capco/managing-principal-financial-crime-transformation-aml-investigations-sanctions-fraud-256798"
-    },
-    {
-      "id": "arbeitnow-managing-principal-director-trade-transaction-reporting-314991",
-      "title": "Managing Principal (Director) - Trade & Transaction Reporting",
-      "company": "capco",
-      "platform": "Arbeitnow",
-      "location": "Remote",
-      "salary": "Competitive",
-      "type": "Full-time",
-      "tags": [
-        "Finance Risk & Compliance"
-      ],
-      "postedAt": "2026-09-03T00:55:31.000Z",
-      "url": "https://www.arbeitnow.co.uk/jobs/companies/capco/managing-principal-director-trade-transaction-reporting-314991"
-    },
-    {
-      "id": "arbeitnow-managing-principal-director-trade-transaction-reporting-11173",
-      "title": "Managing Principal (Director) - Trade & Transaction Reporting",
-      "company": "capco",
-      "platform": "Arbeitnow",
-      "location": "Remote",
-      "salary": "Competitive",
-      "type": "Full-time",
-      "tags": [
-        "Finance Risk & Compliance"
-      ],
-      "postedAt": "2026-09-03T00:55:31.000Z",
-      "url": "https://www.arbeitnow.co.uk/jobs/companies/capco/managing-principal-director-trade-transaction-reporting-11173"
-    },
-    {
-      "id": "arbeitnow-managing-principal-director-operational-resilience-cyber-468665",
-      "title": "Managing Principal (Director) -  Operational Resilience & Cyber",
-      "company": "capco",
-      "platform": "Arbeitnow",
-      "location": "Remote",
-      "salary": "Competitive",
-      "type": "Full-time",
-      "tags": [
-        "Finance Risk & Compliance"
-      ],
-      "postedAt": "2026-09-03T00:55:31.000Z",
-      "url": "https://www.arbeitnow.co.uk/jobs/companies/capco/managing-principal-director-operational-resilience-cyber-468665"
-    },
-    {
-      "id": "arbeitnow-managing-principal-director-financial-crime-transformation-aml-investigations-sanctions-fraud-150099",
-      "title": "Managing Principal (Director) -  Financial Crime Transformation - AML Investigations, Sanctions & Fraud",
-      "company": "capco",
-      "platform": "Arbeitnow",
-      "location": "Remote",
-      "salary": "Competitive",
-      "type": "Full-time",
-      "tags": [
-        "Finance Risk & Compliance"
-      ],
-      "postedAt": "2026-09-03T00:55:31.000Z",
-      "url": "https://www.arbeitnow.co.uk/jobs/companies/capco/managing-principal-director-financial-crime-transformation-aml-investigations-sanctions-fraud-150099"
-    },
-    {
-      "id": "arbeitnow-account-executive-strategic-emea-england-390978",
-      "title": "Account Executive, Strategic (EMEA)",
-      "company": "Docker",
-      "platform": "Arbeitnow",
-      "location": "England",
-      "salary": "Competitive",
-      "type": "Full-time",
-      "tags": [
-        "Sales"
-      ],
-      "postedAt": "2026-09-03T00:40:12.000Z",
-      "url": "https://www.arbeitnow.co.uk/jobs/companies/docker/account-executive-strategic-emea-england-390978"
-    },
-    {
-      "id": "arbeitnow-remote-project-manager-gaming-localization-production-164320",
-      "title": "Project Manager, Gaming Localization Production",
-      "company": "LILT (Production)",
-      "platform": "Arbeitnow",
-      "location": "Remote",
-      "salary": "Competitive",
-      "type": "Full-time",
-      "tags": [
-        "Production"
-      ],
-      "postedAt": "2026-09-03T00:40:12.000Z",
-      "url": "https://www.arbeitnow.co.uk/jobs/companies/lilt-production/remote-project-manager-gaming-localization-production-164320"
-    },
-    {
-      "id": "arbeitnow-partnerships-associate-london-134649",
-      "title": "Partnerships Associate",
-      "company": "Heidi",
-      "platform": "Arbeitnow",
-      "location": "London",
-      "salary": "Competitive",
-      "type": "Full-time",
-      "tags": [
-        "GTM"
-      ],
-      "postedAt": "2026-09-03T00:40:10.000Z",
-      "url": "https://www.arbeitnow.co.uk/jobs/companies/heidi/partnerships-associate-london-134649"
-    },
-    {
-      "id": "arbeitnow-product-manager-clinical-trials-london-331407",
-      "title": "Product Manager, Clinical Trials",
-      "company": "Heidi",
-      "platform": "Arbeitnow",
-      "location": "London",
-      "salary": "Competitive",
-      "type": "Full-time",
-      "tags": [
-        "Product"
-      ],
-      "postedAt": "2026-09-03T00:40:10.000Z",
-      "url": "https://www.arbeitnow.co.uk/jobs/companies/heidi/product-manager-clinical-trials-london-331407"
-    },
-    {
-      "id": "arbeitnow-remote-uk-electronics-skills-foundation-ukesf-20280",
-      "title": "UK Electronics Skills Foundation (UKESF)",
-      "company": "Axelera AI",
-      "platform": "Arbeitnow",
-      "location": "UK (remote)",
-      "salary": "Competitive",
-      "type": "Full-time",
-      "tags": [
-        "Events"
-      ],
-      "postedAt": "2026-09-03T00:40:08.000Z",
-      "url": "https://www.arbeitnow.co.uk/jobs/companies/axelera-ai/remote-uk-electronics-skills-foundation-ukesf-20280"
-    },
-    {
-      "id": "arbeitnow-senior-product-designer-full-remote-uk-united-kingdom-86322",
-      "title": "Senior Product Designer (Full Remote - UK)",
-      "company": "EverAI",
-      "platform": "Arbeitnow",
-      "location": "United Kingdom",
-      "salary": "Competitive",
-      "type": "Full-time",
-      "tags": [
-        "Growth"
-      ],
-      "postedAt": "2026-09-03T00:40:08.000Z",
-      "url": "https://www.arbeitnow.co.uk/jobs/companies/everai/senior-product-designer-full-remote-uk-united-kingdom-86322"
-    },
-    {
       "id": "jobicy-152397",
       "title": "Director, Sales Engineering",
       "company": "Veeam Software",
@@ -2407,90 +2481,6 @@
       "tags": [],
       "postedAt": "2026-09-02T19:35:32+00:00",
       "url": "https://jobicy.com/jobs/152392-director-product-marketing-gtm-strategy"
-    },
-    {
-      "id": "jobicy-152391",
-      "title": "Customer Success Engineer, Australia",
-      "company": "ExtraHop",
-      "platform": "Jobicy",
-      "location": "Australia",
-      "salary": "Competitive",
-      "type": "Full-Time",
-      "tags": [],
-      "postedAt": "2026-09-02T19:35:10+00:00",
-      "url": "https://jobicy.com/jobs/152391-customer-success-engineer-australia"
-    },
-    {
-      "id": "jobicy-152390",
-      "title": "Senior Inside Sales Advisor (Remote/Mountain Time)",
-      "company": "A Place For Mom",
-      "platform": "Jobicy",
-      "location": "USA",
-      "salary": "Competitive",
-      "type": "Full-Time",
-      "tags": [],
-      "postedAt": "2026-09-02T19:34:50+00:00",
-      "url": "https://jobicy.com/jobs/152390-senior-inside-sales-advisor-remote-mountain-time"
-    },
-    {
-      "id": "jobicy-152388",
-      "title": "Associate Product Support Specialist (Remote - UK)",
-      "company": "Fleetio",
-      "platform": "Jobicy",
-      "location": "UK",
-      "salary": "Competitive",
-      "type": "Full-Time",
-      "tags": [],
-      "postedAt": "2026-09-02T19:34:04+00:00",
-      "url": "https://jobicy.com/jobs/152388-associate-product-support-specialist-remote-uk"
-    },
-    {
-      "id": "jobicy-152380",
-      "title": "Payments Solutions Architect (US or EMEA)",
-      "company": "Testlio",
-      "platform": "Jobicy",
-      "location": "EMEA,  USA",
-      "salary": "Competitive",
-      "type": "Full-Time",
-      "tags": [],
-      "postedAt": "2026-09-02T12:37:28+00:00",
-      "url": "https://jobicy.com/jobs/152380-payments-solutions-architect-us-or-emea"
-    },
-    {
-      "id": "jobicy-152379",
-      "title": "SaaS Onboarding Specialist",
-      "company": "Housecall Pro",
-      "platform": "Jobicy",
-      "location": "Mexico",
-      "salary": "Competitive",
-      "type": "Contract",
-      "tags": [],
-      "postedAt": "2026-09-02T12:37:09+00:00",
-      "url": "https://jobicy.com/jobs/152379-saas-onboarding-specialist"
-    },
-    {
-      "id": "jobicy-152378",
-      "title": "Enterprise Account Executive (Founding Team)",
-      "company": "Apollo.io",
-      "platform": "Jobicy",
-      "location": "USA",
-      "salary": "Competitive",
-      "type": "Full-Time",
-      "tags": [],
-      "postedAt": "2026-09-02T12:36:46+00:00",
-      "url": "https://jobicy.com/jobs/152378-enterprise-account-executive-founding-team"
-    },
-    {
-      "id": "jobicy-152377",
-      "title": "Senior Full-stack Engineer (Elixir/React) – veterinary software company - (Remote - Mexico)",
-      "company": "Truelogic",
-      "platform": "Jobicy",
-      "location": "Mexico",
-      "salary": "Competitive",
-      "type": "Contract",
-      "tags": [],
-      "postedAt": "2026-09-02T12:36:23+00:00",
-      "url": "https://jobicy.com/jobs/152377-senior-full-stack-engineer-elixir-react-veterinary-software-company-remote-mexico"
     }
   ]
 }
