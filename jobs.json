@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-09-03T17:45:37.429Z",
+  "lastUpdated": "2026-09-03T20:52:25.919Z",
   "jobs": [
     {
       "id": "remoteok-1137255",
@@ -106,6 +106,23 @@
       ],
       "postedAt": "2026-08-27T02:27:09+00:00",
       "url": "https://remoteOK.com/remote-jobs/remote-assistant-manager-storage-king-group-1137161"
+    },
+    {
+      "id": "remoteok-1137286",
+      "title": "Data Entry Clerk",
+      "company": "Astrek Careers",
+      "platform": "RemoteOK",
+      "location": "Remote",
+      "salary": "$50000 - $70000",
+      "type": "Full-time",
+      "tags": [
+        "non tech",
+        "data entry",
+        "admin",
+        "ops"
+      ],
+      "postedAt": "2026-09-02T18:11:17+00:00",
+      "url": "https://remoteOK.com/remote-jobs/remote-data-entry-clerk-astrek-careers-1137286"
     },
     {
       "id": "arbeitnow-ecommerce-acceleration-manager-london-81283",
@@ -249,18 +266,6 @@
       "url": "https://remoteOK.com/remote-jobs/remote-oracle-fusion-cloud-lead-logistics-supply-chain-management-tessera-labs-1137155"
     },
     {
-      "id": "jobicy-150057",
-      "title": "International SEO/AEO Manager",
-      "company": "BetterHelp",
-      "platform": "Jobicy",
-      "location": "USA",
-      "salary": "Competitive",
-      "type": "Full-Time",
-      "tags": [],
-      "postedAt": "2026-09-02T04:55:13+00:00",
-      "url": "https://jobicy.com/jobs/150057-international-seo-aeo-manager-2"
-    },
-    {
       "id": "jobicy-151883",
       "title": "Customer Support Associate",
       "company": "Squarespace",
@@ -380,30 +385,6 @@
       "tags": [],
       "postedAt": "2026-09-02T04:59:16+00:00",
       "url": "https://jobicy.com/jobs/150027-customer-support-specialist-2"
-    },
-    {
-      "id": "jobicy-150065",
-      "title": "Data/ Java Engineer (AI/LLM Chatbot, Customer Service)",
-      "company": "Binance",
-      "platform": "Jobicy",
-      "location": "APAC",
-      "salary": "Competitive",
-      "type": "Full-Time",
-      "tags": [],
-      "postedAt": "2026-09-02T04:55:22+00:00",
-      "url": "https://jobicy.com/jobs/150065-data-java-engineer-ai-llm-chatbot-customer-service"
-    },
-    {
-      "id": "jobicy-150068",
-      "title": "Chat Support Agent - 15-18/hr",
-      "company": "NoGigiddy",
-      "platform": "Jobicy",
-      "location": "USA",
-      "salary": "Competitive",
-      "type": "Part-Time",
-      "tags": [],
-      "postedAt": "2026-09-02T04:55:03+00:00",
-      "url": "https://jobicy.com/jobs/150068-chat-support-agent-remote-15-18-hr"
     },
     {
       "id": "remoteok-1137273",
@@ -1291,25 +1272,6 @@
       "url": "https://remoteOK.com/remote-jobs/remote-joiner-places-for-people-1137211"
     },
     {
-      "id": "remoteok-1137144",
-      "title": "Team Manager Newtownards Extra",
-      "company": "Tesco",
-      "platform": "RemoteOK",
-      "location": "Newtownards, ",
-      "salary": "Competitive",
-      "type": "Full-time",
-      "tags": [
-        "exec",
-        "customer support",
-        "testing",
-        "finance",
-        "sales",
-        "recruiter"
-      ],
-      "postedAt": "2026-08-26T09:40:42+00:00",
-      "url": "https://remoteOK.com/remote-jobs/remote-team-manager-newtownards-extra-tesco-1137144"
-    },
-    {
       "id": "arbeitnow-senior-manager-accounting-london-405641",
       "title": "Senior Manager, Accounting",
       "company": "Deliveroo",
@@ -1348,6 +1310,379 @@
       "tags": [],
       "postedAt": "2026-09-03T10:56:52+00:00",
       "url": "https://jobicy.com/jobs/151180-associate-product-operations-manager"
+    },
+    {
+      "id": "arbeitnow-lead-ui-designer-london-manchester-399147",
+      "title": "Lead UI Designer",
+      "company": "Vmlenterprisesolutions",
+      "platform": "Arbeitnow",
+      "location": "London; Manchester",
+      "salary": "Competitive",
+      "type": "Full-time",
+      "tags": [
+        "Freelance"
+      ],
+      "postedAt": "2026-09-03T18:55:39.000Z",
+      "url": "https://www.arbeitnow.co.uk/jobs/companies/vmlenterprisesolutions/lead-ui-designer-london-manchester-399147"
+    },
+    {
+      "id": "arbeitnow-strategic-account-executive-211793",
+      "title": "Strategic Account Executive",
+      "company": "Twilio",
+      "platform": "Arbeitnow",
+      "location": "Remote",
+      "salary": "Competitive",
+      "type": "Full-time",
+      "tags": [
+        "Sales"
+      ],
+      "postedAt": "2026-09-03T18:55:26.000Z",
+      "url": "https://www.arbeitnow.co.uk/jobs/companies/twilio/strategic-account-executive-211793"
+    },
+    {
+      "id": "arbeitnow-staff-principal-research-engineer-ai-safety-technical-mitigations-london-29039",
+      "title": "Staff / Principal Research Engineer, AI Safety, Technical Mitigations",
+      "company": "Lilasciences",
+      "platform": "Arbeitnow",
+      "location": "London",
+      "salary": "Competitive",
+      "type": "Full-time",
+      "tags": [
+        "AI"
+      ],
+      "postedAt": "2026-09-03T18:55:07.000Z",
+      "url": "https://www.arbeitnow.co.uk/jobs/companies/lilasciences/staff-principal-research-engineer-ai-safety-technical-mitigations-london-29039"
+    },
+    {
+      "id": "arbeitnow-team-support-london-232724",
+      "title": "Team Support",
+      "company": "Supercell",
+      "platform": "Arbeitnow",
+      "location": "London",
+      "salary": "Competitive",
+      "type": "Full-time",
+      "tags": [
+        "Live Games"
+      ],
+      "postedAt": "2026-09-03T18:40:12.000Z",
+      "url": "https://www.arbeitnow.co.uk/jobs/companies/supercell/team-support-london-232724"
+    },
+    {
+      "id": "arbeitnow-senior-customer-success-manager-financial-services-london-258290",
+      "title": "Senior Customer Success Manager - Financial Services",
+      "company": "Trustly",
+      "platform": "Arbeitnow",
+      "location": "London",
+      "salary": "Competitive",
+      "type": "Full-time",
+      "tags": [
+        "GTM"
+      ],
+      "postedAt": "2026-09-03T18:40:11.000Z",
+      "url": "https://www.arbeitnow.co.uk/jobs/companies/trustly/senior-customer-success-manager-financial-services-london-258290"
+    },
+    {
+      "id": "arbeitnow-assurance-manager-eu-uk-london-273454",
+      "title": "Assurance Manager EU/UK",
+      "company": "Trustly",
+      "platform": "Arbeitnow",
+      "location": "London",
+      "salary": "Competitive",
+      "type": "Full-time",
+      "tags": [
+        "Compliance"
+      ],
+      "postedAt": "2026-09-03T18:40:11.000Z",
+      "url": "https://www.arbeitnow.co.uk/jobs/companies/trustly/assurance-manager-eu-uk-london-273454"
+    },
+    {
+      "id": "arbeitnow-senior-analyst-mena-focus-london-337480",
+      "title": "Senior Analyst - MENA focus",
+      "company": "Extrac.ai",
+      "platform": "Arbeitnow",
+      "location": "London",
+      "salary": "Competitive",
+      "type": "Full-time",
+      "tags": [
+        "Research & Analysis"
+      ],
+      "postedAt": "2026-09-03T18:40:08.000Z",
+      "url": "https://www.arbeitnow.co.uk/jobs/companies/extracai/senior-analyst-mena-focus-london-337480"
+    },
+    {
+      "id": "arbeitnow-senior-account-executive-manchester-197793",
+      "title": "Senior Account Executive",
+      "company": "Cytix",
+      "platform": "Arbeitnow",
+      "location": "Manchester",
+      "salary": "Competitive",
+      "type": "Full-time",
+      "tags": [
+        "Sales"
+      ],
+      "postedAt": "2026-09-03T18:40:07.000Z",
+      "url": "https://www.arbeitnow.co.uk/jobs/companies/cytix/senior-account-executive-manchester-197793"
+    },
+    {
+      "id": "arbeitnow-developer-advocate-london-218957",
+      "title": "Developer Advocate",
+      "company": "Tesslcareers",
+      "platform": "Arbeitnow",
+      "location": "London Office",
+      "salary": "Competitive",
+      "type": "Full-time",
+      "tags": [
+        "DevRel"
+      ],
+      "postedAt": "2026-09-03T18:40:06.000Z",
+      "url": "https://www.arbeitnow.co.uk/jobs/companies/tesslcareers/developer-advocate-london-218957"
+    },
+    {
+      "id": "arbeitnow-financial-analyst-london-470387",
+      "title": "Financial Analyst",
+      "company": "Encord",
+      "platform": "Arbeitnow",
+      "location": "London",
+      "salary": "Competitive",
+      "type": "Full-time",
+      "tags": [
+        "G&A"
+      ],
+      "postedAt": "2026-09-03T18:40:02.000Z",
+      "url": "https://www.arbeitnow.co.uk/jobs/companies/encord/financial-analyst-london-470387"
+    },
+    {
+      "id": "arbeitnow-senior-av-technician-london-66277",
+      "title": "Senior AV Technician",
+      "company": "Kinly",
+      "platform": "Arbeitnow",
+      "location": "London, England, United Kingdom",
+      "salary": "Competitive",
+      "type": "Full-time",
+      "tags": [
+        "United Kingdom"
+      ],
+      "postedAt": "2026-09-03T18:30:30.000Z",
+      "url": "https://www.arbeitnow.co.uk/jobs/companies/kinly/senior-av-technician-london-66277"
+    },
+    {
+      "id": "arbeitnow-crm-manager-london-141121",
+      "title": "CRM Manager",
+      "company": "ThriveCart",
+      "platform": "Arbeitnow",
+      "location": "London",
+      "salary": "Competitive",
+      "type": "Full-time",
+      "tags": [
+        "Marketing and Communication"
+      ],
+      "postedAt": "2026-09-03T18:30:24.000Z",
+      "url": "https://www.arbeitnow.co.uk/jobs/companies/thrivecart/crm-manager-london-141121"
+    },
+    {
+      "id": "arbeitnow-product-manager-payments-london-331375",
+      "title": "Product Manager - Payments",
+      "company": "ThriveCart",
+      "platform": "Arbeitnow",
+      "location": "London",
+      "salary": "Competitive",
+      "type": "Full-time",
+      "tags": [
+        "Remote",
+        "Product Management"
+      ],
+      "postedAt": "2026-09-03T18:00:26.000Z",
+      "url": "https://www.arbeitnow.co.uk/jobs/companies/thrivecart/product-manager-payments-london-331375"
+    },
+    {
+      "id": "arbeitnow-senior-solution-architect-enterprise-176532",
+      "title": "Senior Solution Architect - Enterprise",
+      "company": "Elastic",
+      "platform": "Arbeitnow",
+      "location": "Remote",
+      "salary": "Competitive",
+      "type": "Full-time",
+      "tags": [
+        "SA - EMEA - Central"
+      ],
+      "postedAt": "2026-09-03T17:55:22.000Z",
+      "url": "https://www.arbeitnow.com/jobs/companies/elastic/senior-solution-architect-enterprise-176532"
+    },
+    {
+      "id": "arbeitnow-consulting-architect-security-emea-public-sector-eligible-468536",
+      "title": "Consulting Architect - Security (EMEA / Public Sector eligible )",
+      "company": "Elastic",
+      "platform": "Arbeitnow",
+      "location": "Remote",
+      "salary": "Competitive",
+      "type": "Full-time",
+      "tags": [
+        "Consulting - EMEA"
+      ],
+      "postedAt": "2026-09-03T17:55:22.000Z",
+      "url": "https://www.arbeitnow.com/jobs/companies/elastic/consulting-architect-security-emea-public-sector-eligible-468536"
+    },
+    {
+      "id": "arbeitnow-staff-engineer-fullstack-chemnitz-sachsen-415861",
+      "title": "Staff Engineer - Fullstack",
+      "company": "Staffbase",
+      "platform": "Arbeitnow",
+      "location": "Chemnitz, Sachsen",
+      "salary": "Competitive",
+      "type": "Full-time",
+      "tags": [
+        "Engineering"
+      ],
+      "postedAt": "2026-09-03T17:55:16.000Z",
+      "url": "https://www.arbeitnow.com/jobs/companies/staffbase/staff-engineer-fullstack-chemnitz-sachsen-415861"
+    },
+    {
+      "id": "arbeitnow-principal-information-security-manager-430754",
+      "title": "Principal Information Security Manager",
+      "company": "Staffbase",
+      "platform": "Arbeitnow",
+      "location": "Remote",
+      "salary": "Competitive",
+      "type": "Full-time",
+      "tags": [
+        "Operations"
+      ],
+      "postedAt": "2026-09-03T17:55:16.000Z",
+      "url": "https://www.arbeitnow.com/jobs/companies/staffbase/principal-information-security-manager-430754"
+    },
+    {
+      "id": "arbeitnow-senior-system-engineer-all-genders-vmware-virtualization-mainz-39451",
+      "title": "Senior System Engineer (all genders) – VMware Virtualization",
+      "company": "Urano",
+      "platform": "Arbeitnow",
+      "location": "Mainz",
+      "salary": "Competitive",
+      "type": "Full-time",
+      "tags": [
+        "VMware"
+      ],
+      "postedAt": "2026-09-03T17:09:59.000Z",
+      "url": "https://www.arbeitnow.com/jobs/companies/urano/senior-system-engineer-all-genders-vmware-virtualization-mainz-39451"
+    },
+    {
+      "id": "arbeitnow-senior-microsoft-sql-administrator-all-genders-mainz-247002",
+      "title": "Senior Microsoft SQL Administrator (all genders)",
+      "company": "Urano",
+      "platform": "Arbeitnow",
+      "location": "Mainz",
+      "salary": "Competitive",
+      "type": "Full-time",
+      "tags": [],
+      "postedAt": "2026-09-03T17:09:59.000Z",
+      "url": "https://www.arbeitnow.com/jobs/companies/urano/senior-microsoft-sql-administrator-all-genders-mainz-247002"
+    },
+    {
+      "id": "arbeitnow-senior-system-engineer-all-genders-microsoft-infrastructure-mainz-449083",
+      "title": "(Senior) System Engineer (all genders) – Microsoft Infrastructure",
+      "company": "Urano",
+      "platform": "Arbeitnow",
+      "location": "Mainz",
+      "salary": "Competitive",
+      "type": "Full-time",
+      "tags": [],
+      "postedAt": "2026-09-03T17:09:59.000Z",
+      "url": "https://www.arbeitnow.com/jobs/companies/urano/senior-system-engineer-all-genders-microsoft-infrastructure-mainz-449083"
+    },
+    {
+      "id": "jobicy-152433",
+      "title": "Clinical Integration, Nurse Consultant",
+      "company": "Bayesian Health",
+      "platform": "Jobicy",
+      "location": "USA",
+      "salary": "Competitive",
+      "type": "Full-Time",
+      "tags": [],
+      "postedAt": "2026-09-03T16:28:04+00:00",
+      "url": "https://jobicy.com/jobs/152433-clinical-integration-nurse-consultant"
+    },
+    {
+      "id": "jobicy-152432",
+      "title": "Account Executive - Mid-Central",
+      "company": "Garner Health",
+      "platform": "Jobicy",
+      "location": "USA",
+      "salary": "Competitive",
+      "type": "Full-Time",
+      "tags": [],
+      "postedAt": "2026-09-03T16:27:45+00:00",
+      "url": "https://jobicy.com/jobs/152432-account-executive-mid-central"
+    },
+    {
+      "id": "jobicy-152430",
+      "title": "SHI Channel Sales Engineer",
+      "company": "Commvault",
+      "platform": "Jobicy",
+      "location": "USA",
+      "salary": "Competitive",
+      "type": "Full-Time",
+      "tags": [],
+      "postedAt": "2026-09-03T16:27:04+00:00",
+      "url": "https://jobicy.com/jobs/152430-shi-channel-sales-engineer"
+    },
+    {
+      "id": "jobicy-152428",
+      "title": "Account Executive - Central",
+      "company": "Garner Health",
+      "platform": "Jobicy",
+      "location": "USA",
+      "salary": "Competitive",
+      "type": "Full-Time",
+      "tags": [],
+      "postedAt": "2026-09-03T16:26:20+00:00",
+      "url": "https://jobicy.com/jobs/152428-account-executive-central"
+    },
+    {
+      "id": "jobicy-152427",
+      "title": "UX Researcher (Temp-6 month)",
+      "company": "Match Group",
+      "platform": "Jobicy",
+      "location": "USA",
+      "salary": "Competitive",
+      "type": "Contract",
+      "tags": [],
+      "postedAt": "2026-09-03T16:26:01+00:00",
+      "url": "https://jobicy.com/jobs/152427-ux-researcher-temp-6-month"
+    },
+    {
+      "id": "jobicy-152426",
+      "title": "Account Executive",
+      "company": "Dune",
+      "platform": "Jobicy",
+      "location": "Europe,  USA",
+      "salary": "Competitive",
+      "type": "Full-Time",
+      "tags": [],
+      "postedAt": "2026-09-03T16:25:42+00:00",
+      "url": "https://jobicy.com/jobs/152426-account-executive-15"
+    },
+    {
+      "id": "jobicy-152425",
+      "title": "Sales Engineer",
+      "company": "Commvault",
+      "platform": "Jobicy",
+      "location": "Canada",
+      "salary": "Competitive",
+      "type": "Full-Time",
+      "tags": [],
+      "postedAt": "2026-09-03T16:25:22+00:00",
+      "url": "https://jobicy.com/jobs/152425-sales-engineer-6"
+    },
+    {
+      "id": "jobicy-152424",
+      "title": "Enterprise Growth Lead",
+      "company": "Bayesian Health",
+      "platform": "Jobicy",
+      "location": "USA",
+      "salary": "Competitive",
+      "type": "Full-Time",
+      "tags": [],
+      "postedAt": "2026-09-03T16:24:58+00:00",
+      "url": "https://jobicy.com/jobs/152424-enterprise-growth-lead"
     },
     {
       "id": "arbeitnow-cybersecurity-analyst-london-249291",
@@ -1558,6 +1893,90 @@
       ],
       "postedAt": "2026-09-03T14:40:06.000Z",
       "url": "https://www.arbeitnow.com/jobs/companies/easygenerator/head-of-demand-generation-remote-united-kingdom-467361"
+    },
+    {
+      "id": "jobicy-152418",
+      "title": "Global Project Manager",
+      "company": "WorkWave",
+      "platform": "Jobicy",
+      "location": "UK",
+      "salary": "Competitive",
+      "type": "Full-Time",
+      "tags": [],
+      "postedAt": "2026-09-03T14:07:42+00:00",
+      "url": "https://jobicy.com/jobs/152418-global-project-manager"
+    },
+    {
+      "id": "jobicy-152417",
+      "title": "Enterprise Sales Engineer",
+      "company": "WorkWave",
+      "platform": "Jobicy",
+      "location": "USA",
+      "salary": "Competitive",
+      "type": "Full-Time",
+      "tags": [],
+      "postedAt": "2026-09-03T14:07:23+00:00",
+      "url": "https://jobicy.com/jobs/152417-enterprise-sales-engineer-2"
+    },
+    {
+      "id": "jobicy-152415",
+      "title": "Account Manager - SMB Sales",
+      "company": "WorkWave",
+      "platform": "Jobicy",
+      "location": "USA",
+      "salary": "Competitive",
+      "type": "Full-Time",
+      "tags": [],
+      "postedAt": "2026-09-03T14:06:44+00:00",
+      "url": "https://jobicy.com/jobs/152415-account-manager-smb-sales"
+    },
+    {
+      "id": "jobicy-152414",
+      "title": "Automation Sales Manager",
+      "company": "Formic",
+      "platform": "Jobicy",
+      "location": "USA",
+      "salary": "Competitive",
+      "type": "Full-Time",
+      "tags": [],
+      "postedAt": "2026-09-03T14:06:24+00:00",
+      "url": "https://jobicy.com/jobs/152414-automation-sales-manager"
+    },
+    {
+      "id": "jobicy-152413",
+      "title": "Sr. Manager, Success Operations",
+      "company": "Thumbtack",
+      "platform": "Jobicy",
+      "location": "USA",
+      "salary": "Competitive",
+      "type": "Full-Time",
+      "tags": [],
+      "postedAt": "2026-09-03T14:06:04+00:00",
+      "url": "https://jobicy.com/jobs/152413-sr-manager-success-operations"
+    },
+    {
+      "id": "jobicy-152412",
+      "title": "Account Executive - SMB Sales",
+      "company": "WorkWave",
+      "platform": "Jobicy",
+      "location": "USA",
+      "salary": "Competitive",
+      "type": "Full-Time",
+      "tags": [],
+      "postedAt": "2026-09-03T14:05:41+00:00",
+      "url": "https://jobicy.com/jobs/152412-account-executive-smb-sales"
+    },
+    {
+      "id": "jobicy-152411",
+      "title": "Lead Infrastructure Engineer III",
+      "company": "Truckstop",
+      "platform": "Jobicy",
+      "location": "USA",
+      "salary": "Competitive",
+      "type": "Full-Time",
+      "tags": [],
+      "postedAt": "2026-09-03T14:05:18+00:00",
+      "url": "https://jobicy.com/jobs/152411-lead-infrastructure-engineer-iii"
     },
     {
       "id": "jobicy-152408",
@@ -2044,443 +2463,6 @@
       ],
       "postedAt": "2026-09-03T06:55:08.000Z",
       "url": "https://www.arbeitnow.co.uk/jobs/companies/prolific/remote-ai-research-engineer-236229"
-    },
-    {
-      "id": "arbeitnow-enterprise-account-executive-175849",
-      "title": "Enterprise Account Executive",
-      "company": "Coveoen",
-      "platform": "Arbeitnow",
-      "location": "Remote",
-      "salary": "Competitive",
-      "type": "Full-time",
-      "tags": [
-        "Enterprise & Commercial Sales"
-      ],
-      "postedAt": "2026-09-03T06:55:03.000Z",
-      "url": "https://www.arbeitnow.co.uk/jobs/companies/coveoen/enterprise-account-executive-175849"
-    },
-    {
-      "id": "arbeitnow-senior-category-manager-mens-eu-london-104745",
-      "title": "Senior Category Manager, Men's EU",
-      "company": "Quince",
-      "platform": "Arbeitnow",
-      "location": "London",
-      "salary": "Competitive",
-      "type": "Full-time",
-      "tags": [
-        "International"
-      ],
-      "postedAt": "2026-09-03T06:55:02.000Z",
-      "url": "https://www.arbeitnow.co.uk/jobs/companies/quince/senior-category-manager-mens-eu-london-104745"
-    },
-    {
-      "id": "arbeitnow-senior-category-manager-home-eu-london-49963",
-      "title": "Senior Category Manager, Home EU",
-      "company": "Quince",
-      "platform": "Arbeitnow",
-      "location": "London",
-      "salary": "Competitive",
-      "type": "Full-time",
-      "tags": [
-        "International"
-      ],
-      "postedAt": "2026-09-03T06:55:02.000Z",
-      "url": "https://www.arbeitnow.co.uk/jobs/companies/quince/senior-category-manager-home-eu-london-49963"
-    },
-    {
-      "id": "arbeitnow-senior-generative-ai-engineer-london-71224",
-      "title": "Senior Generative AI Engineer",
-      "company": "Motorway",
-      "platform": "Arbeitnow",
-      "location": "London",
-      "salary": "Competitive",
-      "type": "Full-time",
-      "tags": [
-        "Product"
-      ],
-      "postedAt": "2026-09-03T06:40:14.000Z",
-      "url": "https://www.arbeitnow.co.uk/jobs/companies/motorway/senior-generative-ai-engineer-london-71224"
-    },
-    {
-      "id": "arbeitnow-sales-completion-specialist-brighton-265768",
-      "title": "Sales Completion Specialist",
-      "company": "Motorway",
-      "platform": "Arbeitnow",
-      "location": "Brighton",
-      "salary": "Competitive",
-      "type": "Full-time",
-      "tags": [
-        "Seller Services"
-      ],
-      "postedAt": "2026-09-03T06:40:14.000Z",
-      "url": "https://www.arbeitnow.co.uk/jobs/companies/motorway/sales-completion-specialist-brighton-265768"
-    },
-    {
-      "id": "arbeitnow-lead-generative-ai-engineer-london-213245",
-      "title": "Lead Generative AI Engineer",
-      "company": "Motorway",
-      "platform": "Arbeitnow",
-      "location": "London",
-      "salary": "Competitive",
-      "type": "Full-time",
-      "tags": [
-        "Product"
-      ],
-      "postedAt": "2026-09-03T06:40:14.000Z",
-      "url": "https://www.arbeitnow.co.uk/jobs/companies/motorway/lead-generative-ai-engineer-london-213245"
-    },
-    {
-      "id": "arbeitnow-senior-computer-vision-engineer-all-offices-489541",
-      "title": "Senior Computer Vision Engineer",
-      "company": "Hawkeyeinnovations",
-      "platform": "Arbeitnow",
-      "location": "All Offices",
-      "salary": "Competitive",
-      "type": "Full-time",
-      "tags": [
-        "Hawk-Eye Innovations (Value Streams)"
-      ],
-      "postedAt": "2026-09-03T06:40:13.000Z",
-      "url": "https://www.arbeitnow.co.uk/jobs/companies/hawkeyeinnovations/senior-computer-vision-engineer-all-offices-489541"
-    },
-    {
-      "id": "arbeitnow-senior-ai-product-manager-london-379136",
-      "title": "Senior AI Product Manager",
-      "company": "9Fin",
-      "platform": "Arbeitnow",
-      "location": "London",
-      "salary": "Competitive",
-      "type": "Full-time",
-      "tags": [
-        "Product Management"
-      ],
-      "postedAt": "2026-09-03T06:40:12.000Z",
-      "url": "https://www.arbeitnow.co.uk/jobs/companies/9fin/senior-ai-product-manager-london-379136"
-    },
-    {
-      "id": "arbeitnow-senior-product-manager-london-233754",
-      "title": "Senior Product Manager",
-      "company": "9Fin",
-      "platform": "Arbeitnow",
-      "location": "London",
-      "salary": "Competitive",
-      "type": "Full-time",
-      "tags": [
-        "Product Management"
-      ],
-      "postedAt": "2026-09-03T06:40:12.000Z",
-      "url": "https://www.arbeitnow.co.uk/jobs/companies/9fin/senior-product-manager-london-233754"
-    },
-    {
-      "id": "arbeitnow-senior-sales-specialist-business-finance-london-346188",
-      "title": "Senior Sales Specialist (Business Finance)",
-      "company": "Fundingcircle",
-      "platform": "Arbeitnow",
-      "location": "London",
-      "salary": "Competitive",
-      "type": "Full-time",
-      "tags": [
-        "Sales"
-      ],
-      "postedAt": "2026-09-03T06:40:12.000Z",
-      "url": "https://www.arbeitnow.co.uk/jobs/companies/fundingcircle/senior-sales-specialist-business-finance-london-346188"
-    },
-    {
-      "id": "arbeitnow-data-scientist-london-267021",
-      "title": "Data Scientist",
-      "company": "Fundingcircle",
-      "platform": "Arbeitnow",
-      "location": "London",
-      "salary": "Competitive",
-      "type": "Full-time",
-      "tags": [
-        "Risk"
-      ],
-      "postedAt": "2026-09-03T06:40:12.000Z",
-      "url": "https://www.arbeitnow.co.uk/jobs/companies/fundingcircle/data-scientist-london-267021"
-    },
-    {
-      "id": "arbeitnow-complaints-manager-london-106014",
-      "title": "Complaints Manager",
-      "company": "Fundingcircle",
-      "platform": "Arbeitnow",
-      "location": "London",
-      "salary": "Competitive",
-      "type": "Full-time",
-      "tags": [
-        "Collections",
-        "Recoveries & Litigation"
-      ],
-      "postedAt": "2026-09-03T06:40:12.000Z",
-      "url": "https://www.arbeitnow.co.uk/jobs/companies/fundingcircle/complaints-manager-london-106014"
-    },
-    {
-      "id": "arbeitnow-analytics-engineer-uk-cards-london-339019",
-      "title": "Analytics Engineer (UK Cards)",
-      "company": "Lendable",
-      "platform": "Arbeitnow",
-      "location": "London",
-      "salary": "Competitive",
-      "type": "Full-time",
-      "tags": [
-        "Engineering & Product"
-      ],
-      "postedAt": "2026-09-03T06:40:11.000Z",
-      "url": "https://www.arbeitnow.co.uk/jobs/companies/lendable/analytics-engineer-uk-cards-london-339019"
-    },
-    {
-      "id": "arbeitnow-chief-technology-officer-london-151353",
-      "title": "Chief Technology Officer",
-      "company": "Bjak",
-      "platform": "Arbeitnow",
-      "location": "United Kingdom",
-      "salary": "Competitive",
-      "type": "Full-time",
-      "tags": [
-        "ActAI Engineering"
-      ],
-      "postedAt": "2026-09-03T06:40:04.000Z",
-      "url": "https://www.arbeitnow.co.uk/jobs/companies/bjak/chief-technology-officer-london-151353"
-    },
-    {
-      "id": "arbeitnow-growth-london-322292",
-      "title": "Growth",
-      "company": "Axle Careers",
-      "platform": "Arbeitnow",
-      "location": "London",
-      "salary": "Competitive",
-      "type": "Full-time",
-      "tags": [
-        "Commercial"
-      ],
-      "postedAt": "2026-09-03T06:40:03.000Z",
-      "url": "https://www.arbeitnow.co.uk/jobs/companies/axle-careers/growth-london-322292"
-    },
-    {
-      "id": "jobicy-150102",
-      "title": "Senior Customer Success Architect - Singapore",
-      "company": "GitLab",
-      "platform": "Jobicy",
-      "location": "Singapore",
-      "salary": "Competitive",
-      "type": "Full-Time",
-      "tags": [],
-      "postedAt": "2026-09-03T06:00:13+00:00",
-      "url": "https://jobicy.com/jobs/150102-senior-customer-success-architect-singapore"
-    },
-    {
-      "id": "jobicy-150100",
-      "title": "Strategic Account Manager - Customer Success",
-      "company": "Feedzai",
-      "platform": "Jobicy",
-      "location": "Portugal",
-      "salary": "Competitive",
-      "type": "Full-Time",
-      "tags": [],
-      "postedAt": "2026-09-03T06:00:06+00:00",
-      "url": "https://jobicy.com/jobs/150100-strategic-account-manager-customer-success"
-    },
-    {
-      "id": "jobicy-150104",
-      "title": "Customer Success Manager - Video Games",
-      "company": "Keywords Studios Plc",
-      "platform": "Jobicy",
-      "location": "Ireland,  Netherlands,  Poland,  Spain,  UK",
-      "salary": "Competitive",
-      "type": "Full-Time",
-      "tags": [],
-      "postedAt": "2026-09-03T05:55:05+00:00",
-      "url": "https://jobicy.com/jobs/150104-customer-success-manager-video-games"
-    },
-    {
-      "id": "arbeitnow-senior-product-engineer-london-48649",
-      "title": "Senior Product Engineer",
-      "company": "Relex",
-      "platform": "Arbeitnow",
-      "location": "London",
-      "salary": "Competitive",
-      "type": "Full-time",
-      "tags": [
-        "Retail Supply Chain Engineering"
-      ],
-      "postedAt": "2026-09-03T03:55:42.000Z",
-      "url": "https://www.arbeitnow.co.uk/jobs/companies/relex/senior-product-engineer-london-48649"
-    },
-    {
-      "id": "arbeitnow-senior-associate-european-competition-practice-london-302871",
-      "title": "Senior Associate (European Competition practice)",
-      "company": "charlesriverassociates",
-      "platform": "Arbeitnow",
-      "location": "London",
-      "salary": "Competitive",
-      "type": "Full-time",
-      "tags": [
-        "Antitrust & Competition Economics"
-      ],
-      "postedAt": "2026-09-03T03:55:39.000Z",
-      "url": "https://www.arbeitnow.co.uk/jobs/companies/charlesriverassociates/senior-associate-european-competition-practice-london-302871"
-    },
-    {
-      "id": "arbeitnow-principal-european-competition-practice-london-279335",
-      "title": "Principal (European Competition practice)",
-      "company": "charlesriverassociates",
-      "platform": "Arbeitnow",
-      "location": "London",
-      "salary": "Competitive",
-      "type": "Full-time",
-      "tags": [
-        "Antitrust & Competition Economics"
-      ],
-      "postedAt": "2026-09-03T03:55:39.000Z",
-      "url": "https://www.arbeitnow.co.uk/jobs/companies/charlesriverassociates/principal-european-competition-practice-london-279335"
-    },
-    {
-      "id": "arbeitnow-senior-specialist-strategic-account-intelligence-london-146009",
-      "title": "Senior Specialist, Strategic Account Intelligence",
-      "company": "Hootsuite",
-      "platform": "Arbeitnow",
-      "location": "London",
-      "salary": "Competitive",
-      "type": "Full-time",
-      "tags": [
-        "Revenue Enablement"
-      ],
-      "postedAt": "2026-09-03T03:55:35.000Z",
-      "url": "https://www.arbeitnow.co.uk/jobs/companies/hootsuite/senior-specialist-strategic-account-intelligence-london-146009"
-    },
-    {
-      "id": "arbeitnow-scaled-customer-success-manager-emea-london-13348",
-      "title": "Scaled Customer Success Manager, EMEA",
-      "company": "Harvey",
-      "platform": "Arbeitnow",
-      "location": "London",
-      "salary": "Competitive",
-      "type": "Full-time",
-      "tags": [
-        "Customer Success"
-      ],
-      "postedAt": "2026-09-03T03:40:13.000Z",
-      "url": "https://www.arbeitnow.co.uk/jobs/companies/harvey/scaled-customer-success-manager-emea-london-13348"
-    },
-    {
-      "id": "arbeitnow-remote-talent-partner-technical-249021",
-      "title": "Talent Partner [Technical]",
-      "company": "Attio",
-      "platform": "Arbeitnow",
-      "location": "London",
-      "salary": "Competitive",
-      "type": "Full-time",
-      "tags": [
-        "Operations"
-      ],
-      "postedAt": "2026-09-03T03:40:09.000Z",
-      "url": "https://www.arbeitnow.co.uk/jobs/companies/attio/remote-talent-partner-technical-249021"
-    },
-    {
-      "id": "arbeitnow-fixed-term-field-sales-training-executive-sephora-uk-london-365778",
-      "title": "Fixed-Term Field Sales & Training Executive — Sephora UK",
-      "company": "Yepoda",
-      "platform": "Arbeitnow",
-      "location": "London",
-      "salary": "Competitive",
-      "type": "Full-time",
-      "tags": [
-        "Operations"
-      ],
-      "postedAt": "2026-09-03T03:40:06.000Z",
-      "url": "https://www.arbeitnow.co.uk/jobs/companies/yepoda/fixed-term-field-sales-training-executive-sephora-uk-london-365778"
-    },
-    {
-      "id": "arbeitnow-senior-people-partner-product-functions-london-319440",
-      "title": "Senior People Partner – Product & Functions",
-      "company": "M Kopa",
-      "platform": "Arbeitnow",
-      "location": "London",
-      "salary": "Competitive",
-      "type": "Full-time",
-      "tags": [
-        "Corporate"
-      ],
-      "postedAt": "2026-09-03T03:40:06.000Z",
-      "url": "https://www.arbeitnow.co.uk/jobs/companies/m-kopa/senior-people-partner-product-functions-london-319440"
-    },
-    {
-      "id": "arbeitnow-lead-people-partner-technology-london-494657",
-      "title": "Lead People Partner - Technology",
-      "company": "M Kopa",
-      "platform": "Arbeitnow",
-      "location": "London",
-      "salary": "Competitive",
-      "type": "Full-time",
-      "tags": [
-        "Corporate"
-      ],
-      "postedAt": "2026-09-03T03:40:06.000Z",
-      "url": "https://www.arbeitnow.co.uk/jobs/companies/m-kopa/lead-people-partner-technology-london-494657"
-    },
-    {
-      "id": "arbeitnow-lead-pricing-revenue-manager-london-299938",
-      "title": "Lead Pricing & Revenue Manager",
-      "company": "loveholidays",
-      "platform": "Arbeitnow",
-      "location": "London",
-      "salary": "Competitive",
-      "type": "Full-time",
-      "tags": [
-        "Revenue & International"
-      ],
-      "postedAt": "2026-09-03T03:40:05.000Z",
-      "url": "https://www.arbeitnow.co.uk/jobs/companies/loveholidays/lead-pricing-revenue-manager-london-299938"
-    },
-    {
-      "id": "arbeitnow-senior-crm-executive-london-227514",
-      "title": "Senior CRM Executive",
-      "company": "loveholidays",
-      "platform": "Arbeitnow",
-      "location": "London",
-      "salary": "Competitive",
-      "type": "Full-time",
-      "tags": [
-        "Marketing"
-      ],
-      "postedAt": "2026-09-03T03:40:05.000Z",
-      "url": "https://www.arbeitnow.co.uk/jobs/companies/loveholidays/senior-crm-executive-london-227514"
-    },
-    {
-      "id": "jobicy-152397",
-      "title": "Director, Sales Engineering",
-      "company": "Veeam Software",
-      "platform": "Jobicy",
-      "location": "USA",
-      "salary": "Competitive",
-      "type": "Full-Time",
-      "tags": [],
-      "postedAt": "2026-09-02T19:37:22+00:00",
-      "url": "https://jobicy.com/jobs/152397-director-sales-engineering"
-    },
-    {
-      "id": "jobicy-152396",
-      "title": "Engineering Manager, Growth",
-      "company": "Fleetio",
-      "platform": "Jobicy",
-      "location": "Canada,  Mexico,  USA",
-      "salary": "Competitive",
-      "type": "Full-Time",
-      "tags": [],
-      "postedAt": "2026-09-02T19:36:59+00:00",
-      "url": "https://jobicy.com/jobs/152396-engineering-manager-growth"
-    },
-    {
-      "id": "jobicy-152392",
-      "title": "Director, Product Marketing, GTM Strategy",
-      "company": "Fleetio",
-      "platform": "Jobicy",
-      "location": "USA",
-      "salary": "Competitive",
-      "type": "Full-Time",
-      "tags": [],
-      "postedAt": "2026-09-02T19:35:32+00:00",
-      "url": "https://jobicy.com/jobs/152392-director-product-marketing-gtm-strategy"
     }
   ]
 }
