@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-09-05T20:38:21.766Z",
+  "lastUpdated": "2026-09-05T22:44:41.544Z",
   "jobs": [
     {
       "id": "remoteok-1137255",
@@ -274,20 +274,6 @@
       ],
       "postedAt": "2026-08-27T16:00:04+00:00",
       "url": "https://remoteOK.com/remote-jobs/remote-programmatic-campaign-operations-specialist-trader-virtuhire-1137169"
-    },
-    {
-      "id": "arbeitnow-head-of-seo-london-131211",
-      "title": "Head of SEO",
-      "company": "1St%20Formations",
-      "platform": "Arbeitnow",
-      "location": "Covent Garden - Hybrid",
-      "salary": "Competitive",
-      "type": "Full-time",
-      "tags": [
-        "Marketing"
-      ],
-      "postedAt": "2026-09-05T00:40:11.000Z",
-      "url": "https://www.arbeitnow.co.uk/jobs/companies/1st20formations/head-of-seo-london-131211"
     },
     {
       "id": "jobicy-152570",
@@ -1296,6 +1282,18 @@
       "url": "https://remoteOK.com/remote-jobs/remote-gardener-w-hotels-1137164"
     },
     {
+      "id": "jobicy-152613",
+      "title": "Bookkeeper (Founding Member)",
+      "company": "Toast",
+      "platform": "Jobicy",
+      "location": "USA",
+      "salary": "Competitive",
+      "type": "Full-Time",
+      "tags": [],
+      "postedAt": "2026-09-05T18:11:12+00:00",
+      "url": "https://jobicy.com/jobs/152613-bookkeeper-founding-member"
+    },
+    {
       "id": "jobicy-152594",
       "title": "Senior Manager, Fund Administration (Accounting)",
       "company": "Juniper Square",
@@ -1424,6 +1422,48 @@
       "tags": [],
       "postedAt": "2026-09-05T06:07:37+00:00",
       "url": "https://jobicy.com/jobs/152562-ai-transformation-owner-cro"
+    },
+    {
+      "id": "arbeitnow-senior-product-designer-21354",
+      "title": "Senior Product Designer",
+      "company": "Everway",
+      "platform": "Arbeitnow",
+      "location": "Remote",
+      "salary": "Competitive",
+      "type": "Full-time",
+      "tags": [
+        "Product"
+      ],
+      "postedAt": "2026-09-05T21:55:11.000Z",
+      "url": "https://www.arbeitnow.co.uk/jobs/companies/everway/senior-product-designer-21354"
+    },
+    {
+      "id": "arbeitnow-senior-account-manager-4-month-ftc-watford-456436",
+      "title": "Senior Account Manager  [4 month FTC]",
+      "company": "Wppproduction",
+      "platform": "Arbeitnow",
+      "location": "Watford",
+      "salary": "Competitive",
+      "type": "Full-time",
+      "tags": [
+        "Client Services / Account Management"
+      ],
+      "postedAt": "2026-09-05T21:55:09.000Z",
+      "url": "https://www.arbeitnow.co.uk/jobs/companies/wppproduction/senior-account-manager-4-month-ftc-watford-456436"
+    },
+    {
+      "id": "arbeitnow-account-manager-enterprise-london-140046",
+      "title": "Account Manager, Enterprise",
+      "company": "Airwallex",
+      "platform": "Arbeitnow",
+      "location": "UK - London",
+      "salary": "Competitive",
+      "type": "Full-time",
+      "tags": [
+        "Enterprise Business"
+      ],
+      "postedAt": "2026-09-05T21:40:06.000Z",
+      "url": "https://www.arbeitnow.co.uk/jobs/companies/airwallex/account-manager-enterprise-london-140046"
     },
     {
       "id": "arbeitnow-senior-in-app-homepage-manager-paris-paris-244300",
@@ -2280,6 +2320,138 @@
       "url": "https://www.arbeitnow.co.uk/jobs/companies/guidepoint/product-manager-ai-product-engineering-london-227150"
     },
     {
+      "id": "jobicy-152619",
+      "title": "Customer Experience Associate",
+      "company": "Peerspace",
+      "platform": "Jobicy",
+      "location": "USA",
+      "salary": "Competitive",
+      "type": "Full-Time",
+      "tags": [],
+      "postedAt": "2026-09-05T18:54:47+00:00",
+      "url": "https://jobicy.com/jobs/152619-customer-experience-associate-4"
+    },
+    {
+      "id": "jobicy-152618",
+      "title": "Director, Global Field & Channel Marketing",
+      "company": "Keyfactor, Inc.",
+      "platform": "Jobicy",
+      "location": "Canada,  USA",
+      "salary": "Competitive",
+      "type": "Full-Time",
+      "tags": [],
+      "postedAt": "2026-09-05T18:54:32+00:00",
+      "url": "https://jobicy.com/jobs/152618-director-global-field-channel-marketing"
+    },
+    {
+      "id": "jobicy-152616",
+      "title": "Customer Success Manager",
+      "company": "Toast",
+      "platform": "Jobicy",
+      "location": "UK",
+      "salary": "Competitive",
+      "type": "Full-Time",
+      "tags": [],
+      "postedAt": "2026-09-05T18:11:57+00:00",
+      "url": "https://jobicy.com/jobs/152616-customer-success-manager-43"
+    },
+    {
+      "id": "jobicy-152615",
+      "title": "Customer Care Tax Expert",
+      "company": "Toast",
+      "platform": "Jobicy",
+      "location": "USA",
+      "salary": "Competitive",
+      "type": "Full-Time",
+      "tags": [],
+      "postedAt": "2026-09-05T18:11:42+00:00",
+      "url": "https://jobicy.com/jobs/152615-customer-care-tax-expert"
+    },
+    {
+      "id": "jobicy-152614",
+      "title": "Business Development Representative - Retail",
+      "company": "Toast",
+      "platform": "Jobicy",
+      "location": "USA",
+      "salary": "Competitive",
+      "type": "Full-Time",
+      "tags": [],
+      "postedAt": "2026-09-05T18:11:27+00:00",
+      "url": "https://jobicy.com/jobs/152614-business-development-representative-retail"
+    },
+    {
+      "id": "jobicy-152612",
+      "title": "Commercial Counsel",
+      "company": "Mural",
+      "platform": "Jobicy",
+      "location": "USA",
+      "salary": "Competitive",
+      "type": "Full-Time",
+      "tags": [],
+      "postedAt": "2026-09-05T18:10:56+00:00",
+      "url": "https://jobicy.com/jobs/152612-commercial-counsel"
+    },
+    {
+      "id": "jobicy-152611",
+      "title": "Sales Manager - Weather & Climate (EMEA & APAC)",
+      "company": "Spire",
+      "platform": "Jobicy",
+      "location": "Europe",
+      "salary": "Competitive",
+      "type": "Full-Time",
+      "tags": [],
+      "postedAt": "2026-09-05T18:10:41+00:00",
+      "url": "https://jobicy.com/jobs/152611-sales-manager-weather-climate-emea-apac-2"
+    },
+    {
+      "id": "jobicy-152610",
+      "title": "Lead Product Designer, Growth (Upper Funnel)",
+      "company": "Mural",
+      "platform": "Jobicy",
+      "location": "Canada,  USA",
+      "salary": "Competitive",
+      "type": "Full-Time",
+      "tags": [],
+      "postedAt": "2026-09-05T18:10:25+00:00",
+      "url": "https://jobicy.com/jobs/152610-lead-product-designer-growth-upper-funnel"
+    },
+    {
+      "id": "jobicy-152609",
+      "title": "Specialty Insurance Underwriter/Coverage Attorney/Consultant/Professional (Contract)",
+      "company": "Brain Co.",
+      "platform": "Jobicy",
+      "location": "USA",
+      "salary": "Competitive",
+      "type": "Contract",
+      "tags": [],
+      "postedAt": "2026-09-05T18:10:10+00:00",
+      "url": "https://jobicy.com/jobs/152609-specialty-insurance-underwriter-coverage-attorney-consultant-professional-contract"
+    },
+    {
+      "id": "jobicy-152608",
+      "title": "Bilingual Strategic Cuisines Account Executive (Mandarin ) - West Coast",
+      "company": "Toast",
+      "platform": "Jobicy",
+      "location": "USA",
+      "salary": "Competitive",
+      "type": "Full-Time",
+      "tags": [],
+      "postedAt": "2026-09-05T18:09:54+00:00",
+      "url": "https://jobicy.com/jobs/152608-bilingual-strategic-cuisines-account-executive-mandarin-west-coast"
+    },
+    {
+      "id": "jobicy-152607",
+      "title": "Sales Manager - Americas",
+      "company": "Spire",
+      "platform": "Jobicy",
+      "location": "USA",
+      "salary": "Competitive",
+      "type": "Full-Time",
+      "tags": [],
+      "postedAt": "2026-09-05T18:09:35+00:00",
+      "url": "https://jobicy.com/jobs/152607-sales-manager-americas"
+    },
+    {
       "id": "arbeitnow-speculative-applications-for-go-to-market-roles-107923",
       "title": "Speculative Applications for Go-To-Market roles",
       "company": "Staffbase",
@@ -2320,184 +2492,6 @@
       "tags": [],
       "postedAt": "2026-09-05T16:10:49+00:00",
       "url": "https://jobicy.com/jobs/152606-senior-data-analyst-gtm-analytics-canada"
-    },
-    {
-      "id": "jobicy-152605",
-      "title": "Forward Deployment Engineer, AI - US Remote",
-      "company": "PerfectServe",
-      "platform": "Jobicy",
-      "location": "USA",
-      "salary": "Competitive",
-      "type": "Full-Time",
-      "tags": [],
-      "postedAt": "2026-09-05T16:10:26+00:00",
-      "url": "https://jobicy.com/jobs/152605-forward-deployment-engineer-ai-us-remote"
-    },
-    {
-      "id": "jobicy-152604",
-      "title": "International Audio/Video Remote Armenian Interpreter",
-      "company": "Language Services Associates",
-      "platform": "Jobicy",
-      "location": "Anywhere",
-      "salary": "Competitive",
-      "type": "Contract",
-      "tags": [],
-      "postedAt": "2026-09-05T16:10:11+00:00",
-      "url": "https://jobicy.com/jobs/152604-international-audio-video-remote-armenian-interpreter"
-    },
-    {
-      "id": "jobicy-152603",
-      "title": "Financial Operations Intern",
-      "company": "Dutchie",
-      "platform": "Jobicy",
-      "location": "USA",
-      "salary": "Competitive",
-      "type": "Internship",
-      "tags": [],
-      "postedAt": "2026-09-05T16:09:58+00:00",
-      "url": "https://jobicy.com/jobs/152603-financial-operations-intern"
-    },
-    {
-      "id": "jobicy-152602",
-      "title": "RevTech Senior Salesforce Developer - LATAM",
-      "company": "Luxury Presence",
-      "platform": "Jobicy",
-      "location": "LATAM",
-      "salary": "Competitive",
-      "type": "Full-Time",
-      "tags": [],
-      "postedAt": "2026-09-05T16:09:44+00:00",
-      "url": "https://jobicy.com/jobs/152602-revtech-senior-salesforce-developer-latam"
-    },
-    {
-      "id": "jobicy-152601",
-      "title": "Forward Deployment Engineer, AI - Canada Remote",
-      "company": "PerfectServe",
-      "platform": "Jobicy",
-      "location": "Canada",
-      "salary": "Competitive",
-      "type": "Full-Time",
-      "tags": [],
-      "postedAt": "2026-09-05T16:09:29+00:00",
-      "url": "https://jobicy.com/jobs/152601-forward-deployment-engineer-ai-canada-remote"
-    },
-    {
-      "id": "jobicy-152600",
-      "title": "International Audio/Video Remote Arabic Interpreters",
-      "company": "Language Services Associates",
-      "platform": "Jobicy",
-      "location": "Anywhere",
-      "salary": "Competitive",
-      "type": "Contract",
-      "tags": [],
-      "postedAt": "2026-09-05T16:09:11+00:00",
-      "url": "https://jobicy.com/jobs/152600-international-audio-video-remote-arabic-interpreters"
-    },
-    {
-      "id": "jobicy-152599",
-      "title": "Account Executive, PNW",
-      "company": "Dutchie",
-      "platform": "Jobicy",
-      "location": "USA",
-      "salary": "Competitive",
-      "type": "Full-Time",
-      "tags": [],
-      "postedAt": "2026-09-05T16:08:57+00:00",
-      "url": "https://jobicy.com/jobs/152599-account-executive-pnw"
-    },
-    {
-      "id": "jobicy-152598",
-      "title": "Junior Web Builder (Fully Remote, PH-Based Only, Fresh Grads Welcome to Apply)",
-      "company": "Luxury Presence",
-      "platform": "Jobicy",
-      "location": "Philippines",
-      "salary": "Competitive",
-      "type": "Contract",
-      "tags": [],
-      "postedAt": "2026-09-05T16:08:41+00:00",
-      "url": "https://jobicy.com/jobs/152598-junior-web-builder-fully-remote-ph-based-only-fresh-grads-welcome-to-apply"
-    },
-    {
-      "id": "jobicy-152597",
-      "title": "International Audio/Video Remote Afghani/Dari Interpreter",
-      "company": "Language Services Associates",
-      "platform": "Jobicy",
-      "location": "Anywhere",
-      "salary": "Competitive",
-      "type": "Contract",
-      "tags": [],
-      "postedAt": "2026-09-05T16:08:27+00:00",
-      "url": "https://jobicy.com/jobs/152597-international-audio-video-remote-afghani-dari-interpreter"
-    },
-    {
-      "id": "arbeitnow-account-executive-high-growth-london-greater-london-19410",
-      "title": "Account Executive, High Growth",
-      "company": "Alphasense",
-      "platform": "Arbeitnow",
-      "location": "London, Greater London",
-      "salary": "Competitive",
-      "type": "Full-time",
-      "tags": [
-        "Financial Services Sales"
-      ],
-      "postedAt": "2026-09-05T15:55:21.000Z",
-      "url": "https://www.arbeitnow.co.uk/jobs/companies/alphasense/account-executive-high-growth-london-greater-london-19410"
-    },
-    {
-      "id": "arbeitnow-value-engineer-london-3330",
-      "title": "Value Engineer",
-      "company": "Legora",
-      "platform": "Arbeitnow",
-      "location": "London",
-      "salary": "Competitive",
-      "type": "Full-time",
-      "tags": [
-        "Go To Market (GTM)"
-      ],
-      "postedAt": "2026-09-05T15:40:09.000Z",
-      "url": "https://www.arbeitnow.co.uk/jobs/companies/legora/value-engineer-london-3330"
-    },
-    {
-      "id": "arbeitnow-sales-development-representative-sdr-edinburgh-307356",
-      "title": "Sales Development Representative (SDR)",
-      "company": "Wordsmith",
-      "platform": "Arbeitnow",
-      "location": "Edinburgh",
-      "salary": "Competitive",
-      "type": "Full-time",
-      "tags": [
-        "GTM"
-      ],
-      "postedAt": "2026-09-05T15:40:07.000Z",
-      "url": "https://www.arbeitnow.co.uk/jobs/companies/wordsmith/sales-development-representative-sdr-edinburgh-307356"
-    },
-    {
-      "id": "arbeitnow-strategic-account-executive-uki-125029",
-      "title": "Strategic Account Executive (UKI)",
-      "company": "Pingidentity",
-      "platform": "Arbeitnow",
-      "location": "Remote",
-      "salary": "Competitive",
-      "type": "Full-time",
-      "tags": [
-        "6100 Sales Quota"
-      ],
-      "postedAt": "2026-09-05T12:55:10.000Z",
-      "url": "https://www.arbeitnow.co.uk/jobs/companies/pingidentity/strategic-account-executive-uki-125029"
-    },
-    {
-      "id": "arbeitnow-director-sales-middle-east-304335",
-      "title": "Director, Sales (Middle East)",
-      "company": "Pingidentity",
-      "platform": "Arbeitnow",
-      "location": "Remote",
-      "salary": "Competitive",
-      "type": "Full-time",
-      "tags": [
-        "6250 Sales Management"
-      ],
-      "postedAt": "2026-09-05T12:55:10.000Z",
-      "url": "https://www.arbeitnow.co.uk/jobs/companies/pingidentity/director-sales-middle-east-304335"
     }
   ]
 }
