@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-09-05T15:53:30.555Z",
+  "lastUpdated": "2026-09-05T18:04:02.886Z",
   "jobs": [
     {
       "id": "remoteok-1137255",
@@ -160,6 +160,20 @@
       ],
       "postedAt": "2026-09-05T00:40:12.000Z",
       "url": "https://www.arbeitnow.co.uk/jobs/companies/cube/executive-assistant-london-41141"
+    },
+    {
+      "id": "arbeitnow-senior-product-manager-smb-e-commerce-growth-paris-311696",
+      "title": "Senior Product Manager, SMB e-commerce Growth",
+      "company": "Photoroom",
+      "platform": "Arbeitnow",
+      "location": "Paris",
+      "salary": "Competitive",
+      "type": "Full-time",
+      "tags": [
+        "R&D"
+      ],
+      "postedAt": "2026-09-05T16:40:15.000Z",
+      "url": "https://www.arbeitnow.fr/jobs/companies/photoroom/senior-product-manager-smb-e-commerce-growth-paris-311696"
     },
     {
       "id": "remoteok-1137268",
@@ -1282,20 +1296,6 @@
       "url": "https://remoteOK.com/remote-jobs/remote-gardener-w-hotels-1137164"
     },
     {
-      "id": "arbeitnow-channel-partnerships-manager-accounting-france-paris-479041",
-      "title": "Channel Partnerships Manager, Accounting, France",
-      "company": "Airwallex",
-      "platform": "Arbeitnow",
-      "location": "FR - Paris",
-      "salary": "Competitive",
-      "type": "Full-time",
-      "tags": [
-        "SME & Growth Business"
-      ],
-      "postedAt": "2026-09-05T13:40:08.000Z",
-      "url": "https://www.arbeitnow.fr/jobs/companies/airwallex/channel-partnerships-manager-accounting-france-paris-479041"
-    },
-    {
       "id": "jobicy-152594",
       "title": "Senior Manager, Fund Administration (Accounting)",
       "company": "Juniper Square",
@@ -1344,18 +1344,61 @@
       "url": "https://jobicy.com/jobs/152510-partner-consultant-accounting"
     },
     {
-      "id": "arbeitnow-security-operations-manager-paris-468025",
-      "title": "Security Operations Manager, Paris",
-      "company": "OpenAI",
+      "id": "arbeitnow-senior-talent-acquisition-partner-contractor-paris-440317",
+      "title": "Senior Talent Acquisition Partner (Contractor)",
+      "company": "Photoroom",
+      "platform": "Arbeitnow",
+      "location": "Paris",
+      "salary": "Competitive",
+      "type": "Full-time",
+      "tags": [
+        "G&A"
+      ],
+      "postedAt": "2026-09-05T16:40:15.000Z",
+      "url": "https://www.arbeitnow.fr/jobs/companies/photoroom/senior-talent-acquisition-partner-contractor-paris-440317"
+    },
+    {
+      "id": "arbeitnow-stage-talent-acquisition-retail-europe-h-f-paris-196549",
+      "title": "Stage - Talent Acquisition Retail Europe H/F",
+      "company": "AMI PARIS",
+      "platform": "Arbeitnow",
+      "location": "Paris, Île-de-France, France",
+      "salary": "Competitive",
+      "type": "Full-time",
+      "tags": [
+        "Ressources humaines"
+      ],
+      "postedAt": "2026-09-05T16:30:28.000Z",
+      "url": "https://www.arbeitnow.fr/jobs/companies/ami-paris/stage-talent-acquisition-retail-europe-h-f-paris-196549"
+    },
+    {
+      "id": "arbeitnow-specialiste-principale-at-et-remuneration-senior-talent-acquisition-specialist-paris-360104",
+      "title": "Spécialiste principal(e) AT et rémunération/Senior Talent Acquisition Specialist",
+      "company": "Genetec Inc",
       "platform": "Arbeitnow",
       "location": "Paris, France",
       "salary": "Competitive",
       "type": "Full-time",
       "tags": [
-        "Corporate Security"
+        "Human Resources",
+        "Computer Software"
       ],
-      "postedAt": "2026-09-05T13:40:10.000Z",
-      "url": "https://www.arbeitnow.fr/jobs/companies/openai/security-operations-manager-paris-468025"
+      "postedAt": "2026-09-05T16:20:04.000Z",
+      "url": "https://www.arbeitnow.fr/jobs/companies/genetec-inc/specialiste-principale-at-et-remuneration-senior-talent-acquisition-specialist-paris-360104"
+    },
+    {
+      "id": "arbeitnow-senior-sales-operations-manager-paris-france-244113",
+      "title": "Senior Sales Operations Manager",
+      "company": "Brevo",
+      "platform": "Arbeitnow",
+      "location": "Paris, France",
+      "salary": "Competitive",
+      "type": "Full-time",
+      "tags": [
+        "Revenue Operations"
+      ],
+      "postedAt": "2026-09-05T16:04:21.000Z",
+      "url": "https://www.arbeitnow.fr/jobs/companies/brevo/senior-sales-operations-manager-paris-france-244113"
     },
     {
       "id": "jobicy-150240",
@@ -1408,6 +1451,607 @@
       "tags": [],
       "postedAt": "2026-09-05T06:07:37+00:00",
       "url": "https://jobicy.com/jobs/152562-ai-transformation-owner-cro"
+    },
+    {
+      "id": "arbeitnow-senior-qa-engineer-rennes-ille-et-vilaine-254760",
+      "title": "Senior QA Engineer (f/m/d)",
+      "company": "idnow",
+      "platform": "Arbeitnow",
+      "location": "Rennes, Ille-et-Vilaine",
+      "salary": "Competitive",
+      "type": "Full-time",
+      "tags": [
+        "Engineering & Development"
+      ],
+      "postedAt": "2026-09-05T16:55:17.000Z",
+      "url": "https://www.arbeitnow.fr/jobs/companies/idnow/senior-qa-engineer-rennes-ille-et-vilaine-254760"
+    },
+    {
+      "id": "arbeitnow-qa-engineer-rennes-ille-et-vilaine-59204",
+      "title": "QA Engineer (f/m/d)",
+      "company": "idnow",
+      "platform": "Arbeitnow",
+      "location": "Rennes, Ille-et-Vilaine",
+      "salary": "Competitive",
+      "type": "Full-time",
+      "tags": [
+        "Engineering & Development"
+      ],
+      "postedAt": "2026-09-05T16:55:17.000Z",
+      "url": "https://www.arbeitnow.fr/jobs/companies/idnow/qa-engineer-rennes-ille-et-vilaine-59204"
+    },
+    {
+      "id": "arbeitnow-people-operations-payroll-working-student-paris-paris-484273",
+      "title": "People Operations & Payroll (Working Student)",
+      "company": "sumup",
+      "platform": "Arbeitnow",
+      "location": "Paris, Paris",
+      "salary": "Competitive",
+      "type": "Full-time",
+      "tags": [
+        "People"
+      ],
+      "postedAt": "2026-09-05T16:55:08.000Z",
+      "url": "https://www.arbeitnow.fr/jobs/companies/sumup/people-operations-payroll-working-student-paris-paris-484273"
+    },
+    {
+      "id": "arbeitnow-power-trading-renewables-analytics-internship-program-grenoble-307571",
+      "title": "Power Trading & Renewables Analytics Internship Program",
+      "company": "engelhart",
+      "platform": "Arbeitnow",
+      "location": "Grenoble",
+      "salary": "Competitive",
+      "type": "Full-time",
+      "tags": [
+        "Graduate Internships"
+      ],
+      "postedAt": "2026-09-05T16:55:06.000Z",
+      "url": "https://www.arbeitnow.fr/jobs/companies/engelhart/power-trading-renewables-analytics-internship-program-grenoble-307571"
+    },
+    {
+      "id": "arbeitnow-senior-recruiter-contractor-paris-330790",
+      "title": "Senior Recruiter (Contractor)",
+      "company": "Photoroom",
+      "platform": "Arbeitnow",
+      "location": "Paris",
+      "salary": "Competitive",
+      "type": "Full-time",
+      "tags": [
+        "G&A"
+      ],
+      "postedAt": "2026-09-05T16:40:15.000Z",
+      "url": "https://www.arbeitnow.fr/jobs/companies/photoroom/senior-recruiter-contractor-paris-330790"
+    },
+    {
+      "id": "arbeitnow-product-ml-engineer-paris-241902",
+      "title": "Product ML Engineer",
+      "company": "Photoroom",
+      "platform": "Arbeitnow",
+      "location": "Paris",
+      "salary": "Competitive",
+      "type": "Full-time",
+      "tags": [
+        "Machine Learning Team"
+      ],
+      "postedAt": "2026-09-05T16:40:15.000Z",
+      "url": "https://www.arbeitnow.fr/jobs/companies/photoroom/product-ml-engineer-paris-241902"
+    },
+    {
+      "id": "arbeitnow-product-manager-editing-foundations-paris-132914",
+      "title": "Product Manager, Editing Foundations",
+      "company": "Photoroom",
+      "platform": "Arbeitnow",
+      "location": "Paris",
+      "salary": "Competitive",
+      "type": "Full-time",
+      "tags": [
+        "R&D"
+      ],
+      "postedAt": "2026-09-05T16:40:15.000Z",
+      "url": "https://www.arbeitnow.fr/jobs/companies/photoroom/product-manager-editing-foundations-paris-132914"
+    },
+    {
+      "id": "arbeitnow-staff-product-manager-agentic-ai-platform-paris-467460",
+      "title": "Staff Product Manager, Agentic & AI Platform",
+      "company": "Photoroom",
+      "platform": "Arbeitnow",
+      "location": "Paris",
+      "salary": "Competitive",
+      "type": "Full-time",
+      "tags": [
+        "R&D"
+      ],
+      "postedAt": "2026-09-05T16:40:15.000Z",
+      "url": "https://www.arbeitnow.fr/jobs/companies/photoroom/staff-product-manager-agentic-ai-platform-paris-467460"
+    },
+    {
+      "id": "arbeitnow-legal-intern-paris-234693",
+      "title": "Legal Intern",
+      "company": "Photoroom",
+      "platform": "Arbeitnow",
+      "location": "Paris | Remote",
+      "salary": "Competitive",
+      "type": "Full-time",
+      "tags": [
+        "G&A"
+      ],
+      "postedAt": "2026-09-05T16:40:15.000Z",
+      "url": "https://www.arbeitnow.fr/jobs/companies/photoroom/legal-intern-paris-234693"
+    },
+    {
+      "id": "arbeitnow-senior-product-analyst-paris-306873",
+      "title": "Senior Product Analyst",
+      "company": "Photoroom",
+      "platform": "Arbeitnow",
+      "location": "Paris",
+      "salary": "Competitive",
+      "type": "Full-time",
+      "tags": [
+        "R&D"
+      ],
+      "postedAt": "2026-09-05T16:40:15.000Z",
+      "url": "https://www.arbeitnow.fr/jobs/companies/photoroom/senior-product-analyst-paris-306873"
+    },
+    {
+      "id": "arbeitnow-senior-product-manager-core-product-paris-285907",
+      "title": "Senior Product Manager, Core Product",
+      "company": "Photoroom",
+      "platform": "Arbeitnow",
+      "location": "Paris",
+      "salary": "Competitive",
+      "type": "Full-time",
+      "tags": [
+        "R&D"
+      ],
+      "postedAt": "2026-09-05T16:40:15.000Z",
+      "url": "https://www.arbeitnow.fr/jobs/companies/photoroom/senior-product-manager-core-product-paris-285907"
+    },
+    {
+      "id": "arbeitnow-snr-people-generalist-freelance-paris-483147",
+      "title": "Snr People Generalist - Freelance",
+      "company": "Photoroom",
+      "platform": "Arbeitnow",
+      "location": "Paris",
+      "salary": "Competitive",
+      "type": "Full-time",
+      "tags": [
+        "G&A"
+      ],
+      "postedAt": "2026-09-05T16:40:15.000Z",
+      "url": "https://www.arbeitnow.fr/jobs/companies/photoroom/snr-people-generalist-freelance-paris-483147"
+    },
+    {
+      "id": "arbeitnow-senior-user-acquisition-manager-paris-380786",
+      "title": "Senior User Acquisition Manager",
+      "company": "Photoroom",
+      "platform": "Arbeitnow",
+      "location": "Paris",
+      "salary": "Competitive",
+      "type": "Full-time",
+      "tags": [
+        "B2B GTM"
+      ],
+      "postedAt": "2026-09-05T16:40:15.000Z",
+      "url": "https://www.arbeitnow.fr/jobs/companies/photoroom/senior-user-acquisition-manager-paris-380786"
+    },
+    {
+      "id": "arbeitnow-legal-counsel-privacy-and-product-paris-426498",
+      "title": "Legal Counsel - Privacy and Product",
+      "company": "Photoroom",
+      "platform": "Arbeitnow",
+      "location": "Paris",
+      "salary": "Competitive",
+      "type": "Full-time",
+      "tags": [
+        "G&A"
+      ],
+      "postedAt": "2026-09-05T16:40:15.000Z",
+      "url": "https://www.arbeitnow.fr/jobs/companies/photoroom/legal-counsel-privacy-and-product-paris-426498"
+    },
+    {
+      "id": "arbeitnow-head-of-genai-platform-paris-97984",
+      "title": "Head of GenAI Platform",
+      "company": "Photoroom",
+      "platform": "Arbeitnow",
+      "location": "Paris",
+      "salary": "Competitive",
+      "type": "Full-time",
+      "tags": [
+        "R&D"
+      ],
+      "postedAt": "2026-09-05T16:40:15.000Z",
+      "url": "https://www.arbeitnow.fr/jobs/companies/photoroom/head-of-genai-platform-paris-97984"
+    },
+    {
+      "id": "arbeitnow-product-manager-data-orchestration-villeneuve-dascq-379272",
+      "title": "Product Manager, Data Orchestration",
+      "company": "Kestra Technologies",
+      "platform": "Arbeitnow",
+      "location": "Europe",
+      "salary": "Competitive",
+      "type": "Full-time",
+      "tags": [
+        "Products"
+      ],
+      "postedAt": "2026-09-05T16:40:10.000Z",
+      "url": "https://www.arbeitnow.fr/jobs/companies/kestra-technologies/product-manager-data-orchestration-villeneuve-dascq-379272"
+    },
+    {
+      "id": "arbeitnow-qa-engineer-villeneuve-dascq-302557",
+      "title": "QA Engineer",
+      "company": "Kestra Technologies",
+      "platform": "Arbeitnow",
+      "location": "Europe",
+      "salary": "Competitive",
+      "type": "Full-time",
+      "tags": [
+        "Products"
+      ],
+      "postedAt": "2026-09-05T16:40:10.000Z",
+      "url": "https://www.arbeitnow.fr/jobs/companies/kestra-technologies/qa-engineer-villeneuve-dascq-302557"
+    },
+    {
+      "id": "arbeitnow-product-manager-ai-villeneuve-dascq-188715",
+      "title": "Product Manager, AI",
+      "company": "Kestra Technologies",
+      "platform": "Arbeitnow",
+      "location": "Europe",
+      "salary": "Competitive",
+      "type": "Full-time",
+      "tags": [
+        "Products"
+      ],
+      "postedAt": "2026-09-05T16:40:10.000Z",
+      "url": "https://www.arbeitnow.fr/jobs/companies/kestra-technologies/product-manager-ai-villeneuve-dascq-188715"
+    },
+    {
+      "id": "arbeitnow-chemistry-expert-spain-paris-347851",
+      "title": "Chemistry Expert (Spain)",
+      "company": "Anyone Ai",
+      "platform": "Arbeitnow",
+      "location": "France",
+      "salary": "Competitive",
+      "type": "Full-time",
+      "tags": [
+        "STEM"
+      ],
+      "postedAt": "2026-09-05T16:40:09.000Z",
+      "url": "https://www.arbeitnow.fr/jobs/companies/anyone-ai/chemistry-expert-spain-paris-347851"
+    },
+    {
+      "id": "arbeitnow-chemistry-expert-france-paris-177577",
+      "title": "Chemistry Expert (France)",
+      "company": "Anyone Ai",
+      "platform": "Arbeitnow",
+      "location": "France",
+      "salary": "Competitive",
+      "type": "Full-time",
+      "tags": [
+        "STEM"
+      ],
+      "postedAt": "2026-09-05T16:40:09.000Z",
+      "url": "https://www.arbeitnow.fr/jobs/companies/anyone-ai/chemistry-expert-france-paris-177577"
+    },
+    {
+      "id": "arbeitnow-biology-expert-ai-trainer-france-paris-167831",
+      "title": "Biology Expert - AI Trainer (France)",
+      "company": "Anyone Ai",
+      "platform": "Arbeitnow",
+      "location": "France",
+      "salary": "Competitive",
+      "type": "Full-time",
+      "tags": [
+        "STEM"
+      ],
+      "postedAt": "2026-09-05T16:40:09.000Z",
+      "url": "https://www.arbeitnow.fr/jobs/companies/anyone-ai/biology-expert-ai-trainer-france-paris-167831"
+    },
+    {
+      "id": "arbeitnow-remote-data-operations-specialist-321084",
+      "title": "Data & Operations Specialist",
+      "company": "Anyone Ai",
+      "platform": "Arbeitnow",
+      "location": "Remote",
+      "salary": "Competitive",
+      "type": "Full-time",
+      "tags": [
+        "Anyone AI Internal Team"
+      ],
+      "postedAt": "2026-09-05T16:40:09.000Z",
+      "url": "https://www.arbeitnow.fr/jobs/companies/anyone-ai/remote-data-operations-specialist-321084"
+    },
+    {
+      "id": "arbeitnow-physics-expert-ai-trainer-france-paris-259500",
+      "title": "Physics Expert - AI Trainer (France)",
+      "company": "Anyone Ai",
+      "platform": "Arbeitnow",
+      "location": "France",
+      "salary": "Competitive",
+      "type": "Full-time",
+      "tags": [
+        "STEM"
+      ],
+      "postedAt": "2026-09-05T16:40:09.000Z",
+      "url": "https://www.arbeitnow.fr/jobs/companies/anyone-ai/physics-expert-ai-trainer-france-paris-259500"
+    },
+    {
+      "id": "arbeitnow-mathematics-expert-france-paris-327721",
+      "title": "Mathematics Expert (France)",
+      "company": "Anyone Ai",
+      "platform": "Arbeitnow",
+      "location": "France",
+      "salary": "Competitive",
+      "type": "Full-time",
+      "tags": [
+        "STEM"
+      ],
+      "postedAt": "2026-09-05T16:40:09.000Z",
+      "url": "https://www.arbeitnow.fr/jobs/companies/anyone-ai/mathematics-expert-france-paris-327721"
+    },
+    {
+      "id": "arbeitnow-national-account-manager-indirect-sales-channel-mid-senior-france-218926",
+      "title": "National Account Manager | Indirect Sales Channel | Mid-Senior",
+      "company": "Nord Security",
+      "platform": "Arbeitnow",
+      "location": "France",
+      "salary": "Competitive",
+      "type": "Full-time",
+      "tags": [
+        "NordVPN"
+      ],
+      "postedAt": "2026-09-05T16:40:08.000Z",
+      "url": "https://www.arbeitnow.fr/jobs/companies/nord-security/national-account-manager-indirect-sales-channel-mid-senior-france-218926"
+    },
+    {
+      "id": "arbeitnow-director-biopharma-data-science-france-405781",
+      "title": "Director, Biopharma Data Science",
+      "company": "Owkin",
+      "platform": "Arbeitnow",
+      "location": "France",
+      "salary": "Competitive",
+      "type": "Full-time",
+      "tags": [
+        "BIOMEDICAL"
+      ],
+      "postedAt": "2026-09-05T16:40:06.000Z",
+      "url": "https://www.arbeitnow.fr/jobs/companies/owkin/director-biopharma-data-science-france-405781"
+    },
+    {
+      "id": "arbeitnow-developpeur-backend-php-en-alternance-12-mois-f-h-rouen-14953",
+      "title": "Développeur Backend PHP en alternance 12 mois (F/H)",
+      "company": "Lemonway",
+      "platform": "Arbeitnow",
+      "location": "Rouen, Normandie, France",
+      "salary": "Competitive",
+      "type": "Full-time",
+      "tags": [],
+      "postedAt": "2026-09-05T16:30:16.000Z",
+      "url": "https://www.arbeitnow.fr/jobs/companies/lemonway/developpeur-backend-php-en-alternance-12-mois-f-h-rouen-14953"
+    },
+    {
+      "id": "arbeitnow-senior-regulatory-officer-cdi-f-h-paris-123983",
+      "title": "Senior Regulatory Officer - CDI (F/H)",
+      "company": "Lemonway",
+      "platform": "Arbeitnow",
+      "location": "Paris, Île-de-France, France",
+      "salary": "Competitive",
+      "type": "Full-time",
+      "tags": [
+        "Compliance"
+      ],
+      "postedAt": "2026-09-05T16:30:16.000Z",
+      "url": "https://www.arbeitnow.fr/jobs/companies/lemonway/senior-regulatory-officer-cdi-f-h-paris-123983"
+    },
+    {
+      "id": "arbeitnow-international-drug-quality-assurance-leader-paris-51062",
+      "title": "International Drug Quality Assurance Leader",
+      "company": "MSF International",
+      "platform": "Arbeitnow",
+      "location": "Paris, Île-de-France, France",
+      "salary": "Competitive",
+      "type": "Full-time",
+      "tags": [
+        "International Office"
+      ],
+      "postedAt": "2026-09-05T16:30:15.000Z",
+      "url": "https://www.arbeitnow.fr/jobs/companies/msf-international/international-drug-quality-assurance-leader-paris-51062"
+    },
+    {
+      "id": "arbeitnow-senior-security-management-specialist-95-remote-anywhere-in-the-eu-strasbourg-392969",
+      "title": "Senior Security Management Specialist - 95% Remote Anywhere in the EU",
+      "company": "KEYES",
+      "platform": "Arbeitnow",
+      "location": "Remote job",
+      "salary": "Competitive",
+      "type": "Full-time",
+      "tags": [
+        "Trasys International",
+        "Remote"
+      ],
+      "postedAt": "2026-09-05T16:30:05.000Z",
+      "url": "https://www.arbeitnow.fr/jobs/companies/keyes/senior-security-management-specialist-95-remote-anywhere-in-the-eu-strasbourg-392969"
+    },
+    {
+      "id": "arbeitnow-senior-sales-enablement-manager-paris-france-114739",
+      "title": "Senior Sales Enablement Manager",
+      "company": "Brevo",
+      "platform": "Arbeitnow",
+      "location": "Paris, France",
+      "salary": "Competitive",
+      "type": "Full-time",
+      "tags": [
+        "Revenue Operations"
+      ],
+      "postedAt": "2026-09-05T16:04:21.000Z",
+      "url": "https://www.arbeitnow.fr/jobs/companies/brevo/senior-sales-enablement-manager-paris-france-114739"
+    },
+    {
+      "id": "arbeitnow-senior-product-manager-paris-france-485850",
+      "title": "Senior Product Manager",
+      "company": "Brevo",
+      "platform": "Arbeitnow",
+      "location": "Paris, France",
+      "salary": "Competitive",
+      "type": "Full-time",
+      "tags": [
+        "Product Management"
+      ],
+      "postedAt": "2026-09-05T16:04:21.000Z",
+      "url": "https://www.arbeitnow.fr/jobs/companies/brevo/senior-product-manager-paris-france-485850"
+    },
+    {
+      "id": "arbeitnow-senior-enterprise-customer-success-manager-fr-eng-paris-france-392371",
+      "title": "Senior Enterprise Customer Success Manager - FR/ENG",
+      "company": "Brevo",
+      "platform": "Arbeitnow",
+      "location": "Paris, France",
+      "salary": "Competitive",
+      "type": "Full-time",
+      "tags": [
+        "Customer Success"
+      ],
+      "postedAt": "2026-09-05T16:04:21.000Z",
+      "url": "https://www.arbeitnow.fr/jobs/companies/brevo/senior-enterprise-customer-success-manager-fr-eng-paris-france-392371"
+    },
+    {
+      "id": "arbeitnow-senior-billing-sales-administrator-adv-paris-france-258540",
+      "title": "Senior Billing & Sales Administrator (ADV)",
+      "company": "Brevo",
+      "platform": "Arbeitnow",
+      "location": "Paris, France",
+      "salary": "Competitive",
+      "type": "Full-time",
+      "tags": [
+        "Finance"
+      ],
+      "postedAt": "2026-09-05T16:04:21.000Z",
+      "url": "https://www.arbeitnow.fr/jobs/companies/brevo/senior-billing-sales-administrator-adv-paris-france-258540"
+    },
+    {
+      "id": "arbeitnow-senior-ai-engineer-forward-deployed-paris-france-491177",
+      "title": "Senior AI Engineer (Forward-Deployed)",
+      "company": "Brevo",
+      "platform": "Arbeitnow",
+      "location": "Paris, France",
+      "salary": "Competitive",
+      "type": "Full-time",
+      "tags": [
+        "AI Ops"
+      ],
+      "postedAt": "2026-09-05T16:04:21.000Z",
+      "url": "https://www.arbeitnow.fr/jobs/companies/brevo/senior-ai-engineer-forward-deployed-paris-france-491177"
+    },
+    {
+      "id": "arbeitnow-product-engineering-lead-paris-france-414530",
+      "title": "Product Engineering Lead",
+      "company": "Brevo",
+      "platform": "Arbeitnow",
+      "location": "Paris, France",
+      "salary": "Competitive",
+      "type": "Full-time",
+      "tags": [
+        "Product Engineering"
+      ],
+      "postedAt": "2026-09-05T16:04:21.000Z",
+      "url": "https://www.arbeitnow.fr/jobs/companies/brevo/product-engineering-lead-paris-france-414530"
+    },
+    {
+      "id": "arbeitnow-account-executive-pro-bilingual-english-italian-paris-france-189056",
+      "title": "Account Executive Pro (Bilingual – English & Italian)",
+      "company": "Brevo",
+      "platform": "Arbeitnow",
+      "location": "Paris, France",
+      "salary": "Competitive",
+      "type": "Full-time",
+      "tags": [
+        "Account Executive"
+      ],
+      "postedAt": "2026-09-05T16:04:21.000Z",
+      "url": "https://www.arbeitnow.fr/jobs/companies/brevo/account-executive-pro-bilingual-english-italian-paris-france-189056"
+    },
+    {
+      "id": "arbeitnow-account-executive-enterprise-french-speaker-paris-france-216128",
+      "title": "Account Executive Enterprise - French speaker",
+      "company": "Brevo",
+      "platform": "Arbeitnow",
+      "location": "Paris, France",
+      "salary": "Competitive",
+      "type": "Full-time",
+      "tags": [
+        "Account Executive"
+      ],
+      "postedAt": "2026-09-05T16:04:21.000Z",
+      "url": "https://www.arbeitnow.fr/jobs/companies/brevo/account-executive-enterprise-french-speaker-paris-france-216128"
+    },
+    {
+      "id": "arbeitnow-senior-platform-engineer-artesca-paris-france-464086",
+      "title": "Senior Platform Engineer - ARTESCA",
+      "company": "Scality",
+      "platform": "Arbeitnow",
+      "location": "Paris, France",
+      "salary": "Competitive",
+      "type": "Full-time",
+      "tags": [
+        "R&D Paris"
+      ],
+      "postedAt": "2026-09-05T16:04:11.000Z",
+      "url": "https://www.arbeitnow.fr/jobs/companies/scality/senior-platform-engineer-artesca-paris-france-464086"
+    },
+    {
+      "id": "arbeitnow-customer-solutions-engineer-paris-paris-france-424712",
+      "title": "Customer Solutions Engineer Paris",
+      "company": "Scality",
+      "platform": "Arbeitnow",
+      "location": "Paris, France",
+      "salary": "Competitive",
+      "type": "Full-time",
+      "tags": [
+        "Tech Services EMEA"
+      ],
+      "postedAt": "2026-09-05T16:04:11.000Z",
+      "url": "https://www.arbeitnow.fr/jobs/companies/scality/customer-solutions-engineer-paris-paris-france-424712"
+    },
+    {
+      "id": "arbeitnow-account-executive-high-growth-london-greater-london-19410",
+      "title": "Account Executive, High Growth",
+      "company": "Alphasense",
+      "platform": "Arbeitnow",
+      "location": "London, Greater London",
+      "salary": "Competitive",
+      "type": "Full-time",
+      "tags": [
+        "Financial Services Sales"
+      ],
+      "postedAt": "2026-09-05T15:55:21.000Z",
+      "url": "https://www.arbeitnow.co.uk/jobs/companies/alphasense/account-executive-high-growth-london-greater-london-19410"
+    },
+    {
+      "id": "arbeitnow-value-engineer-london-3330",
+      "title": "Value Engineer",
+      "company": "Legora",
+      "platform": "Arbeitnow",
+      "location": "London",
+      "salary": "Competitive",
+      "type": "Full-time",
+      "tags": [
+        "Go To Market (GTM)"
+      ],
+      "postedAt": "2026-09-05T15:40:09.000Z",
+      "url": "https://www.arbeitnow.co.uk/jobs/companies/legora/value-engineer-london-3330"
+    },
+    {
+      "id": "arbeitnow-sales-development-representative-sdr-edinburgh-307356",
+      "title": "Sales Development Representative (SDR)",
+      "company": "Wordsmith",
+      "platform": "Arbeitnow",
+      "location": "Edinburgh",
+      "salary": "Competitive",
+      "type": "Full-time",
+      "tags": [
+        "GTM"
+      ],
+      "postedAt": "2026-09-05T15:40:07.000Z",
+      "url": "https://www.arbeitnow.co.uk/jobs/companies/wordsmith/sales-development-representative-sdr-edinburgh-307356"
     },
     {
       "id": "arbeitnow-chief-of-staff-f-h-nb-europe-paris-336790",
@@ -1732,541 +2376,6 @@
       "url": "https://www.arbeitnow.fr/jobs/companies/wizinc/security-engineer-product-paris-419205"
     },
     {
-      "id": "arbeitnow-senior-consulting-engineer-225454",
-      "title": "Senior Consulting Engineer",
-      "company": "mongodb",
-      "platform": "Arbeitnow",
-      "location": "Remote",
-      "salary": "Competitive",
-      "type": "Full-time",
-      "tags": [
-        "PS Field Delivery"
-      ],
-      "postedAt": "2026-09-05T13:55:05.000Z",
-      "url": "https://www.arbeitnow.fr/jobs/companies/mongodb/senior-consulting-engineer-225454"
-    },
-    {
-      "id": "arbeitnow-sr-professional-services-consultant-paris-173898",
-      "title": "Sr. Professional Services Consultant",
-      "company": "Illumio",
-      "platform": "Arbeitnow",
-      "location": "France",
-      "salary": "Competitive",
-      "type": "Full-time",
-      "tags": [
-        "Support and Services"
-      ],
-      "postedAt": "2026-09-05T13:40:12.000Z",
-      "url": "https://www.arbeitnow.fr/jobs/companies/illumio/sr-professional-services-consultant-paris-173898"
-    },
-    {
-      "id": "arbeitnow-senior-product-manager-opencrq-france-346989",
-      "title": "Senior Product Manager - OpenCRQ",
-      "company": "Filigran",
-      "platform": "Arbeitnow",
-      "location": "France",
-      "salary": "Competitive",
-      "type": "Full-time",
-      "tags": [
-        "Research & Development"
-      ],
-      "postedAt": "2026-09-05T13:40:11.000Z",
-      "url": "https://www.arbeitnow.fr/jobs/companies/filigran/senior-product-manager-opencrq-france-346989"
-    },
-    {
-      "id": "arbeitnow-senior-product-owner-xtm-integrations-france-251564",
-      "title": "Senior Product Owner - XTM Integrations",
-      "company": "Filigran",
-      "platform": "Arbeitnow",
-      "location": "France",
-      "salary": "Competitive",
-      "type": "Full-time",
-      "tags": [
-        "Research & Development"
-      ],
-      "postedAt": "2026-09-05T13:40:11.000Z",
-      "url": "https://www.arbeitnow.fr/jobs/companies/filigran/senior-product-owner-xtm-integrations-france-251564"
-    },
-    {
-      "id": "arbeitnow-temporary-general-gl-accountant-cdd-5-months-france-211630",
-      "title": "Temporary General/GL Accountant - CDD 5 Months",
-      "company": "Filigran",
-      "platform": "Arbeitnow",
-      "location": "France",
-      "salary": "Competitive",
-      "type": "Full-time",
-      "tags": [
-        "Finance"
-      ],
-      "postedAt": "2026-09-05T13:40:11.000Z",
-      "url": "https://www.arbeitnow.fr/jobs/companies/filigran/temporary-general-gl-accountant-cdd-5-months-france-211630"
-    },
-    {
-      "id": "arbeitnow-marketing-specialist-french-market-paris-90803",
-      "title": "Marketing Specialist | French Market (Paris)",
-      "company": "Lexroom",
-      "platform": "Arbeitnow",
-      "location": "Paris",
-      "salary": "Competitive",
-      "type": "Full-time",
-      "tags": [
-        "Marketing"
-      ],
-      "postedAt": "2026-09-05T13:40:11.000Z",
-      "url": "https://www.arbeitnow.fr/jobs/companies/lexroom/marketing-specialist-french-market-paris-90803"
-    },
-    {
-      "id": "arbeitnow-chief-financial-officer-satispay-bank-relocation-to-luxembourg-paris-209589",
-      "title": "Chief Financial Officer - Satispay Bank (Relocation to Luxembourg)",
-      "company": "Satispay",
-      "platform": "Arbeitnow",
-      "location": "France, Paris",
-      "salary": "Competitive",
-      "type": "Full-time",
-      "tags": [
-        "Finance",
-        "Procurement & Facility"
-      ],
-      "postedAt": "2026-09-05T13:40:11.000Z",
-      "url": "https://www.arbeitnow.fr/jobs/companies/satispay/chief-financial-officer-satispay-bank-relocation-to-luxembourg-paris-209589"
-    },
-    {
-      "id": "arbeitnow-fincrime-analyst-relocation-to-luxembourg-paris-147782",
-      "title": "Fincrime Analyst (Relocation to Luxembourg)",
-      "company": "Satispay",
-      "platform": "Arbeitnow",
-      "location": "France, Paris",
-      "salary": "Competitive",
-      "type": "Full-time",
-      "tags": [
-        "Fincrime Operations"
-      ],
-      "postedAt": "2026-09-05T13:40:11.000Z",
-      "url": "https://www.arbeitnow.fr/jobs/companies/satispay/fincrime-analyst-relocation-to-luxembourg-paris-147782"
-    },
-    {
-      "id": "arbeitnow-monitoring-oversight-analyst-relocation-to-luxembourg-paris-253388",
-      "title": "Monitoring & Oversight Analyst (Relocation to Luxembourg)",
-      "company": "Satispay",
-      "platform": "Arbeitnow",
-      "location": "France, Paris",
-      "salary": "Competitive",
-      "type": "Full-time",
-      "tags": [
-        "Fincrime Operations"
-      ],
-      "postedAt": "2026-09-05T13:40:11.000Z",
-      "url": "https://www.arbeitnow.fr/jobs/companies/satispay/monitoring-oversight-analyst-relocation-to-luxembourg-paris-253388"
-    },
-    {
-      "id": "arbeitnow-manager-applied-ai-architects-paris-256372",
-      "title": "Manager, Applied AI Architects",
-      "company": "OpenAI",
-      "platform": "Arbeitnow",
-      "location": "Paris, France",
-      "salary": "Competitive",
-      "type": "Full-time",
-      "tags": [
-        "Go To Market"
-      ],
-      "postedAt": "2026-09-05T13:40:10.000Z",
-      "url": "https://www.arbeitnow.fr/jobs/companies/openai/manager-applied-ai-architects-paris-256372"
-    },
-    {
-      "id": "arbeitnow-regional-client-partner-ads-solutions-paris-88523",
-      "title": "Regional Client Partner, Ads Solutions",
-      "company": "OpenAI",
-      "platform": "Arbeitnow",
-      "location": "Paris, France",
-      "salary": "Competitive",
-      "type": "Full-time",
-      "tags": [
-        "Go To Market"
-      ],
-      "postedAt": "2026-09-05T13:40:10.000Z",
-      "url": "https://www.arbeitnow.fr/jobs/companies/openai/regional-client-partner-ads-solutions-paris-88523"
-    },
-    {
-      "id": "arbeitnow-customer-success-manager-ads-solutions-paris-391592",
-      "title": "Customer Success Manager - Ads Solutions",
-      "company": "OpenAI",
-      "platform": "Arbeitnow",
-      "location": "Paris, France",
-      "salary": "Competitive",
-      "type": "Full-time",
-      "tags": [
-        "Go To Market"
-      ],
-      "postedAt": "2026-09-05T13:40:10.000Z",
-      "url": "https://www.arbeitnow.fr/jobs/companies/openai/customer-success-manager-ads-solutions-paris-391592"
-    },
-    {
-      "id": "arbeitnow-people-operations-workplace-experience-specialist-france-paris-448309",
-      "title": "People Operations & Workplace Experience Specialist, France",
-      "company": "Airwallex",
-      "platform": "Arbeitnow",
-      "location": "FR - Paris",
-      "salary": "Competitive",
-      "type": "Full-time",
-      "tags": [
-        "People & Talent"
-      ],
-      "postedAt": "2026-09-05T13:40:08.000Z",
-      "url": "https://www.arbeitnow.fr/jobs/companies/airwallex/people-operations-workplace-experience-specialist-france-paris-448309"
-    },
-    {
-      "id": "arbeitnow-account-manager-sme-growth-french-speaking-paris-433466",
-      "title": "Account Manager, SME & Growth (French-speaking)",
-      "company": "Airwallex",
-      "platform": "Arbeitnow",
-      "location": "FR - Paris",
-      "salary": "Competitive",
-      "type": "Full-time",
-      "tags": [
-        "SME & Growth Business"
-      ],
-      "postedAt": "2026-09-05T13:40:08.000Z",
-      "url": "https://www.arbeitnow.fr/jobs/companies/airwallex/account-manager-sme-growth-french-speaking-paris-433466"
-    },
-    {
-      "id": "arbeitnow-manager-sales-development-sme-growth-paris-403867",
-      "title": "Manager, Sales Development, SME & Growth",
-      "company": "Airwallex",
-      "platform": "Arbeitnow",
-      "location": "FR - Paris",
-      "salary": "Competitive",
-      "type": "Full-time",
-      "tags": [
-        "SME & Growth Business"
-      ],
-      "postedAt": "2026-09-05T13:40:08.000Z",
-      "url": "https://www.arbeitnow.fr/jobs/companies/airwallex/manager-sales-development-sme-growth-paris-403867"
-    },
-    {
-      "id": "arbeitnow-strategic-account-manager-sme-france-paris-27284",
-      "title": "Strategic Account Manager (SME) - France",
-      "company": "Airwallex",
-      "platform": "Arbeitnow",
-      "location": "FR - Paris",
-      "salary": "Competitive",
-      "type": "Full-time",
-      "tags": [
-        "SME & Growth Business"
-      ],
-      "postedAt": "2026-09-05T13:40:08.000Z",
-      "url": "https://www.arbeitnow.fr/jobs/companies/airwallex/strategic-account-manager-sme-france-paris-27284"
-    },
-    {
-      "id": "arbeitnow-corporate-legal-counsel-france-paris-410866",
-      "title": "Corporate Legal Counsel, France",
-      "company": "Airwallex",
-      "platform": "Arbeitnow",
-      "location": "FR - Paris",
-      "salary": "Competitive",
-      "type": "Full-time",
-      "tags": [
-        "Legal & Licensing"
-      ],
-      "postedAt": "2026-09-05T13:40:08.000Z",
-      "url": "https://www.arbeitnow.fr/jobs/companies/airwallex/corporate-legal-counsel-france-paris-410866"
-    },
-    {
-      "id": "arbeitnow-remote-sales-executive-490790",
-      "title": "Sales Executive",
-      "company": "Andercore",
-      "platform": "Arbeitnow",
-      "location": "Remote",
-      "salary": "Competitive",
-      "type": "Full-time",
-      "tags": [
-        "Sales"
-      ],
-      "postedAt": "2026-09-05T13:40:07.000Z",
-      "url": "https://www.arbeitnow.fr/jobs/companies/andercore/remote-sales-executive-490790"
-    },
-    {
-      "id": "arbeitnow-product-manager-po-pm-paris-481225",
-      "title": "Product Manager (PO/PM)",
-      "company": "Dedale Intelligence",
-      "platform": "Arbeitnow",
-      "location": "Paris",
-      "salary": "Competitive",
-      "type": "Full-time",
-      "tags": [
-        "Product & Tech"
-      ],
-      "postedAt": "2026-09-05T13:40:06.000Z",
-      "url": "https://www.arbeitnow.fr/jobs/companies/dedale-intelligence/product-manager-po-pm-paris-481225"
-    },
-    {
-      "id": "arbeitnow-talent-intelligence-associate-cdi-paris-95354",
-      "title": "Talent Intelligence Associate (CDI)",
-      "company": "Dedale Intelligence",
-      "platform": "Arbeitnow",
-      "location": "Paris",
-      "salary": "Competitive",
-      "type": "Full-time",
-      "tags": [
-        "Talent Intelligence"
-      ],
-      "postedAt": "2026-09-05T13:40:06.000Z",
-      "url": "https://www.arbeitnow.fr/jobs/companies/dedale-intelligence/talent-intelligence-associate-cdi-paris-95354"
-    },
-    {
-      "id": "arbeitnow-vp-platform-intelligence-paris-448681",
-      "title": "VP - Platform Intelligence",
-      "company": "Dedale Intelligence",
-      "platform": "Arbeitnow",
-      "location": "Paris",
-      "salary": "Competitive",
-      "type": "Full-time",
-      "tags": [
-        "Investment Research"
-      ],
-      "postedAt": "2026-09-05T13:40:06.000Z",
-      "url": "https://www.arbeitnow.fr/jobs/companies/dedale-intelligence/vp-platform-intelligence-paris-448681"
-    },
-    {
-      "id": "arbeitnow-it-support-intern-paris-187259",
-      "title": "IT Support Intern",
-      "company": "Dedale Intelligence",
-      "platform": "Arbeitnow",
-      "location": "Paris",
-      "salary": "Competitive",
-      "type": "Full-time",
-      "tags": [
-        "Product & Tech"
-      ],
-      "postedAt": "2026-09-05T13:40:06.000Z",
-      "url": "https://www.arbeitnow.fr/jobs/companies/dedale-intelligence/it-support-intern-paris-187259"
-    },
-    {
-      "id": "arbeitnow-business-development-representative-talent-pool-paris-147622",
-      "title": "Business Development Representative (talent pool)",
-      "company": "Dedale Intelligence",
-      "platform": "Arbeitnow",
-      "location": "Paris",
-      "salary": "Competitive",
-      "type": "Full-time",
-      "tags": [
-        "Sales"
-      ],
-      "postedAt": "2026-09-05T13:40:06.000Z",
-      "url": "https://www.arbeitnow.fr/jobs/companies/dedale-intelligence/business-development-representative-talent-pool-paris-147622"
-    },
-    {
-      "id": "arbeitnow-staff-solutions-engineer-paris-338369",
-      "title": "Staff Solutions Engineer",
-      "company": "Kong",
-      "platform": "Arbeitnow",
-      "location": "France",
-      "salary": "Competitive",
-      "type": "Full-time",
-      "tags": [
-        "All Cost Center"
-      ],
-      "postedAt": "2026-09-05T13:40:05.000Z",
-      "url": "https://www.arbeitnow.fr/jobs/companies/kong/staff-solutions-engineer-paris-338369"
-    },
-    {
-      "id": "arbeitnow-senior-solutions-engineer-paris-47949",
-      "title": "Senior Solutions Engineer",
-      "company": "Kong",
-      "platform": "Arbeitnow",
-      "location": "France",
-      "salary": "Competitive",
-      "type": "Full-time",
-      "tags": [
-        "All Cost Center"
-      ],
-      "postedAt": "2026-09-05T13:40:05.000Z",
-      "url": "https://www.arbeitnow.fr/jobs/companies/kong/senior-solutions-engineer-paris-47949"
-    },
-    {
-      "id": "arbeitnow-staff-customer-success-manager-paris-453932",
-      "title": "Staff Customer Success Manager",
-      "company": "Kong",
-      "platform": "Arbeitnow",
-      "location": "France",
-      "salary": "Competitive",
-      "type": "Full-time",
-      "tags": [
-        "All Cost Center"
-      ],
-      "postedAt": "2026-09-05T13:40:05.000Z",
-      "url": "https://www.arbeitnow.fr/jobs/companies/kong/staff-customer-success-manager-paris-453932"
-    },
-    {
-      "id": "arbeitnow-growth-hacker-ai-native-french-fluent-paris-78085",
-      "title": "Growth Hacker - AI Native (French fluent)",
-      "company": "Paradox",
-      "platform": "Arbeitnow",
-      "location": "Office Paris",
-      "salary": "Competitive",
-      "type": "Full-time",
-      "tags": [
-        "Marketing"
-      ],
-      "postedAt": "2026-09-05T13:40:04.000Z",
-      "url": "https://www.arbeitnow.fr/jobs/companies/paradox/growth-hacker-ai-native-french-fluent-paris-78085"
-    },
-    {
-      "id": "arbeitnow-growth-manager-edtech-french-fluent-paris-385518",
-      "title": "🇫🇷 Growth Manager - EdTech (French fluent)",
-      "company": "Paradox",
-      "platform": "Arbeitnow",
-      "location": "Office Paris",
-      "salary": "Competitive",
-      "type": "Full-time",
-      "tags": [
-        "Marketing"
-      ],
-      "postedAt": "2026-09-05T13:40:04.000Z",
-      "url": "https://www.arbeitnow.fr/jobs/companies/paradox/growth-manager-edtech-french-fluent-paris-385518"
-    },
-    {
-      "id": "arbeitnow-commercial-analyst-france-paris-france-182568",
-      "title": "Commercial Analyst, France",
-      "company": "Heidi",
-      "platform": "Arbeitnow",
-      "location": "Paris, France",
-      "salary": "Competitive",
-      "type": "Full-time",
-      "tags": [
-        "GTM"
-      ],
-      "postedAt": "2026-09-05T13:40:04.000Z",
-      "url": "https://www.arbeitnow.fr/jobs/companies/heidi/commercial-analyst-france-paris-france-182568"
-    },
-    {
-      "id": "arbeitnow-senior-optical-characterization-engineergn-at-photonic-chip-venture-besancon-france-47653",
-      "title": "Senior Optical Characterization Engineer(gn) @ Photonic Chip Venture, Besançon, France",
-      "company": "atlantic.vc",
-      "platform": "Arbeitnow",
-      "location": "Besançon, Bourgogne-Franche-Comté, France",
-      "salary": "Competitive",
-      "type": "Full-time",
-      "tags": [
-        "Portfolio Company"
-      ],
-      "postedAt": "2026-09-05T13:30:32.000Z",
-      "url": "https://www.arbeitnow.fr/jobs/companies/atlanticvc/senior-optical-characterization-engineergn-at-photonic-chip-venture-besancon-france-47653"
-    },
-    {
-      "id": "arbeitnow-remote-solution-architect-strasbourg-54507",
-      "title": "Solution Architect",
-      "company": "European Dynamics",
-      "platform": "Arbeitnow",
-      "location": "Strasbourg, France",
-      "salary": "Competitive",
-      "type": "Full-time",
-      "tags": [
-        "Computer Software",
-        "PRD",
-        "Remote"
-      ],
-      "postedAt": "2026-09-05T13:20:07.000Z",
-      "url": "https://www.arbeitnow.fr/jobs/companies/european-dynamics/remote-solution-architect-strasbourg-54507"
-    },
-    {
-      "id": "arbeitnow-senior-full-stack-engineer-identity-authentication-paris-371425",
-      "title": "Senior Full-Stack Engineer – Identity & Authentication",
-      "company": "Kpler",
-      "platform": "Arbeitnow",
-      "location": "Paris",
-      "salary": "Competitive",
-      "type": "Full-time",
-      "tags": [
-        "Engineering Application Platform"
-      ],
-      "postedAt": "2026-09-05T13:05:07.000Z",
-      "url": "https://www.arbeitnow.fr/jobs/companies/kpler/senior-full-stack-engineer-identity-authentication-paris-371425"
-    },
-    {
-      "id": "arbeitnow-senior-ai-engineer-ai-enablement-paris-330049",
-      "title": "Senior AI Engineer (AI Enablement)",
-      "company": "Kpler",
-      "platform": "Arbeitnow",
-      "location": "Paris",
-      "salary": "Competitive",
-      "type": "Full-time",
-      "tags": [
-        "Engineering Cloud Platform"
-      ],
-      "postedAt": "2026-09-05T13:05:07.000Z",
-      "url": "https://www.arbeitnow.fr/jobs/companies/kpler/senior-ai-engineer-ai-enablement-paris-330049"
-    },
-    {
-      "id": "arbeitnow-principal-transformation-consultant-paris-ile-de-france-france-327150",
-      "title": "Principal Transformation Consultant (f/m/d)",
-      "company": "Valiantys",
-      "platform": "Arbeitnow",
-      "location": "Paris, Île-de-France, France",
-      "salary": "Competitive",
-      "type": "Full-time",
-      "tags": [
-        "Transformation Consulting"
-      ],
-      "postedAt": "2026-09-05T13:04:41.000Z",
-      "url": "https://www.arbeitnow.fr/jobs/companies/valiantys/principal-transformation-consultant-paris-ile-de-france-france-327150"
-    },
-    {
-      "id": "arbeitnow-remote-atlassian-senior-consultant-cloud-practice-9000",
-      "title": "Atlassian Senior Consultant - Cloud Practice",
-      "company": "Valiantys",
-      "platform": "Arbeitnow",
-      "location": "Remote, France",
-      "salary": "Competitive",
-      "type": "Full-time",
-      "tags": [
-        "Delivery Consulting"
-      ],
-      "postedAt": "2026-09-05T13:04:41.000Z",
-      "url": "https://www.arbeitnow.fr/jobs/companies/valiantys/remote-atlassian-senior-consultant-cloud-practice-9000"
-    },
-    {
-      "id": "arbeitnow-remote-technical-lead-engineering-485030",
-      "title": "Technical Lead Engineering",
-      "company": "360Learning",
-      "platform": "Arbeitnow",
-      "location": "Paris, Remote",
-      "salary": "Competitive",
-      "type": "Full-time",
-      "tags": [
-        "Engineering II"
-      ],
-      "postedAt": "2026-09-05T13:04:34.000Z",
-      "url": "https://www.arbeitnow.fr/jobs/companies/360learning/remote-technical-lead-engineering-485030"
-    },
-    {
-      "id": "arbeitnow-remote-account-executive-mid-market-france-410020",
-      "title": "Account Executive Mid-Market France",
-      "company": "360Learning",
-      "platform": "Arbeitnow",
-      "location": "Paris, Remote",
-      "salary": "Competitive",
-      "type": "Full-time",
-      "tags": [
-        "Sales & Business Development"
-      ],
-      "postedAt": "2026-09-05T13:04:33.000Z",
-      "url": "https://www.arbeitnow.fr/jobs/companies/360learning/remote-account-executive-mid-market-france-410020"
-    },
-    {
-      "id": "arbeitnow-director-of-cloud-infrastructure-security-paris-4727",
-      "title": "Director of Cloud Infrastructure & Security",
-      "company": "Vestiairecollective",
-      "platform": "Arbeitnow",
-      "location": "Paris",
-      "salary": "Competitive",
-      "type": "Full-time",
-      "tags": [
-        "Engineering"
-      ],
-      "postedAt": "2026-09-05T13:04:15.000Z",
-      "url": "https://www.arbeitnow.fr/jobs/companies/vestiairecollective/director-of-cloud-infrastructure-security-paris-4727"
-    },
-    {
       "id": "arbeitnow-strategic-account-executive-uki-125029",
       "title": "Strategic Account Executive (UKI)",
       "company": "Pingidentity",
@@ -2399,102 +2508,6 @@
       "tags": [],
       "postedAt": "2026-09-05T11:25:25+00:00",
       "url": "https://jobicy.com/jobs/152590-digital-marketing-specialist"
-    },
-    {
-      "id": "jobicy-152589",
-      "title": "Paytient Interest Application: Technical Roles",
-      "company": "Paytient",
-      "platform": "Jobicy",
-      "location": "USA",
-      "salary": "Competitive",
-      "type": "Full-Time",
-      "tags": [],
-      "postedAt": "2026-09-05T11:25:11+00:00",
-      "url": "https://jobicy.com/jobs/152589-paytient-interest-application-technical-roles"
-    },
-    {
-      "id": "jobicy-152587",
-      "title": "Global Specialized Domain Expert Recruiter (Contractor)",
-      "company": "Labelbox",
-      "platform": "Jobicy",
-      "location": "LATAM,  Europe,  USA",
-      "salary": "Competitive",
-      "type": "Contract",
-      "tags": [],
-      "postedAt": "2026-09-05T11:24:44+00:00",
-      "url": "https://jobicy.com/jobs/152587-global-specialized-domain-expert-recruiter-contractor"
-    },
-    {
-      "id": "jobicy-152586",
-      "title": "Benefits Partner",
-      "company": "6sense",
-      "platform": "Jobicy",
-      "location": "USA",
-      "salary": "Competitive",
-      "type": "Full-Time",
-      "tags": [],
-      "postedAt": "2026-09-05T11:24:28+00:00",
-      "url": "https://jobicy.com/jobs/152586-benefits-partner"
-    },
-    {
-      "id": "jobicy-152584",
-      "title": "Multimedia Designer / Learning Experience (Remote - Costa Rica Only)",
-      "company": "Varicent",
-      "platform": "Jobicy",
-      "location": "Costa Rica",
-      "salary": "Competitive",
-      "type": "Full-Time",
-      "tags": [],
-      "postedAt": "2026-09-05T11:23:01+00:00",
-      "url": "https://jobicy.com/jobs/152584-multimedia-designer-learning-experience-remote-costa-rica-only"
-    },
-    {
-      "id": "jobicy-152583",
-      "title": "Data Analyst, Supply Chain",
-      "company": "Serve Robotics",
-      "platform": "Jobicy",
-      "location": "Malaysia,  Mexico",
-      "salary": "Competitive",
-      "type": "Full-Time",
-      "tags": [],
-      "postedAt": "2026-09-05T11:22:46+00:00",
-      "url": "https://jobicy.com/jobs/152583-data-analyst-supply-chain"
-    },
-    {
-      "id": "jobicy-152582",
-      "title": "Pricing Specialist",
-      "company": "Docplanner",
-      "platform": "Jobicy",
-      "location": "Brazil",
-      "salary": "Competitive",
-      "type": "Full-Time",
-      "tags": [],
-      "postedAt": "2026-09-05T11:22:33+00:00",
-      "url": "https://jobicy.com/jobs/152582-pricing-specialist"
-    },
-    {
-      "id": "jobicy-152581",
-      "title": "Condition Monitoring Engineer",
-      "company": "AssetWatch",
-      "platform": "Jobicy",
-      "location": "Mexico",
-      "salary": "Competitive",
-      "type": "Full-Time",
-      "tags": [],
-      "postedAt": "2026-09-05T11:22:19+00:00",
-      "url": "https://jobicy.com/jobs/152581-condition-monitoring-engineer"
-    },
-    {
-      "id": "jobicy-152580",
-      "title": "GTM Engineer (Mexico Only - Remote)",
-      "company": "Varicent",
-      "platform": "Jobicy",
-      "location": "Mexico",
-      "salary": "Competitive",
-      "type": "Full-Time",
-      "tags": [],
-      "postedAt": "2026-09-05T11:22:02+00:00",
-      "url": "https://jobicy.com/jobs/152580-gtm-engineer-mexico-only-remote"
     }
   ]
 }
