@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-09-10T20:43:46.316Z",
+  "lastUpdated": "2026-09-10T23:02:46.469Z",
   "jobs": [
     {
       "id": "remotive-1749306",
@@ -40,7 +40,7 @@
     },
     {
       "id": "arbeitnow-content-creator-bielefeld-97234",
-      "title": "Content Creator",
+      "title": "Performance Content Creator",
       "company": "paddy",
       "platform": "Arbeitnow",
       "location": "Bielefeld",
@@ -49,7 +49,7 @@
       "tags": [
         "Social Media Manager"
       ],
-      "postedAt": "2026-09-10T17:00:30.000Z",
+      "postedAt": "2026-09-10T21:17:18.000Z",
       "url": "https://www.arbeitnow.com/jobs/companies/paddy/content-creator-bielefeld-97234"
     },
     {
@@ -222,34 +222,6 @@
       "url": "https://www.arbeitnow.co.uk/jobs/companies/tended/project-manager-lincoln-11391"
     },
     {
-      "id": "arbeitnow-business-operations-manager-product-data-insights-reporting-manchester-403733",
-      "title": "Business Operations Manager - Product, Data Insights & Reporting",
-      "company": "Anaplan",
-      "platform": "Arbeitnow",
-      "location": "Manchester",
-      "salary": "Competitive",
-      "type": "Full-time",
-      "tags": [
-        "Engineering Operations"
-      ],
-      "postedAt": "2026-09-10T06:55:11.000Z",
-      "url": "https://www.arbeitnow.co.uk/jobs/companies/anaplan/business-operations-manager-product-data-insights-reporting-manchester-403733"
-    },
-    {
-      "id": "arbeitnow-business-operations-manager-product-data-insights-reporting-york-429174",
-      "title": "Business Operations Manager - Product, Data Insights & Reporting",
-      "company": "Anaplan",
-      "platform": "Arbeitnow",
-      "location": "York",
-      "salary": "Competitive",
-      "type": "Full-time",
-      "tags": [
-        "Engineering Operations"
-      ],
-      "postedAt": "2026-09-10T06:55:11.000Z",
-      "url": "https://www.arbeitnow.co.uk/jobs/companies/anaplan/business-operations-manager-product-data-insights-reporting-york-429174"
-    },
-    {
       "id": "jobicy-152954",
       "title": "Marketing Operations Manager",
       "company": "Cordance",
@@ -272,6 +244,144 @@
       "tags": [],
       "postedAt": "2026-09-09T17:26:02+00:00",
       "url": "https://jobicy.com/jobs/152946-senior-sales-operations-manager"
+    },
+    {
+      "id": "arbeitnow-staff-engineer-313291",
+      "title": "Staff Engineer",
+      "company": "mewssystems",
+      "platform": "Arbeitnow",
+      "location": "Remote",
+      "salary": "Competitive",
+      "type": "Full-time",
+      "tags": [
+        "Front of House"
+      ],
+      "postedAt": "2026-09-10T21:55:14.000Z",
+      "url": "https://www.arbeitnow.co.uk/jobs/companies/mewssystems/staff-engineer-313291"
+    },
+    {
+      "id": "arbeitnow-marketing-lead-london-120610",
+      "title": "Marketing Lead",
+      "company": "Omaze",
+      "platform": "Arbeitnow",
+      "location": "London",
+      "salary": "Competitive",
+      "type": "Full-time",
+      "tags": [
+        "Marketing"
+      ],
+      "postedAt": "2026-09-10T21:40:11.000Z",
+      "url": "https://www.arbeitnow.co.uk/jobs/companies/omaze/marketing-lead-london-120610"
+    },
+    {
+      "id": "arbeitnow-senior-business-travel-consultant-perk-uki-english-speaker-edinburgh-88985",
+      "title": "Senior Business Travel Consultant - Perk UKI (English speaker)",
+      "company": "Perk",
+      "platform": "Arbeitnow",
+      "location": "Edinburgh",
+      "salary": "Competitive",
+      "type": "Full-time",
+      "tags": [
+        "Customer Care"
+      ],
+      "postedAt": "2026-09-10T21:40:08.000Z",
+      "url": "https://www.arbeitnow.co.uk/jobs/companies/perk/senior-business-travel-consultant-perk-uki-english-speaker-edinburgh-88985"
+    },
+    {
+      "id": "arbeitnow-senior-reporting-analyst-6-month-ftc-london-79317",
+      "title": "Senior Reporting Analyst - 6 month FTC",
+      "company": "Perk",
+      "platform": "Arbeitnow",
+      "location": "London",
+      "salary": "Competitive",
+      "type": "Full-time",
+      "tags": [
+        "Data"
+      ],
+      "postedAt": "2026-09-10T21:40:08.000Z",
+      "url": "https://www.arbeitnow.co.uk/jobs/companies/perk/senior-reporting-analyst-6-month-ftc-london-79317"
+    },
+    {
+      "id": "arbeitnow-manager-operations-and-strategy-ceo-office-london-357263",
+      "title": "Manager, Operations and Strategy (CEO Office)",
+      "company": "Checkout.com",
+      "platform": "Arbeitnow",
+      "location": "London",
+      "salary": "Competitive",
+      "type": "Full-time",
+      "tags": [
+        "All Departments"
+      ],
+      "postedAt": "2026-09-10T21:40:06.000Z",
+      "url": "https://www.arbeitnow.co.uk/jobs/companies/checkoutcom/manager-operations-and-strategy-ceo-office-london-357263"
+    },
+    {
+      "id": "arbeitnow-senior-specialist-account-management-london-360708",
+      "title": "Senior Specialist, Account Management",
+      "company": "Checkout.com",
+      "platform": "Arbeitnow",
+      "location": "London",
+      "salary": "Competitive",
+      "type": "Full-time",
+      "tags": [
+        "All Departments"
+      ],
+      "postedAt": "2026-09-10T21:40:06.000Z",
+      "url": "https://www.arbeitnow.co.uk/jobs/companies/checkoutcom/senior-specialist-account-management-london-360708"
+    },
+    {
+      "id": "arbeitnow-account-executive-commercial-london-181230",
+      "title": "Account Executive, Commercial",
+      "company": "Kong",
+      "platform": "Arbeitnow",
+      "location": "London, England, United Kingdom",
+      "salary": "Competitive",
+      "type": "Full-time",
+      "tags": [
+        "All Cost Center"
+      ],
+      "postedAt": "2026-09-10T21:40:05.000Z",
+      "url": "https://www.arbeitnow.co.uk/jobs/companies/kong/account-executive-commercial-london-181230"
+    },
+    {
+      "id": "arbeitnow-full-stack-engineer-creative-studio-united-kingdom-73069",
+      "title": "Full-Stack Engineer - Creative Studio",
+      "company": "Elevenlabs",
+      "platform": "Arbeitnow",
+      "location": "United Kingdom",
+      "salary": "Competitive",
+      "type": "Full-time",
+      "tags": [
+        "Engineering & Product"
+      ],
+      "postedAt": "2026-09-10T21:40:03.000Z",
+      "url": "https://www.arbeitnow.co.uk/jobs/companies/elevenlabs/full-stack-engineer-creative-studio-united-kingdom-73069"
+    },
+    {
+      "id": "arbeitnow-design-engineer-creative-studio-united-kingdom-392794",
+      "title": "Design Engineer - Creative & Studio",
+      "company": "Elevenlabs",
+      "platform": "Arbeitnow",
+      "location": "United Kingdom",
+      "salary": "Competitive",
+      "type": "Full-time",
+      "tags": [
+        "Engineering & Product"
+      ],
+      "postedAt": "2026-09-10T21:40:03.000Z",
+      "url": "https://www.arbeitnow.co.uk/jobs/companies/elevenlabs/design-engineer-creative-studio-united-kingdom-392794"
+    },
+    {
+      "id": "arbeitnow-senior-konzeptioner-gn-mainz-365258",
+      "title": "(Senior) Konzeptioner (gn*)",
+      "company": "3St Kommunikation",
+      "platform": "Arbeitnow",
+      "location": "Mainz",
+      "salary": "Competitive",
+      "type": "Full-time",
+      "tags": [],
+      "postedAt": "2026-09-10T20:09:43.000Z",
+      "url": "https://www.arbeitnow.com/jobs/companies/3st-kommunikation/senior-konzeptioner-gn-mainz-365258"
     },
     {
       "id": "arbeitnow-inside-enterprise-account-executive-france-212506",
@@ -1199,90 +1309,6 @@
       "url": "https://www.arbeitnow.co.uk/jobs/companies/brunswickgroup/ai-product-manager-london-146975"
     },
     {
-      "id": "arbeitnow-senior-audio-visual-technician-live-events-london-23205",
-      "title": "Senior Audio Visual Technician, Live Events",
-      "company": "Convene",
-      "platform": "Arbeitnow",
-      "location": "London",
-      "salary": "Competitive",
-      "type": "Full-time",
-      "tags": [
-        "Audio Visual"
-      ],
-      "postedAt": "2026-09-10T06:55:13.000Z",
-      "url": "https://www.arbeitnow.co.uk/jobs/companies/convene/senior-audio-visual-technician-live-events-london-23205"
-    },
-    {
-      "id": "arbeitnow-senior-product-manager-vertical-search-london-96229",
-      "title": "Senior Product Manager, Vertical Search",
-      "company": "Tavily",
-      "platform": "Arbeitnow",
-      "location": "London",
-      "salary": "Competitive",
-      "type": "Full-time",
-      "tags": [
-        "AS Product"
-      ],
-      "postedAt": "2026-09-10T06:55:08.000Z",
-      "url": "https://www.arbeitnow.co.uk/jobs/companies/tavily/senior-product-manager-vertical-search-london-96229"
-    },
-    {
-      "id": "arbeitnow-senior-product-manager-search-infrastructure-london-329496",
-      "title": "Senior Product Manager, Search Infrastructure",
-      "company": "Tavily",
-      "platform": "Arbeitnow",
-      "location": "London",
-      "salary": "Competitive",
-      "type": "Full-time",
-      "tags": [
-        "AS Product"
-      ],
-      "postedAt": "2026-09-10T06:55:08.000Z",
-      "url": "https://www.arbeitnow.co.uk/jobs/companies/tavily/senior-product-manager-search-infrastructure-london-329496"
-    },
-    {
-      "id": "arbeitnow-forward-deployed-engineer-manager-london-123580",
-      "title": "Forward Deployed Engineer, Manager -London",
-      "company": "Notion",
-      "platform": "Arbeitnow",
-      "location": "London, United Kingdom",
-      "salary": "Competitive",
-      "type": "Full-time",
-      "tags": [
-        "Sales"
-      ],
-      "postedAt": "2026-09-10T06:40:07.000Z",
-      "url": "https://www.arbeitnow.co.uk/jobs/companies/notion/forward-deployed-engineer-manager-london-123580"
-    },
-    {
-      "id": "arbeitnow-partner-manager-gsi-uki-northern-europe-london-371424",
-      "title": "Partner Manager GSI UKI & Northern Europe",
-      "company": "Mistral.ai",
-      "platform": "Arbeitnow",
-      "location": "London",
-      "salary": "Competitive",
-      "type": "Full-time",
-      "tags": [
-        "Business"
-      ],
-      "postedAt": "2026-09-10T06:40:04.000Z",
-      "url": "https://www.arbeitnow.co.uk/jobs/companies/mistralai/partner-manager-gsi-uki-northern-europe-london-371424"
-    },
-    {
-      "id": "arbeitnow-senior-match-3-designer-new-game-london-127125",
-      "title": "Senior Match-3 Designer, New Game",
-      "company": "Supercell",
-      "platform": "Arbeitnow",
-      "location": "London",
-      "salary": "Competitive",
-      "type": "Full-time",
-      "tags": [
-        "New Games"
-      ],
-      "postedAt": "2026-09-10T06:40:03.000Z",
-      "url": "https://www.arbeitnow.co.uk/jobs/companies/supercell/senior-match-3-designer-new-game-london-127125"
-    },
-    {
       "id": "jobicy-150012",
       "title": "HIS Sales Strategy Executive – Ambulatory Care Revenue Cycle",
       "company": "Solventum",
@@ -1803,20 +1829,6 @@
       "url": "https://jobicy.com/jobs/150333-senior-customer-marketing-manager-3"
     },
     {
-      "id": "arbeitnow-field-chief-technology-officer-field-cto-225880",
-      "title": "Field Chief Technology Officer (Field CTO)",
-      "company": "Minio",
-      "platform": "Arbeitnow",
-      "location": "Remote",
-      "salary": "Competitive",
-      "type": "Full-time",
-      "tags": [
-        "Sales - Leadership"
-      ],
-      "postedAt": "2026-09-10T03:55:10.000Z",
-      "url": "https://www.arbeitnow.co.uk/jobs/companies/minio/field-chief-technology-officer-field-cto-225880"
-    },
-    {
       "id": "arbeitnow-recipes-working-student-etudiante-temps-partiel-h-f-paris-paris-387584",
       "title": "Recipes Working Student - Étudiant·e temps partiel (H/F)",
       "company": "Teampicnic",
@@ -1997,18 +2009,6 @@
       "tags": [],
       "postedAt": "2026-09-09T17:26:26+00:00",
       "url": "https://jobicy.com/jobs/152947-data-architect"
-    },
-    {
-      "id": "jobicy-152945",
-      "title": "Enterprise Security Sales Specialist",
-      "company": "Datadog",
-      "platform": "Jobicy",
-      "location": "USA",
-      "salary": "Competitive",
-      "type": "Full-Time",
-      "tags": [],
-      "postedAt": "2026-09-09T17:25:42+00:00",
-      "url": "https://jobicy.com/jobs/152945-enterprise-security-sales-specialist"
     }
   ]
 }
