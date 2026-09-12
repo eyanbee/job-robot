@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-09-11T22:24:00.254Z",
+  "lastUpdated": "2026-09-12T00:31:08.632Z",
   "jobs": [
     {
       "id": "remotive-1749306",
@@ -66,6 +66,33 @@
       ],
       "postedAt": "2026-09-11T08:00:31.000Z",
       "url": "https://www.arbeitnow.co.uk/jobs/companies/ventures-lab/customer-support-agent-norwegian-speaking-london-248332"
+    },
+    {
+      "id": "remoteok-1137380",
+      "title": "Engineering Manager TLM Platform",
+      "company": "Harper",
+      "platform": "RemoteOK",
+      "location": "San Francisco",
+      "salary": "Competitive",
+      "type": "Full-time",
+      "tags": [
+        "exec",
+        "design",
+        "sys admin",
+        "docker",
+        "technical",
+        "customer support",
+        "dev",
+        "marketing",
+        "video",
+        "finance",
+        "cloud",
+        "medical",
+        "engineer",
+        "digital nomad"
+      ],
+      "postedAt": "2026-09-11T00:00:35+00:00",
+      "url": "https://remoteOK.com/remote-jobs/remote-engineering-manager-tlm-platform-harper-1137380"
     },
     {
       "id": "jobicy-152994",
@@ -161,6 +188,146 @@
       "tags": [],
       "postedAt": "2026-09-11T13:04:46+00:00",
       "url": "https://jobicy.com/jobs/153030-binance-accelerator-program-hr-talent-acquisition"
+    },
+    {
+      "id": "arbeitnow-remote-senior-sales-engineer-mena-179937",
+      "title": "Senior Sales Engineer - MENA",
+      "company": "Sardine",
+      "platform": "Arbeitnow",
+      "location": "Remote",
+      "salary": "Competitive",
+      "type": "Full-time",
+      "tags": [
+        "Sales"
+      ],
+      "postedAt": "2026-09-11T23:40:05.000Z",
+      "url": "https://www.arbeitnow.com/jobs/companies/sardine/remote-senior-sales-engineer-mena-179937"
+    },
+    {
+      "id": "arbeitnow-stagiaire-alternante-campagnes-dinfluence-h-f-paris-paris-146509",
+      "title": "Stagiaire/Alternant·e Campagnes d'Influence (H/F)",
+      "company": "Teampicnic",
+      "platform": "Arbeitnow",
+      "location": "Paris, Paris",
+      "salary": "Competitive",
+      "type": "Full-time",
+      "tags": [
+        "Consumer"
+      ],
+      "postedAt": "2026-09-11T22:55:17.000Z",
+      "url": "https://www.arbeitnow.fr/jobs/companies/teampicnic/stagiaire-alternante-campagnes-dinfluence-h-f-paris-paris-146509"
+    },
+    {
+      "id": "arbeitnow-stagiaire-consultant-sma-h-f-paris-9th-arrondissement-of-paris-75009-paris-187068",
+      "title": "Stagiaire consultant SMA (H/F) - Paris",
+      "company": "Artefactlinkedin",
+      "platform": "Arbeitnow",
+      "location": "9th arrondissement of Paris, 75009, Paris",
+      "salary": "Competitive",
+      "type": "Full-time",
+      "tags": [
+        "Digital Marketing"
+      ],
+      "postedAt": "2026-09-11T22:55:13.000Z",
+      "url": "https://www.arbeitnow.fr/jobs/companies/artefactlinkedin/stagiaire-consultant-sma-h-f-paris-9th-arrondissement-of-paris-75009-paris-187068"
+    },
+    {
+      "id": "arbeitnow-stage-data-analyst-paris-9th-arrondissement-of-paris-75009-paris-51047",
+      "title": "Stage Data Analyst - Paris (H/F/X)",
+      "company": "Artefactlinkedin",
+      "platform": "Arbeitnow",
+      "location": "9th arrondissement of Paris, 75009, Paris",
+      "salary": "Competitive",
+      "type": "Full-time",
+      "tags": [
+        "Data Analytics"
+      ],
+      "postedAt": "2026-09-11T22:55:13.000Z",
+      "url": "https://www.arbeitnow.fr/jobs/companies/artefactlinkedin/stage-data-analyst-paris-9th-arrondissement-of-paris-75009-paris-51047"
+    },
+    {
+      "id": "arbeitnow-senior-data-consultant-h-f-cdi-paris-9th-arrondissement-of-paris-75009-paris-286851",
+      "title": "Senior Data Consultant (H/F) - CDI - Paris",
+      "company": "Artefactlinkedin",
+      "platform": "Arbeitnow",
+      "location": "9th arrondissement of Paris, 75009, Paris",
+      "salary": "Competitive",
+      "type": "Full-time",
+      "tags": [
+        "Data Consulting"
+      ],
+      "postedAt": "2026-09-11T22:55:13.000Z",
+      "url": "https://www.arbeitnow.fr/jobs/companies/artefactlinkedin/senior-data-consultant-h-f-cdi-paris-9th-arrondissement-of-paris-75009-paris-286851"
+    },
+    {
+      "id": "arbeitnow-senior-data-analyst-9th-arrondissement-of-paris-75009-paris-30123",
+      "title": "Senior Data Analyst",
+      "company": "Artefactlinkedin",
+      "platform": "Arbeitnow",
+      "location": "9th arrondissement of Paris, 75009, Paris",
+      "salary": "Competitive",
+      "type": "Full-time",
+      "tags": [
+        "Data Analytics"
+      ],
+      "postedAt": "2026-09-11T22:55:13.000Z",
+      "url": "https://www.arbeitnow.fr/jobs/companies/artefactlinkedin/senior-data-analyst-9th-arrondissement-of-paris-75009-paris-30123"
+    },
+    {
+      "id": "arbeitnow-stagiaire-consultant-sma-h-f-paris-9th-arrondissement-of-paris-75009-paris-134899",
+      "title": "Stagiaire consultant SMA (H/F) - Paris",
+      "company": "Artefact",
+      "platform": "Arbeitnow",
+      "location": "9th arrondissement of Paris, 75009, Paris",
+      "salary": "Competitive",
+      "type": "Full-time",
+      "tags": [
+        "Digital Marketing"
+      ],
+      "postedAt": "2026-09-11T22:55:04.000Z",
+      "url": "https://www.arbeitnow.fr/jobs/companies/artefact/stagiaire-consultant-sma-h-f-paris-9th-arrondissement-of-paris-75009-paris-134899"
+    },
+    {
+      "id": "arbeitnow-stage-data-analyst-paris-9th-arrondissement-of-paris-75009-paris-123583",
+      "title": "Stage Data Analyst - Paris (H/F/X)",
+      "company": "Artefact",
+      "platform": "Arbeitnow",
+      "location": "9th arrondissement of Paris, 75009, Paris",
+      "salary": "Competitive",
+      "type": "Full-time",
+      "tags": [
+        "Data Analytics"
+      ],
+      "postedAt": "2026-09-11T22:55:04.000Z",
+      "url": "https://www.arbeitnow.fr/jobs/companies/artefact/stage-data-analyst-paris-9th-arrondissement-of-paris-75009-paris-123583"
+    },
+    {
+      "id": "arbeitnow-stage-alternance-sales-development-representative-sdr-ai-innovation-ecosystem-9th-arrondissement-of-paris-75009-paris-116113",
+      "title": "(Stage / Alternance) Sales Development Representative (SDR) – AI & Innovation Ecosystem",
+      "company": "Artefact",
+      "platform": "Arbeitnow",
+      "location": "9th arrondissement of Paris, 75009, Paris",
+      "salary": "Competitive",
+      "type": "Full-time",
+      "tags": [
+        "Artefact Open Innovation"
+      ],
+      "postedAt": "2026-09-11T22:55:04.000Z",
+      "url": "https://www.arbeitnow.fr/jobs/companies/artefact/stage-alternance-sales-development-representative-sdr-ai-innovation-ecosystem-9th-arrondissement-of-paris-75009-paris-116113"
+    },
+    {
+      "id": "arbeitnow-senior-data-analyst-9th-arrondissement-of-paris-75009-paris-198988",
+      "title": "Senior Data Analyst",
+      "company": "Artefact",
+      "platform": "Arbeitnow",
+      "location": "9th arrondissement of Paris, 75009, Paris",
+      "salary": "Competitive",
+      "type": "Full-time",
+      "tags": [
+        "Data Analytics"
+      ],
+      "postedAt": "2026-09-11T22:55:04.000Z",
+      "url": "https://www.arbeitnow.fr/jobs/companies/artefact/senior-data-analyst-9th-arrondissement-of-paris-75009-paris-198988"
     },
     {
       "id": "arbeitnow-senior-producer-london-57675",
@@ -1863,144 +2030,6 @@
       "tags": [],
       "postedAt": "2026-09-11T12:58:22+00:00",
       "url": "https://jobicy.com/jobs/153011-principal-sales-engineer-canada"
-    },
-    {
-      "id": "jobicy-153010",
-      "title": "Analytics & AI Account Executive, Sales",
-      "company": "EDB",
-      "platform": "Jobicy",
-      "location": "USA",
-      "salary": "Competitive",
-      "type": "Full-Time",
-      "tags": [],
-      "postedAt": "2026-09-11T12:57:59+00:00",
-      "url": "https://jobicy.com/jobs/153010-analytics-ai-account-executive-sales"
-    },
-    {
-      "id": "jobicy-153009",
-      "title": "Binance Accelerator Program - Affiliate BD (Greater China)",
-      "company": "Binance",
-      "platform": "Jobicy",
-      "location": "China",
-      "salary": "Competitive",
-      "type": "Internship",
-      "tags": [],
-      "postedAt": "2026-09-11T12:57:40+00:00",
-      "url": "https://jobicy.com/jobs/153009-binance-accelerator-program-affiliate-bd-greater-china"
-    },
-    {
-      "id": "jobicy-153008",
-      "title": "Manager, Engineering | ML Infrastructure & Tooling",
-      "company": "ExtraHop",
-      "platform": "Jobicy",
-      "location": "USA",
-      "salary": "Competitive",
-      "type": "Full-Time",
-      "tags": [],
-      "postedAt": "2026-09-11T12:57:19+00:00",
-      "url": "https://jobicy.com/jobs/153008-manager-engineering-ml-infrastructure-tooling"
-    },
-    {
-      "id": "jobicy-153007",
-      "title": "Case Management Coordinator",
-      "company": "Abby Care",
-      "platform": "Jobicy",
-      "location": "USA",
-      "salary": "Competitive",
-      "type": "Full-Time",
-      "tags": [],
-      "postedAt": "2026-09-11T12:56:59+00:00",
-      "url": "https://jobicy.com/jobs/153007-case-management-coordinator"
-    },
-    {
-      "id": "jobicy-153006",
-      "title": "Analytics & AI Account Executive, Public Sector Sales",
-      "company": "EDB",
-      "platform": "Jobicy",
-      "location": "USA",
-      "salary": "Competitive",
-      "type": "Full-Time",
-      "tags": [],
-      "postedAt": "2026-09-11T12:56:38+00:00",
-      "url": "https://jobicy.com/jobs/153006-analytics-ai-account-executive-public-sector-sales"
-    },
-    {
-      "id": "jobicy-153005",
-      "title": "GTM Talent Community",
-      "company": "ExtraHop",
-      "platform": "Jobicy",
-      "location": "Anywhere",
-      "salary": "Competitive",
-      "type": "Full-Time",
-      "tags": [],
-      "postedAt": "2026-09-11T12:56:16+00:00",
-      "url": "https://jobicy.com/jobs/153005-gtm-talent-community"
-    },
-    {
-      "id": "jobicy-153003",
-      "title": "Account Executive",
-      "company": "EDB",
-      "platform": "Jobicy",
-      "location": "USA",
-      "salary": "Competitive",
-      "type": "Full-Time",
-      "tags": [],
-      "postedAt": "2026-09-11T12:55:35+00:00",
-      "url": "https://jobicy.com/jobs/153003-account-executive-18"
-    },
-    {
-      "id": "arbeitnow-sector-lead-energy-industrials-directed-content-london-greater-london-116128",
-      "title": "Sector Lead (Energy & Industrials) - Directed Content",
-      "company": "Alphasense",
-      "platform": "Arbeitnow",
-      "location": "London, Greater London",
-      "salary": "Competitive",
-      "type": "Full-time",
-      "tags": [
-        "Expert Insights"
-      ],
-      "postedAt": "2026-09-11T12:55:14.000Z",
-      "url": "https://www.arbeitnow.co.uk/jobs/companies/alphasense/sector-lead-energy-industrials-directed-content-london-greater-london-116128"
-    },
-    {
-      "id": "arbeitnow-strategic-account-executive-private-markets-europe-london-317084",
-      "title": "Strategic Account Executive - Private Markets, Europe",
-      "company": "Carta",
-      "platform": "Arbeitnow",
-      "location": "London",
-      "salary": "Competitive",
-      "type": "Full-time",
-      "tags": [
-        "Account Executive"
-      ],
-      "postedAt": "2026-09-11T12:55:12.000Z",
-      "url": "https://www.arbeitnow.co.uk/jobs/companies/carta/strategic-account-executive-private-markets-europe-london-317084"
-    },
-    {
-      "id": "arbeitnow-solutions-engineer-london-389135",
-      "title": "Solutions Engineer",
-      "company": "Carta",
-      "platform": "Arbeitnow",
-      "location": "London",
-      "salary": "Competitive",
-      "type": "Full-time",
-      "tags": [
-        "Sales"
-      ],
-      "postedAt": "2026-09-11T12:55:12.000Z",
-      "url": "https://www.arbeitnow.co.uk/jobs/companies/carta/solutions-engineer-london-389135"
-    },
-    {
-      "id": "jobicy-152475",
-      "title": "Account Executive - EMEA Specialist",
-      "company": "Samsara",
-      "platform": "Jobicy",
-      "location": "UK",
-      "salary": "Competitive",
-      "type": "Full-Time",
-      "tags": [],
-      "postedAt": "2026-09-11T12:52:30+00:00",
-      "url": "https://jobicy.com/jobs/152475-account-executive-emea-specialist"
     }
   ]
 }
