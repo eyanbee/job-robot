@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-09-12T00:31:08.632Z",
+  "lastUpdated": "2026-09-12T05:33:40.489Z",
   "jobs": [
     {
       "id": "remotive-1749306",
@@ -53,19 +53,18 @@
       "url": "https://www.arbeitnow.fr/jobs/companies/wppmedia/account-director-seo-f-h-cdi-paris-376840"
     },
     {
-      "id": "arbeitnow-customer-support-agent-norwegian-speaking-london-248332",
-      "title": "Customer Support Agent (Norwegian speaking)",
-      "company": "Ventures Lab",
+      "id": "arbeitnow-motion-graphic-designer-london-230864",
+      "title": "Motion Graphic Designer",
+      "company": "Wordsmith",
       "platform": "Arbeitnow",
       "location": "London",
       "salary": "Competitive",
       "type": "Full-time",
       "tags": [
-        "Remote",
-        "Customer Service"
+        "GTM"
       ],
-      "postedAt": "2026-09-11T08:00:31.000Z",
-      "url": "https://www.arbeitnow.co.uk/jobs/companies/ventures-lab/customer-support-agent-norwegian-speaking-london-248332"
+      "postedAt": "2026-09-12T00:40:08.000Z",
+      "url": "https://www.arbeitnow.co.uk/jobs/companies/wordsmith/motion-graphic-designer-london-230864"
     },
     {
       "id": "remoteok-1137380",
@@ -178,6 +177,20 @@
       "url": "https://www.arbeitnow.co.uk/jobs/companies/ramp/channel-partner-manager-accounting-london-58639"
     },
     {
+      "id": "arbeitnow-senior-talent-acquisition-partner-engineering-london-226745",
+      "title": "Senior Talent Acquisition Partner, Engineering",
+      "company": "Legora",
+      "platform": "Arbeitnow",
+      "location": "London",
+      "salary": "Competitive",
+      "type": "Full-time",
+      "tags": [
+        "People"
+      ],
+      "postedAt": "2026-09-12T00:40:09.000Z",
+      "url": "https://www.arbeitnow.co.uk/jobs/companies/legora/senior-talent-acquisition-partner-engineering-london-226745"
+    },
+    {
       "id": "jobicy-153030",
       "title": "Binance Accelerator Program - HR Talent Acquisition",
       "company": "Binance",
@@ -188,6 +201,354 @@
       "tags": [],
       "postedAt": "2026-09-11T13:04:46+00:00",
       "url": "https://jobicy.com/jobs/153030-binance-accelerator-program-hr-talent-acquisition"
+    },
+    {
+      "id": "arbeitnow-stagiaire-en-appui-communication-et-pilotage-de-projet-2-mois-palaiseau-234686",
+      "title": "Stagiaire en appui communication et pilotage de projet - 2 mois",
+      "company": "Institut Mines-Télécom",
+      "platform": "Arbeitnow",
+      "location": "Palaiseau, Île-de-France, France",
+      "salary": "Competitive",
+      "type": "Full-time",
+      "tags": [
+        "Responsabilité sociétale"
+      ],
+      "postedAt": "2026-09-12T04:30:05.000Z",
+      "url": "https://www.arbeitnow.fr/jobs/companies/institut-mines-telecom/stagiaire-en-appui-communication-et-pilotage-de-projet-2-mois-palaiseau-234686"
+    },
+    {
+      "id": "arbeitnow-post-doctorat-en-interpretabilite-mecaniste-et-diversite-des-representations-brest-188713",
+      "title": "Post-doctorat en interprétabilité mécaniste et diversité des représentations",
+      "company": "Institut Mines-Télécom",
+      "platform": "Arbeitnow",
+      "location": "Brest, Bretagne, France",
+      "salary": "Competitive",
+      "type": "Full-time",
+      "tags": [
+        "Electronique et mécanique"
+      ],
+      "postedAt": "2026-09-12T04:30:05.000Z",
+      "url": "https://www.arbeitnow.fr/jobs/companies/institut-mines-telecom/post-doctorat-en-interpretabilite-mecaniste-et-diversite-des-representations-brest-188713"
+    },
+    {
+      "id": "arbeitnow-stage-assistant-chef-de-produit-poker-h-f-paris-20317",
+      "title": "STAGE - Assistant Chef de Produit Poker (H/F)",
+      "company": "WINAMAX",
+      "platform": "Arbeitnow",
+      "location": "Paris",
+      "salary": "Competitive",
+      "type": "Full-time",
+      "tags": [
+        "Internship"
+      ],
+      "postedAt": "2026-09-12T04:04:44.000Z",
+      "url": "https://www.arbeitnow.fr/jobs/companies/winamax/stage-assistant-chef-de-produit-poker-h-f-paris-20317"
+    },
+    {
+      "id": "arbeitnow-stage-assistant-chef-de-produit-offre-poker-h-f-paris-380598",
+      "title": "STAGE - Assistant Chef de Produit Offre Poker (H/F)",
+      "company": "WINAMAX",
+      "platform": "Arbeitnow",
+      "location": "Paris",
+      "salary": "Competitive",
+      "type": "Full-time",
+      "tags": [
+        "Internship"
+      ],
+      "postedAt": "2026-09-12T04:04:44.000Z",
+      "url": "https://www.arbeitnow.fr/jobs/companies/winamax/stage-assistant-chef-de-produit-offre-poker-h-f-paris-380598"
+    },
+    {
+      "id": "arbeitnow-graphiste-2d-3d-h-f-paris-416587",
+      "title": "Graphiste 2D/3D (H/F)",
+      "company": "WINAMAX",
+      "platform": "Arbeitnow",
+      "location": "Paris",
+      "salary": "Competitive",
+      "type": "Full-time",
+      "tags": [
+        "Graphic Studio"
+      ],
+      "postedAt": "2026-09-12T04:04:44.000Z",
+      "url": "https://www.arbeitnow.fr/jobs/companies/winamax/graphiste-2d-3d-h-f-paris-416587"
+    },
+    {
+      "id": "arbeitnow-graphiste-h-f-paris-360310",
+      "title": "Graphiste (H/F)",
+      "company": "WINAMAX",
+      "platform": "Arbeitnow",
+      "location": "Paris",
+      "salary": "Competitive",
+      "type": "Full-time",
+      "tags": [
+        "Graphic Studio"
+      ],
+      "postedAt": "2026-09-12T04:04:44.000Z",
+      "url": "https://www.arbeitnow.fr/jobs/companies/winamax/graphiste-h-f-paris-360310"
+    },
+    {
+      "id": "arbeitnow-solutions-and-implementation-manager-cardiff-193573",
+      "title": "Solutions and Implementation Manager",
+      "company": "Singu",
+      "platform": "Arbeitnow",
+      "location": "Cardiff",
+      "salary": "Competitive",
+      "type": "Full-time",
+      "tags": [
+        "UK&I"
+      ],
+      "postedAt": "2026-09-12T03:40:14.000Z",
+      "url": "https://www.arbeitnow.co.uk/jobs/companies/singu/solutions-and-implementation-manager-cardiff-193573"
+    },
+    {
+      "id": "arbeitnow-remote-ux-ui-designer-intch-188753",
+      "title": "UX/UI Designer | Intch",
+      "company": "Hirehire",
+      "platform": "Arbeitnow",
+      "location": "Remote",
+      "salary": "Competitive",
+      "type": "Full-time",
+      "tags": [
+        "Product Design"
+      ],
+      "postedAt": "2026-09-12T03:40:10.000Z",
+      "url": "https://www.arbeitnow.co.uk/jobs/companies/hirehire/remote-ux-ui-designer-intch-188753"
+    },
+    {
+      "id": "arbeitnow-head-of-product-london-91501",
+      "title": "Head of Product",
+      "company": "Localstack",
+      "platform": "Arbeitnow",
+      "location": "United Kingdom",
+      "salary": "Competitive",
+      "type": "Full-time",
+      "tags": [
+        "Product Management"
+      ],
+      "postedAt": "2026-09-12T03:40:04.000Z",
+      "url": "https://www.arbeitnow.co.uk/jobs/companies/localstack/head-of-product-london-91501"
+    },
+    {
+      "id": "arbeitnow-managing-director-north-uki-london-office-486561",
+      "title": "Managing Director North / UKI",
+      "company": "Aircall",
+      "platform": "Arbeitnow",
+      "location": "London Office",
+      "salary": "Competitive",
+      "type": "Full-time",
+      "tags": [
+        "12006 - Sales Overhead"
+      ],
+      "postedAt": "2026-09-12T03:04:43.000Z",
+      "url": "https://www.arbeitnow.co.uk/jobs/companies/aircall/managing-director-north-uki-london-office-486561"
+    },
+    {
+      "id": "arbeitnow-inbound-sales-paris-france-bordeaux-france-lyon-france-marseille-france-nantes-france-397069",
+      "title": "Inbound Sales 🇫🇷",
+      "company": "Alan",
+      "platform": "Arbeitnow",
+      "location": "Paris, France; Bordeaux, France; Lyon, France; Marseille, France; Nantes, France",
+      "salary": "Competitive",
+      "type": "Full-time",
+      "tags": [
+        "Sales 🇫🇷"
+      ],
+      "postedAt": "2026-09-12T01:40:12.000Z",
+      "url": "https://www.arbeitnow.fr/jobs/companies/alan/inbound-sales-paris-france-bordeaux-france-lyon-france-marseille-france-nantes-france-397069"
+    },
+    {
+      "id": "arbeitnow-key-account-manager-paris-france-bordeaux-france-marseille-france-annecy-france-53536",
+      "title": "Key Account Manager",
+      "company": "Alan",
+      "platform": "Arbeitnow",
+      "location": "Paris, France; Bordeaux, France; Marseille, France; Annecy, France",
+      "salary": "Competitive",
+      "type": "Full-time",
+      "tags": [
+        "Sales 🇫🇷"
+      ],
+      "postedAt": "2026-09-12T01:40:12.000Z",
+      "url": "https://www.arbeitnow.fr/jobs/companies/alan/key-account-manager-paris-france-bordeaux-france-marseille-france-annecy-france-53536"
+    },
+    {
+      "id": "arbeitnow-operations-coordinator-lyon-177893",
+      "title": "Operations Coordinator - Lyon",
+      "company": "Alan",
+      "platform": "Arbeitnow",
+      "location": "Lyon, France",
+      "salary": "Competitive",
+      "type": "Full-time",
+      "tags": [
+        "Operations"
+      ],
+      "postedAt": "2026-09-12T01:40:12.000Z",
+      "url": "https://www.arbeitnow.fr/jobs/companies/alan/operations-coordinator-lyon-177893"
+    },
+    {
+      "id": "arbeitnow-inbound-sales-paris-france-266555",
+      "title": "Inbound Sales 🇫🇷",
+      "company": "Alan",
+      "platform": "Arbeitnow",
+      "location": "Paris, France",
+      "salary": "Competitive",
+      "type": "Full-time",
+      "tags": [
+        "Sales 🇫🇷"
+      ],
+      "postedAt": "2026-09-12T01:40:12.000Z",
+      "url": "https://www.arbeitnow.fr/jobs/companies/alan/inbound-sales-paris-france-266555"
+    },
+    {
+      "id": "arbeitnow-field-sales-training-executive-cdd-sephora-france-paris-408895",
+      "title": "Field Sales & Training Executive (CDD) — Sephora France",
+      "company": "Yepoda",
+      "platform": "Arbeitnow",
+      "location": "Paris",
+      "salary": "Competitive",
+      "type": "Full-time",
+      "tags": [
+        "Operations"
+      ],
+      "postedAt": "2026-09-12T01:40:10.000Z",
+      "url": "https://www.arbeitnow.fr/jobs/companies/yepoda/field-sales-training-executive-cdd-sephora-france-paris-408895"
+    },
+    {
+      "id": "arbeitnow-field-sales-training-executive-cdd-sephora-france-paris-317554",
+      "title": "Field Sales & Training Executive (CDD) — Sephora France",
+      "company": "Yepoda",
+      "platform": "Arbeitnow",
+      "location": "Paris",
+      "salary": "Competitive",
+      "type": "Full-time",
+      "tags": [
+        "Operations"
+      ],
+      "postedAt": "2026-09-12T01:40:10.000Z",
+      "url": "https://www.arbeitnow.fr/jobs/companies/yepoda/field-sales-training-executive-cdd-sephora-france-paris-317554"
+    },
+    {
+      "id": "arbeitnow-alternance-assistante-administration-des-ventes-adv-h-f-paris-203702",
+      "title": "Alternance - Assistant.e Administration Des Ventes (ADV) H/F",
+      "company": "AMI PARIS",
+      "platform": "Arbeitnow",
+      "location": "Paris, Île-de-France, France",
+      "salary": "Competitive",
+      "type": "Full-time",
+      "tags": [
+        "Supply Chain"
+      ],
+      "postedAt": "2026-09-12T01:30:20.000Z",
+      "url": "https://www.arbeitnow.fr/jobs/companies/ami-paris/alternance-assistante-administration-des-ventes-adv-h-f-paris-203702"
+    },
+    {
+      "id": "arbeitnow-ingenieur-reseaux-securite-support-l3-palo-alto-boulogne-billancourt-295622",
+      "title": "Ingénieur Réseaux Sécurité support L3 Palo Alto",
+      "company": "Nomios",
+      "platform": "Arbeitnow",
+      "location": "Boulogne Billancourt, Île-de-France, France",
+      "salary": "Competitive",
+      "type": "Full-time",
+      "tags": [],
+      "postedAt": "2026-09-12T01:30:11.000Z",
+      "url": "https://www.arbeitnow.fr/jobs/companies/nomios/ingenieur-reseaux-securite-support-l3-palo-alto-boulogne-billancourt-295622"
+    },
+    {
+      "id": "arbeitnow-ingenieur-reseaux-et-securite-p100506-boulogne-billancourt-165746",
+      "title": "Ingénieur Réseaux et Sécurité [P100506]",
+      "company": "Nomios",
+      "platform": "Arbeitnow",
+      "location": "Boulogne Billancourt, Île-de-France, France",
+      "salary": "Competitive",
+      "type": "Full-time",
+      "tags": [
+        "Professional Services"
+      ],
+      "postedAt": "2026-09-12T01:30:11.000Z",
+      "url": "https://www.arbeitnow.fr/jobs/companies/nomios/ingenieur-reseaux-et-securite-p100506-boulogne-billancourt-165746"
+    },
+    {
+      "id": "arbeitnow-data-scientist-london-223044",
+      "title": "Data Scientist",
+      "company": "Physicsx",
+      "platform": "Arbeitnow",
+      "location": "London",
+      "salary": "Competitive",
+      "type": "Full-time",
+      "tags": [
+        "Delivery"
+      ],
+      "postedAt": "2026-09-12T00:55:06.000Z",
+      "url": "https://www.arbeitnow.co.uk/jobs/companies/physicsx/data-scientist-london-223044"
+    },
+    {
+      "id": "arbeitnow-senior-manager-fpa-london-490496",
+      "title": "Senior Manager, FP&A",
+      "company": "Behavox",
+      "platform": "Arbeitnow",
+      "location": "London",
+      "salary": "Competitive",
+      "type": "Full-time",
+      "tags": [
+        "Finance"
+      ],
+      "postedAt": "2026-09-12T00:55:06.000Z",
+      "url": "https://www.arbeitnow.co.uk/jobs/companies/behavox/senior-manager-fpa-london-490496"
+    },
+    {
+      "id": "arbeitnow-senior-research-scientist-health-economic-modelling-london-greater-london-78418",
+      "title": "Senior Research Scientist, Health Economic Modelling",
+      "company": "Precisionmedicinegroup",
+      "platform": "Arbeitnow",
+      "location": "London, Greater London",
+      "salary": "Competitive",
+      "type": "Full-time",
+      "tags": [
+        "HEOR"
+      ],
+      "postedAt": "2026-09-12T00:55:04.000Z",
+      "url": "https://www.arbeitnow.co.uk/jobs/companies/precisionmedicinegroup/senior-research-scientist-health-economic-modelling-london-greater-london-78418"
+    },
+    {
+      "id": "arbeitnow-sales-director-london-195996",
+      "title": "Sales Director",
+      "company": "Relay",
+      "platform": "Arbeitnow",
+      "location": "London - On-site",
+      "salary": "Competitive",
+      "type": "Full-time",
+      "tags": [
+        "Commercial"
+      ],
+      "postedAt": "2026-09-12T00:40:08.000Z",
+      "url": "https://www.arbeitnow.co.uk/jobs/companies/relay/sales-director-london-195996"
+    },
+    {
+      "id": "arbeitnow-sales-support-specialist-6-month-ftc-london-432480",
+      "title": "Sales Support Specialist (6 Month FTC)",
+      "company": "Deepl",
+      "platform": "Arbeitnow",
+      "location": "London",
+      "salary": "Competitive",
+      "type": "Full-time",
+      "tags": [
+        "Sales"
+      ],
+      "postedAt": "2026-09-12T00:40:05.000Z",
+      "url": "https://www.arbeitnow.co.uk/jobs/companies/deepl/sales-support-specialist-6-month-ftc-london-432480"
+    },
+    {
+      "id": "arbeitnow-senior-operational-risk-analyst-london-england-united-kingdom-27607",
+      "title": "Senior Operational Risk Analyst",
+      "company": "capital.com",
+      "platform": "Arbeitnow",
+      "location": "London, England, United Kingdom",
+      "salary": "Competitive",
+      "type": "Full-time",
+      "tags": [
+        "Risk"
+      ],
+      "postedAt": "2026-09-12T00:04:30.000Z",
+      "url": "https://www.arbeitnow.co.uk/jobs/companies/capitalcom/senior-operational-risk-analyst-london-england-united-kingdom-27607"
     },
     {
       "id": "arbeitnow-remote-senior-sales-engineer-mena-179937",
@@ -1436,18 +1797,6 @@
       "url": "https://jobicy.com/jobs/153061-application-support-sql-12-month-maternity-leave-contract"
     },
     {
-      "id": "jobicy-153060",
-      "title": "Japanese - English PPC Freelancer (remote freelance)",
-      "company": "Brafton",
-      "platform": "Jobicy",
-      "location": "UK",
-      "salary": "Competitive",
-      "type": "Contract",
-      "tags": [],
-      "postedAt": "2026-09-11T13:21:15+00:00",
-      "url": "https://jobicy.com/jobs/153060-japanese-english-ppc-freelancer-remote-freelance"
-    },
-    {
       "id": "jobicy-153069",
       "title": "Product Support Specialist - EMEA",
       "company": "Ashby",
@@ -1710,326 +2059,6 @@
       "tags": [],
       "postedAt": "2026-09-11T13:15:09+00:00",
       "url": "https://jobicy.com/jobs/153043-senior-product-designer-10"
-    },
-    {
-      "id": "jobicy-153041",
-      "title": "Director , Information Security and IT",
-      "company": "Luna Physical Therapy",
-      "platform": "Jobicy",
-      "location": "USA",
-      "salary": "Competitive",
-      "type": "Full-Time",
-      "tags": [],
-      "postedAt": "2026-09-11T13:15:08+00:00",
-      "url": "https://jobicy.com/jobs/153041-director-information-security-and-it"
-    },
-    {
-      "id": "jobicy-153037",
-      "title": "AI Senior Engineer (Graph)",
-      "company": "Able",
-      "platform": "Jobicy",
-      "location": "LATAM",
-      "salary": "Competitive",
-      "type": "Full-Time",
-      "tags": [],
-      "postedAt": "2026-09-11T13:13:09+00:00",
-      "url": "https://jobicy.com/jobs/153037-ai-senior-engineer-graph"
-    },
-    {
-      "id": "jobicy-153038",
-      "title": "Senior Financial Analyst, Strategic Finance - FP&A",
-      "company": "hims &#038; hers",
-      "platform": "Jobicy",
-      "location": "USA",
-      "salary": "Competitive",
-      "type": "Full-Time",
-      "tags": [],
-      "postedAt": "2026-09-11T13:13:07+00:00",
-      "url": "https://jobicy.com/jobs/153038-senior-financial-analyst-strategic-finance-fpa"
-    },
-    {
-      "id": "jobicy-153036",
-      "title": "Senior Pre-Sales Solutions Architect – West Coast",
-      "company": "Semperis",
-      "platform": "Jobicy",
-      "location": "Canada,  USA",
-      "salary": "Competitive",
-      "type": "Full-Time",
-      "tags": [],
-      "postedAt": "2026-09-11T13:13:07+00:00",
-      "url": "https://jobicy.com/jobs/153036-senior-pre-sales-solutions-architect-west-coast"
-    },
-    {
-      "id": "jobicy-153035",
-      "title": "Client Success Manager, Hospital Solutions",
-      "company": "Doximity",
-      "platform": "Jobicy",
-      "location": "USA",
-      "salary": "Competitive",
-      "type": "Full-Time",
-      "tags": [],
-      "postedAt": "2026-09-11T13:13:07+00:00",
-      "url": "https://jobicy.com/jobs/153035-client-success-manager-hospital-solutions"
-    },
-    {
-      "id": "arbeitnow-spanish-instructor-pt-adjunct-faculty-or-freelance-paris-166714",
-      "title": "Spanish Instructor, PT Adjunct Faculty or Freelance - Paris",
-      "company": "Schiller International University",
-      "platform": "Arbeitnow",
-      "location": "Paris",
-      "salary": "Competitive",
-      "type": "Full-time",
-      "tags": [
-        "Faculty",
-        "Teachers",
-        "University",
-        "Undergraduate",
-        "Postgraduate",
-        "Academic",
-        "Madrid",
-        "Paris",
-        "instructor",
-        "spanish"
-      ],
-      "postedAt": "2026-09-11T13:09:37.000Z",
-      "url": "https://www.arbeitnow.fr/jobs/companies/schiller-international-university/spanish-instructor-pt-adjunct-faculty-or-freelance-paris-166714"
-    },
-    {
-      "id": "arbeitnow-director-international-relations-and-diplomacy-programs-paris-397819",
-      "title": "Director – International Relations and Diplomacy Programs",
-      "company": "Schiller International University",
-      "platform": "Arbeitnow",
-      "location": "Paris",
-      "salary": "Competitive",
-      "type": "Full-time",
-      "tags": [
-        "students",
-        "university",
-        "quality",
-        "support",
-        "faculty",
-        "director",
-        "international relations",
-        "diplomacy"
-      ],
-      "postedAt": "2026-09-11T13:09:37.000Z",
-      "url": "https://www.arbeitnow.fr/jobs/companies/schiller-international-university/director-international-relations-and-diplomacy-programs-paris-397819"
-    },
-    {
-      "id": "jobicy-153032",
-      "title": "BInance Accelerator Program - Key Account Operations",
-      "company": "Binance",
-      "platform": "Jobicy",
-      "location": "APAC",
-      "salary": "Competitive",
-      "type": "Internship",
-      "tags": [],
-      "postedAt": "2026-09-11T13:05:26+00:00",
-      "url": "https://jobicy.com/jobs/153032-binance-accelerator-program-key-account-operations"
-    },
-    {
-      "id": "jobicy-153031",
-      "title": "Support Engineer I - Dallas, TX",
-      "company": "ExtraHop",
-      "platform": "Jobicy",
-      "location": "USA",
-      "salary": "Competitive",
-      "type": "Full-Time",
-      "tags": [],
-      "postedAt": "2026-09-11T13:05:07+00:00",
-      "url": "https://jobicy.com/jobs/153031-support-engineer-i-dallas-tx"
-    },
-    {
-      "id": "jobicy-153028",
-      "title": "Binance Accelerator Program - Growth Marketing (MENA)",
-      "company": "Binance",
-      "platform": "Jobicy",
-      "location": "UAE",
-      "salary": "Competitive",
-      "type": "Internship",
-      "tags": [],
-      "postedAt": "2026-09-11T13:04:09+00:00",
-      "url": "https://jobicy.com/jobs/153028-binance-accelerator-program-growth-marketing-mena"
-    },
-    {
-      "id": "jobicy-153027",
-      "title": "Senior Sales Engineer | NYC Tri-State",
-      "company": "ExtraHop",
-      "platform": "Jobicy",
-      "location": "USA",
-      "salary": "Competitive",
-      "type": "Full-Time",
-      "tags": [],
-      "postedAt": "2026-09-11T13:03:52+00:00",
-      "url": "https://jobicy.com/jobs/153027-senior-sales-engineer-nyc-tri-state"
-    },
-    {
-      "id": "jobicy-153026",
-      "title": "Binance Accelerator Program - Global Affiliate BD",
-      "company": "Binance",
-      "platform": "Jobicy",
-      "location": "Philippines",
-      "salary": "Competitive",
-      "type": "Internship",
-      "tags": [],
-      "postedAt": "2026-09-11T13:03:29+00:00",
-      "url": "https://jobicy.com/jobs/153026-binance-accelerator-program-global-affiliate-bd"
-    },
-    {
-      "id": "jobicy-153025",
-      "title": "Senior Sales Engineer | Houston, TX",
-      "company": "ExtraHop",
-      "platform": "Jobicy",
-      "location": "USA",
-      "salary": "Competitive",
-      "type": "Full-Time",
-      "tags": [],
-      "postedAt": "2026-09-11T13:03:10+00:00",
-      "url": "https://jobicy.com/jobs/153025-senior-sales-engineer-houston-tx"
-    },
-    {
-      "id": "jobicy-153024",
-      "title": "Binance Accelerator Program - Enterprise Wide Risk Assessment (EWRA)",
-      "company": "Binance",
-      "platform": "Jobicy",
-      "location": "APAC",
-      "salary": "Competitive",
-      "type": "Internship",
-      "tags": [],
-      "postedAt": "2026-09-11T13:02:49+00:00",
-      "url": "https://jobicy.com/jobs/153024-binance-accelerator-program-enterprise-wide-risk-assessment-ewra"
-    },
-    {
-      "id": "jobicy-153023",
-      "title": "Senior Sales Engineer | Financial Services",
-      "company": "ExtraHop",
-      "platform": "Jobicy",
-      "location": "USA",
-      "salary": "Competitive",
-      "type": "Full-Time",
-      "tags": [],
-      "postedAt": "2026-09-11T13:02:32+00:00",
-      "url": "https://jobicy.com/jobs/153023-senior-sales-engineer-financial-services"
-    },
-    {
-      "id": "jobicy-153021",
-      "title": "Senior Data Scientist",
-      "company": "ExtraHop",
-      "platform": "Jobicy",
-      "location": "USA",
-      "salary": "Competitive",
-      "type": "Full-Time",
-      "tags": [],
-      "postedAt": "2026-09-11T13:01:46+00:00",
-      "url": "https://jobicy.com/jobs/153021-senior-data-scientist-2"
-    },
-    {
-      "id": "jobicy-153020",
-      "title": "Binance Accelerator Program - Compliance/Sanctions",
-      "company": "Binance",
-      "platform": "Jobicy",
-      "location": "Hong Kong,  Singapore",
-      "salary": "Competitive",
-      "type": "Internship",
-      "tags": [],
-      "postedAt": "2026-09-11T13:01:25+00:00",
-      "url": "https://jobicy.com/jobs/153020-binance-accelerator-program-compliance-sanctions"
-    },
-    {
-      "id": "jobicy-153019",
-      "title": "Salesforce Developer III",
-      "company": "ExtraHop",
-      "platform": "Jobicy",
-      "location": "USA",
-      "salary": "Competitive",
-      "type": "Full-Time",
-      "tags": [],
-      "postedAt": "2026-09-11T13:01:08+00:00",
-      "url": "https://jobicy.com/jobs/153019-salesforce-developer-iii"
-    },
-    {
-      "id": "jobicy-153018",
-      "title": "Binance Accelerator Program - Brand Partnerships",
-      "company": "Binance",
-      "platform": "Jobicy",
-      "location": "APAC",
-      "salary": "Competitive",
-      "type": "Internship",
-      "tags": [],
-      "postedAt": "2026-09-11T13:00:46+00:00",
-      "url": "https://jobicy.com/jobs/153018-binance-accelerator-program-brand-partnerships"
-    },
-    {
-      "id": "jobicy-153017",
-      "title": "Regional Sales Manager | Canada",
-      "company": "ExtraHop",
-      "platform": "Jobicy",
-      "location": "Canada",
-      "salary": "Competitive",
-      "type": "Full-Time",
-      "tags": [],
-      "postedAt": "2026-09-11T13:00:27+00:00",
-      "url": "https://jobicy.com/jobs/153017-regional-sales-manager-canada"
-    },
-    {
-      "id": "jobicy-153016",
-      "title": "Binance Accelerator Program - Brand KOL",
-      "company": "Binance",
-      "platform": "Jobicy",
-      "location": "APAC",
-      "salary": "Competitive",
-      "type": "Internship",
-      "tags": [],
-      "postedAt": "2026-09-11T13:00:00+00:00",
-      "url": "https://jobicy.com/jobs/153016-binance-accelerator-program-brand-kol"
-    },
-    {
-      "id": "jobicy-153015",
-      "title": "R&D Talent Community",
-      "company": "ExtraHop",
-      "platform": "Jobicy",
-      "location": "USA",
-      "salary": "Competitive",
-      "type": "Full-Time",
-      "tags": [],
-      "postedAt": "2026-09-11T12:59:44+00:00",
-      "url": "https://jobicy.com/jobs/153015-rd-talent-community"
-    },
-    {
-      "id": "jobicy-153014",
-      "title": "Binance Accelerator Program - Applied AI Application Engineer",
-      "company": "Binance",
-      "platform": "Jobicy",
-      "location": "APAC",
-      "salary": "Competitive",
-      "type": "Internship",
-      "tags": [],
-      "postedAt": "2026-09-11T12:59:22+00:00",
-      "url": "https://jobicy.com/jobs/153014-binance-accelerator-program-applied-ai-application-engineer"
-    },
-    {
-      "id": "jobicy-153012",
-      "title": "Binance Accelerator Program - AI Intelligence Efficiency Engineer",
-      "company": "Binance",
-      "platform": "Jobicy",
-      "location": "APAC",
-      "salary": "Competitive",
-      "type": "Internship",
-      "tags": [],
-      "postedAt": "2026-09-11T12:58:41+00:00",
-      "url": "https://jobicy.com/jobs/153012-binance-accelerator-program-ai-intelligence-efficiency-engineer"
-    },
-    {
-      "id": "jobicy-153011",
-      "title": "Principal Sales Engineer | Canada",
-      "company": "ExtraHop",
-      "platform": "Jobicy",
-      "location": "Canada",
-      "salary": "Competitive",
-      "type": "Full-Time",
-      "tags": [],
-      "postedAt": "2026-09-11T12:58:22+00:00",
-      "url": "https://jobicy.com/jobs/153011-principal-sales-engineer-canada"
     }
   ]
 }
