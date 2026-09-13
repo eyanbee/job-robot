@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-09-12T23:53:40.915Z",
+  "lastUpdated": "2026-09-13T04:25:33.978Z",
   "jobs": [
     {
       "id": "remoteok-1137381",
@@ -96,20 +96,6 @@
       "tags": [],
       "postedAt": "2026-09-12T13:16:39+00:00",
       "url": "https://jobicy.com/jobs/153089-advertising-account-manager-ecommerce"
-    },
-    {
-      "id": "arbeitnow-motion-graphic-designer-london-230864",
-      "title": "Motion Graphic Designer",
-      "company": "Wordsmith",
-      "platform": "Arbeitnow",
-      "location": "London",
-      "salary": "Competitive",
-      "type": "Full-time",
-      "tags": [
-        "GTM"
-      ],
-      "postedAt": "2026-09-12T00:40:08.000Z",
-      "url": "https://www.arbeitnow.co.uk/jobs/companies/wordsmith/motion-graphic-designer-london-230864"
     },
     {
       "id": "jobicy-153121",
@@ -232,6 +218,31 @@
       "url": "https://jobicy.com/jobs/150484-customer-support-advocate-spanish"
     },
     {
+      "id": "remoteok-1137386",
+      "title": "HR Operations Specialist",
+      "company": "Law Offices of Sabrina Li",
+      "platform": "RemoteOK",
+      "location": "Remote",
+      "salary": "Competitive",
+      "type": "Full-time",
+      "tags": [
+        "hr",
+        "education",
+        "customer support",
+        "marketing",
+        "finance",
+        "c",
+        "exec",
+        "content writing",
+        "ops",
+        "legal",
+        "recruiter",
+        "full time"
+      ],
+      "postedAt": "2026-09-12T00:00:05+00:00",
+      "url": "https://remoteOK.com/remote-jobs/remote-hr-operations-specialist-law-offices-of-sabrina-li-1137386"
+    },
+    {
       "id": "remoteok-1137380",
       "title": "Engineering Manager TLM Platform",
       "company": "Harper",
@@ -320,6 +331,34 @@
       "url": "https://www.arbeitnow.fr/jobs/companies/matera/alternance-comptable-de-copropriete-marseille-387370"
     },
     {
+      "id": "arbeitnow-talent-acquisition-partner-london-358138",
+      "title": "Talent Acquisition Partner",
+      "company": "Relex",
+      "platform": "Arbeitnow",
+      "location": "London",
+      "salary": "Competitive",
+      "type": "Full-time",
+      "tags": [
+        "People"
+      ],
+      "postedAt": "2026-09-13T03:55:04.000Z",
+      "url": "https://www.arbeitnow.co.uk/jobs/companies/relex/talent-acquisition-partner-london-358138"
+    },
+    {
+      "id": "arbeitnow-talent-acquisition-partner-technology-london-25298",
+      "title": "Talent Acquisition Partner - Technology",
+      "company": "Xyz Reality",
+      "platform": "Arbeitnow",
+      "location": "London Office",
+      "salary": "Competitive",
+      "type": "Full-time",
+      "tags": [
+        "HR"
+      ],
+      "postedAt": "2026-09-13T00:40:05.000Z",
+      "url": "https://www.arbeitnow.co.uk/jobs/companies/xyz-reality/talent-acquisition-partner-technology-london-25298"
+    },
+    {
       "id": "arbeitnow-remote-candidate-experience-specialist-contractor-215797",
       "title": "Candidate Experience Specialist, Contractor",
       "company": "gitlab",
@@ -348,20 +387,6 @@
       "url": "https://www.arbeitnow.fr/jobs/companies/veepee/alternance-chargee-de-recrutement-saint-denis-52590"
     },
     {
-      "id": "arbeitnow-senior-talent-acquisition-partner-engineering-london-226745",
-      "title": "Senior Talent Acquisition Partner, Engineering",
-      "company": "Legora",
-      "platform": "Arbeitnow",
-      "location": "London",
-      "salary": "Competitive",
-      "type": "Full-time",
-      "tags": [
-        "People"
-      ],
-      "postedAt": "2026-09-12T00:40:09.000Z",
-      "url": "https://www.arbeitnow.co.uk/jobs/companies/legora/senior-talent-acquisition-partner-engineering-london-226745"
-    },
-    {
       "id": "arbeitnow-senior-adobe-project-manager-409347",
       "title": "Senior Adobe Project Manager",
       "company": "dept",
@@ -376,6 +401,20 @@
       "url": "https://www.arbeitnow.co.uk/jobs/companies/dept/senior-adobe-project-manager-409347"
     },
     {
+      "id": "arbeitnow-lab-operations-manager-london-269962",
+      "title": "Lab Operations Manager",
+      "company": "Substrate Bio",
+      "platform": "Arbeitnow",
+      "location": "London",
+      "salary": "Competitive",
+      "type": "Full-time",
+      "tags": [
+        "Research"
+      ],
+      "postedAt": "2026-09-13T03:40:05.000Z",
+      "url": "https://www.arbeitnow.co.uk/jobs/companies/substrate-bio/lab-operations-manager-london-269962"
+    },
+    {
       "id": "jobicy-153094",
       "title": "Advertising Operations Manager",
       "company": "Rithum",
@@ -386,6 +425,259 @@
       "tags": [],
       "postedAt": "2026-09-12T13:16:54+00:00",
       "url": "https://jobicy.com/jobs/153094-advertising-operations-manager-2"
+    },
+    {
+      "id": "arbeitnow-senior-staff-data-analyst-storefront-london-47899",
+      "title": "Senior/Staff Data Analyst, Storefront",
+      "company": "Quince",
+      "platform": "Arbeitnow",
+      "location": "London",
+      "salary": "Competitive",
+      "type": "Full-time",
+      "tags": [
+        "International"
+      ],
+      "postedAt": "2026-09-13T03:55:12.000Z",
+      "url": "https://www.arbeitnow.co.uk/jobs/companies/quince/senior-staff-data-analyst-storefront-london-47899"
+    },
+    {
+      "id": "arbeitnow-senior-sales-development-representative-uk-united-kingdom-362650",
+      "title": "Senior Sales Development Representative (UK)",
+      "company": "Coder",
+      "platform": "Arbeitnow",
+      "location": "United Kingdom",
+      "salary": "Competitive",
+      "type": "Full-time",
+      "tags": [
+        "Revenue"
+      ],
+      "postedAt": "2026-09-13T03:40:10.000Z",
+      "url": "https://www.arbeitnow.co.uk/jobs/companies/coder/senior-sales-development-representative-uk-united-kingdom-362650"
+    },
+    {
+      "id": "arbeitnow-maintenance-facilities-assistant-london-62703",
+      "title": "Maintenance & Facilities Assistant",
+      "company": "Legal 500",
+      "platform": "Arbeitnow",
+      "location": "London",
+      "salary": "Competitive",
+      "type": "Full-time",
+      "tags": [
+        "IAC"
+      ],
+      "postedAt": "2026-09-13T03:40:06.000Z",
+      "url": "https://www.arbeitnow.co.uk/jobs/companies/legal-500/maintenance-facilities-assistant-london-62703"
+    },
+    {
+      "id": "arbeitnow-direct-asset-finance-specialist-manchester-338436",
+      "title": "Direct Asset Finance Specialist",
+      "company": "Allica Bank",
+      "platform": "Arbeitnow",
+      "location": "Manchester Office",
+      "salary": "Competitive",
+      "type": "Full-time",
+      "tags": [
+        "Distribution"
+      ],
+      "postedAt": "2026-09-13T03:40:04.000Z",
+      "url": "https://www.arbeitnow.co.uk/jobs/companies/allica-bank/direct-asset-finance-specialist-manchester-338436"
+    },
+    {
+      "id": "arbeitnow-compliance-analyst-london-425160",
+      "title": "Compliance Analyst",
+      "company": "Allica Bank",
+      "platform": "Arbeitnow",
+      "location": "London Office",
+      "salary": "Competitive",
+      "type": "Full-time",
+      "tags": [
+        "Compliance"
+      ],
+      "postedAt": "2026-09-13T03:40:04.000Z",
+      "url": "https://www.arbeitnow.co.uk/jobs/companies/allica-bank/compliance-analyst-london-425160"
+    },
+    {
+      "id": "arbeitnow-data-platform-engineer-london-24003",
+      "title": "Data Platform Engineer",
+      "company": "Magentic",
+      "platform": "Arbeitnow",
+      "location": "London",
+      "salary": "Competitive",
+      "type": "Full-time",
+      "tags": [
+        "Engineering"
+      ],
+      "postedAt": "2026-09-13T03:40:02.000Z",
+      "url": "https://www.arbeitnow.co.uk/jobs/companies/magentic/data-platform-engineer-london-24003"
+    },
+    {
+      "id": "arbeitnow-chargee-de-mission-assurance-qualite-affaires-reglementaires-et-etudes-cliniques-entzheim-258826",
+      "title": "Chargé(e) de mission assurance qualité, affaires réglementaires et études cliniques",
+      "company": "ALARA GROUP",
+      "platform": "Arbeitnow",
+      "location": "Entzheim, Grand Est, France",
+      "salary": "Competitive",
+      "type": "Full-time",
+      "tags": [
+        "Alara Group"
+      ],
+      "postedAt": "2026-09-13T01:30:37.000Z",
+      "url": "https://www.arbeitnow.fr/jobs/companies/alara-group/chargee-de-mission-assurance-qualite-affaires-reglementaires-et-etudes-cliniques-entzheim-258826"
+    },
+    {
+      "id": "arbeitnow-stagiaire-assistante-ingenieure-entzheim-152143",
+      "title": "Stagiaire assistant(e) ingénieur(e)",
+      "company": "ALARA GROUP",
+      "platform": "Arbeitnow",
+      "location": "Entzheim, Grand Est, France",
+      "salary": "Competitive",
+      "type": "Full-time",
+      "tags": [
+        "Neolys Diagnostics"
+      ],
+      "postedAt": "2026-09-13T01:30:37.000Z",
+      "url": "https://www.arbeitnow.fr/jobs/companies/alara-group/stagiaire-assistante-ingenieure-entzheim-152143"
+    },
+    {
+      "id": "arbeitnow-sales-development-representative-alternance-paris-464122",
+      "title": "Sales Development Representative – Alternance",
+      "company": "Ibexa",
+      "platform": "Arbeitnow",
+      "location": "Paris, Île-de-France, France",
+      "salary": "Competitive",
+      "type": "Full-time",
+      "tags": [
+        "Sales"
+      ],
+      "postedAt": "2026-09-13T01:30:20.000Z",
+      "url": "https://www.arbeitnow.fr/jobs/companies/ibexa/sales-development-representative-alternance-paris-464122"
+    },
+    {
+      "id": "arbeitnow-administrateur-systemes-et-reseaux-nantes-346575",
+      "title": "Administrateur Systèmes et Réseaux",
+      "company": "Lengow",
+      "platform": "Arbeitnow",
+      "location": "Nantes, France",
+      "salary": "Competitive",
+      "type": "Full-time",
+      "tags": [
+        "Internet",
+        "R&D"
+      ],
+      "postedAt": "2026-09-13T01:20:08.000Z",
+      "url": "https://www.arbeitnow.fr/jobs/companies/lengow/administrateur-systemes-et-reseaux-nantes-346575"
+    },
+    {
+      "id": "arbeitnow-senior-data-modelling-consultant-168537",
+      "title": "Senior Data Modelling Consultant",
+      "company": "capco",
+      "platform": "Arbeitnow",
+      "location": "Remote",
+      "salary": "Competitive",
+      "type": "Full-time",
+      "tags": [
+        "Data & Analytics"
+      ],
+      "postedAt": "2026-09-13T00:55:05.000Z",
+      "url": "https://www.arbeitnow.co.uk/jobs/companies/capco/senior-data-modelling-consultant-168537"
+    },
+    {
+      "id": "arbeitnow-managing-principal-director-finance-transformation-56126",
+      "title": "Managing Principal (Director)  - Finance Transformation",
+      "company": "capco",
+      "platform": "Arbeitnow",
+      "location": "Remote",
+      "salary": "Competitive",
+      "type": "Full-time",
+      "tags": [
+        "Finance Risk & Compliance"
+      ],
+      "postedAt": "2026-09-13T00:55:05.000Z",
+      "url": "https://www.arbeitnow.co.uk/jobs/companies/capco/managing-principal-director-finance-transformation-56126"
+    },
+    {
+      "id": "arbeitnow-enterprise-sales-engineer-emea-london-448014",
+      "title": "Enterprise Sales Engineer EMEA",
+      "company": "Omnea",
+      "platform": "Arbeitnow",
+      "location": "London",
+      "salary": "Competitive",
+      "type": "Full-time",
+      "tags": [
+        "Go To Market"
+      ],
+      "postedAt": "2026-09-13T00:40:12.000Z",
+      "url": "https://www.arbeitnow.co.uk/jobs/companies/omnea/enterprise-sales-engineer-emea-london-448014"
+    },
+    {
+      "id": "arbeitnow-rider-onboarding-operations-representative-london-478523",
+      "title": "Rider Onboarding Operations Representative",
+      "company": "Deliveroo",
+      "platform": "Arbeitnow",
+      "location": "London - The River Building HQ",
+      "salary": "Competitive",
+      "type": "Full-time",
+      "tags": [
+        "All Cost Centers"
+      ],
+      "postedAt": "2026-09-13T00:40:12.000Z",
+      "url": "https://www.arbeitnow.co.uk/jobs/companies/deliveroo/rider-onboarding-operations-representative-london-478523"
+    },
+    {
+      "id": "arbeitnow-corporate-account-manager-london-362580",
+      "title": "Corporate Account Manager",
+      "company": "Deliveroo",
+      "platform": "Arbeitnow",
+      "location": "London - The River Building HQ",
+      "salary": "Competitive",
+      "type": "Full-time",
+      "tags": [
+        "All Cost Centers"
+      ],
+      "postedAt": "2026-09-13T00:40:12.000Z",
+      "url": "https://www.arbeitnow.co.uk/jobs/companies/deliveroo/corporate-account-manager-london-362580"
+    },
+    {
+      "id": "arbeitnow-bi-engineer-london-9211",
+      "title": "BI Engineer",
+      "company": "Deliveroo",
+      "platform": "Arbeitnow",
+      "location": "London - The River Building HQ",
+      "salary": "Competitive",
+      "type": "Full-time",
+      "tags": [
+        "All Cost Centers"
+      ],
+      "postedAt": "2026-09-13T00:40:12.000Z",
+      "url": "https://www.arbeitnow.co.uk/jobs/companies/deliveroo/bi-engineer-london-9211"
+    },
+    {
+      "id": "arbeitnow-growth-product-manager-london-168924",
+      "title": "Growth Product Manager",
+      "company": "Fyxer",
+      "platform": "Arbeitnow",
+      "location": "London",
+      "salary": "Competitive",
+      "type": "Full-time",
+      "tags": [
+        "Product"
+      ],
+      "postedAt": "2026-09-13T00:40:09.000Z",
+      "url": "https://www.arbeitnow.co.uk/jobs/companies/fyxer/growth-product-manager-london-168924"
+    },
+    {
+      "id": "arbeitnow-remote-senior-manager-clinical-operations-clinical-process-owner-27828",
+      "title": "Senior Manager, Clinical Operations - Clinical Process Owner",
+      "company": "Precisionmedicinegroup",
+      "platform": "Arbeitnow",
+      "location": "Remote",
+      "salary": "Competitive",
+      "type": "Full-time",
+      "tags": [
+        "Clinical Solutions"
+      ],
+      "postedAt": "2026-09-12T23:55:26.000Z",
+      "url": "https://www.arbeitnow.com/jobs/companies/precisionmedicinegroup/remote-senior-manager-clinical-operations-clinical-process-owner-27828"
     },
     {
       "id": "arbeitnow-remote-senior-manager-clinical-operations-clinical-process-owner-256118",
@@ -1215,230 +1507,6 @@
       "url": "https://jobicy.com/jobs/151081-sr-customer-success-manager-justice"
     },
     {
-      "id": "arbeitnow-senior-staff-data-analyst-storefront-176558",
-      "title": "Senior/Staff Data Analyst, Storefront",
-      "company": "Quince",
-      "platform": "Arbeitnow",
-      "location": "Remote",
-      "salary": "Competitive",
-      "type": "Full-time",
-      "tags": [
-        "International"
-      ],
-      "postedAt": "2026-09-12T14:55:16.000Z",
-      "url": "https://www.arbeitnow.com/jobs/companies/quince/senior-staff-data-analyst-storefront-176558"
-    },
-    {
-      "id": "arbeitnow-senior-principal-consultant-business-functional-analyst-reporting-mis-private-banking-481667",
-      "title": "Senior / Principal Consultant* – Business Functional Analyst Reporting & MIS (Private Banking)",
-      "company": "capco",
-      "platform": "Arbeitnow",
-      "location": "Remote",
-      "salary": "Competitive",
-      "type": "Full-time",
-      "tags": [
-        "Business Consulting"
-      ],
-      "postedAt": "2026-09-12T14:55:12.000Z",
-      "url": "https://www.arbeitnow.com/jobs/companies/capco/senior-principal-consultant-business-functional-analyst-reporting-mis-private-banking-481667"
-    },
-    {
-      "id": "arbeitnow-senior-consultant-versicherungen-38450",
-      "title": "(Senior) Consultant* – Versicherungen",
-      "company": "capco",
-      "platform": "Arbeitnow",
-      "location": "Remote",
-      "salary": "Competitive",
-      "type": "Full-time",
-      "tags": [
-        "Business Consulting"
-      ],
-      "postedAt": "2026-09-12T14:55:12.000Z",
-      "url": "https://www.arbeitnow.com/jobs/companies/capco/senior-consultant-versicherungen-38450"
-    },
-    {
-      "id": "arbeitnow-senior-consultant-versicherungen-60279",
-      "title": "(Senior) Consultant* – Versicherungen",
-      "company": "capco",
-      "platform": "Arbeitnow",
-      "location": "Remote",
-      "salary": "Competitive",
-      "type": "Full-time",
-      "tags": [
-        "Business Consulting"
-      ],
-      "postedAt": "2026-09-12T14:55:12.000Z",
-      "url": "https://www.arbeitnow.com/jobs/companies/capco/senior-consultant-versicherungen-60279"
-    },
-    {
-      "id": "arbeitnow-senior-consultant-sepa-payments-449100",
-      "title": "(Senior) Consultant* - SEPA-Payments",
-      "company": "capco",
-      "platform": "Arbeitnow",
-      "location": "Remote",
-      "salary": "Competitive",
-      "type": "Full-time",
-      "tags": [
-        "Business Consulting"
-      ],
-      "postedAt": "2026-09-12T14:55:12.000Z",
-      "url": "https://www.arbeitnow.com/jobs/companies/capco/senior-consultant-sepa-payments-449100"
-    },
-    {
-      "id": "arbeitnow-senior-consultant-sepa-payments-342461",
-      "title": "(Senior) Consultant* - SEPA-Payments",
-      "company": "capco",
-      "platform": "Arbeitnow",
-      "location": "Remote",
-      "salary": "Competitive",
-      "type": "Full-time",
-      "tags": [
-        "Business Consulting"
-      ],
-      "postedAt": "2026-09-12T14:55:12.000Z",
-      "url": "https://www.arbeitnow.com/jobs/companies/capco/senior-consultant-sepa-payments-342461"
-    },
-    {
-      "id": "arbeitnow-senior-consultant-sepa-payments-445811",
-      "title": "(Senior) Consultant* - SEPA-Payments",
-      "company": "capco",
-      "platform": "Arbeitnow",
-      "location": "Remote",
-      "salary": "Competitive",
-      "type": "Full-time",
-      "tags": [
-        "Business Consulting"
-      ],
-      "postedAt": "2026-09-12T14:55:12.000Z",
-      "url": "https://www.arbeitnow.com/jobs/companies/capco/senior-consultant-sepa-payments-445811"
-    },
-    {
-      "id": "arbeitnow-senior-consultant-sepa-payments-393914",
-      "title": "(Senior) Consultant* - SEPA-Payments",
-      "company": "capco",
-      "platform": "Arbeitnow",
-      "location": "Remote",
-      "salary": "Competitive",
-      "type": "Full-time",
-      "tags": [
-        "Business Consulting"
-      ],
-      "postedAt": "2026-09-12T14:55:12.000Z",
-      "url": "https://www.arbeitnow.com/jobs/companies/capco/senior-consultant-sepa-payments-393914"
-    },
-    {
-      "id": "arbeitnow-senior-consultant-payments-transformation-264591",
-      "title": "(Senior) Consultant* - Payments Transformation",
-      "company": "capco",
-      "platform": "Arbeitnow",
-      "location": "Remote",
-      "salary": "Competitive",
-      "type": "Full-time",
-      "tags": [
-        "Business Consulting"
-      ],
-      "postedAt": "2026-09-12T14:55:12.000Z",
-      "url": "https://www.arbeitnow.com/jobs/companies/capco/senior-consultant-payments-transformation-264591"
-    },
-    {
-      "id": "arbeitnow-senior-consultant-payments-transformation-46493",
-      "title": "(Senior) Consultant* - Payments Transformation",
-      "company": "capco",
-      "platform": "Arbeitnow",
-      "location": "Remote",
-      "salary": "Competitive",
-      "type": "Full-time",
-      "tags": [
-        "Business Consulting"
-      ],
-      "postedAt": "2026-09-12T14:55:12.000Z",
-      "url": "https://www.arbeitnow.com/jobs/companies/capco/senior-consultant-payments-transformation-46493"
-    },
-    {
-      "id": "arbeitnow-senior-consultant-payments-transformation-23293",
-      "title": "(Senior) Consultant* - Payments Transformation",
-      "company": "capco",
-      "platform": "Arbeitnow",
-      "location": "Remote",
-      "salary": "Competitive",
-      "type": "Full-time",
-      "tags": [
-        "Business Consulting"
-      ],
-      "postedAt": "2026-09-12T14:55:12.000Z",
-      "url": "https://www.arbeitnow.com/jobs/companies/capco/senior-consultant-payments-transformation-23293"
-    },
-    {
-      "id": "arbeitnow-senior-consultant-meldewesen-regulatory-reporting-48456",
-      "title": "(Senior) Consultant* - Meldewesen / Regulatory Reporting",
-      "company": "capco",
-      "platform": "Arbeitnow",
-      "location": "Remote",
-      "salary": "Competitive",
-      "type": "Full-time",
-      "tags": [
-        "Finance Risk & Compliance"
-      ],
-      "postedAt": "2026-09-12T14:55:12.000Z",
-      "url": "https://www.arbeitnow.com/jobs/companies/capco/senior-consultant-meldewesen-regulatory-reporting-48456"
-    },
-    {
-      "id": "arbeitnow-senior-consultant-meldewesen-regulatory-reporting-116226",
-      "title": "(Senior) Consultant* - Meldewesen / Regulatory Reporting",
-      "company": "capco",
-      "platform": "Arbeitnow",
-      "location": "Remote",
-      "salary": "Competitive",
-      "type": "Full-time",
-      "tags": [
-        "Finance Risk & Compliance"
-      ],
-      "postedAt": "2026-09-12T14:55:12.000Z",
-      "url": "https://www.arbeitnow.com/jobs/companies/capco/senior-consultant-meldewesen-regulatory-reporting-116226"
-    },
-    {
-      "id": "arbeitnow-senior-consultant-meldewesen-regulatory-reporting-355484",
-      "title": "(Senior) Consultant* - Meldewesen / Regulatory Reporting",
-      "company": "capco",
-      "platform": "Arbeitnow",
-      "location": "Remote",
-      "salary": "Competitive",
-      "type": "Full-time",
-      "tags": [
-        "Finance Risk & Compliance"
-      ],
-      "postedAt": "2026-09-12T14:55:12.000Z",
-      "url": "https://www.arbeitnow.com/jobs/companies/capco/senior-consultant-meldewesen-regulatory-reporting-355484"
-    },
-    {
-      "id": "arbeitnow-senior-consultant-data-architecture-158253",
-      "title": "(Senior) Consultant - Data Architecture",
-      "company": "capco",
-      "platform": "Arbeitnow",
-      "location": "Remote",
-      "salary": "Competitive",
-      "type": "Full-time",
-      "tags": [
-        "Data & Analytics"
-      ],
-      "postedAt": "2026-09-12T14:55:12.000Z",
-      "url": "https://www.arbeitnow.com/jobs/companies/capco/senior-consultant-data-architecture-158253"
-    },
-    {
-      "id": "arbeitnow-data-strategy-advisory-leader-managing-principal-337349",
-      "title": "Data Strategy & Advisory Leader (Managing Principal)",
-      "company": "capco",
-      "platform": "Arbeitnow",
-      "location": "Remote",
-      "salary": "Competitive",
-      "type": "Full-time",
-      "tags": [
-        "Data & Analytics"
-      ],
-      "postedAt": "2026-09-12T14:55:12.000Z",
-      "url": "https://www.arbeitnow.com/jobs/companies/capco/data-strategy-advisory-leader-managing-principal-337349"
-    },
-    {
       "id": "jobicy-151210",
       "title": "Director, Corporate Development",
       "company": "Updater",
@@ -1947,54 +2015,6 @@
       "tags": [],
       "postedAt": "2026-09-12T13:16:57+00:00",
       "url": "https://jobicy.com/jobs/153095-it-support-specialist"
-    },
-    {
-      "id": "jobicy-153096",
-      "title": "Product Analyst",
-      "company": "Liftoff",
-      "platform": "Jobicy",
-      "location": "USA",
-      "salary": "Competitive",
-      "type": "Full-Time",
-      "tags": [],
-      "postedAt": "2026-09-12T13:16:56+00:00",
-      "url": "https://jobicy.com/jobs/153096-product-analyst"
-    },
-    {
-      "id": "jobicy-153084",
-      "title": "Bilingual Field Care Coordinator / Field Case Management",
-      "company": "Pair Team",
-      "platform": "Jobicy",
-      "location": "USA",
-      "salary": "Competitive",
-      "type": "Full-Time",
-      "tags": [],
-      "postedAt": "2026-09-12T13:16:44+00:00",
-      "url": "https://jobicy.com/jobs/153084-bilingual-field-care-coordinator-field-case-management"
-    },
-    {
-      "id": "jobicy-153092",
-      "title": "Account Executive, Mid Market",
-      "company": "Zapier",
-      "platform": "Jobicy",
-      "location": "USA",
-      "salary": "Competitive",
-      "type": "Full-Time",
-      "tags": [],
-      "postedAt": "2026-09-12T13:16:43+00:00",
-      "url": "https://jobicy.com/jobs/153092-account-executive-mid-market-3"
-    },
-    {
-      "id": "jobicy-153086",
-      "title": "Brand & Events Lead",
-      "company": "Teachable",
-      "platform": "Jobicy",
-      "location": "USA",
-      "salary": "Competitive",
-      "type": "Full-Time",
-      "tags": [],
-      "postedAt": "2026-09-12T13:16:43+00:00",
-      "url": "https://jobicy.com/jobs/153086-brand-events-lead"
     }
   ]
 }
