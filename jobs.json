@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-09-15T21:09:22.894Z",
+  "lastUpdated": "2026-09-15T23:37:41.180Z",
   "jobs": [
     {
       "id": "remoteok-1137391",
@@ -55,18 +55,6 @@
       "url": "https://remoteOK.com/remote-jobs/remote-marketing-student-assistant-copenhagen-optimization-1137381"
     },
     {
-      "id": "arbeitnow-executive-assistant-tech-leadership-paris-486585",
-      "title": "Executive Assistant - Tech Leadership",
-      "company": "Mirakl",
-      "platform": "Arbeitnow",
-      "location": "Paris, France",
-      "salary": "Competitive",
-      "type": "Full-time",
-      "tags": [],
-      "postedAt": "2026-09-14T15:45:30.000Z",
-      "url": "https://www.arbeitnow.fr/jobs/companies/mirakl/executive-assistant-tech-leadership-paris-486585"
-    },
-    {
       "id": "jobicy-153296",
       "title": "Executive Assistant, Marketing",
       "company": "Deepgram",
@@ -89,6 +77,18 @@
       "tags": [],
       "postedAt": "2026-09-14T14:32:23+00:00",
       "url": "https://jobicy.com/jobs/153292-senior-executive-assistant-customer-success-services"
+    },
+    {
+      "id": "jobicy-153290",
+      "title": "Executive Assistant, Founders Office",
+      "company": "Solace",
+      "platform": "Jobicy",
+      "location": "USA",
+      "salary": "Competitive",
+      "type": "Full-Time",
+      "tags": [],
+      "postedAt": "2026-09-14T14:32:21+00:00",
+      "url": "https://jobicy.com/jobs/153290-executive-assistant-founders-office"
     },
     {
       "id": "remotive-1749306",
@@ -281,6 +281,20 @@
       "url": "https://remoteOK.com/remote-jobs/remote-regional-sales-manager-orderyoyo-1137279"
     },
     {
+      "id": "arbeitnow-senior-accountant-uk-london-90542",
+      "title": "Senior Accountant, UK",
+      "company": "Blankstreet",
+      "platform": "Arbeitnow",
+      "location": "London",
+      "salary": "Competitive",
+      "type": "Full-time",
+      "tags": [
+        "Finance & Accounting"
+      ],
+      "postedAt": "2026-09-15T21:55:16.000Z",
+      "url": "https://www.arbeitnow.co.uk/jobs/companies/blankstreet/senior-accountant-uk-london-90542"
+    },
+    {
       "id": "jobicy-150819",
       "title": "Accounting Associate (Remote, USA-Based)",
       "company": "Manay CPA Inc.",
@@ -291,6 +305,21 @@
       "tags": [],
       "postedAt": "2026-09-15T04:45:16+00:00",
       "url": "https://jobicy.com/jobs/150819-accounting-associate-remote-usa-based"
+    },
+    {
+      "id": "arbeitnow-global-vp-talent-acquisition-paris-399953",
+      "title": "Global VP, Talent Acquisition",
+      "company": "Sidetrade",
+      "platform": "Arbeitnow",
+      "location": "Paris, France",
+      "salary": "Competitive",
+      "type": "Full-time",
+      "tags": [
+        "Computer Software",
+        "People"
+      ],
+      "postedAt": "2026-09-15T22:20:16.000Z",
+      "url": "https://www.arbeitnow.fr/jobs/companies/sidetrade/global-vp-talent-acquisition-paris-399953"
     },
     {
       "id": "arbeitnow-paris-account-executive-recruitment-day-paris-france-134647",
@@ -361,32 +390,381 @@
       "url": "https://jobicy.com/jobs/153335-marketplace-operations-manager-ii"
     },
     {
-      "id": "arbeitnow-senior-gtm-operations-manager-london-456302",
-      "title": "Senior GTM Operations Manager",
-      "company": "Edited",
+      "id": "arbeitnow-account-director-digital-natives-france-paris-157382",
+      "title": "Account Director, Digital Natives - France",
+      "company": "OpenAI",
       "platform": "Arbeitnow",
-      "location": "London Office",
+      "location": "Paris, France",
+      "salary": "Competitive",
+      "type": "Full-time",
+      "tags": [
+        "Go To Market"
+      ],
+      "postedAt": "2026-09-15T22:40:06.000Z",
+      "url": "https://www.arbeitnow.fr/jobs/companies/openai/account-director-digital-natives-france-paris-157382"
+    },
+    {
+      "id": "arbeitnow-director-gtm-partnerships-sme-growth-paris-45867",
+      "title": "Director, GTM Partnerships, SME & growth",
+      "company": "Airwallex",
+      "platform": "Arbeitnow",
+      "location": "FR - Paris",
+      "salary": "Competitive",
+      "type": "Full-time",
+      "tags": [
+        "SME & Growth Business"
+      ],
+      "postedAt": "2026-09-15T22:40:04.000Z",
+      "url": "https://www.arbeitnow.fr/jobs/companies/airwallex/director-gtm-partnerships-sme-growth-paris-45867"
+    },
+    {
+      "id": "arbeitnow-dpo-compliance-officer-france-312938",
+      "title": "DPO & Compliance Officer",
+      "company": "Filigran",
+      "platform": "Arbeitnow",
+      "location": "France",
+      "salary": "Competitive",
+      "type": "Full-time",
+      "tags": [
+        "Legal"
+      ],
+      "postedAt": "2026-09-15T22:40:04.000Z",
+      "url": "https://www.arbeitnow.fr/jobs/companies/filigran/dpo-compliance-officer-france-312938"
+    },
+    {
+      "id": "arbeitnow-workplace-experience-manager-paris-238539",
+      "title": "Workplace Experience Manager",
+      "company": "Docebo",
+      "platform": "Arbeitnow",
+      "location": "Paris, France",
+      "salary": "Competitive",
+      "type": "Full-time",
+      "tags": [
+        "People"
+      ],
+      "postedAt": "2026-09-15T22:40:03.000Z",
+      "url": "https://www.arbeitnow.fr/jobs/companies/docebo/workplace-experience-manager-paris-238539"
+    },
+    {
+      "id": "arbeitnow-director-strategic-cloud-partnerships-emea-473744",
+      "title": "Director, Strategic Cloud Partnerships EMEA",
+      "company": "Sentinellabs",
+      "platform": "Arbeitnow",
+      "location": "Remote",
+      "salary": "Competitive",
+      "type": "Full-time",
+      "tags": [
+        "43300 Cloud Sales"
+      ],
+      "postedAt": "2026-09-15T21:55:25.000Z",
+      "url": "https://www.arbeitnow.co.uk/jobs/companies/sentinellabs/director-strategic-cloud-partnerships-emea-473744"
+    },
+    {
+      "id": "arbeitnow-manager-associate-director-corporate-tax-advisory-london-253058",
+      "title": "Manager / Associate Director, Corporate Tax Advisory",
+      "company": "Teneo",
+      "platform": "Arbeitnow",
+      "location": "London",
+      "salary": "Competitive",
+      "type": "Full-time",
+      "tags": [
+        "Financial Advisory UK"
+      ],
+      "postedAt": "2026-09-15T21:55:15.000Z",
+      "url": "https://www.arbeitnow.co.uk/jobs/companies/teneo/manager-associate-director-corporate-tax-advisory-london-253058"
+    },
+    {
+      "id": "arbeitnow-account-executive-at-united-media-london-168458",
+      "title": "Account Executive at United Media",
+      "company": "Unitedmedia",
+      "platform": "Arbeitnow",
+      "location": "London",
       "salary": "Competitive",
       "type": "Full-time",
       "tags": [
         "Sales"
       ],
-      "postedAt": "2026-09-15T12:40:02.000Z",
-      "url": "https://www.arbeitnow.co.uk/jobs/companies/edited/senior-gtm-operations-manager-london-456302"
+      "postedAt": "2026-09-15T21:55:06.000Z",
+      "url": "https://www.arbeitnow.co.uk/jobs/companies/unitedmedia/account-executive-at-united-media-london-168458"
     },
     {
-      "id": "arbeitnow-manager-customer-success-public-sector-paris-339604",
-      "title": "Manager Customer Success (Public Sector)",
-      "company": "Malt",
+      "id": "arbeitnow-senior-paralegal-contracts-sydney-australia-hong-kong-central-and-western-hong-kong-sar-singapore-114905",
+      "title": "Senior Paralegal, Contracts",
+      "company": "Carta",
       "platform": "Arbeitnow",
-      "location": "Paris",
+      "location": "Sydney, Australia, Hong Kong, Central and Western, Hong Kong S.A.R., Singapore",
       "salary": "Competitive",
       "type": "Full-time",
       "tags": [
-        "Customer Onboarding and Success"
+        "Carta Law Contracts"
       ],
-      "postedAt": "2026-09-14T16:04:17.000Z",
-      "url": "https://www.arbeitnow.fr/jobs/companies/malt/manager-customer-success-public-sector-paris-339604"
+      "postedAt": "2026-09-15T21:55:05.000Z",
+      "url": "https://www.arbeitnow.co.uk/jobs/companies/carta/senior-paralegal-contracts-sydney-australia-hong-kong-central-and-western-hong-kong-sar-singapore-114905"
+    },
+    {
+      "id": "arbeitnow-account-executive-at-retail-insights-london-74949",
+      "title": "Account Executive at Retail Insights",
+      "company": "Retailinsights",
+      "platform": "Arbeitnow",
+      "location": "London",
+      "salary": "Competitive",
+      "type": "Full-time",
+      "tags": [
+        "Sales"
+      ],
+      "postedAt": "2026-09-15T21:55:04.000Z",
+      "url": "https://www.arbeitnow.co.uk/jobs/companies/retailinsights/account-executive-at-retail-insights-london-74949"
+    },
+    {
+      "id": "arbeitnow-product-owner-communications-channels-ai-manchester-31608",
+      "title": "Product Owner - Communications Channels & AI",
+      "company": "PHMG Careers",
+      "platform": "Arbeitnow",
+      "location": "Manchester, England, United Kingdom",
+      "salary": "Competitive",
+      "type": "Full-time",
+      "tags": [],
+      "postedAt": "2026-09-15T21:45:32.000Z",
+      "url": "https://www.arbeitnow.co.uk/jobs/companies/phmg-careers/product-owner-communications-channels-ai-manchester-31608"
+    },
+    {
+      "id": "arbeitnow-regional-account-relationship-manager-ifa-distribution-scotland-northern-ireland-edinburgh-100831",
+      "title": "Regional Account Relationship Manager – IFA Distribution (Scotland & Northern Ireland)",
+      "company": "Flagstone",
+      "platform": "Arbeitnow",
+      "location": "Edinburgh",
+      "salary": "Competitive",
+      "type": "Full-time",
+      "tags": [
+        "Relationships & New Business"
+      ],
+      "postedAt": "2026-09-15T21:40:12.000Z",
+      "url": "https://www.arbeitnow.co.uk/jobs/companies/flagstone/regional-account-relationship-manager-ifa-distribution-scotland-northern-ireland-edinburgh-100831"
+    },
+    {
+      "id": "arbeitnow-senior-financial-accountant-london-40637",
+      "title": "Senior Financial Accountant",
+      "company": "Multiverse",
+      "platform": "Arbeitnow",
+      "location": "London",
+      "salary": "Competitive",
+      "type": "Full-time",
+      "tags": [
+        "Finance"
+      ],
+      "postedAt": "2026-09-15T21:40:10.000Z",
+      "url": "https://www.arbeitnow.co.uk/jobs/companies/multiverse/senior-financial-accountant-london-40637"
+    },
+    {
+      "id": "arbeitnow-director-of-enterprise-technology-london-340773",
+      "title": "Director of Enterprise Technology",
+      "company": "Multiverse",
+      "platform": "Arbeitnow",
+      "location": "London",
+      "salary": "Competitive",
+      "type": "Full-time",
+      "tags": [
+        "Engineering"
+      ],
+      "postedAt": "2026-09-15T21:40:10.000Z",
+      "url": "https://www.arbeitnow.co.uk/jobs/companies/multiverse/director-of-enterprise-technology-london-340773"
+    },
+    {
+      "id": "arbeitnow-workforce-planning-coordinator-london-329399",
+      "title": "Workforce Planning Coordinator",
+      "company": "Neko Health",
+      "platform": "Arbeitnow",
+      "location": "London",
+      "salary": "Competitive",
+      "type": "Full-time",
+      "tags": [
+        "Operations & Markets"
+      ],
+      "postedAt": "2026-09-15T21:40:10.000Z",
+      "url": "https://www.arbeitnow.co.uk/jobs/companies/neko-health/workforce-planning-coordinator-london-329399"
+    },
+    {
+      "id": "arbeitnow-senior-customer-success-manager-uk-london-188284",
+      "title": "Senior Customer Success Manager - UK",
+      "company": "Constructor",
+      "platform": "Arbeitnow",
+      "location": "Remote - UK",
+      "salary": "Competitive",
+      "type": "Full-time",
+      "tags": [
+        "Customer Success"
+      ],
+      "postedAt": "2026-09-15T21:40:09.000Z",
+      "url": "https://www.arbeitnow.co.uk/jobs/companies/constructor/senior-customer-success-manager-uk-london-188284"
+    },
+    {
+      "id": "arbeitnow-remote-partner-manager-171684",
+      "title": "Partner Manager",
+      "company": "Rasa",
+      "platform": "Arbeitnow",
+      "location": "Remote - United Kingdom",
+      "salary": "Competitive",
+      "type": "Full-time",
+      "tags": [
+        "Go to Market"
+      ],
+      "postedAt": "2026-09-15T21:40:07.000Z",
+      "url": "https://www.arbeitnow.co.uk/jobs/companies/rasa/remote-partner-manager-171684"
+    },
+    {
+      "id": "arbeitnow-legal-engineer-applied-ai-knowledge-london-494354",
+      "title": "Legal Engineer - Applied AI Knowledge",
+      "company": "Legora",
+      "platform": "Arbeitnow",
+      "location": "London",
+      "salary": "Competitive",
+      "type": "Full-time",
+      "tags": [
+        "Legal Engineering"
+      ],
+      "postedAt": "2026-09-15T21:40:04.000Z",
+      "url": "https://www.arbeitnow.co.uk/jobs/companies/legora/legal-engineer-applied-ai-knowledge-london-494354"
+    },
+    {
+      "id": "arbeitnow-ai-strategist-london-16529",
+      "title": "AI Strategist",
+      "company": "Supermodular.ai",
+      "platform": "Arbeitnow",
+      "location": "London",
+      "salary": "Competitive",
+      "type": "Full-time",
+      "tags": [
+        "supermodular"
+      ],
+      "postedAt": "2026-09-15T21:40:03.000Z",
+      "url": "https://www.arbeitnow.co.uk/jobs/companies/supermodularai/ai-strategist-london-16529"
+    },
+    {
+      "id": "arbeitnow-employee-platform-engineer-edinburgh-303394",
+      "title": "Employee Platform Engineer",
+      "company": "Wordsmith",
+      "platform": "Arbeitnow",
+      "location": "Edinburgh",
+      "salary": "Competitive",
+      "type": "Full-time",
+      "tags": [
+        "G&A"
+      ],
+      "postedAt": "2026-09-15T21:40:03.000Z",
+      "url": "https://www.arbeitnow.co.uk/jobs/companies/wordsmith/employee-platform-engineer-edinburgh-303394"
+    },
+    {
+      "id": "arbeitnow-global-office-and-facilities-manager-edinburgh-209949",
+      "title": "Global Office and Facilities Manager",
+      "company": "Wordsmith",
+      "platform": "Arbeitnow",
+      "location": "Edinburgh",
+      "salary": "Competitive",
+      "type": "Full-time",
+      "tags": [
+        "G&A"
+      ],
+      "postedAt": "2026-09-15T21:40:03.000Z",
+      "url": "https://www.arbeitnow.co.uk/jobs/companies/wordsmith/global-office-and-facilities-manager-edinburgh-209949"
+    },
+    {
+      "id": "arbeitnow-data-compliance-administrator-smugglers-way-london-75958",
+      "title": "Data Compliance Administrator, Smugglers Way",
+      "company": "Cory Group",
+      "platform": "Arbeitnow",
+      "location": "London, England, United Kingdom",
+      "salary": "Competitive",
+      "type": "Full-time",
+      "tags": [
+        "Business Services"
+      ],
+      "postedAt": "2026-09-15T21:30:14.000Z",
+      "url": "https://www.arbeitnow.co.uk/jobs/companies/cory-group/data-compliance-administrator-smugglers-way-london-75958"
+    },
+    {
+      "id": "arbeitnow-chief-engineer-cca-london-310513",
+      "title": "Chief Engineer, CCA",
+      "company": "Shield AI",
+      "platform": "Arbeitnow",
+      "location": "London",
+      "salary": "Competitive",
+      "type": "Full-time",
+      "tags": [
+        "Chief Engineers"
+      ],
+      "postedAt": "2026-09-15T21:25:12.000Z",
+      "url": "https://www.arbeitnow.co.uk/jobs/companies/shield-ai/chief-engineer-cca-london-310513"
+    },
+    {
+      "id": "arbeitnow-staff-product-test-engineer-edinburgh-scotland-60132",
+      "title": "Staff Product Test Engineer",
+      "company": "Cirrus",
+      "platform": "Arbeitnow",
+      "location": "Edinburgh, Scotland",
+      "salary": "Competitive",
+      "type": "Full-time",
+      "tags": [
+        "Global Operations"
+      ],
+      "postedAt": "2026-09-15T21:24:56.000Z",
+      "url": "https://www.arbeitnow.co.uk/jobs/companies/cirrus/staff-product-test-engineer-edinburgh-scotland-60132"
+    },
+    {
+      "id": "arbeitnow-31687-senior-hr-business-partner-london-183539",
+      "title": "[31687] - Senior HR Business Partner",
+      "company": "CI&T",
+      "platform": "Arbeitnow",
+      "location": "London",
+      "salary": "Competitive",
+      "type": "Full-time",
+      "tags": [
+        "PEOPLE_SERVICES_Default"
+      ],
+      "postedAt": "2026-09-15T21:04:22.000Z",
+      "url": "https://www.arbeitnow.co.uk/jobs/companies/cit/31687-senior-hr-business-partner-london-183539"
+    },
+    {
+      "id": "arbeitnow-mechanical-engineer-design-simulation-darmstadt-490387",
+      "title": "Mechanical Engineer – Design & Simulation (f/m/d)",
+      "company": "Focused",
+      "platform": "Arbeitnow",
+      "location": "Darmstadt, DE",
+      "salary": "Competitive",
+      "type": "Full-time",
+      "tags": [
+        "Engineering"
+      ],
+      "postedAt": "2026-09-15T20:40:05.000Z",
+      "url": "https://www.arbeitnow.com/jobs/companies/focused/mechanical-engineer-design-simulation-darmstadt-490387"
+    },
+    {
+      "id": "arbeitnow-mechanical-engineer-cad-engineering-support-darmstadt-496847",
+      "title": "Mechanical Engineer – CAD & Engineering Support (f/m/d)",
+      "company": "Focused",
+      "platform": "Arbeitnow",
+      "location": "Darmstadt, DE",
+      "salary": "Competitive",
+      "type": "Full-time",
+      "tags": [
+        "Engineering"
+      ],
+      "postedAt": "2026-09-15T20:40:05.000Z",
+      "url": "https://www.arbeitnow.com/jobs/companies/focused/mechanical-engineer-cad-engineering-support-darmstadt-496847"
+    },
+    {
+      "id": "arbeitnow-remote-tech-operations-analyst-graduate-all-genders-391514",
+      "title": "Tech Operations Analyst - Graduate (all genders)",
+      "company": "Distribusion Technologies",
+      "platform": "Arbeitnow",
+      "location": "Remote job",
+      "salary": "Competitive",
+      "type": "Full-time",
+      "tags": [
+        "Operations",
+        "Remote"
+      ],
+      "postedAt": "2026-09-15T20:30:10.000Z",
+      "url": "https://www.arbeitnow.com/jobs/companies/distribusion-technologies/remote-tech-operations-analyst-graduate-all-genders-391514"
     },
     {
       "id": "arbeitnow-engineering-manager-java-paris-81094",
@@ -1013,48 +1391,6 @@
       "url": "https://www.arbeitnow.co.uk/jobs/companies/united-media/account-executive-at-united-media-london-325229"
     },
     {
-      "id": "arbeitnow-remote-on-holiday-support-agent-31245",
-      "title": "On Holiday Support Agent",
-      "company": "loveholidays",
-      "platform": "Arbeitnow",
-      "location": "Remote",
-      "salary": "Competitive",
-      "type": "Full-time",
-      "tags": [
-        "Customer Experience"
-      ],
-      "postedAt": "2026-09-15T14:40:07.000Z",
-      "url": "https://www.arbeitnow.com/jobs/companies/loveholidays/remote-on-holiday-support-agent-31245"
-    },
-    {
-      "id": "arbeitnow-remote-senior-sales-engineer-north-america-286129",
-      "title": "Senior Sales Engineer- North America",
-      "company": "Camunda",
-      "platform": "Arbeitnow",
-      "location": "Remote",
-      "salary": "Competitive",
-      "type": "Full-time",
-      "tags": [
-        "Sales"
-      ],
-      "postedAt": "2026-09-15T14:40:04.000Z",
-      "url": "https://www.arbeitnow.com/jobs/companies/camunda/remote-senior-sales-engineer-north-america-286129"
-    },
-    {
-      "id": "arbeitnow-senior-qa-manager-fully-remote-berlin-435767",
-      "title": "Senior QA Manager - Fully Remote",
-      "company": "SOFTGAMES",
-      "platform": "Arbeitnow",
-      "location": "Remote job",
-      "salary": "Competitive",
-      "type": "Full-time",
-      "tags": [
-        "Remote"
-      ],
-      "postedAt": "2026-09-15T14:30:15.000Z",
-      "url": "https://www.arbeitnow.com/jobs/companies/softgames/senior-qa-manager-fully-remote-berlin-435767"
-    },
-    {
       "id": "jobicy-153321",
       "title": "Postgres Engineer",
       "company": "Supabase",
@@ -1543,328 +1879,6 @@
       "url": "https://www.arbeitnow.co.uk/jobs/companies/clearbank/financial-control-accountant-london-hybrid-32101"
     },
     {
-      "id": "arbeitnow-senior-reward-analyst-london-hybrid-148651",
-      "title": "Senior Reward Analyst",
-      "company": "Clearbank",
-      "platform": "Arbeitnow",
-      "location": "London Office - Hybrid",
-      "salary": "Competitive",
-      "type": "Full-time",
-      "tags": [
-        "ClearBank Group Holdings"
-      ],
-      "postedAt": "2026-09-15T12:40:04.000Z",
-      "url": "https://www.arbeitnow.co.uk/jobs/companies/clearbank/senior-reward-analyst-london-hybrid-148651"
-    },
-    {
-      "id": "arbeitnow-director-of-product-cards-london-hybrid-205112",
-      "title": "Director of Product - Cards",
-      "company": "Clearbank",
-      "platform": "Arbeitnow",
-      "location": "London Office - Hybrid",
-      "salary": "Competitive",
-      "type": "Full-time",
-      "tags": [
-        "ClearBank Group Holdings"
-      ],
-      "postedAt": "2026-09-15T12:40:04.000Z",
-      "url": "https://www.arbeitnow.co.uk/jobs/companies/clearbank/director-of-product-cards-london-hybrid-205112"
-    },
-    {
-      "id": "arbeitnow-security-engineer-london-hybrid-360974",
-      "title": "Security Engineer",
-      "company": "Clearbank",
-      "platform": "Arbeitnow",
-      "location": "London Office - Hybrid",
-      "salary": "Competitive",
-      "type": "Full-time",
-      "tags": [
-        "ClearBank Group Holdings"
-      ],
-      "postedAt": "2026-09-15T12:40:04.000Z",
-      "url": "https://www.arbeitnow.co.uk/jobs/companies/clearbank/security-engineer-london-hybrid-360974"
-    },
-    {
-      "id": "arbeitnow-financial-reporting-manager-london-hybrid-258293",
-      "title": "Financial Reporting Manager",
-      "company": "Clearbank",
-      "platform": "Arbeitnow",
-      "location": "London Office - Hybrid",
-      "salary": "Competitive",
-      "type": "Full-time",
-      "tags": [
-        "ClearBank Group Holdings"
-      ],
-      "postedAt": "2026-09-15T12:40:04.000Z",
-      "url": "https://www.arbeitnow.co.uk/jobs/companies/clearbank/financial-reporting-manager-london-hybrid-258293"
-    },
-    {
-      "id": "arbeitnow-manager-strategic-sales-london-190415",
-      "title": "Manager, Strategic Sales",
-      "company": "Baseten",
-      "platform": "Arbeitnow",
-      "location": "London",
-      "salary": "Competitive",
-      "type": "Full-time",
-      "tags": [
-        "GTM"
-      ],
-      "postedAt": "2026-09-15T12:40:03.000Z",
-      "url": "https://www.arbeitnow.co.uk/jobs/companies/baseten/manager-strategic-sales-london-190415"
-    },
-    {
-      "id": "arbeitnow-founding-sales-leader-emea-london-484152",
-      "title": "Founding Sales Leader, EMEA",
-      "company": "Baseten",
-      "platform": "Arbeitnow",
-      "location": "London",
-      "salary": "Competitive",
-      "type": "Full-time",
-      "tags": [
-        "GTM"
-      ],
-      "postedAt": "2026-09-15T12:40:03.000Z",
-      "url": "https://www.arbeitnow.co.uk/jobs/companies/baseten/founding-sales-leader-emea-london-484152"
-    },
-    {
-      "id": "arbeitnow-manager-strategic-sales-london-483872",
-      "title": "Manager, Strategic Sales",
-      "company": "Baseten",
-      "platform": "Arbeitnow",
-      "location": "London",
-      "salary": "Competitive",
-      "type": "Full-time",
-      "tags": [
-        "GTM"
-      ],
-      "postedAt": "2026-09-15T12:40:03.000Z",
-      "url": "https://www.arbeitnow.co.uk/jobs/companies/baseten/manager-strategic-sales-london-483872"
-    },
-    {
-      "id": "arbeitnow-account-executive-strategic-london-145501",
-      "title": "Account Executive - Strategic",
-      "company": "Baseten",
-      "platform": "Arbeitnow",
-      "location": "London",
-      "salary": "Competitive",
-      "type": "Full-time",
-      "tags": [
-        "GTM"
-      ],
-      "postedAt": "2026-09-15T12:40:03.000Z",
-      "url": "https://www.arbeitnow.co.uk/jobs/companies/baseten/account-executive-strategic-london-145501"
-    },
-    {
-      "id": "arbeitnow-account-executive-enterprise-london-304548",
-      "title": "Account Executive - Enterprise (London)",
-      "company": "Baseten",
-      "platform": "Arbeitnow",
-      "location": "London",
-      "salary": "Competitive",
-      "type": "Full-time",
-      "tags": [
-        "GTM"
-      ],
-      "postedAt": "2026-09-15T12:40:03.000Z",
-      "url": "https://www.arbeitnow.co.uk/jobs/companies/baseten/account-executive-enterprise-london-304548"
-    },
-    {
-      "id": "arbeitnow-principal-engineer-identity-privacy-london-233043",
-      "title": "Principal Engineer - Identity & Privacy",
-      "company": "Eb485598 6Bf3 40A5 8560 D70150131305",
-      "platform": "Arbeitnow",
-      "location": "London",
-      "salary": "Competitive",
-      "type": "Full-time",
-      "tags": [
-        "Engineering"
-      ],
-      "postedAt": "2026-09-15T12:40:03.000Z",
-      "url": "https://www.arbeitnow.co.uk/jobs/companies/eb485598-6bf3-40a5-8560-d70150131305/principal-engineer-identity-privacy-london-233043"
-    },
-    {
-      "id": "arbeitnow-business-development-and-partnerships-manager-edinburgh-427803",
-      "title": "Business Development and Partnerships Manager",
-      "company": "Eb485598 6Bf3 40A5 8560 D70150131305",
-      "platform": "Arbeitnow",
-      "location": "Edinburgh",
-      "salary": "Competitive",
-      "type": "Full-time",
-      "tags": [
-        "Marketing"
-      ],
-      "postedAt": "2026-09-15T12:40:03.000Z",
-      "url": "https://www.arbeitnow.co.uk/jobs/companies/eb485598-6bf3-40a5-8560-d70150131305/business-development-and-partnerships-manager-edinburgh-427803"
-    },
-    {
-      "id": "arbeitnow-senior-internal-communications-manager-12-month-ftc-edinburgh-487586",
-      "title": "Senior Internal Communications Manager (12 month FTC)",
-      "company": "Eb485598 6Bf3 40A5 8560 D70150131305",
-      "platform": "Arbeitnow",
-      "location": "Edinburgh",
-      "salary": "Competitive",
-      "type": "Full-time",
-      "tags": [
-        "Business"
-      ],
-      "postedAt": "2026-09-15T12:40:03.000Z",
-      "url": "https://www.arbeitnow.co.uk/jobs/companies/eb485598-6bf3-40a5-8560-d70150131305/senior-internal-communications-manager-12-month-ftc-edinburgh-487586"
-    },
-    {
-      "id": "arbeitnow-technical-sales-executive-uk-london-479249",
-      "title": "Technical Sales Executive UK",
-      "company": "Edited",
-      "platform": "Arbeitnow",
-      "location": "London Office",
-      "salary": "Competitive",
-      "type": "Full-time",
-      "tags": [
-        "Sales"
-      ],
-      "postedAt": "2026-09-15T12:40:02.000Z",
-      "url": "https://www.arbeitnow.co.uk/jobs/companies/edited/technical-sales-executive-uk-london-479249"
-    },
-    {
-      "id": "arbeitnow-ai-engineering-intern-london-20848",
-      "title": "AI Engineering Intern",
-      "company": "Light Inc",
-      "platform": "Arbeitnow",
-      "location": "London",
-      "salary": "Competitive",
-      "type": "Full-time",
-      "tags": [
-        "Tech"
-      ],
-      "postedAt": "2026-09-15T12:40:02.000Z",
-      "url": "https://www.arbeitnow.co.uk/jobs/companies/light-inc/ai-engineering-intern-london-20848"
-    },
-    {
-      "id": "arbeitnow-implementation-manager-dach-london-298410",
-      "title": "Implementation Manager (DACH)",
-      "company": "Light Inc",
-      "platform": "Arbeitnow",
-      "location": "London",
-      "salary": "Competitive",
-      "type": "Full-time",
-      "tags": [
-        "GTM"
-      ],
-      "postedAt": "2026-09-15T12:40:02.000Z",
-      "url": "https://www.arbeitnow.co.uk/jobs/companies/light-inc/implementation-manager-dach-london-298410"
-    },
-    {
-      "id": "arbeitnow-partner-enablement-manager-london-376589",
-      "title": "Partner Enablement Manager",
-      "company": "Light Inc",
-      "platform": "Arbeitnow",
-      "location": "London",
-      "salary": "Competitive",
-      "type": "Full-time",
-      "tags": [
-        "GTM"
-      ],
-      "postedAt": "2026-09-15T12:40:02.000Z",
-      "url": "https://www.arbeitnow.co.uk/jobs/companies/light-inc/partner-enablement-manager-london-376589"
-    },
-    {
-      "id": "arbeitnow-account-executive-dach-london-246671",
-      "title": "Account Executive (DACH)",
-      "company": "Light Inc",
-      "platform": "Arbeitnow",
-      "location": "London",
-      "salary": "Competitive",
-      "type": "Full-time",
-      "tags": [
-        "GTM"
-      ],
-      "postedAt": "2026-09-15T12:40:02.000Z",
-      "url": "https://www.arbeitnow.co.uk/jobs/companies/light-inc/account-executive-dach-london-246671"
-    },
-    {
-      "id": "arbeitnow-business-development-representative-dach-london-104799",
-      "title": "Business Development Representative (DACH)",
-      "company": "Light Inc",
-      "platform": "Arbeitnow",
-      "location": "London",
-      "salary": "Competitive",
-      "type": "Full-time",
-      "tags": [
-        "GTM"
-      ],
-      "postedAt": "2026-09-15T12:40:02.000Z",
-      "url": "https://www.arbeitnow.co.uk/jobs/companies/light-inc/business-development-representative-dach-london-104799"
-    },
-    {
-      "id": "arbeitnow-agentic-customer-engineer-london-411734",
-      "title": "Agentic Customer Engineer",
-      "company": "Light Inc",
-      "platform": "Arbeitnow",
-      "location": "London",
-      "salary": "Competitive",
-      "type": "Full-time",
-      "tags": [
-        "GTM"
-      ],
-      "postedAt": "2026-09-15T12:40:02.000Z",
-      "url": "https://www.arbeitnow.co.uk/jobs/companies/light-inc/agentic-customer-engineer-london-411734"
-    },
-    {
-      "id": "arbeitnow-account-manager-london-334636",
-      "title": "Account Manager",
-      "company": "Light Inc",
-      "platform": "Arbeitnow",
-      "location": "London",
-      "salary": "Competitive",
-      "type": "Full-time",
-      "tags": [
-        "GTM"
-      ],
-      "postedAt": "2026-09-15T12:40:02.000Z",
-      "url": "https://www.arbeitnow.co.uk/jobs/companies/light-inc/account-manager-london-334636"
-    },
-    {
-      "id": "arbeitnow-marketing-manager-dach-london-445744",
-      "title": "Marketing Manager (DACH)",
-      "company": "Light Inc",
-      "platform": "Arbeitnow",
-      "location": "London",
-      "salary": "Competitive",
-      "type": "Full-time",
-      "tags": [
-        "GTM"
-      ],
-      "postedAt": "2026-09-15T12:40:02.000Z",
-      "url": "https://www.arbeitnow.co.uk/jobs/companies/light-inc/marketing-manager-dach-london-445744"
-    },
-    {
-      "id": "arbeitnow-product-marketer-london-328870",
-      "title": "Product Marketer",
-      "company": "Light Inc",
-      "platform": "Arbeitnow",
-      "location": "London",
-      "salary": "Competitive",
-      "type": "Full-time",
-      "tags": [
-        "GTM"
-      ],
-      "postedAt": "2026-09-15T12:40:02.000Z",
-      "url": "https://www.arbeitnow.co.uk/jobs/companies/light-inc/product-marketer-london-328870"
-    },
-    {
-      "id": "arbeitnow-product-manager-london-290412",
-      "title": "Product Manager",
-      "company": "Light Inc",
-      "platform": "Arbeitnow",
-      "location": "London",
-      "salary": "Competitive",
-      "type": "Full-time",
-      "tags": [
-        "Tech"
-      ],
-      "postedAt": "2026-09-15T12:40:02.000Z",
-      "url": "https://www.arbeitnow.co.uk/jobs/companies/light-inc/product-manager-london-290412"
-    },
-    {
       "id": "arbeitnow-senior-ai-engineer-search-recommendation-patient-team-paris-paris-465669",
       "title": "Senior AI Engineer - Search & Recommendation - Patient Team (x/f/m)",
       "company": "Doctolib",
@@ -2105,18 +2119,6 @@
       "tags": [],
       "postedAt": "2026-09-15T04:45:27+00:00",
       "url": "https://jobicy.com/jobs/150768-account-executive-mid-market"
-    },
-    {
-      "id": "jobicy-150820",
-      "title": "Director, Platform and AI Sales",
-      "company": "League",
-      "platform": "Jobicy",
-      "location": "Canada",
-      "salary": "Competitive",
-      "type": "Full-Time",
-      "tags": [],
-      "postedAt": "2026-09-15T04:45:26+00:00",
-      "url": "https://jobicy.com/jobs/150820-director-platform-and-ai-sales"
     }
   ]
 }
