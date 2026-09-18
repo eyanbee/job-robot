@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-09-18T18:15:49.100Z",
+  "lastUpdated": "2026-09-18T21:09:57.492Z",
   "jobs": [
     {
       "id": "remoteok-1137391",
@@ -55,16 +55,18 @@
       "url": "https://remoteOK.com/remote-jobs/remote-marketing-student-assistant-copenhagen-optimization-1137381"
     },
     {
-      "id": "arbeitnow-executive-assistant-sales-marketing-paris-82481",
-      "title": "Executive Assistant - Sales & Marketing",
-      "company": "Mirakl",
+      "id": "arbeitnow-reception-executive-assistant-london-435995",
+      "title": "Reception & Executive Assistant",
+      "company": "Cube",
       "platform": "Arbeitnow",
-      "location": "Paris, Paris, France",
+      "location": "London",
       "salary": "Competitive",
       "type": "Full-time",
-      "tags": [],
-      "postedAt": "2026-09-18T15:45:31.000Z",
-      "url": "https://www.arbeitnow.fr/jobs/companies/mirakl/executive-assistant-sales-marketing-paris-82481"
+      "tags": [
+        "Corporate Services"
+      ],
+      "postedAt": "2026-09-18T18:40:07.000Z",
+      "url": "https://www.arbeitnow.co.uk/jobs/companies/cube/reception-executive-assistant-london-435995"
     },
     {
       "id": "jobicy-151023",
@@ -77,6 +79,20 @@
       "tags": [],
       "postedAt": "2026-09-18T04:05:06+00:00",
       "url": "https://jobicy.com/jobs/151023-executive-assistant-design"
+    },
+    {
+      "id": "arbeitnow-senior-content-manager-united-kingdom-394149",
+      "title": "Senior Content Manager",
+      "company": "Phrase",
+      "platform": "Arbeitnow",
+      "location": "United Kingdom",
+      "salary": "Competitive",
+      "type": "Full-time",
+      "tags": [
+        "Marketing"
+      ],
+      "postedAt": "2026-09-18T18:40:04.000Z",
+      "url": "https://www.arbeitnow.co.uk/jobs/companies/phrase/senior-content-manager-united-kingdom-394149"
     },
     {
       "id": "remotive-1680495",
@@ -109,35 +125,6 @@
       ],
       "postedAt": "2026-09-11T20:16:48",
       "url": "https://remotive.com/remote-jobs/marketing/remote-office-assistant-1680495"
-    },
-    {
-      "id": "arbeitnow-3-month-fixed-term-contract-customer-service-specialist-english-polish-m-f-paris-131381",
-      "title": "3-month fixed term contract Customer Service Specialist English/ Polish (M/F)",
-      "company": "Sezane 3",
-      "platform": "Arbeitnow",
-      "location": "Paris, France",
-      "salary": "Competitive",
-      "type": "Full-time",
-      "tags": [
-        "Apparel & Fashion",
-        "Headquarters"
-      ],
-      "postedAt": "2026-09-18T16:20:09.000Z",
-      "url": "https://www.arbeitnow.fr/jobs/companies/sezane-3/3-month-fixed-term-contract-customer-service-specialist-english-polish-m-f-paris-131381"
-    },
-    {
-      "id": "arbeitnow-director-of-customer-support-447563",
-      "title": "Director of Customer Support",
-      "company": "Cloudbedsthirdpartyboard",
-      "platform": "Arbeitnow",
-      "location": "Remote",
-      "salary": "Competitive",
-      "type": "Full-time",
-      "tags": [
-        "Customer Support"
-      ],
-      "postedAt": "2026-09-18T12:55:06.000Z",
-      "url": "https://www.arbeitnow.co.uk/jobs/companies/cloudbedsthirdpartyboard/director-of-customer-support-447563"
     },
     {
       "id": "jobicy-150942",
@@ -277,16 +264,32 @@
       "url": "https://remoteOK.com/remote-jobs/remote-engineering-manager-tlm-platform-harper-1137380"
     },
     {
-      "id": "jobicy-153524",
-      "title": "APJ Accounting Manager",
-      "company": "Recorded Future, Inc.",
-      "platform": "Jobicy",
-      "location": "Australia",
+      "id": "arbeitnow-comptable-general-et-auxiliaire-siege-et-asso-nationale-lyon-28771",
+      "title": "Comptable général et auxiliaire - siège et asso nationale (H/F/X°)",
+      "company": "Hi",
+      "platform": "Arbeitnow",
+      "location": "Lyon, France",
       "salary": "Competitive",
-      "type": "Full-Time",
-      "tags": [],
-      "postedAt": "2026-09-17T16:12:59+00:00",
-      "url": "https://jobicy.com/jobs/153524-apj-accounting-manager"
+      "type": "Full-time",
+      "tags": [
+        "Finance & Accounting"
+      ],
+      "postedAt": "2026-09-18T19:20:21.000Z",
+      "url": "https://www.arbeitnow.fr/jobs/companies/hi/comptable-general-et-auxiliaire-siege-et-asso-nationale-lyon-28771"
+    },
+    {
+      "id": "arbeitnow-finance-accounting-advisory-manager-paris-france-375931",
+      "title": "Finance & Accounting Advisory - Manager",
+      "company": "Cfgi",
+      "platform": "Arbeitnow",
+      "location": "Paris, France",
+      "salary": "Competitive",
+      "type": "Full-time",
+      "tags": [
+        "Finance & Accounting Advisory"
+      ],
+      "postedAt": "2026-09-18T19:04:07.000Z",
+      "url": "https://www.arbeitnow.fr/jobs/companies/cfgi/finance-accounting-advisory-manager-paris-france-375931"
     },
     {
       "id": "arbeitnow-lead-supply-chain-manager-all-genders-richen-baden-wurttemberg-19597",
@@ -320,6 +323,34 @@
       "url": "https://remoteOK.com/remote-jobs/remote-ai-agent-engineer-sticker-mule-1137399"
     },
     {
+      "id": "arbeitnow-ai-content-operations-manager-uk-london-united-kingdom-278546",
+      "title": "AI Content Operations Manager - UK",
+      "company": "Insider One",
+      "platform": "Arbeitnow",
+      "location": "London, United Kingdom",
+      "salary": "Competitive",
+      "type": "Full-time",
+      "tags": [
+        "Marketing Design"
+      ],
+      "postedAt": "2026-09-18T18:04:28.000Z",
+      "url": "https://www.arbeitnow.co.uk/jobs/companies/insider-one/ai-content-operations-manager-uk-london-united-kingdom-278546"
+    },
+    {
+      "id": "arbeitnow-senior-product-designer-cro-london-uk-223646",
+      "title": "Senior Product Designer - CRO, London, UK",
+      "company": "eucalyptus",
+      "platform": "Arbeitnow",
+      "location": "Remote",
+      "salary": "Competitive",
+      "type": "Full-time",
+      "tags": [
+        "Product"
+      ],
+      "postedAt": "2026-09-18T18:55:15.000Z",
+      "url": "https://www.arbeitnow.co.uk/jobs/companies/eucalyptus/senior-product-designer-cro-london-uk-223646"
+    },
+    {
       "id": "arbeitnow-customer-success-public-sector-paris-180041",
       "title": "Customer Success Public Sector",
       "company": "Malt",
@@ -332,6 +363,818 @@
       ],
       "postedAt": "2026-09-18T16:25:01.000Z",
       "url": "https://www.arbeitnow.fr/jobs/companies/malt/customer-success-public-sector-paris-180041"
+    },
+    {
+      "id": "arbeitnow-enterprise-sales-engineer-france-438980",
+      "title": "Enterprise Sales Engineer, France",
+      "company": "Abnormalsecurity",
+      "platform": "Arbeitnow",
+      "location": "Remote",
+      "salary": "Competitive",
+      "type": "Full-time",
+      "tags": [
+        "Sales Engineering"
+      ],
+      "postedAt": "2026-09-18T19:55:57.000Z",
+      "url": "https://www.arbeitnow.fr/jobs/companies/abnormalsecurity/enterprise-sales-engineer-france-438980"
+    },
+    {
+      "id": "arbeitnow-product-manager-paris-paris-283208",
+      "title": "Product Manager",
+      "company": "Kaluza",
+      "platform": "Arbeitnow",
+      "location": "Paris, Paris",
+      "salary": "Competitive",
+      "type": "Full-time",
+      "tags": [
+        "Product"
+      ],
+      "postedAt": "2026-09-18T19:55:09.000Z",
+      "url": "https://www.arbeitnow.fr/jobs/companies/kaluza/product-manager-paris-paris-283208"
+    },
+    {
+      "id": "arbeitnow-account-director-europe-paris-paris-182552",
+      "title": "Account Director - Europe",
+      "company": "Kaluza",
+      "platform": "Arbeitnow",
+      "location": "Paris, Paris",
+      "salary": "Competitive",
+      "type": "Full-time",
+      "tags": [
+        "Commercial Operations"
+      ],
+      "postedAt": "2026-09-18T19:55:09.000Z",
+      "url": "https://www.arbeitnow.fr/jobs/companies/kaluza/account-director-europe-paris-paris-182552"
+    },
+    {
+      "id": "arbeitnow-field-marketing-manager-france-paris-66162",
+      "title": "Field Marketing Manager - France",
+      "company": "Verkada",
+      "platform": "Arbeitnow",
+      "location": "Paris",
+      "salary": "Competitive",
+      "type": "Full-time",
+      "tags": [
+        "Field Marketing & Events"
+      ],
+      "postedAt": "2026-09-18T19:55:07.000Z",
+      "url": "https://www.arbeitnow.fr/jobs/companies/verkada/field-marketing-manager-france-paris-66162"
+    },
+    {
+      "id": "arbeitnow-large-account-manager-h-f-paris-454737",
+      "title": "Large Account Manager (H/F)",
+      "company": "CENTREON",
+      "platform": "Arbeitnow",
+      "location": "Paris, Île-de-France, France",
+      "salary": "Competitive",
+      "type": "Full-time",
+      "tags": [
+        "Sales"
+      ],
+      "postedAt": "2026-09-18T19:30:34.000Z",
+      "url": "https://www.arbeitnow.fr/jobs/companies/centreon/large-account-manager-h-f-paris-454737"
+    },
+    {
+      "id": "arbeitnow-technical-program-manager-customer-delivery-toulouse-occitanie-174152",
+      "title": "Technical Program Manager, Customer Delivery",
+      "company": "Loftorbital",
+      "platform": "Arbeitnow",
+      "location": "Toulouse, Occitanie",
+      "salary": "Competitive",
+      "type": "Full-time",
+      "tags": [
+        "Customer Delivery"
+      ],
+      "postedAt": "2026-09-18T19:25:31.000Z",
+      "url": "https://www.arbeitnow.fr/jobs/companies/loftorbital/technical-program-manager-customer-delivery-toulouse-occitanie-174152"
+    },
+    {
+      "id": "arbeitnow-ml-runtime-engineer-toulouse-occitanie-446381",
+      "title": "ML Runtime Engineer",
+      "company": "Loftorbital",
+      "platform": "Arbeitnow",
+      "location": "Toulouse, Occitanie",
+      "salary": "Competitive",
+      "type": "Full-time",
+      "tags": [
+        "AI Engineering"
+      ],
+      "postedAt": "2026-09-18T19:25:31.000Z",
+      "url": "https://www.arbeitnow.fr/jobs/companies/loftorbital/ml-runtime-engineer-toulouse-occitanie-446381"
+    },
+    {
+      "id": "arbeitnow-harness-design-engineer-toulouse-occitanie-343735",
+      "title": "Harness Design Engineer",
+      "company": "Loftorbital",
+      "platform": "Arbeitnow",
+      "location": "Toulouse, Occitanie",
+      "salary": "Competitive",
+      "type": "Full-time",
+      "tags": [
+        "Electrical Engineering"
+      ],
+      "postedAt": "2026-09-18T19:25:31.000Z",
+      "url": "https://www.arbeitnow.fr/jobs/companies/loftorbital/harness-design-engineer-toulouse-occitanie-343735"
+    },
+    {
+      "id": "arbeitnow-customer-delivery-engineer-toulouse-occitanie-409241",
+      "title": "Customer Delivery Engineer",
+      "company": "Loftorbital",
+      "platform": "Arbeitnow",
+      "location": "Toulouse, Occitanie",
+      "salary": "Competitive",
+      "type": "Full-time",
+      "tags": [
+        "Customer Delivery"
+      ],
+      "postedAt": "2026-09-18T19:25:31.000Z",
+      "url": "https://www.arbeitnow.fr/jobs/companies/loftorbital/customer-delivery-engineer-toulouse-occitanie-409241"
+    },
+    {
+      "id": "arbeitnow-chef-de-projet-digital-stage-6-mois-paris-406163",
+      "title": "Chef de projet digital - Stage 6 mois",
+      "company": "Playplay",
+      "platform": "Arbeitnow",
+      "location": "Paris",
+      "salary": "Competitive",
+      "type": "Full-time",
+      "tags": [
+        "Sales - stages"
+      ],
+      "postedAt": "2026-09-18T19:25:18.000Z",
+      "url": "https://www.arbeitnow.fr/jobs/companies/playplay/chef-de-projet-digital-stage-6-mois-paris-406163"
+    },
+    {
+      "id": "arbeitnow-stage-en-relation-medias-lyon-298106",
+      "title": "Stage en relation médias (H/F/X) - Lyon",
+      "company": "Hi",
+      "platform": "Arbeitnow",
+      "location": "Lyon, France",
+      "salary": "Competitive",
+      "type": "Full-time",
+      "tags": [
+        "Fundraising / Marketing / Communication / Mobilisation"
+      ],
+      "postedAt": "2026-09-18T19:20:21.000Z",
+      "url": "https://www.arbeitnow.fr/jobs/companies/hi/stage-en-relation-medias-lyon-298106"
+    },
+    {
+      "id": "arbeitnow-stage-assistant-analyste-ethique-et-positionnement-paris-190037",
+      "title": "Stage - Assistant Analyste Éthique et Positionnement H/F/X",
+      "company": "Hi",
+      "platform": "Arbeitnow",
+      "location": "Paris, France",
+      "salary": "Competitive",
+      "type": "Full-time",
+      "tags": [
+        "Advocacy & HI Institute"
+      ],
+      "postedAt": "2026-09-18T19:20:21.000Z",
+      "url": "https://www.arbeitnow.fr/jobs/companies/hi/stage-assistant-analyste-ethique-et-positionnement-paris-190037"
+    },
+    {
+      "id": "arbeitnow-specialiste-acces-humanitaire-et-securite-lyon-478022",
+      "title": "Spécialiste Accès Humanitaire et Sécurité H/F/X - Lyon",
+      "company": "Hi",
+      "platform": "Arbeitnow",
+      "location": "Lyon, France",
+      "salary": "Competitive",
+      "type": "Full-time",
+      "tags": [
+        "Humanitarian Access & Security"
+      ],
+      "postedAt": "2026-09-18T19:20:21.000Z",
+      "url": "https://www.arbeitnow.fr/jobs/companies/hi/specialiste-acces-humanitaire-et-securite-lyon-478022"
+    },
+    {
+      "id": "arbeitnow-charge-de-plaidoyer-desarmement-et-protection-des-civils-lyon-109983",
+      "title": "Chargé de plaidoyer Désarmement et Protection des civils H/F/X",
+      "company": "Hi",
+      "platform": "Arbeitnow",
+      "location": "Lyon, France",
+      "salary": "Competitive",
+      "type": "Full-time",
+      "tags": [
+        "Advocacy & HI Institute"
+      ],
+      "postedAt": "2026-09-18T19:20:21.000Z",
+      "url": "https://www.arbeitnow.fr/jobs/companies/hi/charge-de-plaidoyer-desarmement-et-protection-des-civils-lyon-109983"
+    },
+    {
+      "id": "arbeitnow-charge-de-plaidoyer-desarmement-et-protection-des-civils-paris-189305",
+      "title": "Chargé de plaidoyer Désarmement et Protection des civils H/F/X",
+      "company": "Hi",
+      "platform": "Arbeitnow",
+      "location": "Paris, France",
+      "salary": "Competitive",
+      "type": "Full-time",
+      "tags": [
+        "Advocacy & HI Institute"
+      ],
+      "postedAt": "2026-09-18T19:20:21.000Z",
+      "url": "https://www.arbeitnow.fr/jobs/companies/hi/charge-de-plaidoyer-desarmement-et-protection-des-civils-paris-189305"
+    },
+    {
+      "id": "arbeitnow-responsable-qualite-environnement-hygiene-securite-qehs-h-f-industrie-comp-cublize-336612",
+      "title": "Responsable Qualité Environnement Hygiène Sécurité (QEHS) H/F - Industrie / Comp",
+      "company": "Inautalent",
+      "platform": "Arbeitnow",
+      "location": "Cublize, France",
+      "salary": "Competitive",
+      "type": "Full-time",
+      "tags": [
+        "Quality Assurance",
+        "Plastics"
+      ],
+      "postedAt": "2026-09-18T19:20:03.000Z",
+      "url": "https://www.arbeitnow.fr/jobs/companies/inautalent/responsable-qualite-environnement-hygiene-securite-qehs-h-f-industrie-comp-cublize-336612"
+    },
+    {
+      "id": "arbeitnow-associate-account-manager-paris-308549",
+      "title": "Associate Account Manager (Paris)",
+      "company": "Fresha",
+      "platform": "Arbeitnow",
+      "location": "Paris",
+      "salary": "Competitive",
+      "type": "Full-time",
+      "tags": [
+        "Business Development"
+      ],
+      "postedAt": "2026-09-18T19:05:11.000Z",
+      "url": "https://www.arbeitnow.fr/jobs/companies/fresha/associate-account-manager-paris-308549"
+    },
+    {
+      "id": "arbeitnow-account-manager-paris-40073",
+      "title": "Account Manager (Paris)",
+      "company": "Fresha",
+      "platform": "Arbeitnow",
+      "location": "Paris",
+      "salary": "Competitive",
+      "type": "Full-time",
+      "tags": [
+        "Partner Success"
+      ],
+      "postedAt": "2026-09-18T19:05:11.000Z",
+      "url": "https://www.arbeitnow.fr/jobs/companies/fresha/account-manager-paris-40073"
+    },
+    {
+      "id": "arbeitnow-enterprise-account-manager-france-paris-area-france-225045",
+      "title": "Enterprise Account Manager, France",
+      "company": "Contentsquare",
+      "platform": "Arbeitnow",
+      "location": "Paris Area, France",
+      "salary": "Competitive",
+      "type": "Full-time",
+      "tags": [
+        "All Sales Roles"
+      ],
+      "postedAt": "2026-09-18T19:04:57.000Z",
+      "url": "https://www.arbeitnow.fr/jobs/companies/contentsquare/enterprise-account-manager-france-paris-area-france-225045"
+    },
+    {
+      "id": "arbeitnow-customer-solutions-consultant-uk-market-lyon-326035",
+      "title": "Customer Solutions Consultant - UK Market",
+      "company": "Agicap",
+      "platform": "Arbeitnow",
+      "location": "Lyon 🇫🇷",
+      "salary": "Competitive",
+      "type": "Full-time",
+      "tags": [
+        "Customer Solutions"
+      ],
+      "postedAt": "2026-09-18T19:04:21.000Z",
+      "url": "https://www.arbeitnow.fr/jobs/companies/agicap/customer-solutions-consultant-uk-market-lyon-326035"
+    },
+    {
+      "id": "arbeitnow-account-manager-smb-french-market-lyon-404581",
+      "title": "Account Manager - SMB - French Market",
+      "company": "Agicap",
+      "platform": "Arbeitnow",
+      "location": "Lyon 🇫🇷",
+      "salary": "Competitive",
+      "type": "Full-time",
+      "tags": [
+        "Account Management"
+      ],
+      "postedAt": "2026-09-18T19:04:21.000Z",
+      "url": "https://www.arbeitnow.fr/jobs/companies/agicap/account-manager-smb-french-market-lyon-404581"
+    },
+    {
+      "id": "arbeitnow-senior-data-analyst-operational-excellence-london-335971",
+      "title": "Senior Data Analyst - Operational Excellence",
+      "company": "hellofresh",
+      "platform": "Arbeitnow",
+      "location": "London",
+      "salary": "Competitive",
+      "type": "Full-time",
+      "tags": [
+        "Operations Technology"
+      ],
+      "postedAt": "2026-09-18T18:55:18.000Z",
+      "url": "https://www.arbeitnow.co.uk/jobs/companies/hellofresh/senior-data-analyst-operational-excellence-london-335971"
+    },
+    {
+      "id": "arbeitnow-junior-maintenance-engineer-derby-290841",
+      "title": "Junior Maintenance Engineer",
+      "company": "hellofresh",
+      "platform": "Arbeitnow",
+      "location": "Derby",
+      "salary": "Competitive",
+      "type": "Full-time",
+      "tags": [
+        "Supply Chain Management & Operations"
+      ],
+      "postedAt": "2026-09-18T18:55:18.000Z",
+      "url": "https://www.arbeitnow.co.uk/jobs/companies/hellofresh/junior-maintenance-engineer-derby-290841"
+    },
+    {
+      "id": "arbeitnow-senior-manager-international-indirect-tax-london-190186",
+      "title": "Senior Manager, International Indirect Tax",
+      "company": "Axon",
+      "platform": "Arbeitnow",
+      "location": "London",
+      "salary": "Competitive",
+      "type": "Full-time",
+      "tags": [
+        "4508 Tax"
+      ],
+      "postedAt": "2026-09-18T18:55:16.000Z",
+      "url": "https://www.arbeitnow.co.uk/jobs/companies/axon/senior-manager-international-indirect-tax-london-190186"
+    },
+    {
+      "id": "arbeitnow-paid-search-lead-uk-61666",
+      "title": "Paid Search Lead, UK",
+      "company": "eucalyptus",
+      "platform": "Arbeitnow",
+      "location": "Remote",
+      "salary": "Competitive",
+      "type": "Full-time",
+      "tags": [
+        "Expansion"
+      ],
+      "postedAt": "2026-09-18T18:55:15.000Z",
+      "url": "https://www.arbeitnow.co.uk/jobs/companies/eucalyptus/paid-search-lead-uk-61666"
+    },
+    {
+      "id": "arbeitnow-supply-chain-planner-hemel-hempstead-299344",
+      "title": "Supply Chain Planner",
+      "company": "Unybrands",
+      "platform": "Arbeitnow",
+      "location": "Hemel Hempstead",
+      "salary": "Competitive",
+      "type": "Full-time",
+      "tags": [
+        "Supply Planning"
+      ],
+      "postedAt": "2026-09-18T18:55:14.000Z",
+      "url": "https://www.arbeitnow.co.uk/jobs/companies/unybrands/supply-chain-planner-hemel-hempstead-299344"
+    },
+    {
+      "id": "arbeitnow-campaign-manager-audience-development-and-insights-london-187295",
+      "title": "Campaign Manager, Audience Development and Insights",
+      "company": "thenewyorktimes",
+      "platform": "Arbeitnow",
+      "location": "London",
+      "salary": "Competitive",
+      "type": "Full-time",
+      "tags": [
+        "Audience and Programming"
+      ],
+      "postedAt": "2026-09-18T18:55:11.000Z",
+      "url": "https://www.arbeitnow.co.uk/jobs/companies/thenewyorktimes/campaign-manager-audience-development-and-insights-london-187295"
+    },
+    {
+      "id": "arbeitnow-head-of-product-and-identity-security-192829",
+      "title": "Head of Product and Identity Security",
+      "company": "tide",
+      "platform": "Arbeitnow",
+      "location": "Remote",
+      "salary": "Competitive",
+      "type": "Full-time",
+      "tags": [
+        "One Platform"
+      ],
+      "postedAt": "2026-09-18T18:55:07.000Z",
+      "url": "https://www.arbeitnow.co.uk/jobs/companies/tide/head-of-product-and-identity-security-192829"
+    },
+    {
+      "id": "arbeitnow-regulatory-affairs-associate-labelling-cambridge-211949",
+      "title": "Regulatory Affairs Associate, Labelling",
+      "company": "Cyclepharmaceuticals",
+      "platform": "Arbeitnow",
+      "location": "Cambridge",
+      "salary": "Competitive",
+      "type": "Full-time",
+      "tags": [
+        "Regulatory"
+      ],
+      "postedAt": "2026-09-18T18:55:05.000Z",
+      "url": "https://www.arbeitnow.co.uk/jobs/companies/cyclepharmaceuticals/regulatory-affairs-associate-labelling-cambridge-211949"
+    },
+    {
+      "id": "arbeitnow-senior-shopper-marketing-manager-myprotein-manchester-31963",
+      "title": "Senior Shopper Marketing Manager - Myprotein",
+      "company": "Thehutgroup",
+      "platform": "Arbeitnow",
+      "location": "Manchester",
+      "salary": "Competitive",
+      "type": "Full-time",
+      "tags": [
+        "THG Nutrition"
+      ],
+      "postedAt": "2026-09-18T18:55:02.000Z",
+      "url": "https://www.arbeitnow.co.uk/jobs/companies/thehutgroup/senior-shopper-marketing-manager-myprotein-manchester-31963"
+    },
+    {
+      "id": "arbeitnow-paid-media-manager-marketplaces-thg-nutrition-myprotein-manchester-475575",
+      "title": "Paid Media Manager (Marketplaces) - THG Nutrition | Myprotein",
+      "company": "Thehutgroup",
+      "platform": "Arbeitnow",
+      "location": "Manchester",
+      "salary": "Competitive",
+      "type": "Full-time",
+      "tags": [
+        "THG Nutrition"
+      ],
+      "postedAt": "2026-09-18T18:55:02.000Z",
+      "url": "https://www.arbeitnow.co.uk/jobs/companies/thehutgroup/paid-media-manager-marketplaces-thg-nutrition-myprotein-manchester-475575"
+    },
+    {
+      "id": "arbeitnow-multi-skilled-maintenance-engineer-electrical-frome-155452",
+      "title": "Multi-Skilled Maintenance Engineer (Electrical)",
+      "company": "Thehutgroup",
+      "platform": "Arbeitnow",
+      "location": "Frome",
+      "salary": "Competitive",
+      "type": "Full-time",
+      "tags": [
+        "THG Beauty Manufacturing"
+      ],
+      "postedAt": "2026-09-18T18:55:02.000Z",
+      "url": "https://www.arbeitnow.co.uk/jobs/companies/thehutgroup/multi-skilled-maintenance-engineer-electrical-frome-155452"
+    },
+    {
+      "id": "arbeitnow-head-of-brand-global-campaigns-thg-nutrition-manchester-465092",
+      "title": "Head of Brand & Global Campaigns | THG Nutrition",
+      "company": "Thehutgroup",
+      "platform": "Arbeitnow",
+      "location": "Manchester",
+      "salary": "Competitive",
+      "type": "Full-time",
+      "tags": [
+        "THG Nutrition"
+      ],
+      "postedAt": "2026-09-18T18:55:02.000Z",
+      "url": "https://www.arbeitnow.co.uk/jobs/companies/thehutgroup/head-of-brand-global-campaigns-thg-nutrition-manchester-465092"
+    },
+    {
+      "id": "arbeitnow-remote-commercial-finance-business-development-manager-334868",
+      "title": "Commercial Finance Business Development Manager",
+      "company": "Allica Bank",
+      "platform": "Arbeitnow",
+      "location": "Remote, UK",
+      "salary": "Competitive",
+      "type": "Full-time",
+      "tags": [
+        "Kriya"
+      ],
+      "postedAt": "2026-09-18T18:40:12.000Z",
+      "url": "https://www.arbeitnow.co.uk/jobs/companies/allica-bank/remote-commercial-finance-business-development-manager-334868"
+    },
+    {
+      "id": "arbeitnow-financial-accountant-london-248656",
+      "title": "Financial Accountant",
+      "company": "Allica Bank",
+      "platform": "Arbeitnow",
+      "location": "London Office",
+      "salary": "Competitive",
+      "type": "Full-time",
+      "tags": [
+        "Finance"
+      ],
+      "postedAt": "2026-09-18T18:40:12.000Z",
+      "url": "https://www.arbeitnow.co.uk/jobs/companies/allica-bank/financial-accountant-london-248656"
+    },
+    {
+      "id": "arbeitnow-regional-lead-abl-origination-london-253300",
+      "title": "Regional Lead - ABL Origination",
+      "company": "Allica Bank",
+      "platform": "Arbeitnow",
+      "location": "London",
+      "salary": "Competitive",
+      "type": "Full-time",
+      "tags": [
+        "Product & Strategy"
+      ],
+      "postedAt": "2026-09-18T18:40:12.000Z",
+      "url": "https://www.arbeitnow.co.uk/jobs/companies/allica-bank/regional-lead-abl-origination-london-253300"
+    },
+    {
+      "id": "arbeitnow-remote-regional-lead-abl-origination-285329",
+      "title": "Regional Lead - ABL Origination",
+      "company": "Allica Bank",
+      "platform": "Arbeitnow",
+      "location": "Remote, UK",
+      "salary": "Competitive",
+      "type": "Full-time",
+      "tags": [
+        "Product & Strategy"
+      ],
+      "postedAt": "2026-09-18T18:40:12.000Z",
+      "url": "https://www.arbeitnow.co.uk/jobs/companies/allica-bank/remote-regional-lead-abl-origination-285329"
+    },
+    {
+      "id": "arbeitnow-founding-content-strategist-london-283300",
+      "title": "Founding Content Strategist",
+      "company": "Siena",
+      "platform": "Arbeitnow",
+      "location": "United Kingdom",
+      "salary": "Competitive",
+      "type": "Full-time",
+      "tags": [
+        "Marketing"
+      ],
+      "postedAt": "2026-09-18T18:40:10.000Z",
+      "url": "https://www.arbeitnow.co.uk/jobs/companies/siena/founding-content-strategist-london-283300"
+    },
+    {
+      "id": "arbeitnow-product-manager-agent-platform-london-96326",
+      "title": "Product Manager, Agent Platform",
+      "company": "Siena",
+      "platform": "Arbeitnow",
+      "location": "London",
+      "salary": "Competitive",
+      "type": "Full-time",
+      "tags": [
+        "Product"
+      ],
+      "postedAt": "2026-09-18T18:40:10.000Z",
+      "url": "https://www.arbeitnow.co.uk/jobs/companies/siena/product-manager-agent-platform-london-96326"
+    },
+    {
+      "id": "arbeitnow-grc-analyst-emea-london-437264",
+      "title": "GRC Analyst, EMEA",
+      "company": "Rogo",
+      "platform": "Arbeitnow",
+      "location": "London",
+      "salary": "Competitive",
+      "type": "Full-time",
+      "tags": [
+        "Security"
+      ],
+      "postedAt": "2026-09-18T18:40:08.000Z",
+      "url": "https://www.arbeitnow.co.uk/jobs/companies/rogo/grc-analyst-emea-london-437264"
+    },
+    {
+      "id": "arbeitnow-senior-web-developer-marketing-united-kingdom-174791",
+      "title": "Senior Web Developer, Marketing",
+      "company": "Phrase",
+      "platform": "Arbeitnow",
+      "location": "United Kingdom",
+      "salary": "Competitive",
+      "type": "Full-time",
+      "tags": [
+        "Marketing"
+      ],
+      "postedAt": "2026-09-18T18:40:04.000Z",
+      "url": "https://www.arbeitnow.co.uk/jobs/companies/phrase/senior-web-developer-marketing-united-kingdom-174791"
+    },
+    {
+      "id": "arbeitnow-visual-development-artist-ai-generative-tools-london-173682",
+      "title": "Visual Development Artist - AI & Generative Tools",
+      "company": "Framestore",
+      "platform": "Arbeitnow",
+      "location": "London, Greater London, United Kingdom",
+      "salary": "Competitive",
+      "type": "Full-time",
+      "tags": [],
+      "postedAt": "2026-09-18T18:30:16.000Z",
+      "url": "https://www.arbeitnow.co.uk/jobs/companies/framestore/visual-development-artist-ai-generative-tools-london-173682"
+    },
+    {
+      "id": "arbeitnow-supervisor-premium-retail-fixed-term-12-months-central-london-157153",
+      "title": "Supervisor Premium Retail ( Fixed Term 12 months )",
+      "company": "Stellar",
+      "platform": "Arbeitnow",
+      "location": "Central London",
+      "salary": "Competitive",
+      "type": "Full-time",
+      "tags": [
+        "Premium Retail"
+      ],
+      "postedAt": "2026-09-18T18:25:09.000Z",
+      "url": "https://www.arbeitnow.co.uk/jobs/companies/stellar/supervisor-premium-retail-fixed-term-12-months-central-london-157153"
+    },
+    {
+      "id": "arbeitnow-remote-it-systems-trainer-12-month-ftc-60529",
+      "title": "IT Systems Trainer - 12 month FTC",
+      "company": "Ivcevidensia",
+      "platform": "Arbeitnow",
+      "location": "Remote, England, England",
+      "salary": "Competitive",
+      "type": "Full-time",
+      "tags": [
+        "IT & Digital"
+      ],
+      "postedAt": "2026-09-18T18:24:24.000Z",
+      "url": "https://www.arbeitnow.co.uk/jobs/companies/ivcevidensia/remote-it-systems-trainer-12-month-ftc-60529"
+    },
+    {
+      "id": "arbeitnow-digital-and-paid-social-manager-london-266913",
+      "title": "Digital and Paid Social Manager",
+      "company": "Cirque du Soleil Entertainment Group",
+      "platform": "Arbeitnow",
+      "location": "London",
+      "salary": "Competitive",
+      "type": "Full-time",
+      "tags": [
+        "Sales",
+        "Marketing and Communications"
+      ],
+      "postedAt": "2026-09-18T18:24:05.000Z",
+      "url": "https://www.arbeitnow.co.uk/jobs/companies/cirque-du-soleil-entertainment-group/digital-and-paid-social-manager-london-266913"
+    },
+    {
+      "id": "arbeitnow-aircraft-painter-manchester-51532",
+      "title": "Aircraft Painter",
+      "company": "TSMG",
+      "platform": "Arbeitnow",
+      "location": "Manchester",
+      "salary": "Competitive",
+      "type": "Full-time",
+      "tags": [
+        "Aviation"
+      ],
+      "postedAt": "2026-09-18T18:05:09.000Z",
+      "url": "https://www.arbeitnow.co.uk/jobs/companies/tsmg/aircraft-painter-manchester-51532"
+    },
+    {
+      "id": "arbeitnow-motor-claims-handler-manchester-168831",
+      "title": "Motor Claims Handler",
+      "company": "Prima",
+      "platform": "Arbeitnow",
+      "location": "Manchester",
+      "salary": "Competitive",
+      "type": "Full-time",
+      "tags": [
+        "Claims UK"
+      ],
+      "postedAt": "2026-09-18T18:05:04.000Z",
+      "url": "https://www.arbeitnow.co.uk/jobs/companies/prima/motor-claims-handler-manchester-168831"
+    },
+    {
+      "id": "arbeitnow-customer-claims-complaints-qa-specialist-manchester-154507",
+      "title": "Customer Claims Complaints & QA Specialist",
+      "company": "Prima",
+      "platform": "Arbeitnow",
+      "location": "Manchester",
+      "salary": "Competitive",
+      "type": "Full-time",
+      "tags": [
+        "Claims UK"
+      ],
+      "postedAt": "2026-09-18T18:05:04.000Z",
+      "url": "https://www.arbeitnow.co.uk/jobs/companies/prima/customer-claims-complaints-qa-specialist-manchester-154507"
+    },
+    {
+      "id": "arbeitnow-ai-consultant-london-282185",
+      "title": "AI Consultant",
+      "company": "Creatio",
+      "platform": "Arbeitnow",
+      "location": "London",
+      "salary": "Competitive",
+      "type": "Full-time",
+      "tags": [
+        "AI Consulting & Strategy"
+      ],
+      "postedAt": "2026-09-18T18:05:03.000Z",
+      "url": "https://www.arbeitnow.co.uk/jobs/companies/creatio/ai-consultant-london-282185"
+    },
+    {
+      "id": "arbeitnow-solution-consultant-supply-chain-london-413970",
+      "title": "Solution Consultant, Supply Chain - London",
+      "company": "Pigment",
+      "platform": "Arbeitnow",
+      "location": "London",
+      "salary": "Competitive",
+      "type": "Full-time",
+      "tags": [
+        "Business"
+      ],
+      "postedAt": "2026-09-18T18:04:45.000Z",
+      "url": "https://www.arbeitnow.co.uk/jobs/companies/pigment/solution-consultant-supply-chain-london-413970"
+    },
+    {
+      "id": "arbeitnow-ai-deployment-strategist-london-38911",
+      "title": "AI Deployment Strategist",
+      "company": "Pigment",
+      "platform": "Arbeitnow",
+      "location": "London",
+      "salary": "Competitive",
+      "type": "Full-time",
+      "tags": [
+        "Professional Services"
+      ],
+      "postedAt": "2026-09-18T18:04:45.000Z",
+      "url": "https://www.arbeitnow.co.uk/jobs/companies/pigment/ai-deployment-strategist-london-38911"
+    },
+    {
+      "id": "arbeitnow-rams-engineer-reliability-availability-maintainability-safety-london-295405",
+      "title": "RAMS Engineer (Reliability, Availability, Maintainability, Safety)",
+      "company": "Hypersonica",
+      "platform": "Arbeitnow",
+      "location": "London",
+      "salary": "Competitive",
+      "type": "Full-time",
+      "tags": [
+        "Engineering"
+      ],
+      "postedAt": "2026-09-18T18:04:30.000Z",
+      "url": "https://www.arbeitnow.co.uk/jobs/companies/hypersonica/rams-engineer-reliability-availability-maintainability-safety-london-295405"
+    },
+    {
+      "id": "arbeitnow-mechanical-ait-technician-london-217605",
+      "title": "Mechanical AIT Technician",
+      "company": "Hypersonica",
+      "platform": "Arbeitnow",
+      "location": "London",
+      "salary": "Competitive",
+      "type": "Full-time",
+      "tags": [
+        "AIT & Launch"
+      ],
+      "postedAt": "2026-09-18T18:04:30.000Z",
+      "url": "https://www.arbeitnow.co.uk/jobs/companies/hypersonica/mechanical-ait-technician-london-217605"
+    },
+    {
+      "id": "arbeitnow-electrical-ait-technician-london-169958",
+      "title": "Electrical AIT Technician",
+      "company": "Hypersonica",
+      "platform": "Arbeitnow",
+      "location": "London",
+      "salary": "Competitive",
+      "type": "Full-time",
+      "tags": [
+        "AIT & Launch"
+      ],
+      "postedAt": "2026-09-18T18:04:30.000Z",
+      "url": "https://www.arbeitnow.co.uk/jobs/companies/hypersonica/electrical-ait-technician-london-169958"
+    },
+    {
+      "id": "arbeitnow-ait-engineer-mechanical-london-122837",
+      "title": "AIT Engineer, Mechanical",
+      "company": "Hypersonica",
+      "platform": "Arbeitnow",
+      "location": "London",
+      "salary": "Competitive",
+      "type": "Full-time",
+      "tags": [
+        "AIT & Launch"
+      ],
+      "postedAt": "2026-09-18T18:04:30.000Z",
+      "url": "https://www.arbeitnow.co.uk/jobs/companies/hypersonica/ait-engineer-mechanical-london-122837"
+    },
+    {
+      "id": "arbeitnow-ait-engineer-electrical-london-102792",
+      "title": "AIT Engineer, Electrical",
+      "company": "Hypersonica",
+      "platform": "Arbeitnow",
+      "location": "London",
+      "salary": "Competitive",
+      "type": "Full-time",
+      "tags": [
+        "AIT & Launch"
+      ],
+      "postedAt": "2026-09-18T18:04:30.000Z",
+      "url": "https://www.arbeitnow.co.uk/jobs/companies/hypersonica/ait-engineer-electrical-london-102792"
+    },
+    {
+      "id": "arbeitnow-senior-account-executive-tech-consulting-europe-london-153893",
+      "title": "Senior Account Executive - Tech/Consulting - Europe",
+      "company": "Kpler",
+      "platform": "Arbeitnow",
+      "location": "London",
+      "salary": "Competitive",
+      "type": "Full-time",
+      "tags": [
+        "Sales - Mid Market EMEA"
+      ],
+      "postedAt": "2026-09-18T18:04:25.000Z",
+      "url": "https://www.arbeitnow.co.uk/jobs/companies/kpler/senior-account-executive-tech-consulting-europe-london-153893"
+    },
+    {
+      "id": "arbeitnow-lead-retail-supervisor-covent-garden-london-england-114943",
+      "title": "Lead / Retail Supervisor (f/m/d) - Covent Garden",
+      "company": "ARC'TERYX",
+      "platform": "Arbeitnow",
+      "location": "London, England",
+      "salary": "Competitive",
+      "type": "Full-time",
+      "tags": [
+        "Arc'teryx Covent Garden Brand Store"
+      ],
+      "postedAt": "2026-09-18T18:04:19.000Z",
+      "url": "https://www.arbeitnow.co.uk/jobs/companies/arcteryx/lead-retail-supervisor-covent-garden-london-england-114943"
     },
     {
       "id": "arbeitnow-senior-staff-data-analyst-storefront-42526",
@@ -1060,266 +1903,6 @@
       "url": "https://www.arbeitnow.fr/jobs/companies/sezane-3/responsable-de-stock-h-f-paris-357131"
     },
     {
-      "id": "arbeitnow-hr-business-partner-retail-h-f-paris-261086",
-      "title": "HR Business Partner Retail (H/F)",
-      "company": "Sezane 3",
-      "platform": "Arbeitnow",
-      "location": "Paris, France",
-      "salary": "Competitive",
-      "type": "Full-time",
-      "tags": [
-        "Apparel & Fashion",
-        "Headquarters"
-      ],
-      "postedAt": "2026-09-18T16:20:09.000Z",
-      "url": "https://www.arbeitnow.fr/jobs/companies/sezane-3/hr-business-partner-retail-h-f-paris-261086"
-    },
-    {
-      "id": "arbeitnow-data-analyst-data-scientist-h-f-paris-388536",
-      "title": "Data Analyst / Data Scientist (H/F)",
-      "company": "Sezane 3",
-      "platform": "Arbeitnow",
-      "location": "Paris, France",
-      "salary": "Competitive",
-      "type": "Full-time",
-      "tags": [
-        "Data Analyst",
-        "Apparel & Fashion",
-        "Headquarters"
-      ],
-      "postedAt": "2026-09-18T16:20:09.000Z",
-      "url": "https://www.arbeitnow.fr/jobs/companies/sezane-3/data-analyst-data-scientist-h-f-paris-388536"
-    },
-    {
-      "id": "arbeitnow-conseiller-de-vente-h-f-septembre-paris-stage-226414",
-      "title": "Conseiller de vente (H/F) - Septembre - Paris (stage)",
-      "company": "Sezane 3",
-      "platform": "Arbeitnow",
-      "location": "Paris, France",
-      "salary": "Competitive",
-      "type": "Full-time",
-      "tags": [
-        "Apparel & Fashion"
-      ],
-      "postedAt": "2026-09-18T16:20:09.000Z",
-      "url": "https://www.arbeitnow.fr/jobs/companies/sezane-3/conseiller-de-vente-h-f-septembre-paris-stage-226414"
-    },
-    {
-      "id": "arbeitnow-conseiller-de-vente-h-f-septembre-marseille-stage-381676",
-      "title": "Conseiller de vente (H/F) - Septembre - Marseille (stage)",
-      "company": "Sezane 3",
-      "platform": "Arbeitnow",
-      "location": "Marseille, France",
-      "salary": "Competitive",
-      "type": "Full-time",
-      "tags": [
-        "Apparel & Fashion"
-      ],
-      "postedAt": "2026-09-18T16:20:09.000Z",
-      "url": "https://www.arbeitnow.fr/jobs/companies/sezane-3/conseiller-de-vente-h-f-septembre-marseille-stage-381676"
-    },
-    {
-      "id": "arbeitnow-conseiller-de-vente-h-f-septembre-lyon-stage-185361",
-      "title": "Conseiller de vente (H/F) - Septembre - Lyon (stage)",
-      "company": "Sezane 3",
-      "platform": "Arbeitnow",
-      "location": "Lyon, France",
-      "salary": "Competitive",
-      "type": "Full-time",
-      "tags": [
-        "Apparel & Fashion"
-      ],
-      "postedAt": "2026-09-18T16:20:09.000Z",
-      "url": "https://www.arbeitnow.fr/jobs/companies/sezane-3/conseiller-de-vente-h-f-septembre-lyon-stage-185361"
-    },
-    {
-      "id": "arbeitnow-conseiller-de-vente-h-f-septembre-aix-en-provence-stage-367073",
-      "title": "Conseiller de vente (H/F) - Septembre - Aix-en-Provence (stage)",
-      "company": "Sezane 3",
-      "platform": "Arbeitnow",
-      "location": "Aix-en-Provence, France",
-      "salary": "Competitive",
-      "type": "Full-time",
-      "tags": [
-        "Apparel & Fashion"
-      ],
-      "postedAt": "2026-09-18T16:20:09.000Z",
-      "url": "https://www.arbeitnow.fr/jobs/companies/sezane-3/conseiller-de-vente-h-f-septembre-aix-en-provence-stage-367073"
-    },
-    {
-      "id": "arbeitnow-cdd-3-mois-chargee-service-client-francais-anglais-polonais-h-f-paris-332924",
-      "title": "CDD 3 mois - Chargé(e) Service Client Français/ Anglais/ Polonais (H/F)",
-      "company": "Sezane 3",
-      "platform": "Arbeitnow",
-      "location": "Paris, France",
-      "salary": "Competitive",
-      "type": "Full-time",
-      "tags": [
-        "Apparel & Fashion",
-        "Headquarters"
-      ],
-      "postedAt": "2026-09-18T16:20:09.000Z",
-      "url": "https://www.arbeitnow.fr/jobs/companies/sezane-3/cdd-3-mois-chargee-service-client-francais-anglais-polonais-h-f-paris-332924"
-    },
-    {
-      "id": "arbeitnow-cdd-3-mois-chargee-service-client-francais-anglais-italien-h-f-paris-440587",
-      "title": "CDD 3 mois - Chargé(e) Service Client Français/ Anglais/ Italien (H/F)",
-      "company": "Sezane 3",
-      "platform": "Arbeitnow",
-      "location": "Paris, France",
-      "salary": "Competitive",
-      "type": "Full-time",
-      "tags": [
-        "Apparel & Fashion",
-        "Headquarters"
-      ],
-      "postedAt": "2026-09-18T16:20:09.000Z",
-      "url": "https://www.arbeitnow.fr/jobs/companies/sezane-3/cdd-3-mois-chargee-service-client-francais-anglais-italien-h-f-paris-440587"
-    },
-    {
-      "id": "arbeitnow-cdd-3-mois-chargee-service-client-francais-anglais-allemand-h-f-paris-446842",
-      "title": "CDD 3 mois - Chargé(e) Service Client Français/ Anglais/ Allemand (H/F)",
-      "company": "Sezane 3",
-      "platform": "Arbeitnow",
-      "location": "Paris, France",
-      "salary": "Competitive",
-      "type": "Full-time",
-      "tags": [
-        "Apparel & Fashion",
-        "Headquarters"
-      ],
-      "postedAt": "2026-09-18T16:20:09.000Z",
-      "url": "https://www.arbeitnow.fr/jobs/companies/sezane-3/cdd-3-mois-chargee-service-client-francais-anglais-allemand-h-f-paris-446842"
-    },
-    {
-      "id": "arbeitnow-cdd-3-mois-chargee-service-client-francais-anglais-h-f-paris-277863",
-      "title": "CDD 3 mois - Chargé(e) Service Client Français/ Anglais (H/F)",
-      "company": "Sezane 3",
-      "platform": "Arbeitnow",
-      "location": "Paris, France",
-      "salary": "Competitive",
-      "type": "Full-time",
-      "tags": [
-        "Apparel & Fashion",
-        "Headquarters"
-      ],
-      "postedAt": "2026-09-18T16:20:09.000Z",
-      "url": "https://www.arbeitnow.fr/jobs/companies/sezane-3/cdd-3-mois-chargee-service-client-francais-anglais-h-f-paris-277863"
-    },
-    {
-      "id": "arbeitnow-cdd-3-mois-chargee-service-client-francais-anglais-espagnol-h-f-paris-187591",
-      "title": "CDD 3 mois - Chargé(e) Service Client Français / Anglais / Espagnol (H/F)",
-      "company": "Sezane 3",
-      "platform": "Arbeitnow",
-      "location": "Paris, France",
-      "salary": "Competitive",
-      "type": "Full-time",
-      "tags": [
-        "Apparel & Fashion",
-        "Headquarters"
-      ],
-      "postedAt": "2026-09-18T16:20:09.000Z",
-      "url": "https://www.arbeitnow.fr/jobs/companies/sezane-3/cdd-3-mois-chargee-service-client-francais-anglais-espagnol-h-f-paris-187591"
-    },
-    {
-      "id": "arbeitnow-cdd-technicienne-produit-maille-jersey-h-f-paris-438427",
-      "title": "CDD - Technicien(ne) Produit Maille & Jersey (H/F)",
-      "company": "Sezane 3",
-      "platform": "Arbeitnow",
-      "location": "Paris, France",
-      "salary": "Competitive",
-      "type": "Full-time",
-      "tags": [
-        "Apparel & Fashion",
-        "Headquarters"
-      ],
-      "postedAt": "2026-09-18T16:20:09.000Z",
-      "url": "https://www.arbeitnow.fr/jobs/companies/sezane-3/cdd-technicienne-produit-maille-jersey-h-f-paris-438427"
-    },
-    {
-      "id": "arbeitnow-alternance-assistante-chef-de-production-pap-et-accessoires-h-f-paris-11321",
-      "title": "Alternance - Assistant(e) Chef de Production PAP et Accessoires (H/F)",
-      "company": "Sezane 3",
-      "platform": "Arbeitnow",
-      "location": "Paris, France",
-      "salary": "Competitive",
-      "type": "Full-time",
-      "tags": [
-        "Apparel & Fashion",
-        "Headquarters"
-      ],
-      "postedAt": "2026-09-18T16:20:09.000Z",
-      "url": "https://www.arbeitnow.fr/jobs/companies/sezane-3/alternance-assistante-chef-de-production-pap-et-accessoires-h-f-paris-11321"
-    },
-    {
-      "id": "arbeitnow-senior-manager-mes-manufacturing-transformation-hybrid-137472",
-      "title": "Senior Manager MES / Manufacturing Transformation | m/w/d",
-      "company": "Msg Industry Advisors Ag",
-      "platform": "Arbeitnow",
-      "location": "Hybrid",
-      "salary": "Competitive",
-      "type": "Full-time",
-      "tags": [],
-      "postedAt": "2026-09-18T16:09:43.000Z",
-      "url": "https://www.arbeitnow.fr/jobs/companies/msg-industry-advisors-ag/senior-manager-mes-manufacturing-transformation-hybrid-137472"
-    },
-    {
-      "id": "arbeitnow-solutions-consultant-france-paris-france-358399",
-      "title": "Solutions Consultant - France",
-      "company": "Insider One",
-      "platform": "Arbeitnow",
-      "location": "Paris, France",
-      "salary": "Competitive",
-      "type": "Full-time",
-      "tags": [
-        "Sales"
-      ],
-      "postedAt": "2026-09-18T16:04:48.000Z",
-      "url": "https://www.arbeitnow.fr/jobs/companies/insider-one/solutions-consultant-france-paris-france-358399"
-    },
-    {
-      "id": "arbeitnow-customer-success-manager-france-paris-france-138735",
-      "title": "Customer Success Manager - France",
-      "company": "Insider One",
-      "platform": "Arbeitnow",
-      "location": "Paris, France",
-      "salary": "Competitive",
-      "type": "Full-time",
-      "tags": [
-        "Customer Success"
-      ],
-      "postedAt": "2026-09-18T16:04:48.000Z",
-      "url": "https://www.arbeitnow.fr/jobs/companies/insider-one/customer-success-manager-france-paris-france-138735"
-    },
-    {
-      "id": "arbeitnow-ai-trainers-network-french-france-5959",
-      "title": "AI Trainers Network - French",
-      "company": "Welo Global",
-      "platform": "Arbeitnow",
-      "location": "France",
-      "salary": "Competitive",
-      "type": "Full-time",
-      "tags": [
-        "AI Service General Application"
-      ],
-      "postedAt": "2026-09-18T16:04:38.000Z",
-      "url": "https://www.arbeitnow.fr/jobs/companies/welo-global/ai-trainers-network-french-france-5959"
-    },
-    {
-      "id": "arbeitnow-design-system-manager-consultante-paris-309882",
-      "title": "Design System Manager - Consultant.e",
-      "company": "Thiga",
-      "platform": "Arbeitnow",
-      "location": "Paris",
-      "salary": "Competitive",
-      "type": "Full-time",
-      "tags": [
-        "Consulting"
-      ],
-      "postedAt": "2026-09-18T16:04:11.000Z",
-      "url": "https://www.arbeitnow.fr/jobs/companies/thiga/design-system-manager-consultante-paris-309882"
-    },
-    {
       "id": "arbeitnow-field-service-technician-maintenance-sheffield-uk-fixed-term-minimum-30-hours-week-sheffield-region-135248",
       "title": "Field Service Technician (Maintenance) – Sheffield, UK (Fixed-Term, Minimum 30 Hours/Week)",
       "company": "Focalsystems",
@@ -1612,590 +2195,6 @@
       ],
       "postedAt": "2026-09-18T15:55:04.000Z",
       "url": "https://www.arbeitnow.co.uk/jobs/companies/sohohouseco/maintenance-assistant-babington-house-babington-house-frome-215403"
-    },
-    {
-      "id": "arbeitnow-head-waiter-waitress-soho-farmhouse-pen-yen-soho-farmhouse-chipping-norton-471556",
-      "title": "Head Waiter/ Waitress - Soho Farmhouse (Pen Yen)",
-      "company": "Sohohouseco",
-      "platform": "Arbeitnow",
-      "location": "Soho Farmhouse - Chipping Norton",
-      "salary": "Competitive",
-      "type": "Full-time",
-      "tags": [
-        "Head Waiter/Server Captain"
-      ],
-      "postedAt": "2026-09-18T15:55:04.000Z",
-      "url": "https://www.arbeitnow.co.uk/jobs/companies/sohohouseco/head-waiter-waitress-soho-farmhouse-pen-yen-soho-farmhouse-chipping-norton-471556"
-    },
-    {
-      "id": "arbeitnow-head-waiter-waitress-soho-farmhouse-hay-barn-soho-farmhouse-chipping-norton-11849",
-      "title": "Head Waiter/ Waitress - Soho Farmhouse ( Hay Barn)",
-      "company": "Sohohouseco",
-      "platform": "Arbeitnow",
-      "location": "Soho Farmhouse - Chipping Norton",
-      "salary": "Competitive",
-      "type": "Full-time",
-      "tags": [
-        "Head Waiter/Server Captain"
-      ],
-      "postedAt": "2026-09-18T15:55:04.000Z",
-      "url": "https://www.arbeitnow.co.uk/jobs/companies/sohohouseco/head-waiter-waitress-soho-farmhouse-hay-barn-soho-farmhouse-chipping-norton-11849"
-    },
-    {
-      "id": "arbeitnow-group-commercial-finance-director-london-242714",
-      "title": "Group Commercial Finance Director",
-      "company": "Sohohouseco",
-      "platform": "Arbeitnow",
-      "location": "London",
-      "salary": "Competitive",
-      "type": "Full-time",
-      "tags": [
-        "Finance"
-      ],
-      "postedAt": "2026-09-18T15:55:04.000Z",
-      "url": "https://www.arbeitnow.co.uk/jobs/companies/sohohouseco/group-commercial-finance-director-london-242714"
-    },
-    {
-      "id": "arbeitnow-group-analysis-insight-director-london-26759",
-      "title": "Group Analysis & Insight Director",
-      "company": "Sohohouseco",
-      "platform": "Arbeitnow",
-      "location": "London",
-      "salary": "Competitive",
-      "type": "Full-time",
-      "tags": [
-        "Finance"
-      ],
-      "postedAt": "2026-09-18T15:55:04.000Z",
-      "url": "https://www.arbeitnow.co.uk/jobs/companies/sohohouseco/group-analysis-insight-director-london-26759"
-    },
-    {
-      "id": "arbeitnow-chef-de-partie-soho-farmhouse-main-barn-soho-farmhouse-chipping-norton-227906",
-      "title": "Chef de Partie - Soho Farmhouse (Main Barn)",
-      "company": "Sohohouseco",
-      "platform": "Arbeitnow",
-      "location": "Soho Farmhouse - Chipping Norton",
-      "salary": "Competitive",
-      "type": "Full-time",
-      "tags": [
-        "Chef de Partie"
-      ],
-      "postedAt": "2026-09-18T15:55:04.000Z",
-      "url": "https://www.arbeitnow.co.uk/jobs/companies/sohohouseco/chef-de-partie-soho-farmhouse-main-barn-soho-farmhouse-chipping-norton-227906"
-    },
-    {
-      "id": "arbeitnow-bartender-soho-farmhouse-main-barn-soho-farmhouse-chipping-norton-438092",
-      "title": "Bartender - Soho Farmhouse (Main Barn)",
-      "company": "Sohohouseco",
-      "platform": "Arbeitnow",
-      "location": "Soho Farmhouse - Chipping Norton",
-      "salary": "Competitive",
-      "type": "Full-time",
-      "tags": [
-        "Bartender"
-      ],
-      "postedAt": "2026-09-18T15:55:04.000Z",
-      "url": "https://www.arbeitnow.co.uk/jobs/companies/sohohouseco/bartender-soho-farmhouse-main-barn-soho-farmhouse-chipping-norton-438092"
-    },
-    {
-      "id": "arbeitnow-maintenance-engineer-somerset-439483",
-      "title": "Maintenance Engineer",
-      "company": "Advancedtechnologyservices",
-      "platform": "Arbeitnow",
-      "location": "Somerset",
-      "salary": "Competitive",
-      "type": "Full-time",
-      "tags": [
-        "Maintenance Technician"
-      ],
-      "postedAt": "2026-09-18T15:55:03.000Z",
-      "url": "https://www.arbeitnow.co.uk/jobs/companies/advancedtechnologyservices/maintenance-engineer-somerset-439483"
-    },
-    {
-      "id": "arbeitnow-product-manager-platform-management-paris-159241",
-      "title": "Product Manager - Platform Management",
-      "company": "Mirakl - Labs",
-      "platform": "Arbeitnow",
-      "location": "Paris, France",
-      "salary": "Competitive",
-      "type": "Full-time",
-      "tags": [],
-      "postedAt": "2026-09-18T15:45:31.000Z",
-      "url": "https://www.arbeitnow.fr/jobs/companies/mirakl-labs/product-manager-platform-management-paris-159241"
-    },
-    {
-      "id": "arbeitnow-junior-key-account-sales-executive-paris-17189",
-      "title": "Junior Key Account Sales Executive",
-      "company": "SumUp",
-      "platform": "Arbeitnow",
-      "location": "Paris, France",
-      "salary": "Competitive",
-      "type": "Full-time",
-      "tags": [],
-      "postedAt": "2026-09-18T15:45:28.000Z",
-      "url": "https://www.arbeitnow.fr/jobs/companies/sumup/junior-key-account-sales-executive-paris-17189"
-    },
-    {
-      "id": "arbeitnow-commercial-terrain-independant-freelance-dax-137081",
-      "title": "Commercial Terrain - Indépendant (Freelance)",
-      "company": "SumUp",
-      "platform": "Arbeitnow",
-      "location": "Dax, France",
-      "salary": "Competitive",
-      "type": "Full-time",
-      "tags": [],
-      "postedAt": "2026-09-18T15:45:28.000Z",
-      "url": "https://www.arbeitnow.fr/jobs/companies/sumup/commercial-terrain-independant-freelance-dax-137081"
-    },
-    {
-      "id": "arbeitnow-commercial-terrain-independant-freelance-mont-de-marsan-419273",
-      "title": "Commercial Terrain - Indépendant (Freelance)",
-      "company": "SumUp",
-      "platform": "Arbeitnow",
-      "location": "Mont-de-Marsan, France",
-      "salary": "Competitive",
-      "type": "Full-time",
-      "tags": [],
-      "postedAt": "2026-09-18T15:45:28.000Z",
-      "url": "https://www.arbeitnow.fr/jobs/companies/sumup/commercial-terrain-independant-freelance-mont-de-marsan-419273"
-    },
-    {
-      "id": "arbeitnow-senior-manager-commercial-performance-improvement-london-109584",
-      "title": "Senior Manager- Commercial Performance Improvement",
-      "company": "Unity Advisory",
-      "platform": "Arbeitnow",
-      "location": "London, Mayfair",
-      "salary": "Competitive",
-      "type": "Full-time",
-      "tags": [
-        "Deals"
-      ],
-      "postedAt": "2026-09-18T15:40:16.000Z",
-      "url": "https://www.arbeitnow.co.uk/jobs/companies/unity-advisory/senior-manager-commercial-performance-improvement-london-109584"
-    },
-    {
-      "id": "arbeitnow-broker-development-manager-bristol-112009",
-      "title": "Broker Development Manager",
-      "company": "Flock",
-      "platform": "Arbeitnow",
-      "location": "Bristol",
-      "salary": "Competitive",
-      "type": "Full-time",
-      "tags": [
-        "Commercial"
-      ],
-      "postedAt": "2026-09-18T15:40:15.000Z",
-      "url": "https://www.arbeitnow.co.uk/jobs/companies/flock/broker-development-manager-bristol-112009"
-    },
-    {
-      "id": "arbeitnow-customer-success-associate-london-161597",
-      "title": "Customer Success Associate",
-      "company": "Flock",
-      "platform": "Arbeitnow",
-      "location": "London",
-      "salary": "Competitive",
-      "type": "Full-time",
-      "tags": [
-        "Underwriting"
-      ],
-      "postedAt": "2026-09-18T15:40:15.000Z",
-      "url": "https://www.arbeitnow.co.uk/jobs/companies/flock/customer-success-associate-london-161597"
-    },
-    {
-      "id": "arbeitnow-engineering-lead-london-62480",
-      "title": "Engineering Lead",
-      "company": "Flock",
-      "platform": "Arbeitnow",
-      "location": "London",
-      "salary": "Competitive",
-      "type": "Full-time",
-      "tags": [
-        "Technology"
-      ],
-      "postedAt": "2026-09-18T15:40:15.000Z",
-      "url": "https://www.arbeitnow.co.uk/jobs/companies/flock/engineering-lead-london-62480"
-    },
-    {
-      "id": "arbeitnow-marketing-manager-london-170915",
-      "title": "Marketing Manager",
-      "company": "Flock",
-      "platform": "Arbeitnow",
-      "location": "London",
-      "salary": "Competitive",
-      "type": "Full-time",
-      "tags": [
-        "Commercial"
-      ],
-      "postedAt": "2026-09-18T15:40:15.000Z",
-      "url": "https://www.arbeitnow.co.uk/jobs/companies/flock/marketing-manager-london-170915"
-    },
-    {
-      "id": "arbeitnow-people-operations-lead-london-189731",
-      "title": "People Operations Lead",
-      "company": "Flock",
-      "platform": "Arbeitnow",
-      "location": "London",
-      "salary": "Competitive",
-      "type": "Full-time",
-      "tags": [
-        "People"
-      ],
-      "postedAt": "2026-09-18T15:40:15.000Z",
-      "url": "https://www.arbeitnow.co.uk/jobs/companies/flock/people-operations-lead-london-189731"
-    },
-    {
-      "id": "arbeitnow-senior-motor-fleet-underwriter-london-317163",
-      "title": "Senior Motor Fleet Underwriter",
-      "company": "Flock",
-      "platform": "Arbeitnow",
-      "location": "London",
-      "salary": "Competitive",
-      "type": "Full-time",
-      "tags": [
-        "Underwriting"
-      ],
-      "postedAt": "2026-09-18T15:40:15.000Z",
-      "url": "https://www.arbeitnow.co.uk/jobs/companies/flock/senior-motor-fleet-underwriter-london-317163"
-    },
-    {
-      "id": "arbeitnow-broker-development-manager-manchester-182552",
-      "title": "Broker Development Manager",
-      "company": "Flock",
-      "platform": "Arbeitnow",
-      "location": "Manchester",
-      "salary": "Competitive",
-      "type": "Full-time",
-      "tags": [
-        "Commercial"
-      ],
-      "postedAt": "2026-09-18T15:40:15.000Z",
-      "url": "https://www.arbeitnow.co.uk/jobs/companies/flock/broker-development-manager-manchester-182552"
-    },
-    {
-      "id": "arbeitnow-broker-development-manager-leeds-266814",
-      "title": "Broker Development Manager",
-      "company": "Flock",
-      "platform": "Arbeitnow",
-      "location": "Leeds",
-      "salary": "Competitive",
-      "type": "Full-time",
-      "tags": [
-        "Commercial"
-      ],
-      "postedAt": "2026-09-18T15:40:15.000Z",
-      "url": "https://www.arbeitnow.co.uk/jobs/companies/flock/broker-development-manager-leeds-266814"
-    },
-    {
-      "id": "arbeitnow-sportsbook-trading-associate-united-kingdom-267933",
-      "title": "Sportsbook Trading Associate",
-      "company": "Midnite",
-      "platform": "Arbeitnow",
-      "location": "United Kingdom",
-      "salary": "Competitive",
-      "type": "Full-time",
-      "tags": [
-        "Sportsbook"
-      ],
-      "postedAt": "2026-09-18T15:40:13.000Z",
-      "url": "https://www.arbeitnow.co.uk/jobs/companies/midnite/sportsbook-trading-associate-united-kingdom-267933"
-    },
-    {
-      "id": "arbeitnow-solutions-engineer-expansion-uk-london-96880",
-      "title": "Solutions Engineer, Expansion UK",
-      "company": "Partly.com",
-      "platform": "Arbeitnow",
-      "location": "London",
-      "salary": "Competitive",
-      "type": "Full-time",
-      "tags": [
-        "Operations"
-      ],
-      "postedAt": "2026-09-18T15:40:13.000Z",
-      "url": "https://www.arbeitnow.co.uk/jobs/companies/partlycom/solutions-engineer-expansion-uk-london-96880"
-    },
-    {
-      "id": "arbeitnow-forward-deployed-engineer-infrastructure-london-408817",
-      "title": "Forward Deployed Engineer - Infrastructure",
-      "company": "Thought Machine",
-      "platform": "Arbeitnow",
-      "location": "United Kingdom, London",
-      "salary": "Competitive",
-      "type": "Full-time",
-      "tags": [
-        "Client Services"
-      ],
-      "postedAt": "2026-09-18T15:40:12.000Z",
-      "url": "https://www.arbeitnow.co.uk/jobs/companies/thought-machine/forward-deployed-engineer-infrastructure-london-408817"
-    },
-    {
-      "id": "arbeitnow-head-of-quality-engineering-london-437895",
-      "title": "Head of Quality Engineering",
-      "company": "Lendable",
-      "platform": "Arbeitnow",
-      "location": "London",
-      "salary": "Competitive",
-      "type": "Full-time",
-      "tags": [
-        "Engineering & Product"
-      ],
-      "postedAt": "2026-09-18T15:40:12.000Z",
-      "url": "https://www.arbeitnow.co.uk/jobs/companies/lendable/head-of-quality-engineering-london-437895"
-    },
-    {
-      "id": "arbeitnow-senior-php-engineer-london-487059",
-      "title": "Senior PHP Engineer",
-      "company": "Lendable",
-      "platform": "Arbeitnow",
-      "location": "London",
-      "salary": "Competitive",
-      "type": "Full-time",
-      "tags": [
-        "Engineering & Product"
-      ],
-      "postedAt": "2026-09-18T15:40:12.000Z",
-      "url": "https://www.arbeitnow.co.uk/jobs/companies/lendable/senior-php-engineer-london-487059"
-    },
-    {
-      "id": "arbeitnow-account-manager-inbound-london-36037",
-      "title": "Account Manager (Inbound)",
-      "company": "Fundingcircle",
-      "platform": "Arbeitnow",
-      "location": "London",
-      "salary": "Competitive",
-      "type": "Full-time",
-      "tags": [
-        "Sales"
-      ],
-      "postedAt": "2026-09-18T15:40:09.000Z",
-      "url": "https://www.arbeitnow.co.uk/jobs/companies/fundingcircle/account-manager-inbound-london-36037"
-    },
-    {
-      "id": "arbeitnow-vulnerable-customer-account-manager-london-413153",
-      "title": "Vulnerable Customer Account Manager",
-      "company": "Fundingcircle",
-      "platform": "Arbeitnow",
-      "location": "London",
-      "salary": "Competitive",
-      "type": "Full-time",
-      "tags": [
-        "Collections",
-        "Recoveries & Litigation"
-      ],
-      "postedAt": "2026-09-18T15:40:09.000Z",
-      "url": "https://www.arbeitnow.co.uk/jobs/companies/fundingcircle/vulnerable-customer-account-manager-london-413153"
-    },
-    {
-      "id": "arbeitnow-complaints-manager-london-385282",
-      "title": "Complaints Manager",
-      "company": "Fundingcircle",
-      "platform": "Arbeitnow",
-      "location": "London",
-      "salary": "Competitive",
-      "type": "Full-time",
-      "tags": [
-        "Collections",
-        "Recoveries & Litigation"
-      ],
-      "postedAt": "2026-09-18T15:40:09.000Z",
-      "url": "https://www.arbeitnow.co.uk/jobs/companies/fundingcircle/complaints-manager-london-385282"
-    },
-    {
-      "id": "arbeitnow-head-of-product-multi-product-experience-london-425151",
-      "title": "Head of Product, Multi-Product Experience",
-      "company": "Fundingcircle",
-      "platform": "Arbeitnow",
-      "location": "London",
-      "salary": "Competitive",
-      "type": "Full-time",
-      "tags": [
-        "Product"
-      ],
-      "postedAt": "2026-09-18T15:40:09.000Z",
-      "url": "https://www.arbeitnow.co.uk/jobs/companies/fundingcircle/head-of-product-multi-product-experience-london-425151"
-    },
-    {
-      "id": "arbeitnow-head-of-product-engineering-operations-london-47309",
-      "title": "Head of Product & Engineering Operations",
-      "company": "Fundingcircle",
-      "platform": "Arbeitnow",
-      "location": "London",
-      "salary": "Competitive",
-      "type": "Full-time",
-      "tags": [
-        "Product Engineering"
-      ],
-      "postedAt": "2026-09-18T15:40:09.000Z",
-      "url": "https://www.arbeitnow.co.uk/jobs/companies/fundingcircle/head-of-product-engineering-operations-london-47309"
-    },
-    {
-      "id": "arbeitnow-senior-audio-visual-technician-london-200023",
-      "title": "Senior Audio-Visual Technician",
-      "company": "Kinly",
-      "platform": "Arbeitnow",
-      "location": "London, England, United Kingdom",
-      "salary": "Competitive",
-      "type": "Full-time",
-      "tags": [
-        "United Kingdom"
-      ],
-      "postedAt": "2026-09-18T15:30:29.000Z",
-      "url": "https://www.arbeitnow.co.uk/jobs/companies/kinly/senior-audio-visual-technician-london-200023"
-    },
-    {
-      "id": "arbeitnow-supply-chain-lead-london-157868",
-      "title": "Supply Chain Lead",
-      "company": "Bloom & Wild Group",
-      "platform": "Arbeitnow",
-      "location": "London",
-      "salary": "Competitive",
-      "type": "Full-time",
-      "tags": [
-        "Bloom & Wild"
-      ],
-      "postedAt": "2026-09-18T15:25:32.000Z",
-      "url": "https://www.arbeitnow.co.uk/jobs/companies/bloom-wild-group/supply-chain-lead-london-157868"
-    },
-    {
-      "id": "arbeitnow-remote-manager-international-customer-supply-chain-rhode-475315",
-      "title": "Manager, International Customer Supply Chain, rhode",
-      "company": "e.l.f. Beauty",
-      "platform": "Arbeitnow",
-      "location": "United Kingdom - Remote",
-      "salary": "Competitive",
-      "type": "Full-time",
-      "tags": [
-        "Operations"
-      ],
-      "postedAt": "2026-09-18T15:25:31.000Z",
-      "url": "https://www.arbeitnow.co.uk/jobs/companies/elf-beauty/remote-manager-international-customer-supply-chain-rhode-475315"
-    },
-    {
-      "id": "arbeitnow-interim-manager-paid-media-london-england-338459",
-      "title": "Interim Manager, Paid Media",
-      "company": "e.l.f. Beauty",
-      "platform": "Arbeitnow",
-      "location": "London, England",
-      "salary": "Competitive",
-      "type": "Full-time",
-      "tags": [
-        "EMEA Marketing"
-      ],
-      "postedAt": "2026-09-18T15:25:31.000Z",
-      "url": "https://www.arbeitnow.co.uk/jobs/companies/elf-beauty/interim-manager-paid-media-london-england-338459"
-    },
-    {
-      "id": "arbeitnow-project-engineer-data-centres-industrials-london-gb-121412",
-      "title": "Project Engineer (Data Centres & Industrials)",
-      "company": "Octopus Energy Group",
-      "platform": "Arbeitnow",
-      "location": "London (GB)",
-      "salary": "Competitive",
-      "type": "Full-time",
-      "tags": [
-        "Strategy"
-      ],
-      "postedAt": "2026-09-18T15:25:17.000Z",
-      "url": "https://www.arbeitnow.co.uk/jobs/companies/octopus-energy-group/project-engineer-data-centres-industrials-london-gb-121412"
-    },
-    {
-      "id": "arbeitnow-power-grid-analyst-data-centres-and-industrials-london-gb-417653",
-      "title": "Power Grid Analyst (Data Centres and Industrials)",
-      "company": "Octopus Energy Group",
-      "platform": "Arbeitnow",
-      "location": "London (GB)",
-      "salary": "Competitive",
-      "type": "Full-time",
-      "tags": [
-        "Strategy"
-      ],
-      "postedAt": "2026-09-18T15:25:17.000Z",
-      "url": "https://www.arbeitnow.co.uk/jobs/companies/octopus-energy-group/power-grid-analyst-data-centres-and-industrials-london-gb-417653"
-    },
-    {
-      "id": "arbeitnow-data-scientist-london-gb-44204",
-      "title": "Data Scientist",
-      "company": "Octopus Energy Group",
-      "platform": "Arbeitnow",
-      "location": "London (GB)",
-      "salary": "Competitive",
-      "type": "Full-time",
-      "tags": [
-        "Data"
-      ],
-      "postedAt": "2026-09-18T15:25:17.000Z",
-      "url": "https://www.arbeitnow.co.uk/jobs/companies/octopus-energy-group/data-scientist-london-gb-44204"
-    },
-    {
-      "id": "arbeitnow-commercial-analyst-data-centres-and-industrials-london-gb-180712",
-      "title": "Commercial Analyst (Data Centres and Industrials)",
-      "company": "Octopus Energy Group",
-      "platform": "Arbeitnow",
-      "location": "London (GB)",
-      "salary": "Competitive",
-      "type": "Full-time",
-      "tags": [
-        "Strategy"
-      ],
-      "postedAt": "2026-09-18T15:25:17.000Z",
-      "url": "https://www.arbeitnow.co.uk/jobs/companies/octopus-energy-group/commercial-analyst-data-centres-and-industrials-london-gb-180712"
-    },
-    {
-      "id": "arbeitnow-generative-ai-analyst-english-great-britain-united-kingdom-485070",
-      "title": "Generative AI Analyst | English (Great Britain)",
-      "company": "Welo Global",
-      "platform": "Arbeitnow",
-      "location": "United Kingdom",
-      "salary": "Competitive",
-      "type": "Full-time",
-      "tags": [
-        "Data Annotation"
-      ],
-      "postedAt": "2026-09-18T15:24:54.000Z",
-      "url": "https://www.arbeitnow.co.uk/jobs/companies/welo-global/generative-ai-analyst-english-great-britain-united-kingdom-485070"
-    },
-    {
-      "id": "arbeitnow-ai-trainers-network-welsh-wales-256219",
-      "title": "AI Trainers Network - Welsh",
-      "company": "Welo Global",
-      "platform": "Arbeitnow",
-      "location": "Wales",
-      "salary": "Competitive",
-      "type": "Full-time",
-      "tags": [
-        "AI Service General Application"
-      ],
-      "postedAt": "2026-09-18T15:24:54.000Z",
-      "url": "https://www.arbeitnow.co.uk/jobs/companies/welo-global/ai-trainers-network-welsh-wales-256219"
-    },
-    {
-      "id": "arbeitnow-ai-trainers-network-english-united-kingdom-378627",
-      "title": "AI Trainers Network - English (United Kingdom)",
-      "company": "Welo Global",
-      "platform": "Arbeitnow",
-      "location": "United Kingdom",
-      "salary": "Competitive",
-      "type": "Full-time",
-      "tags": [
-        "AI Service General Application"
-      ],
-      "postedAt": "2026-09-18T15:24:53.000Z",
-      "url": "https://www.arbeitnow.co.uk/jobs/companies/welo-global/ai-trainers-network-english-united-kingdom-378627"
-    },
-    {
-      "id": "arbeitnow-claims-and-returns-coordinator-dereham-109405",
-      "title": "Claims and Returns Coordinator",
-      "company": "Zipwater",
-      "platform": "Arbeitnow",
-      "location": "Dereham, United Kingdom",
-      "salary": "Competitive",
-      "type": "Full-time",
-      "tags": [
-        "Supply Chain",
-        "Consumer Services",
-        "Warehouse"
-      ],
-      "postedAt": "2026-09-18T15:20:05.000Z",
-      "url": "https://www.arbeitnow.co.uk/jobs/companies/zipwater/claims-and-returns-coordinator-dereham-109405"
     }
   ]
 }
