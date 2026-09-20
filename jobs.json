@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-09-19T21:39:33.576Z",
+  "lastUpdated": "2026-09-20T00:01:07.634Z",
   "jobs": [
     {
       "id": "remoteok-1137391",
@@ -53,6 +53,20 @@
       ],
       "postedAt": "2026-09-11T08:00:08+00:00",
       "url": "https://remoteOK.com/remote-jobs/remote-marketing-student-assistant-copenhagen-optimization-1137381"
+    },
+    {
+      "id": "arbeitnow-executive-assistant-sales-marketing-paris-181099",
+      "title": "Executive Assistant - Sales & Marketing",
+      "company": "mirakl",
+      "platform": "Arbeitnow",
+      "location": "Paris",
+      "salary": "Competitive",
+      "type": "Full-time",
+      "tags": [
+        "G&A"
+      ],
+      "postedAt": "2026-09-19T22:55:15.000Z",
+      "url": "https://www.arbeitnow.fr/jobs/companies/mirakl/executive-assistant-sales-marketing-paris-181099"
     },
     {
       "id": "arbeitnow-stage-social-media-manager-b2c-janvier-2027-paris-paris-492748",
@@ -159,36 +173,18 @@
       "url": "https://jobicy.com/jobs/151174-seo-aso-manager"
     },
     {
-      "id": "arbeitnow-finance-ai-automation-intern-remote-part-time-france-258419",
-      "title": "Finance & AI Automation Intern (Remote Part-time)",
-      "company": "Soda Data Nv",
+      "id": "arbeitnow-motion-designer-video-editor-apprenticeship-1-or-2-years-paris-434769",
+      "title": "Motion Designer / Video Editor — Apprenticeship (1 or 2 years)",
+      "company": "dataiku",
       "platform": "Arbeitnow",
-      "location": "France",
+      "location": "Paris",
       "salary": "Competitive",
       "type": "Full-time",
       "tags": [
-        "Computer Software",
-        "Operations",
-        "Remote"
+        "Design"
       ],
-      "postedAt": "2026-09-19T13:20:10.000Z",
-      "url": "https://www.arbeitnow.fr/jobs/companies/soda-data-nv/finance-ai-automation-intern-remote-part-time-france-258419"
-    },
-    {
-      "id": "arbeitnow-finance-ai-automation-intern-remote-full-time-france-214116",
-      "title": "Finance & AI Automation Intern (Remote Full-time)",
-      "company": "Soda Data Nv",
-      "platform": "Arbeitnow",
-      "location": "France",
-      "salary": "Competitive",
-      "type": "Full-time",
-      "tags": [
-        "Computer Software",
-        "Operations",
-        "Remote"
-      ],
-      "postedAt": "2026-09-19T13:20:10.000Z",
-      "url": "https://www.arbeitnow.fr/jobs/companies/soda-data-nv/finance-ai-automation-intern-remote-full-time-france-214116"
+      "postedAt": "2026-09-19T22:55:03.000Z",
+      "url": "https://www.arbeitnow.fr/jobs/companies/dataiku/motion-designer-video-editor-apprenticeship-1-or-2-years-paris-434769"
     },
     {
       "id": "arbeitnow-ai-business-intelligence-program-manager-london-18262",
@@ -203,6 +199,37 @@
       ],
       "postedAt": "2026-09-19T09:55:13.000Z",
       "url": "https://www.arbeitnow.co.uk/jobs/companies/tripadvisor/ai-business-intelligence-program-manager-london-18262"
+    },
+    {
+      "id": "remoteok-1137406",
+      "title": "Customer Success Manager Mexico",
+      "company": "JumpCloud",
+      "platform": "RemoteOK",
+      "location": "Mexico City, Mexico - Remote",
+      "salary": "Competitive",
+      "type": "Full-time",
+      "tags": [
+        "customer support",
+        "exec",
+        "saas",
+        "sys admin",
+        "swift",
+        "infosec",
+        "technical",
+        "marketing",
+        "travel",
+        "speech",
+        "finance",
+        "education",
+        "c",
+        "mobile",
+        "sales",
+        "medical",
+        "recruiter",
+        "engineer"
+      ],
+      "postedAt": "2026-09-19T00:00:06+00:00",
+      "url": "https://remoteOK.com/remote-jobs/remote-customer-success-manager-mexico-jumpcloud-1137406"
     },
     {
       "id": "remoteok-1137394",
@@ -337,46 +364,550 @@
       "url": "https://jobicy.com/jobs/151166-principal-revenue-operations-manager"
     },
     {
-      "id": "arbeitnow-security-operations-manager-london-386417",
-      "title": "Security Operations Manager",
-      "company": "Artificial Labs",
+      "id": "arbeitnow-technical-account-manager-auth0-paris-305682",
+      "title": "Technical Account Manager - Auth0",
+      "company": "okta",
       "platform": "Arbeitnow",
-      "location": "London Office",
+      "location": "Paris",
       "salary": "Competitive",
       "type": "Full-time",
       "tags": [
-        "Security"
+        "Technical Account Management-812"
       ],
-      "postedAt": "2026-09-19T06:40:02.000Z",
-      "url": "https://www.arbeitnow.co.uk/jobs/companies/artificial-labs/security-operations-manager-london-386417"
+      "postedAt": "2026-09-19T22:55:17.000Z",
+      "url": "https://www.arbeitnow.fr/jobs/companies/okta/technical-account-manager-auth0-paris-305682"
     },
     {
-      "id": "arbeitnow-alternance-assistante-performance-marketing-h-f-paris-118426",
-      "title": "Alternance - Assistant.e Performance Marketing H/F",
-      "company": "AMI PARIS",
+      "id": "arbeitnow-sr-technical-account-manager-okta-strategic-customers-paris-137182",
+      "title": "Sr. Technical Account Manager, Okta Strategic Customers",
+      "company": "okta",
+      "platform": "Arbeitnow",
+      "location": "Paris",
+      "salary": "Competitive",
+      "type": "Full-time",
+      "tags": [
+        "Technical Account Management-812"
+      ],
+      "postedAt": "2026-09-19T22:55:17.000Z",
+      "url": "https://www.arbeitnow.fr/jobs/companies/okta/sr-technical-account-manager-okta-strategic-customers-paris-137182"
+    },
+    {
+      "id": "arbeitnow-sr-manager-field-engineering-uae-paris-228332",
+      "title": "Sr. Manager, Field Engineering UAE",
+      "company": "databricks",
+      "platform": "Arbeitnow",
+      "location": "Paris",
+      "salary": "Competitive",
+      "type": "Full-time",
+      "tags": [
+        "Field Engineering - Other"
+      ],
+      "postedAt": "2026-09-19T22:55:14.000Z",
+      "url": "https://www.arbeitnow.fr/jobs/companies/databricks/sr-manager-field-engineering-uae-paris-228332"
+    },
+    {
+      "id": "arbeitnow-sr-manager-field-engineering-qatarafrica-paris-464878",
+      "title": "Sr. Manager, Field Engineering Qatar&Africa",
+      "company": "databricks",
+      "platform": "Arbeitnow",
+      "location": "Paris",
+      "salary": "Competitive",
+      "type": "Full-time",
+      "tags": [
+        "Field Engineering - Other"
+      ],
+      "postedAt": "2026-09-19T22:55:14.000Z",
+      "url": "https://www.arbeitnow.fr/jobs/companies/databricks/sr-manager-field-engineering-qatarafrica-paris-464878"
+    },
+    {
+      "id": "arbeitnow-manager-field-engineering-france-paris-319183",
+      "title": "Manager, Field Engineering France",
+      "company": "databricks",
+      "platform": "Arbeitnow",
+      "location": "Paris",
+      "salary": "Competitive",
+      "type": "Full-time",
+      "tags": [
+        "Field Engineering - Other"
+      ],
+      "postedAt": "2026-09-19T22:55:14.000Z",
+      "url": "https://www.arbeitnow.fr/jobs/companies/databricks/manager-field-engineering-france-paris-319183"
+    },
+    {
+      "id": "arbeitnow-sr-medical-scientific-liaison-france-483286",
+      "title": "Sr. Medical Scientific Liaison - France",
+      "company": "Acadia Job Listings",
+      "platform": "Arbeitnow",
+      "location": "Remote",
+      "salary": "Competitive",
+      "type": "Full-time",
+      "tags": [
+        "Medical Affairs"
+      ],
+      "postedAt": "2026-09-19T22:55:10.000Z",
+      "url": "https://www.arbeitnow.fr/jobs/companies/acadia-job-listings/sr-medical-scientific-liaison-france-483286"
+    },
+    {
+      "id": "arbeitnow-regional-sales-director-growth-france-remote-313320",
+      "title": "Regional Sales Director, Growth | France | Remote",
+      "company": "grafanalabs",
+      "platform": "Arbeitnow",
+      "location": "Remote",
+      "salary": "Competitive",
+      "type": "Full-time",
+      "tags": [
+        "Sales (EMEA)"
+      ],
+      "postedAt": "2026-09-19T22:55:05.000Z",
+      "url": "https://www.arbeitnow.fr/jobs/companies/grafanalabs/regional-sales-director-growth-france-remote-313320"
+    },
+    {
+      "id": "arbeitnow-remote-technical-account-manager-france-280044",
+      "title": "Technical Account Manager - France",
+      "company": "dataiku",
+      "platform": "Arbeitnow",
+      "location": "Paris; Remote",
+      "salary": "Competitive",
+      "type": "Full-time",
+      "tags": [
+        "Field Engineering"
+      ],
+      "postedAt": "2026-09-19T22:55:03.000Z",
+      "url": "https://www.arbeitnow.fr/jobs/companies/dataiku/remote-technical-account-manager-france-280044"
+    },
+    {
+      "id": "arbeitnow-associate-ux-designer-paris-2141",
+      "title": "Associate UX Designer",
+      "company": "dataiku",
+      "platform": "Arbeitnow",
+      "location": "Paris",
+      "salary": "Competitive",
+      "type": "Full-time",
+      "tags": [
+        "Product"
+      ],
+      "postedAt": "2026-09-19T22:55:03.000Z",
+      "url": "https://www.arbeitnow.fr/jobs/companies/dataiku/associate-ux-designer-paris-2141"
+    },
+    {
+      "id": "arbeitnow-bdr-team-manager-french-market-paris-31715",
+      "title": "BDR Team Manager | French Market (Paris)",
+      "company": "Lexroom",
+      "platform": "Arbeitnow",
+      "location": "Paris",
+      "salary": "Competitive",
+      "type": "Full-time",
+      "tags": [
+        "Sales"
+      ],
+      "postedAt": "2026-09-19T22:40:13.000Z",
+      "url": "https://www.arbeitnow.fr/jobs/companies/lexroom/bdr-team-manager-french-market-paris-31715"
+    },
+    {
+      "id": "arbeitnow-offre-de-stage-electronique-flexible-pour-interfacage-de-capteur-de-gaz-portable-3-a-5-mois-gardanne-18637",
+      "title": "Offre de stage : Electronique flexible pour interfaçage de capteur de gaz portable - 3 à 5 mois",
+      "company": "Institut Mines-Télécom",
+      "platform": "Arbeitnow",
+      "location": "GARDANNE, Provence-Alpes-Côte d'Azur, France",
+      "salary": "Competitive",
+      "type": "Full-time",
+      "tags": [
+        "Electronique et mécanique"
+      ],
+      "postedAt": "2026-09-19T22:30:11.000Z",
+      "url": "https://www.arbeitnow.fr/jobs/companies/institut-mines-telecom/offre-de-stage-electronique-flexible-pour-interfacage-de-capteur-de-gaz-portable-3-a-5-mois-gardanne-18637"
+    },
+    {
+      "id": "arbeitnow-directeurrice-de-la-formation-ingenieur-generaliste-en-cdi-a-imt-nord-europe-douai-315209",
+      "title": "Directeur·rice de la formation Ingénieur Généraliste en CDI à IMT Nord Europe",
+      "company": "Institut Mines-Télécom",
+      "platform": "Arbeitnow",
+      "location": "Douai, Hauts-de-France, France",
+      "salary": "Competitive",
+      "type": "Full-time",
+      "tags": [
+        "Gouvernance/Direction"
+      ],
+      "postedAt": "2026-09-19T22:30:11.000Z",
+      "url": "https://www.arbeitnow.fr/jobs/companies/institut-mines-telecom/directeurrice-de-la-formation-ingenieur-generaliste-en-cdi-a-imt-nord-europe-douai-315209"
+    },
+    {
+      "id": "arbeitnow-ingenieure-de-recherche-en-reactive-synthesis-cdd-12-mois-palaiseau-354078",
+      "title": "Ingénieur·e de recherche en Reactive Synthesis - CDD - 12 mois",
+      "company": "Institut Mines-Télécom",
+      "platform": "Arbeitnow",
+      "location": "Palaiseau, Île-de-France, France",
+      "salary": "Competitive",
+      "type": "Full-time",
+      "tags": [
+        "Informatique et Système d'information"
+      ],
+      "postedAt": "2026-09-19T22:30:11.000Z",
+      "url": "https://www.arbeitnow.fr/jobs/companies/institut-mines-telecom/ingenieure-de-recherche-en-reactive-synthesis-cdd-12-mois-palaiseau-354078"
+    },
+    {
+      "id": "arbeitnow-une-gestionnaire-administrative-ou-un-gestionnaire-administratif-au-pole-international-cdd-12-mois-temps-incomplet-gardanne-209594",
+      "title": "Une Gestionnaire Administrative ou un Gestionnaire Administratif au Pôle International – CDD 12 mois – Temps Incomplet",
+      "company": "Institut Mines-Télécom",
+      "platform": "Arbeitnow",
+      "location": "GARDANNE, Provence-Alpes-Côte d'Azur, France",
+      "salary": "Competitive",
+      "type": "Full-time",
+      "tags": [
+        "Programmes et scolarité"
+      ],
+      "postedAt": "2026-09-19T22:30:11.000Z",
+      "url": "https://www.arbeitnow.fr/jobs/companies/institut-mines-telecom/une-gestionnaire-administrative-ou-un-gestionnaire-administratif-au-pole-international-cdd-12-mois-temps-incomplet-gardanne-209594"
+    },
+    {
+      "id": "arbeitnow-chargee-ou-charge-daffaires-incubateur-telecom-paris-cdd-36-mois-220117",
+      "title": "Chargée ou Chargé d'affaires Incubateur Télécom Paris - CDD 36 mois",
+      "company": "Institut Mines-Télécom",
       "platform": "Arbeitnow",
       "location": "Paris, Île-de-France, France",
       "salary": "Competitive",
       "type": "Full-time",
       "tags": [
-        "Marketing"
+        "Innovation et Recherche académique et partenariale"
       ],
-      "postedAt": "2026-09-19T19:30:29.000Z",
-      "url": "https://www.arbeitnow.fr/jobs/companies/ami-paris/alternance-assistante-performance-marketing-h-f-paris-118426"
+      "postedAt": "2026-09-19T22:30:11.000Z",
+      "url": "https://www.arbeitnow.fr/jobs/companies/institut-mines-telecom/chargee-ou-charge-daffaires-incubateur-telecom-paris-cdd-36-mois-220117"
     },
     {
-      "id": "arbeitnow-stage-assistante-performance-marketing-h-f-paris-65867",
-      "title": "Stage - Assistant.e Performance Marketing H/F",
-      "company": "AMI PARIS",
+      "id": "arbeitnow-gestionnaire-de-recettes-cdd-6-mois-palaiseau-157101",
+      "title": "Gestionnaire de recettes -CDD 6 mois",
+      "company": "Institut Mines-Télécom",
       "platform": "Arbeitnow",
-      "location": "Paris, Île-de-France, France",
+      "location": "Palaiseau, Île-de-France, France",
       "salary": "Competitive",
       "type": "Full-time",
       "tags": [
-        "Marketing"
+        "Gestion comptabilité-finances"
       ],
-      "postedAt": "2026-09-19T19:30:29.000Z",
-      "url": "https://www.arbeitnow.fr/jobs/companies/ami-paris/stage-assistante-performance-marketing-h-f-paris-65867"
+      "postedAt": "2026-09-19T22:30:11.000Z",
+      "url": "https://www.arbeitnow.fr/jobs/companies/institut-mines-telecom/gestionnaire-de-recettes-cdd-6-mois-palaiseau-157101"
+    },
+    {
+      "id": "arbeitnow-ingenieur-en-informatique-plateforme-pedagogique-pour-lia-projet-macmia-cdd-12-mois-saint-etienne-208122",
+      "title": "Ingénieur en informatique, plateforme pédagogique pour l’IA (Projet MACMIA) – CDD 12 mois",
+      "company": "Institut Mines-Télécom",
+      "platform": "Arbeitnow",
+      "location": "Saint-Etienne, Auvergne-Rhône-Alpes, France",
+      "salary": "Competitive",
+      "type": "Full-time",
+      "tags": [
+        "Informatique et Système d'information"
+      ],
+      "postedAt": "2026-09-19T22:30:11.000Z",
+      "url": "https://www.arbeitnow.fr/jobs/companies/institut-mines-telecom/ingenieur-en-informatique-plateforme-pedagogique-pour-lia-projet-macmia-cdd-12-mois-saint-etienne-208122"
+    },
+    {
+      "id": "arbeitnow-ingenieure-de-recherche-digital-twin-for-planning-in-surface-treatment-industries-h-f-cdd-18-mois-albi-28221",
+      "title": "Ingénieur.e de recherche : Digital Twin for Planning in Surface Treatment Industries (H/F) – CDD 18 MOIS",
+      "company": "Institut Mines-Télécom",
+      "platform": "Arbeitnow",
+      "location": "Albi, Occitanie, France",
+      "salary": "Competitive",
+      "type": "Full-time",
+      "tags": [],
+      "postedAt": "2026-09-19T22:30:11.000Z",
+      "url": "https://www.arbeitnow.fr/jobs/companies/institut-mines-telecom/ingenieure-de-recherche-digital-twin-for-planning-in-surface-treatment-industries-h-f-cdd-18-mois-albi-28221"
+    },
+    {
+      "id": "arbeitnow-ingenieure-de-developpement-systemes-interactifs-temps-reel-humain-ia-brest-349880",
+      "title": "Ingénieur∙e de développement — Systèmes interactifs temps réel humain-IA",
+      "company": "Institut Mines-Télécom",
+      "platform": "Arbeitnow",
+      "location": "Brest, Bretagne, France",
+      "salary": "Competitive",
+      "type": "Full-time",
+      "tags": [
+        "Data analytics et Intelligence artificielle"
+      ],
+      "postedAt": "2026-09-19T22:30:11.000Z",
+      "url": "https://www.arbeitnow.fr/jobs/companies/institut-mines-telecom/ingenieure-de-developpement-systemes-interactifs-temps-reel-humain-ia-brest-349880"
+    },
+    {
+      "id": "arbeitnow-gestionnaire-comptabilite-generale-recettes-cdi-de-droit-public-palaiseau-184425",
+      "title": "Gestionnaire Comptabilité Générale - Recettes (CDI de droit public)",
+      "company": "Institut Mines-Télécom",
+      "platform": "Arbeitnow",
+      "location": "PALAISEAU, Île-de-France, France",
+      "salary": "Competitive",
+      "type": "Full-time",
+      "tags": [
+        "Gestion comptabilité-finances"
+      ],
+      "postedAt": "2026-09-19T22:30:11.000Z",
+      "url": "https://www.arbeitnow.fr/jobs/companies/institut-mines-telecom/gestionnaire-comptabilite-generale-recettes-cdi-de-droit-public-palaiseau-184425"
+    },
+    {
+      "id": "arbeitnow-technicienne-ou-technicien-de-maintenance-tout-corps-detat-tce-cdd-12-mois-palaiseau-162278",
+      "title": "Technicienne ou technicien de maintenance tout corps d'état (TCE) - CDD 12 mois",
+      "company": "Institut Mines-Télécom",
+      "platform": "Arbeitnow",
+      "location": "Palaiseau, Île-de-France, France",
+      "salary": "Competitive",
+      "type": "Full-time",
+      "tags": [
+        "Immobilier et logistique"
+      ],
+      "postedAt": "2026-09-19T22:30:11.000Z",
+      "url": "https://www.arbeitnow.fr/jobs/companies/institut-mines-telecom/technicienne-ou-technicien-de-maintenance-tout-corps-detat-tce-cdd-12-mois-palaiseau-162278"
+    },
+    {
+      "id": "arbeitnow-stage-m2-recherche-en-optique-non-lineaire-appliquee-a-la-caracterisation-de-dispositifs-electroniques-neuromorphiques-6-mois-gardanne-322308",
+      "title": "Stage M2 : Recherche en optique non linéaire appliquée à la caractérisation de dispositifs électroniques neuromorphiques - 6 mois",
+      "company": "Institut Mines-Télécom",
+      "platform": "Arbeitnow",
+      "location": "GARDANNE, Provence-Alpes-Côte d'Azur, France",
+      "salary": "Competitive",
+      "type": "Full-time",
+      "tags": [
+        "Electronique et mécanique"
+      ],
+      "postedAt": "2026-09-19T22:30:11.000Z",
+      "url": "https://www.arbeitnow.fr/jobs/companies/institut-mines-telecom/stage-m2-recherche-en-optique-non-lineaire-appliquee-a-la-caracterisation-de-dispositifs-electroniques-neuromorphiques-6-mois-gardanne-322308"
+    },
+    {
+      "id": "arbeitnow-ingenieure-plateforme-cdd-12-mois-evry-458997",
+      "title": "Ingénieur·e Plateforme – CDD 12 mois",
+      "company": "Institut Mines-Télécom",
+      "platform": "Arbeitnow",
+      "location": "EVRY, Île-de-France, France",
+      "salary": "Competitive",
+      "type": "Full-time",
+      "tags": [
+        "Informatique et Système d'information"
+      ],
+      "postedAt": "2026-09-19T22:30:11.000Z",
+      "url": "https://www.arbeitnow.fr/jobs/companies/institut-mines-telecom/ingenieure-plateforme-cdd-12-mois-evry-458997"
+    },
+    {
+      "id": "arbeitnow-engineer-post-doc-position-offer-in-stretchable-electronics-optics-for-artificial-skin-12-months-gardanne-455345",
+      "title": "ENGINEER/POST-DOC POSITION OFFER : in Stretchable Electronics & Optics for Artificial Skin – 12 months",
+      "company": "Institut Mines-Télécom",
+      "platform": "Arbeitnow",
+      "location": "GARDANNE, Provence-Alpes-Côte d'Azur, France",
+      "salary": "Competitive",
+      "type": "Full-time",
+      "tags": [
+        "Electronique et mécanique"
+      ],
+      "postedAt": "2026-09-19T22:30:11.000Z",
+      "url": "https://www.arbeitnow.fr/jobs/companies/institut-mines-telecom/engineer-post-doc-position-offer-in-stretchable-electronics-optics-for-artificial-skin-12-months-gardanne-455345"
+    },
+    {
+      "id": "arbeitnow-post-doctorante-en-securite-et-protection-de-la-vie-privee-cdd-12-mois-evry-227900",
+      "title": "Post-doctorant·e en sécurité et protection de la vie privée - CDD 12 mois",
+      "company": "Institut Mines-Télécom",
+      "platform": "Arbeitnow",
+      "location": "EVRY, Île-de-France, France",
+      "salary": "Competitive",
+      "type": "Full-time",
+      "tags": [
+        "Informatique et Système d'information"
+      ],
+      "postedAt": "2026-09-19T22:30:11.000Z",
+      "url": "https://www.arbeitnow.fr/jobs/companies/institut-mines-telecom/post-doctorante-en-securite-et-protection-de-la-vie-privee-cdd-12-mois-evry-227900"
+    },
+    {
+      "id": "arbeitnow-remote-responsable-de-la-division-finances-cdi-palaiseau-258647",
+      "title": "Responsable de la division finances - CDI",
+      "company": "Institut Mines-Télécom",
+      "platform": "Arbeitnow",
+      "location": "Poste à distance",
+      "salary": "Competitive",
+      "type": "Full-time",
+      "tags": [
+        "Gestion comptabilité-finances",
+        "Remote"
+      ],
+      "postedAt": "2026-09-19T22:30:11.000Z",
+      "url": "https://www.arbeitnow.fr/jobs/companies/institut-mines-telecom/remote-responsable-de-la-division-finances-cdi-palaiseau-258647"
+    },
+    {
+      "id": "arbeitnow-operations-support-engineer-strasbourg-6979",
+      "title": "Operations Support Engineer",
+      "company": "European Dynamics",
+      "platform": "Arbeitnow",
+      "location": "Strasbourg, France",
+      "salary": "Competitive",
+      "type": "Full-time",
+      "tags": [
+        "Computer Software",
+        "PRD"
+      ],
+      "postedAt": "2026-09-19T22:20:12.000Z",
+      "url": "https://www.arbeitnow.fr/jobs/companies/european-dynamics/operations-support-engineer-strasbourg-6979"
+    },
+    {
+      "id": "arbeitnow-applied-ai-lead-london-416167",
+      "title": "Applied AI Lead",
+      "company": "Team Lead – Evergreen Product Management, Private Capital",
+      "platform": "Arbeitnow",
+      "location": "London",
+      "salary": "Competitive",
+      "type": "Full-time",
+      "tags": [
+        "Technology Management (Cost Center)"
+      ],
+      "postedAt": "2026-09-19T21:55:15.000Z",
+      "url": "https://www.arbeitnow.co.uk/jobs/companies/team-lead-evergreen-product-management-private-capital/applied-ai-lead-london-416167"
+    },
+    {
+      "id": "arbeitnow-design-manager-or-senior-design-manager-norway-stargate-norway-narvik-176659",
+      "title": "Design Manager or Senior Design Manager - Norway (Stargate Norway - Narvik)",
+      "company": "Nscaleoperationsukltd",
+      "platform": "Arbeitnow",
+      "location": "Remote",
+      "salary": "Competitive",
+      "type": "Full-time",
+      "tags": [
+        "Design EMEA"
+      ],
+      "postedAt": "2026-09-19T21:55:13.000Z",
+      "url": "https://www.arbeitnow.co.uk/jobs/companies/nscaleoperationsukltd/design-manager-or-senior-design-manager-norway-stargate-norway-narvik-176659"
+    },
+    {
+      "id": "arbeitnow-claims-manager-platform-partner-syndicates-london-4918",
+      "title": "Claims Manager, Platform Partner Syndicates",
+      "company": "Apollo",
+      "platform": "Arbeitnow",
+      "location": "London",
+      "salary": "Competitive",
+      "type": "Full-time",
+      "tags": [
+        "Claims"
+      ],
+      "postedAt": "2026-09-19T21:55:13.000Z",
+      "url": "https://www.arbeitnow.co.uk/jobs/companies/apollo/claims-manager-platform-partner-syndicates-london-4918"
+    },
+    {
+      "id": "arbeitnow-senior-product-manager-london-292604",
+      "title": "Senior Product Manager",
+      "company": "Reachdesk",
+      "platform": "Arbeitnow",
+      "location": "London",
+      "salary": "Competitive",
+      "type": "Full-time",
+      "tags": [
+        "Product & Technology"
+      ],
+      "postedAt": "2026-09-19T21:55:12.000Z",
+      "url": "https://www.arbeitnow.co.uk/jobs/companies/reachdesk/senior-product-manager-london-292604"
+    },
+    {
+      "id": "arbeitnow-account-director-life-science-292733",
+      "title": "Account Director (Life Science)",
+      "company": "Jack Morton Worldwide",
+      "platform": "Arbeitnow",
+      "location": "Remote",
+      "salary": "Competitive",
+      "type": "Full-time",
+      "tags": [
+        "Account Management"
+      ],
+      "postedAt": "2026-09-19T21:55:11.000Z",
+      "url": "https://www.arbeitnow.co.uk/jobs/companies/jack-morton-worldwide/account-director-life-science-292733"
+    },
+    {
+      "id": "arbeitnow-sales-director-south-home-based-314",
+      "title": "Sales Director - South",
+      "company": "Legal Counsel - 12 month FTC at Rightmove Greenhouse",
+      "platform": "Arbeitnow",
+      "location": "Home-based",
+      "salary": "Competitive",
+      "type": "Full-time",
+      "tags": [
+        "Revenue Leadership"
+      ],
+      "postedAt": "2026-09-19T21:55:11.000Z",
+      "url": "https://www.arbeitnow.co.uk/jobs/companies/legal-counsel-12-month-ftc-at-rightmove-greenhouse/sales-director-south-home-based-314"
+    },
+    {
+      "id": "arbeitnow-property-training-and-content-lead-milton-keynes-63085",
+      "title": "Property Training and Content Lead",
+      "company": "Legal Counsel - 12 month FTC at Rightmove Greenhouse",
+      "platform": "Arbeitnow",
+      "location": "Milton Keynes",
+      "salary": "Competitive",
+      "type": "Full-time",
+      "tags": [
+        "Partner Marketing"
+      ],
+      "postedAt": "2026-09-19T21:55:11.000Z",
+      "url": "https://www.arbeitnow.co.uk/jobs/companies/legal-counsel-12-month-ftc-at-rightmove-greenhouse/property-training-and-content-lead-milton-keynes-63085"
+    },
+    {
+      "id": "arbeitnow-professional-services-consultant-ai-security-london-392887",
+      "title": "Professional Services Consultant - AI Security",
+      "company": "Catonetworks",
+      "platform": "Arbeitnow",
+      "location": "London",
+      "salary": "Competitive",
+      "type": "Full-time",
+      "tags": [
+        "Professional Services"
+      ],
+      "postedAt": "2026-09-19T21:55:05.000Z",
+      "url": "https://www.arbeitnow.co.uk/jobs/companies/catonetworks/professional-services-consultant-ai-security-london-392887"
+    },
+    {
+      "id": "arbeitnow-customer-success-enterprise-london-379401",
+      "title": "Customer Success, Enterprise",
+      "company": "Airwallex",
+      "platform": "Arbeitnow",
+      "location": "UK - London",
+      "salary": "Competitive",
+      "type": "Full-time",
+      "tags": [
+        "Enterprise Business"
+      ],
+      "postedAt": "2026-09-19T21:40:12.000Z",
+      "url": "https://www.arbeitnow.co.uk/jobs/companies/airwallex/customer-success-enterprise-london-379401"
+    },
+    {
+      "id": "arbeitnow-account-manager-london-391718",
+      "title": "Account Manager",
+      "company": "Carwow",
+      "platform": "Arbeitnow",
+      "location": "London",
+      "salary": "Competitive",
+      "type": "Full-time",
+      "tags": [
+        "Get Your Car"
+      ],
+      "postedAt": "2026-09-19T21:40:07.000Z",
+      "url": "https://www.arbeitnow.co.uk/jobs/companies/carwow/account-manager-london-391718"
+    },
+    {
+      "id": "arbeitnow-inside-enterprise-account-executive-uk-london-439890",
+      "title": "Inside Enterprise Account Executive UK",
+      "company": "Dandy",
+      "platform": "Arbeitnow",
+      "location": "United Kingdom - London",
+      "salary": "Competitive",
+      "type": "Full-time",
+      "tags": [
+        "Commercial"
+      ],
+      "postedAt": "2026-09-19T21:40:06.000Z",
+      "url": "https://www.arbeitnow.co.uk/jobs/companies/dandy/inside-enterprise-account-executive-uk-london-439890"
+    },
+    {
+      "id": "arbeitnow-enterprise-account-executive-uk-london-251607",
+      "title": "Enterprise Account Executive UK",
+      "company": "Dandy",
+      "platform": "Arbeitnow",
+      "location": "United Kingdom - London",
+      "salary": "Competitive",
+      "type": "Full-time",
+      "tags": [
+        "Commercial"
+      ],
+      "postedAt": "2026-09-19T21:40:06.000Z",
+      "url": "https://www.arbeitnow.co.uk/jobs/companies/dandy/enterprise-account-executive-uk-london-251607"
     },
     {
       "id": "arbeitnow-trainer-321622",
@@ -925,34 +1456,6 @@
       "url": "https://www.arbeitnow.fr/jobs/companies/ami-paris/stage-assistante-buying-retail-merchandising-h-f-paris-326397"
     },
     {
-      "id": "arbeitnow-stage-assistante-controle-de-gestion-international-h-f-paris-173591",
-      "title": "Stage - Assistant.e contrôle de gestion (international) H/F",
-      "company": "AMI PARIS",
-      "platform": "Arbeitnow",
-      "location": "Paris, Île-de-France, France",
-      "salary": "Competitive",
-      "type": "Full-time",
-      "tags": [
-        "Contrôle de Gestion"
-      ],
-      "postedAt": "2026-09-19T19:30:29.000Z",
-      "url": "https://www.arbeitnow.fr/jobs/companies/ami-paris/stage-assistante-controle-de-gestion-international-h-f-paris-173591"
-    },
-    {
-      "id": "arbeitnow-stage-assistante-controle-de-gestion-marketing-communication-et-frais-centraux-h-f-paris-118319",
-      "title": "Stage - Assistant.e Contrôle de gestion (Marketing Communication et Frais centraux) H/F",
-      "company": "AMI PARIS",
-      "platform": "Arbeitnow",
-      "location": "Paris, Île-de-France, France",
-      "salary": "Competitive",
-      "type": "Full-time",
-      "tags": [
-        "Contrôle de Gestion"
-      ],
-      "postedAt": "2026-09-19T19:30:29.000Z",
-      "url": "https://www.arbeitnow.fr/jobs/companies/ami-paris/stage-assistante-controle-de-gestion-marketing-communication-et-frais-centraux-h-f-paris-118319"
-    },
-    {
       "id": "arbeitnow-infrastructure-market-expert-london-476987",
       "title": "Infrastructure Market Expert",
       "company": "Authority.inc",
@@ -966,74 +1469,6 @@
       ],
       "postedAt": "2026-09-19T19:30:25.000Z",
       "url": "https://www.arbeitnow.co.uk/jobs/companies/authorityinc/infrastructure-market-expert-london-476987"
-    },
-    {
-      "id": "arbeitnow-charge-daffaires-secteur-public-h-f-villeurbanne-315516",
-      "title": "Chargé d'affaires secteur public h/f",
-      "company": "Nomios",
-      "platform": "Arbeitnow",
-      "location": "Villeurbanne, Auvergne-Rhône-Alpes, France",
-      "salary": "Competitive",
-      "type": "Full-time",
-      "tags": [
-        "Commerce"
-      ],
-      "postedAt": "2026-09-19T19:30:20.000Z",
-      "url": "https://www.arbeitnow.fr/jobs/companies/nomios/charge-daffaires-secteur-public-h-f-villeurbanne-315516"
-    },
-    {
-      "id": "arbeitnow-head-of-kyc-cdi-f-h-paris-348815",
-      "title": "Head of KYC  - CDI (F/H)",
-      "company": "Lemonway",
-      "platform": "Arbeitnow",
-      "location": "Paris, Île-de-France, France",
-      "salary": "Competitive",
-      "type": "Full-time",
-      "tags": [
-        "Compliance"
-      ],
-      "postedAt": "2026-09-19T19:30:19.000Z",
-      "url": "https://www.arbeitnow.fr/jobs/companies/lemonway/head-of-kyc-cdi-f-h-paris-348815"
-    },
-    {
-      "id": "arbeitnow-head-of-regulatory-cdi-f-h-paris-454790",
-      "title": "Head of Regulatory  - CDI (F/H)",
-      "company": "Lemonway",
-      "platform": "Arbeitnow",
-      "location": "Paris, Île-de-France, France",
-      "salary": "Competitive",
-      "type": "Full-time",
-      "tags": [
-        "Compliance"
-      ],
-      "postedAt": "2026-09-19T19:30:19.000Z",
-      "url": "https://www.arbeitnow.fr/jobs/companies/lemonway/head-of-regulatory-cdi-f-h-paris-454790"
-    },
-    {
-      "id": "arbeitnow-head-of-internal-control-operational-risk-cdi-f-h-paris-206178",
-      "title": "Head of Internal Control, Operational Risk - CDI (F/H)",
-      "company": "Lemonway",
-      "platform": "Arbeitnow",
-      "location": "Paris, Île-de-France, France",
-      "salary": "Competitive",
-      "type": "Full-time",
-      "tags": [],
-      "postedAt": "2026-09-19T19:30:19.000Z",
-      "url": "https://www.arbeitnow.fr/jobs/companies/lemonway/head-of-internal-control-operational-risk-cdi-f-h-paris-206178"
-    },
-    {
-      "id": "arbeitnow-account-manager-international-paris-80627",
-      "title": "Account Manager, International",
-      "company": "Lemonway",
-      "platform": "Arbeitnow",
-      "location": "Paris, Île-de-France, France",
-      "salary": "Competitive",
-      "type": "Full-time",
-      "tags": [
-        "Sales-Marketing"
-      ],
-      "postedAt": "2026-09-19T19:30:19.000Z",
-      "url": "https://www.arbeitnow.fr/jobs/companies/lemonway/account-manager-international-paris-80627"
     },
     {
       "id": "arbeitnow-data-centre-market-expert-london-400565",
@@ -1233,34 +1668,6 @@
       "url": "https://www.arbeitnow.co.uk/jobs/companies/constructor/remote-staff-product-manager-agentic-discovery-239704"
     },
     {
-      "id": "arbeitnow-stagiaire-rh-soho-house-paris-paris-paris-274851",
-      "title": "Stagiaire RH - Soho House Paris",
-      "company": "Sohohouseco",
-      "platform": "Arbeitnow",
-      "location": "Paris, Paris",
-      "salary": "Competitive",
-      "type": "Full-time",
-      "tags": [
-        "People (HR)"
-      ],
-      "postedAt": "2026-09-19T16:55:06.000Z",
-      "url": "https://www.arbeitnow.fr/jobs/companies/sohohouseco/stagiaire-rh-soho-house-paris-paris-paris-274851"
-    },
-    {
-      "id": "arbeitnow-extra-receptionnaire-marchandises-soho-house-paris-h-f-paris-paris-156503",
-      "title": "Extra Réceptionnaire marchandises - Soho House Paris H/F",
-      "company": "Sohohouseco",
-      "platform": "Arbeitnow",
-      "location": "Paris, Paris",
-      "salary": "Competitive",
-      "type": "Full-time",
-      "tags": [
-        "Food & Beverage"
-      ],
-      "postedAt": "2026-09-19T16:55:06.000Z",
-      "url": "https://www.arbeitnow.fr/jobs/companies/sohohouseco/extra-receptionnaire-marchandises-soho-house-paris-h-f-paris-paris-156503"
-    },
-    {
       "id": "arbeitnow-data-analyst-supply-288300",
       "title": "Data Analyst - Supply",
       "company": "prolific",
@@ -1383,143 +1790,6 @@
       "tags": [],
       "postedAt": "2026-09-19T14:45:30.000Z",
       "url": "https://www.arbeitnow.co.uk/jobs/companies/samsara/regional-sales-director-strategic-enterprise-uk-london-490501"
-    },
-    {
-      "id": "arbeitnow-principal-security-engineer-paris-210071",
-      "title": "Principal Security Engineer",
-      "company": "Vibe",
-      "platform": "Arbeitnow",
-      "location": "Paris",
-      "salary": "Competitive",
-      "type": "Full-time",
-      "tags": [
-        "Engineering & Product"
-      ],
-      "postedAt": "2026-09-19T13:40:11.000Z",
-      "url": "https://www.arbeitnow.fr/jobs/companies/vibe/principal-security-engineer-paris-210071"
-    },
-    {
-      "id": "arbeitnow-centrale-lyon-enise-ingenieur-de-recherche-st-etienne-336915",
-      "title": "CENTRALE LYON ENISE - Ingénieur de Recherche",
-      "company": "CENTRALE LYON",
-      "platform": "Arbeitnow",
-      "location": "St Etienne, Auvergne-Rhône-Alpes, France",
-      "salary": "Competitive",
-      "type": "Full-time",
-      "tags": [
-        "LTDS - Laboratoire de Tribologie et Dynamique des Systèmes"
-      ],
-      "postedAt": "2026-09-19T13:30:23.000Z",
-      "url": "https://www.arbeitnow.fr/jobs/companies/centrale-lyon/centrale-lyon-enise-ingenieur-de-recherche-st-etienne-336915"
-    },
-    {
-      "id": "arbeitnow-centrale-lyon-phd-silicon-photonics-for-scalable-energy-efficient-ai-hardware-accelerators-ecully-86888",
-      "title": "CENTRALE LYON - PhD Silicon Photonics for Scalable Energy-Efficient AI Hardware Accelerators",
-      "company": "CENTRALE LYON",
-      "platform": "Arbeitnow",
-      "location": "Ecully, Auvergne-Rhône-Alpes, France",
-      "salary": "Competitive",
-      "type": "Full-time",
-      "tags": [
-        "INL - Institut des Nanotechnologies de Lyon"
-      ],
-      "postedAt": "2026-09-19T13:30:23.000Z",
-      "url": "https://www.arbeitnow.fr/jobs/companies/centrale-lyon/centrale-lyon-phd-silicon-photonics-for-scalable-energy-efficient-ai-hardware-accelerators-ecully-86888"
-    },
-    {
-      "id": "arbeitnow-remote-senior-regulatory-cmc-project-lead-saclay-322466",
-      "title": "Senior Regulatory CMC Project lead",
-      "company": "Excelya",
-      "platform": "Arbeitnow",
-      "location": "Saclay, France",
-      "salary": "Competitive",
-      "type": "Full-time",
-      "tags": [
-        "Operations",
-        "Remote"
-      ],
-      "postedAt": "2026-09-19T13:20:14.000Z",
-      "url": "https://www.arbeitnow.fr/jobs/companies/excelya/remote-senior-regulatory-cmc-project-lead-saclay-322466"
-    },
-    {
-      "id": "arbeitnow-responsable-affaires-reglementaires-dispositif-medical-dijon-243410",
-      "title": "Responsable Affaires réglementaires / Dispositif Médical",
-      "company": "Excelya",
-      "platform": "Arbeitnow",
-      "location": "Dijon, France",
-      "salary": "Competitive",
-      "type": "Full-time",
-      "tags": [
-        "Consulting",
-        "Pharmaceuticals",
-        "Operations"
-      ],
-      "postedAt": "2026-09-19T13:20:14.000Z",
-      "url": "https://www.arbeitnow.fr/jobs/companies/excelya/responsable-affaires-reglementaires-dispositif-medical-dijon-243410"
-    },
-    {
-      "id": "arbeitnow-ingenieur-qualite-design-control-vv-boulogne-billancourt-484108",
-      "title": "Ingénieur Qualité - Design Control / V&V",
-      "company": "Excelya",
-      "platform": "Arbeitnow",
-      "location": "Boulogne-Billancourt, France",
-      "salary": "Competitive",
-      "type": "Full-time",
-      "tags": [
-        "Consulting",
-        "Pharmaceuticals",
-        "Operations"
-      ],
-      "postedAt": "2026-09-19T13:20:14.000Z",
-      "url": "https://www.arbeitnow.fr/jobs/companies/excelya/ingenieur-qualite-design-control-vv-boulogne-billancourt-484108"
-    },
-    {
-      "id": "arbeitnow-ingenieur-automatisme-et-informatique-industrielle-gidy-252357",
-      "title": "Ingénieur Automatisme et Informatique Industrielle",
-      "company": "Excelya",
-      "platform": "Arbeitnow",
-      "location": "Gidy, France",
-      "salary": "Competitive",
-      "type": "Full-time",
-      "tags": [
-        "Production",
-        "Biotechnology",
-        "Operations"
-      ],
-      "postedAt": "2026-09-19T13:20:14.000Z",
-      "url": "https://www.arbeitnow.fr/jobs/companies/excelya/ingenieur-automatisme-et-informatique-industrielle-gidy-252357"
-    },
-    {
-      "id": "arbeitnow-business-process-manager-reglementaire-boulogne-billancourt-415051",
-      "title": "Business Process Manager (Réglementaire)",
-      "company": "Excelya",
-      "platform": "Arbeitnow",
-      "location": "Boulogne-Billancourt, France",
-      "salary": "Competitive",
-      "type": "Full-time",
-      "tags": [
-        "Consulting",
-        "Pharmaceuticals",
-        "Operations"
-      ],
-      "postedAt": "2026-09-19T13:20:14.000Z",
-      "url": "https://www.arbeitnow.fr/jobs/companies/excelya/business-process-manager-reglementaire-boulogne-billancourt-415051"
-    },
-    {
-      "id": "arbeitnow-international-key-account-manager-h-f-issy-les-moulineaux-271851",
-      "title": "International Key Account Manager (H/F)",
-      "company": "Withings",
-      "platform": "Arbeitnow",
-      "location": "Issy-les-Moulineaux, France",
-      "salary": "Competitive",
-      "type": "Full-time",
-      "tags": [
-        "Sales",
-        "Consumer Electronics",
-        "Planning & Opérations"
-      ],
-      "postedAt": "2026-09-19T13:20:08.000Z",
-      "url": "https://www.arbeitnow.fr/jobs/companies/withings/international-key-account-manager-h-f-issy-les-moulineaux-271851"
     },
     {
       "id": "jobicy-153675",
@@ -1872,242 +2142,6 @@
       "tags": [],
       "postedAt": "2026-09-19T12:42:03+00:00",
       "url": "https://jobicy.com/jobs/153640-director-emea-government-affairs-public-policy"
-    },
-    {
-      "id": "jobicy-153645",
-      "title": "Strategic Account Executive",
-      "company": "Paddle",
-      "platform": "Jobicy",
-      "location": "UK",
-      "salary": "Competitive",
-      "type": "Full-Time",
-      "tags": [],
-      "postedAt": "2026-09-19T12:42:02+00:00",
-      "url": "https://jobicy.com/jobs/153645-strategic-account-executive-10"
-    },
-    {
-      "id": "jobicy-153641",
-      "title": "Engineering Manager (Platform - Application Excellence)",
-      "company": "Paddle",
-      "platform": "Jobicy",
-      "location": "Ireland,  Portugal,  UK",
-      "salary": "Competitive",
-      "type": "Full-Time",
-      "tags": [],
-      "postedAt": "2026-09-19T12:42:02+00:00",
-      "url": "https://jobicy.com/jobs/153641-engineering-manager-platform-application-excellence"
-    },
-    {
-      "id": "arbeitnow-manager-solutions-consultants-uki-london-30917",
-      "title": "Manager, Solutions Consultants, UKI",
-      "company": "Notion",
-      "platform": "Arbeitnow",
-      "location": "London, United Kingdom",
-      "salary": "Competitive",
-      "type": "Full-time",
-      "tags": [
-        "Sales"
-      ],
-      "postedAt": "2026-09-19T12:40:11.000Z",
-      "url": "https://www.arbeitnow.co.uk/jobs/companies/notion/manager-solutions-consultants-uki-london-30917"
-    },
-    {
-      "id": "arbeitnow-business-development-representative-emea-uk-bracknell-290741",
-      "title": "Business Development Representative, EMEA - UK",
-      "company": "Menlosecurity",
-      "platform": "Arbeitnow",
-      "location": "EMEA - UK",
-      "salary": "Competitive",
-      "type": "Full-time",
-      "tags": [
-        "Sales"
-      ],
-      "postedAt": "2026-09-19T12:40:06.000Z",
-      "url": "https://www.arbeitnow.co.uk/jobs/companies/menlosecurity/business-development-representative-emea-uk-bracknell-290741"
-    },
-    {
-      "id": "arbeitnow-international-data-acquisition-manager-london-418759",
-      "title": "International Data Acquisition Manager",
-      "company": "Socure",
-      "platform": "Arbeitnow",
-      "location": "United Kingdom - Remote",
-      "salary": "Competitive",
-      "type": "Full-time",
-      "tags": [
-        "AI and Data"
-      ],
-      "postedAt": "2026-09-19T12:40:06.000Z",
-      "url": "https://www.arbeitnow.co.uk/jobs/companies/socure/international-data-acquisition-manager-london-418759"
-    },
-    {
-      "id": "arbeitnow-sales-manager-manchester-104091",
-      "title": "Sales Manager",
-      "company": "Mitti",
-      "platform": "Arbeitnow",
-      "location": "Manchester",
-      "salary": "Competitive",
-      "type": "Full-time",
-      "tags": [
-        "GTM"
-      ],
-      "postedAt": "2026-09-19T12:40:03.000Z",
-      "url": "https://www.arbeitnow.co.uk/jobs/companies/mitti/sales-manager-manchester-104091"
-    },
-    {
-      "id": "jobicy-153639",
-      "title": "Security Engineer",
-      "company": "Roboflow",
-      "platform": "Jobicy",
-      "location": "Europe,  USA",
-      "salary": "Competitive",
-      "type": "Full-Time",
-      "tags": [],
-      "postedAt": "2026-09-19T12:39:54+00:00",
-      "url": "https://jobicy.com/jobs/153639-security-engineer-2"
-    },
-    {
-      "id": "jobicy-153637",
-      "title": "Growth Marketing",
-      "company": "Roboflow",
-      "platform": "Jobicy",
-      "location": "USA",
-      "salary": "Competitive",
-      "type": "Full-Time",
-      "tags": [],
-      "postedAt": "2026-09-19T12:39:52+00:00",
-      "url": "https://jobicy.com/jobs/153637-growth-marketing"
-    },
-    {
-      "id": "jobicy-153634",
-      "title": "Named Technical Support Engineer",
-      "company": "Roboflow",
-      "platform": "Jobicy",
-      "location": "USA",
-      "salary": "Competitive",
-      "type": "Full-Time",
-      "tags": [],
-      "postedAt": "2026-09-19T12:39:52+00:00",
-      "url": "https://jobicy.com/jobs/153634-named-technical-support-engineer"
-    },
-    {
-      "id": "jobicy-153633",
-      "title": "Account Executive - Commercial (ComS114)",
-      "company": "Defense Unicorns",
-      "platform": "Jobicy",
-      "location": "USA",
-      "salary": "Competitive",
-      "type": "Full-Time",
-      "tags": [],
-      "postedAt": "2026-09-19T12:39:52+00:00",
-      "url": "https://jobicy.com/jobs/153633-account-executive-commercial-coms114"
-    },
-    {
-      "id": "jobicy-153630",
-      "title": "Account Executive — Aerospace & Mission Systems (ComS050)",
-      "company": "Defense Unicorns",
-      "platform": "Jobicy",
-      "location": "USA",
-      "salary": "Competitive",
-      "type": "Full-Time",
-      "tags": [],
-      "postedAt": "2026-09-19T12:39:52+00:00",
-      "url": "https://jobicy.com/jobs/153630-account-executive-aerospace-mission-systems-coms050"
-    },
-    {
-      "id": "jobicy-153635",
-      "title": "Senior Implementation Consultant | UK",
-      "company": "Degreed",
-      "platform": "Jobicy",
-      "location": "UK",
-      "salary": "Competitive",
-      "type": "Full-Time",
-      "tags": [],
-      "postedAt": "2026-09-19T12:39:51+00:00",
-      "url": "https://jobicy.com/jobs/153635-senior-implementation-consultant-uk"
-    },
-    {
-      "id": "jobicy-153632",
-      "title": "Sales Director, NAMER | US",
-      "company": "Degreed",
-      "platform": "Jobicy",
-      "location": "USA",
-      "salary": "Competitive",
-      "type": "Full-Time",
-      "tags": [],
-      "postedAt": "2026-09-19T12:39:51+00:00",
-      "url": "https://jobicy.com/jobs/153632-sales-director-namer-us"
-    },
-    {
-      "id": "jobicy-153631",
-      "title": "Technical Recruiter",
-      "company": "Roboflow",
-      "platform": "Jobicy",
-      "location": "USA",
-      "salary": "Competitive",
-      "type": "Full-Time",
-      "tags": [],
-      "postedAt": "2026-09-19T12:39:51+00:00",
-      "url": "https://jobicy.com/jobs/153631-technical-recruiter"
-    },
-    {
-      "id": "jobicy-153625",
-      "title": "Staff Product Manager, Fintech New Bets",
-      "company": "Jobber",
-      "platform": "Jobicy",
-      "location": "Canada",
-      "salary": "Competitive",
-      "type": "Full-Time",
-      "tags": [],
-      "postedAt": "2026-09-19T12:38:40+00:00",
-      "url": "https://jobicy.com/jobs/153625-staff-product-manager-fintech-new-bets"
-    },
-    {
-      "id": "jobicy-153627",
-      "title": "Director, Global Payroll",
-      "company": "Ping Identity",
-      "platform": "Jobicy",
-      "location": "USA",
-      "salary": "Competitive",
-      "type": "Full-Time",
-      "tags": [],
-      "postedAt": "2026-09-19T12:38:39+00:00",
-      "url": "https://jobicy.com/jobs/153627-director-global-payroll"
-    },
-    {
-      "id": "jobicy-153623",
-      "title": "Demo Engineering Business Analyst",
-      "company": "Ping Identity",
-      "platform": "Jobicy",
-      "location": "UK",
-      "salary": "Competitive",
-      "type": "Full-Time",
-      "tags": [],
-      "postedAt": "2026-09-19T12:38:39+00:00",
-      "url": "https://jobicy.com/jobs/153623-demo-engineering-business-analyst"
-    },
-    {
-      "id": "jobicy-153628",
-      "title": "Associate Director, B2B Strategy",
-      "company": "Wpromote",
-      "platform": "Jobicy",
-      "location": "USA",
-      "salary": "Competitive",
-      "type": "Full-Time",
-      "tags": [],
-      "postedAt": "2026-09-19T12:38:38+00:00",
-      "url": "https://jobicy.com/jobs/153628-associate-director-b2b-strategy"
-    },
-    {
-      "id": "jobicy-153626",
-      "title": "Professional Services Engineer II - West",
-      "company": "Tines",
-      "platform": "Jobicy",
-      "location": "USA",
-      "salary": "Competitive",
-      "type": "Full-Time",
-      "tags": [],
-      "postedAt": "2026-09-19T12:38:38+00:00",
-      "url": "https://jobicy.com/jobs/153626-professional-services-engineer-ii-west"
     }
   ]
 }
