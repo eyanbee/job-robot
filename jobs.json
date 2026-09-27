@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-09-27T19:12:40.105Z",
+  "lastUpdated": "2026-09-27T22:31:04.154Z",
   "jobs": [
     {
       "id": "remoteok-1137391",
@@ -350,20 +350,6 @@
       "url": "https://www.arbeitnow.co.uk/jobs/companies/thehutgroup/talent-acquisition-executive-thg-nutrition-myprotein-manchester-369635"
     },
     {
-      "id": "arbeitnow-talent-acquisition-engineer-london-149441",
-      "title": "Talent Acquisition Engineer",
-      "company": "Scarlet",
-      "platform": "Arbeitnow",
-      "location": "London Office",
-      "salary": "Competitive",
-      "type": "Full-time",
-      "tags": [
-        "Talent"
-      ],
-      "postedAt": "2026-09-27T06:40:08.000Z",
-      "url": "https://www.arbeitnow.co.uk/jobs/companies/scarlet/talent-acquisition-engineer-london-149441"
-    },
-    {
       "id": "jobicy-151817",
       "title": "Mortgage Loan Officer (MLO)",
       "company": "LendingTree",
@@ -414,6 +400,35 @@
       "tags": [],
       "postedAt": "2026-09-27T07:25:10+00:00",
       "url": "https://jobicy.com/jobs/151832-forward-deployed-product-manager-ai-agent-emea"
+    },
+    {
+      "id": "arbeitnow-hr-eor-operations-manager-switherland-159439",
+      "title": "HR & EOR Operations Manager",
+      "company": "Onhires",
+      "platform": "Arbeitnow",
+      "location": "Switherland",
+      "salary": "Competitive",
+      "type": "Full-time",
+      "tags": [
+        "Finance / Legal"
+      ],
+      "postedAt": "2026-09-27T20:40:10.000Z",
+      "url": "https://www.arbeitnow.ch/jobs/companies/onhires/hr-eor-operations-manager-switherland-159439"
+    },
+    {
+      "id": "arbeitnow-campaign-operations-manager-london-341670",
+      "title": "Campaign Operations Manager",
+      "company": "Carwow",
+      "platform": "Arbeitnow",
+      "location": "London",
+      "salary": "Competitive",
+      "type": "Full-time",
+      "tags": [
+        "Customer",
+        "Marketing & Media"
+      ],
+      "postedAt": "2026-09-27T18:40:09.000Z",
+      "url": "https://www.arbeitnow.co.uk/jobs/companies/carwow/campaign-operations-manager-london-341670"
     },
     {
       "id": "arbeitnow-revenue-operations-manager-switzerland-lausanne-126506",
@@ -471,6 +486,437 @@
       ],
       "postedAt": "2026-09-27T10:40:09.000Z",
       "url": "https://www.arbeitnow.fr/jobs/companies/zefir/acquisition-lead-performance-marketing-paris-371241"
+    },
+    {
+      "id": "arbeitnow-senior-community-operation-manager-london-454965",
+      "title": "Senior Community Operation Manager",
+      "company": "sonyinteractiveentertainmentglobal",
+      "platform": "Arbeitnow",
+      "location": "London",
+      "salary": "Competitive",
+      "type": "Full-time",
+      "tags": [
+        "Admin (Business & Product)"
+      ],
+      "postedAt": "2026-09-27T21:55:20.000Z",
+      "url": "https://www.arbeitnow.co.uk/jobs/companies/sonyinteractiveentertainmentglobal/senior-community-operation-manager-london-454965"
+    },
+    {
+      "id": "arbeitnow-security-analytics-engineer-london-453235",
+      "title": "Security Analytics Engineer",
+      "company": "sonyinteractiveentertainmentglobal",
+      "platform": "Arbeitnow",
+      "location": "London",
+      "salary": "Competitive",
+      "type": "Full-time",
+      "tags": [
+        "Information Security"
+      ],
+      "postedAt": "2026-09-27T21:55:20.000Z",
+      "url": "https://www.arbeitnow.co.uk/jobs/companies/sonyinteractiveentertainmentglobal/security-analytics-engineer-london-453235"
+    },
+    {
+      "id": "arbeitnow-lead-solutions-architect-generative-ai-emea-emerging-dnb-210255",
+      "title": "Lead Solutions Architect - Generative AI (EMEA Emerging DNB)",
+      "company": "databricks",
+      "platform": "Arbeitnow",
+      "location": "Remote",
+      "salary": "Competitive",
+      "type": "Full-time",
+      "tags": [
+        "Field Engineering - Other"
+      ],
+      "postedAt": "2026-09-27T21:55:16.000Z",
+      "url": "https://www.arbeitnow.co.uk/jobs/companies/databricks/lead-solutions-architect-generative-ai-emea-emerging-dnb-210255"
+    },
+    {
+      "id": "arbeitnow-strategy-director-media-strategy-london-298468",
+      "title": "Strategy Director, Media Strategy",
+      "company": "wppmedia",
+      "platform": "Arbeitnow",
+      "location": "London",
+      "salary": "Competitive",
+      "type": "Full-time",
+      "tags": [
+        "Media Management & Delivery"
+      ],
+      "postedAt": "2026-09-27T21:55:07.000Z",
+      "url": "https://www.arbeitnow.co.uk/jobs/companies/wppmedia/strategy-director-media-strategy-london-298468"
+    },
+    {
+      "id": "arbeitnow-director-solutions-activation-london-220035",
+      "title": "Director, Solutions, Activation",
+      "company": "wppmedia",
+      "platform": "Arbeitnow",
+      "location": "London",
+      "salary": "Competitive",
+      "type": "Full-time",
+      "tags": [
+        "Media Management & Delivery"
+      ],
+      "postedAt": "2026-09-27T21:55:07.000Z",
+      "url": "https://www.arbeitnow.co.uk/jobs/companies/wppmedia/director-solutions-activation-london-220035"
+    },
+    {
+      "id": "arbeitnow-director-planning-london-56723",
+      "title": "Director, Planning",
+      "company": "wppmedia",
+      "platform": "Arbeitnow",
+      "location": "London",
+      "salary": "Competitive",
+      "type": "Full-time",
+      "tags": [
+        "Client Teams"
+      ],
+      "postedAt": "2026-09-27T21:55:07.000Z",
+      "url": "https://www.arbeitnow.co.uk/jobs/companies/wppmedia/director-planning-london-56723"
+    },
+    {
+      "id": "arbeitnow-head-of-risk-operations-london-236602",
+      "title": "Head of Risk Operations",
+      "company": "Airwallex",
+      "platform": "Arbeitnow",
+      "location": "UK - London",
+      "salary": "Competitive",
+      "type": "Full-time",
+      "tags": [
+        "Operations"
+      ],
+      "postedAt": "2026-09-27T21:40:03.000Z",
+      "url": "https://www.arbeitnow.co.uk/jobs/companies/airwallex/head-of-risk-operations-london-236602"
+    },
+    {
+      "id": "arbeitnow-head-of-onboarding-fincrime-operations-london-178102",
+      "title": "Head of Onboarding & FinCrime Operations",
+      "company": "Airwallex",
+      "platform": "Arbeitnow",
+      "location": "UK - London",
+      "salary": "Competitive",
+      "type": "Full-time",
+      "tags": [
+        "Operations"
+      ],
+      "postedAt": "2026-09-27T21:40:03.000Z",
+      "url": "https://www.arbeitnow.co.uk/jobs/companies/airwallex/head-of-onboarding-fincrime-operations-london-178102"
+    },
+    {
+      "id": "arbeitnow-senior-associate-regulatory-compliance-london-27300",
+      "title": "Senior Associate Regulatory Compliance",
+      "company": "Airwallex",
+      "platform": "Arbeitnow",
+      "location": "UK - London",
+      "salary": "Competitive",
+      "type": "Full-time",
+      "tags": [
+        "Regulatory & Compliance"
+      ],
+      "postedAt": "2026-09-27T21:40:03.000Z",
+      "url": "https://www.arbeitnow.co.uk/jobs/companies/airwallex/senior-associate-regulatory-compliance-london-27300"
+    },
+    {
+      "id": "arbeitnow-enterprise-ai-solutions-consultant-london-311805",
+      "title": "Enterprise AI Solutions Consultant (London)",
+      "company": "TransPerfect",
+      "platform": "Arbeitnow",
+      "location": "London, Greater London, United Kingdom",
+      "salary": "Competitive",
+      "type": "Full-time",
+      "tags": [
+        "Sales"
+      ],
+      "postedAt": "2026-09-27T21:30:37.000Z",
+      "url": "https://www.arbeitnow.co.uk/jobs/companies/transperfect/enterprise-ai-solutions-consultant-london-311805"
+    },
+    {
+      "id": "arbeitnow-remote-slovenian-language-trainer-anywhere-in-emea-region-226625",
+      "title": "Slovenian language trainer",
+      "company": "TransPerfect",
+      "platform": "Arbeitnow",
+      "location": "Remote job",
+      "salary": "Competitive",
+      "type": "Full-time",
+      "tags": [
+        "Remote"
+      ],
+      "postedAt": "2026-09-27T21:30:37.000Z",
+      "url": "https://www.arbeitnow.co.uk/jobs/companies/transperfect/remote-slovenian-language-trainer-anywhere-in-emea-region-226625"
+    },
+    {
+      "id": "arbeitnow-remote-croatian-language-trainer-anywhere-in-emea-region-449504",
+      "title": "Croatian language trainer",
+      "company": "TransPerfect",
+      "platform": "Arbeitnow",
+      "location": "Remote job",
+      "salary": "Competitive",
+      "type": "Full-time",
+      "tags": [
+        "Remote"
+      ],
+      "postedAt": "2026-09-27T21:30:37.000Z",
+      "url": "https://www.arbeitnow.co.uk/jobs/companies/transperfect/remote-croatian-language-trainer-anywhere-in-emea-region-449504"
+    },
+    {
+      "id": "arbeitnow-outside-account-manager-switzerland-241276",
+      "title": "Outside Account Manager - Switzerland",
+      "company": "Cannondale",
+      "platform": "Arbeitnow",
+      "location": "Remote",
+      "salary": "Competitive",
+      "type": "Full-time",
+      "tags": [
+        "Sales - Cannondale"
+      ],
+      "postedAt": "2026-09-27T20:55:11.000Z",
+      "url": "https://www.arbeitnow.ch/jobs/companies/cannondale/outside-account-manager-switzerland-241276"
+    },
+    {
+      "id": "arbeitnow-account-executive-wallisellen-62205",
+      "title": "Account Executive",
+      "company": "Commvault",
+      "platform": "Arbeitnow",
+      "location": "Wallisellen",
+      "salary": "Competitive",
+      "type": "Full-time",
+      "tags": [
+        "Field Sales Rep - Front Line"
+      ],
+      "postedAt": "2026-09-27T20:55:08.000Z",
+      "url": "https://www.arbeitnow.ch/jobs/companies/commvault/account-executive-wallisellen-62205"
+    },
+    {
+      "id": "arbeitnow-enterprise-account-executive-zurich-remote-238929",
+      "title": "Enterprise Account Executive  - Zurich Remote",
+      "company": "Monday.com",
+      "platform": "Arbeitnow",
+      "location": "Zurich (Remote)",
+      "salary": "Competitive",
+      "type": "Full-time",
+      "tags": [
+        "Consulting"
+      ],
+      "postedAt": "2026-09-27T20:40:08.000Z",
+      "url": "https://www.arbeitnow.ch/jobs/companies/mondaycom/enterprise-account-executive-zurich-remote-238929"
+    },
+    {
+      "id": "arbeitnow-head-of-demand-generation-remote-united-kingdom-48323",
+      "title": "Head of Demand Generation (Remote, United Kingdom)",
+      "company": "Easygenerator",
+      "platform": "Arbeitnow",
+      "location": "Remote",
+      "salary": "Competitive",
+      "type": "Full-time",
+      "tags": [
+        "Revenue"
+      ],
+      "postedAt": "2026-09-27T20:40:05.000Z",
+      "url": "https://www.arbeitnow.ch/jobs/companies/easygenerator/head-of-demand-generation-remote-united-kingdom-48323"
+    },
+    {
+      "id": "arbeitnow-cybersecurity-engineer-zero-trust-zurich-289078",
+      "title": "Cybersecurity Engineer - Zero Trust",
+      "company": "Cogify Ag 1",
+      "platform": "Arbeitnow",
+      "location": "Zürich, Switzerland",
+      "salary": "Competitive",
+      "type": "Full-time",
+      "tags": [
+        "Engineering",
+        "Computer Software",
+        "cogify"
+      ],
+      "postedAt": "2026-09-27T20:20:11.000Z",
+      "url": "https://www.arbeitnow.ch/jobs/companies/cogify-ag-1/cybersecurity-engineer-zero-trust-zurich-289078"
+    },
+    {
+      "id": "arbeitnow-cybersecurity-engineer-zero-trust-root-319626",
+      "title": "Cybersecurity Engineer - Zero Trust",
+      "company": "Cogify Ag 1",
+      "platform": "Arbeitnow",
+      "location": "Root, Switzerland",
+      "salary": "Competitive",
+      "type": "Full-time",
+      "tags": [
+        "Engineering",
+        "Computer Software",
+        "cogify"
+      ],
+      "postedAt": "2026-09-27T20:20:11.000Z",
+      "url": "https://www.arbeitnow.ch/jobs/companies/cogify-ag-1/cybersecurity-engineer-zero-trust-root-319626"
+    },
+    {
+      "id": "arbeitnow-cybersecurity-engineer-zero-trust-bern-52450",
+      "title": "Cybersecurity Engineer - Zero Trust",
+      "company": "Cogify Ag 1",
+      "platform": "Arbeitnow",
+      "location": "Bern, Switzerland",
+      "salary": "Competitive",
+      "type": "Full-time",
+      "tags": [
+        "Engineering",
+        "Computer Software",
+        "cogify"
+      ],
+      "postedAt": "2026-09-27T20:20:11.000Z",
+      "url": "https://www.arbeitnow.ch/jobs/companies/cogify-ag-1/cybersecurity-engineer-zero-trust-bern-52450"
+    },
+    {
+      "id": "arbeitnow-cybersecurity-architect-zero-trust-bern-356643",
+      "title": "Cybersecurity Architect - Zero Trust",
+      "company": "Cogify Ag 1",
+      "platform": "Arbeitnow",
+      "location": "Bern, Switzerland",
+      "salary": "Competitive",
+      "type": "Full-time",
+      "tags": [
+        "Computer Software",
+        "cogify"
+      ],
+      "postedAt": "2026-09-27T20:20:11.000Z",
+      "url": "https://www.arbeitnow.ch/jobs/companies/cogify-ag-1/cybersecurity-architect-zero-trust-bern-356643"
+    },
+    {
+      "id": "arbeitnow-cybersecurity-architect-zero-trust-root-375693",
+      "title": "Cybersecurity Architect - Zero Trust",
+      "company": "Cogify Ag 1",
+      "platform": "Arbeitnow",
+      "location": "Root, Switzerland",
+      "salary": "Competitive",
+      "type": "Full-time",
+      "tags": [
+        "Computer Software",
+        "cogify"
+      ],
+      "postedAt": "2026-09-27T20:20:11.000Z",
+      "url": "https://www.arbeitnow.ch/jobs/companies/cogify-ag-1/cybersecurity-architect-zero-trust-root-375693"
+    },
+    {
+      "id": "arbeitnow-cybersecurity-architect-zero-trust-zurich-110689",
+      "title": "Cybersecurity Architect - Zero Trust",
+      "company": "Cogify Ag 1",
+      "platform": "Arbeitnow",
+      "location": "Zürich, Switzerland",
+      "salary": "Competitive",
+      "type": "Full-time",
+      "tags": [
+        "Computer Software",
+        "cogify"
+      ],
+      "postedAt": "2026-09-27T20:20:11.000Z",
+      "url": "https://www.arbeitnow.ch/jobs/companies/cogify-ag-1/cybersecurity-architect-zero-trust-zurich-110689"
+    },
+    {
+      "id": "arbeitnow-robotics-manufacturing-engineer-epalinges-139214",
+      "title": "Robotics Manufacturing Engineer",
+      "company": "Distalmotion",
+      "platform": "Arbeitnow",
+      "location": "Épalinges, Switzerland",
+      "salary": "Competitive",
+      "type": "Full-time",
+      "tags": [
+        "Engineering",
+        "Medical Devices",
+        "Global Supply Chain"
+      ],
+      "postedAt": "2026-09-27T20:20:07.000Z",
+      "url": "https://www.arbeitnow.ch/jobs/companies/distalmotion/robotics-manufacturing-engineer-epalinges-139214"
+    },
+    {
+      "id": "arbeitnow-complaint-handling-pms-specialist-epalinges-312907",
+      "title": "Complaint Handling & PMS Specialist",
+      "company": "Distalmotion",
+      "platform": "Arbeitnow",
+      "location": "Épalinges, Switzerland",
+      "salary": "Competitive",
+      "type": "Full-time",
+      "tags": [
+        "Medical Devices",
+        "Regulatory Affairs"
+      ],
+      "postedAt": "2026-09-27T20:20:07.000Z",
+      "url": "https://www.arbeitnow.ch/jobs/companies/distalmotion/complaint-handling-pms-specialist-epalinges-312907"
+    },
+    {
+      "id": "arbeitnow-senior-manager-mes-manufacturing-transformation-hybrid-442548",
+      "title": "Senior Manager MES / Manufacturing Transformation | m/w/d",
+      "company": "Msg Industry Advisors Ag",
+      "platform": "Arbeitnow",
+      "location": "Hybrid",
+      "salary": "Competitive",
+      "type": "Full-time",
+      "tags": [],
+      "postedAt": "2026-09-27T19:09:45.000Z",
+      "url": "https://www.arbeitnow.fr/jobs/companies/msg-industry-advisors-ag/senior-manager-mes-manufacturing-transformation-hybrid-442548"
+    },
+    {
+      "id": "arbeitnow-head-of-product-ai-enablement-london-229300",
+      "title": "Head of Product, AI Enablement (f/m/d)",
+      "company": "Awin",
+      "platform": "Arbeitnow",
+      "location": "London",
+      "salary": "Competitive",
+      "type": "Full-time",
+      "tags": [
+        "Product",
+        "Research & Development"
+      ],
+      "postedAt": "2026-09-27T18:55:20.000Z",
+      "url": "https://www.arbeitnow.co.uk/jobs/companies/awin/head-of-product-ai-enablement-london-229300"
+    },
+    {
+      "id": "arbeitnow-staff-engineer-london-64515",
+      "title": "Staff Engineer",
+      "company": "wolt",
+      "platform": "Arbeitnow",
+      "location": "London",
+      "salary": "Competitive",
+      "type": "Full-time",
+      "tags": [
+        "Ads Engineering"
+      ],
+      "postedAt": "2026-09-27T18:55:13.000Z",
+      "url": "https://www.arbeitnow.co.uk/jobs/companies/wolt/staff-engineer-london-64515"
+    },
+    {
+      "id": "arbeitnow-senior-sales-engineer-uk-95932",
+      "title": "Senior Sales Engineer - UK",
+      "company": "zscaler",
+      "platform": "Arbeitnow",
+      "location": "Remote",
+      "salary": "Competitive",
+      "type": "Full-time",
+      "tags": [
+        "EMEA Field Sales"
+      ],
+      "postedAt": "2026-09-27T18:55:08.000Z",
+      "url": "https://www.arbeitnow.co.uk/jobs/companies/zscaler/senior-sales-engineer-uk-95932"
+    },
+    {
+      "id": "arbeitnow-senior-value-engineer-defence-government-sc-cleared-london-320883",
+      "title": "Senior Value Engineer - Defence & Government - SC cleared",
+      "company": "celonis",
+      "platform": "Arbeitnow",
+      "location": "London",
+      "salary": "Competitive",
+      "type": "Full-time",
+      "tags": [
+        "Value Engineering"
+      ],
+      "postedAt": "2026-09-27T18:55:05.000Z",
+      "url": "https://www.arbeitnow.co.uk/jobs/companies/celonis/senior-value-engineer-defence-government-sc-cleared-london-320883"
+    },
+    {
+      "id": "arbeitnow-client-value-partner-public-sector-security-cleared-london-175359",
+      "title": "Client Value Partner - Public Sector - Security Cleared",
+      "company": "celonis",
+      "platform": "Arbeitnow",
+      "location": "London",
+      "salary": "Competitive",
+      "type": "Full-time",
+      "tags": [
+        "Value Engineering"
+      ],
+      "postedAt": "2026-09-27T18:55:05.000Z",
+      "url": "https://www.arbeitnow.co.uk/jobs/companies/celonis/client-value-partner-public-sector-security-cleared-london-175359"
     },
     {
       "id": "arbeitnow-senior-solutions-architect-277230",
@@ -1025,230 +1471,6 @@
       ],
       "postedAt": "2026-09-27T14:04:13.000Z",
       "url": "https://www.arbeitnow.ch/jobs/companies/rivr/support-engineer-zurich-497709"
-    },
-    {
-      "id": "arbeitnow-senior-mechanical-engineer-power-electronics-packaging-zurich-313203",
-      "title": "Senior Mechanical Engineer – Power Electronics Packaging",
-      "company": "Rivr",
-      "platform": "Arbeitnow",
-      "location": "Zürich",
-      "salary": "Competitive",
-      "type": "Full-time",
-      "tags": [
-        "Hardware"
-      ],
-      "postedAt": "2026-09-27T14:04:13.000Z",
-      "url": "https://www.arbeitnow.ch/jobs/companies/rivr/senior-mechanical-engineer-power-electronics-packaging-zurich-313203"
-    },
-    {
-      "id": "arbeitnow-senior-electronics-engineer-functional-safety-zurich-197977",
-      "title": "Senior Electronics Engineer – Functional Safety",
-      "company": "Rivr",
-      "platform": "Arbeitnow",
-      "location": "Zürich",
-      "salary": "Competitive",
-      "type": "Full-time",
-      "tags": [
-        "Hardware"
-      ],
-      "postedAt": "2026-09-27T14:04:13.000Z",
-      "url": "https://www.arbeitnow.ch/jobs/companies/rivr/senior-electronics-engineer-functional-safety-zurich-197977"
-    },
-    {
-      "id": "arbeitnow-senior-electronics-engineer-carrier-board-zurich-276527",
-      "title": "Senior Electronics Engineer – Carrier Board",
-      "company": "Rivr",
-      "platform": "Arbeitnow",
-      "location": "Zürich",
-      "salary": "Competitive",
-      "type": "Full-time",
-      "tags": [
-        "Hardware"
-      ],
-      "postedAt": "2026-09-27T14:04:13.000Z",
-      "url": "https://www.arbeitnow.ch/jobs/companies/rivr/senior-electronics-engineer-carrier-board-zurich-276527"
-    },
-    {
-      "id": "arbeitnow-senior-ai-engineer-self-supervised-learning-zurich-458757",
-      "title": "Senior AI Engineer Self-Supervised Learning",
-      "company": "Rivr",
-      "platform": "Arbeitnow",
-      "location": "Zürich",
-      "salary": "Competitive",
-      "type": "Full-time",
-      "tags": [
-        "Embodied AI"
-      ],
-      "postedAt": "2026-09-27T14:04:13.000Z",
-      "url": "https://www.arbeitnow.ch/jobs/companies/rivr/senior-ai-engineer-self-supervised-learning-zurich-458757"
-    },
-    {
-      "id": "arbeitnow-senior-ai-engineer-vla-foundation-model-zurich-99686",
-      "title": "Senior AI Engineer - VLA Foundation Model",
-      "company": "Rivr",
-      "platform": "Arbeitnow",
-      "location": "Zürich",
-      "salary": "Competitive",
-      "type": "Full-time",
-      "tags": [
-        "Embodied AI"
-      ],
-      "postedAt": "2026-09-27T14:04:13.000Z",
-      "url": "https://www.arbeitnow.ch/jobs/companies/rivr/senior-ai-engineer-vla-foundation-model-zurich-99686"
-    },
-    {
-      "id": "arbeitnow-robotics-wireless-network-engineer-intern-zurich-252035",
-      "title": "Robotics Wireless & Network Engineer Intern",
-      "company": "Rivr",
-      "platform": "Arbeitnow",
-      "location": "Zürich",
-      "salary": "Competitive",
-      "type": "Full-time",
-      "tags": [
-        "Hardware"
-      ],
-      "postedAt": "2026-09-27T14:04:13.000Z",
-      "url": "https://www.arbeitnow.ch/jobs/companies/rivr/robotics-wireless-network-engineer-intern-zurich-252035"
-    },
-    {
-      "id": "arbeitnow-procurement-engineer-zurich-99668",
-      "title": "Procurement Engineer",
-      "company": "Rivr",
-      "platform": "Arbeitnow",
-      "location": "Zürich",
-      "salary": "Competitive",
-      "type": "Full-time",
-      "tags": [
-        "Hardware"
-      ],
-      "postedAt": "2026-09-27T14:04:13.000Z",
-      "url": "https://www.arbeitnow.ch/jobs/companies/rivr/procurement-engineer-zurich-99668"
-    },
-    {
-      "id": "arbeitnow-mechanical-engineer-senior-zurich-240892",
-      "title": "Mechanical Engineer (Senior)",
-      "company": "Rivr",
-      "platform": "Arbeitnow",
-      "location": "Zürich",
-      "salary": "Competitive",
-      "type": "Full-time",
-      "tags": [
-        "Hardware"
-      ],
-      "postedAt": "2026-09-27T14:04:13.000Z",
-      "url": "https://www.arbeitnow.ch/jobs/companies/rivr/mechanical-engineer-senior-zurich-240892"
-    },
-    {
-      "id": "arbeitnow-mechanical-engineer-junior-zurich-116002",
-      "title": "Mechanical Engineer (Junior)",
-      "company": "Rivr",
-      "platform": "Arbeitnow",
-      "location": "Zürich",
-      "salary": "Competitive",
-      "type": "Full-time",
-      "tags": [
-        "Hardware"
-      ],
-      "postedAt": "2026-09-27T14:04:13.000Z",
-      "url": "https://www.arbeitnow.ch/jobs/companies/rivr/mechanical-engineer-junior-zurich-116002"
-    },
-    {
-      "id": "arbeitnow-junior-electronics-engineer-zurich-417929",
-      "title": "Junior Electronics Engineer",
-      "company": "Rivr",
-      "platform": "Arbeitnow",
-      "location": "Zürich",
-      "salary": "Competitive",
-      "type": "Full-time",
-      "tags": [
-        "Hardware"
-      ],
-      "postedAt": "2026-09-27T14:04:13.000Z",
-      "url": "https://www.arbeitnow.ch/jobs/companies/rivr/junior-electronics-engineer-zurich-417929"
-    },
-    {
-      "id": "arbeitnow-hardware-engineering-intern-zurich-340953",
-      "title": "Hardware Engineering Intern",
-      "company": "Rivr",
-      "platform": "Arbeitnow",
-      "location": "Zürich",
-      "salary": "Competitive",
-      "type": "Full-time",
-      "tags": [
-        "Hardware"
-      ],
-      "postedAt": "2026-09-27T14:04:13.000Z",
-      "url": "https://www.arbeitnow.ch/jobs/companies/rivr/hardware-engineering-intern-zurich-340953"
-    },
-    {
-      "id": "arbeitnow-engineering-manager-software-cloud-zurich-103499",
-      "title": "Engineering Manager - Software/Cloud",
-      "company": "Rivr",
-      "platform": "Arbeitnow",
-      "location": "Zürich",
-      "salary": "Competitive",
-      "type": "Full-time",
-      "tags": [
-        "Software"
-      ],
-      "postedAt": "2026-09-27T14:04:13.000Z",
-      "url": "https://www.arbeitnow.ch/jobs/companies/rivr/engineering-manager-software-cloud-zurich-103499"
-    },
-    {
-      "id": "arbeitnow-electronics-engineer-senior-zurich-200842",
-      "title": "Electronics Engineer (Senior)",
-      "company": "Rivr",
-      "platform": "Arbeitnow",
-      "location": "Zürich",
-      "salary": "Competitive",
-      "type": "Full-time",
-      "tags": [
-        "Hardware"
-      ],
-      "postedAt": "2026-09-27T14:04:13.000Z",
-      "url": "https://www.arbeitnow.ch/jobs/companies/rivr/electronics-engineer-senior-zurich-200842"
-    },
-    {
-      "id": "arbeitnow-ai-intern-vision-language-action-vla-data-zurich-487551",
-      "title": "AI Intern – Vision-Language-Action (VLA) & Data",
-      "company": "Rivr",
-      "platform": "Arbeitnow",
-      "location": "Zürich",
-      "salary": "Competitive",
-      "type": "Full-time",
-      "tags": [
-        "Embodied AI"
-      ],
-      "postedAt": "2026-09-27T14:04:13.000Z",
-      "url": "https://www.arbeitnow.ch/jobs/companies/rivr/ai-intern-vision-language-action-vla-data-zurich-487551"
-    },
-    {
-      "id": "arbeitnow-ai-engineer-reinforcement-learning-senior-zurich-421839",
-      "title": "AI Engineer - Reinforcement Learning (Senior)",
-      "company": "Rivr",
-      "platform": "Arbeitnow",
-      "location": "Zürich",
-      "salary": "Competitive",
-      "type": "Full-time",
-      "tags": [
-        "Embodied AI"
-      ],
-      "postedAt": "2026-09-27T14:04:13.000Z",
-      "url": "https://www.arbeitnow.ch/jobs/companies/rivr/ai-engineer-reinforcement-learning-senior-zurich-421839"
-    },
-    {
-      "id": "arbeitnow-ai-engineer-imitation-learning-senior-zurich-161164",
-      "title": "AI Engineer - Imitation Learning (Senior)",
-      "company": "Rivr",
-      "platform": "Arbeitnow",
-      "location": "Zürich",
-      "salary": "Competitive",
-      "type": "Full-time",
-      "tags": [
-        "Embodied AI"
-      ],
-      "postedAt": "2026-09-27T14:04:13.000Z",
-      "url": "https://www.arbeitnow.ch/jobs/companies/rivr/ai-engineer-imitation-learning-senior-zurich-161164"
     },
     {
       "id": "arbeitnow-senior-security-engineer-306526",
@@ -2000,198 +2222,6 @@
       "tags": [],
       "postedAt": "2026-09-27T11:58:00+00:00",
       "url": "https://jobicy.com/jobs/154096-enterprise-account-executive-china"
-    },
-    {
-      "id": "jobicy-154102",
-      "title": "Manager, Forward Deployed Engineering - CMEG",
-      "company": "Databricks",
-      "platform": "Jobicy",
-      "location": "USA",
-      "salary": "Competitive",
-      "type": "Full-Time",
-      "tags": [],
-      "postedAt": "2026-09-27T11:57:59+00:00",
-      "url": "https://jobicy.com/jobs/154102-manager-forward-deployed-engineering-cmeg"
-    },
-    {
-      "id": "jobicy-154099",
-      "title": "Manager, Field Engineering - Strategic Digital Native Business",
-      "company": "Databricks",
-      "platform": "Jobicy",
-      "location": "USA",
-      "salary": "Competitive",
-      "type": "Full-Time",
-      "tags": [],
-      "postedAt": "2026-09-27T11:57:59+00:00",
-      "url": "https://jobicy.com/jobs/154099-manager-field-engineering-strategic-digital-native-business"
-    },
-    {
-      "id": "jobicy-154095",
-      "title": "Account Director, Vertical Sales",
-      "company": "StackAdapt",
-      "platform": "Jobicy",
-      "location": "Australia",
-      "salary": "Competitive",
-      "type": "Full-Time",
-      "tags": [],
-      "postedAt": "2026-09-27T11:57:59+00:00",
-      "url": "https://jobicy.com/jobs/154095-account-director-vertical-sales"
-    },
-    {
-      "id": "jobicy-154101",
-      "title": "Account Executive, Great Plains",
-      "company": "StackAdapt",
-      "platform": "Jobicy",
-      "location": "USA",
-      "salary": "Competitive",
-      "type": "Full-Time",
-      "tags": [],
-      "postedAt": "2026-09-27T11:57:58+00:00",
-      "url": "https://jobicy.com/jobs/154101-account-executive-great-plains"
-    },
-    {
-      "id": "jobicy-154100",
-      "title": "Revenue Enablement Lead",
-      "company": "Medely",
-      "platform": "Jobicy",
-      "location": "USA",
-      "salary": "Competitive",
-      "type": "Full-Time",
-      "tags": [],
-      "postedAt": "2026-09-27T11:57:57+00:00",
-      "url": "https://jobicy.com/jobs/154100-revenue-enablement-lead-2"
-    },
-    {
-      "id": "jobicy-154097",
-      "title": "Senior Salesforce Administrator (GTM Systems)",
-      "company": "Medely",
-      "platform": "Jobicy",
-      "location": "USA",
-      "salary": "Competitive",
-      "type": "Full-Time",
-      "tags": [],
-      "postedAt": "2026-09-27T11:57:57+00:00",
-      "url": "https://jobicy.com/jobs/154097-senior-salesforce-administrator-gtm-systems"
-    },
-    {
-      "id": "jobicy-154094",
-      "title": "Senior Manager, Customer Success - Strategic Accounts",
-      "company": "Medely",
-      "platform": "Jobicy",
-      "location": "USA",
-      "salary": "Competitive",
-      "type": "Full-Time",
-      "tags": [],
-      "postedAt": "2026-09-27T11:57:57+00:00",
-      "url": "https://jobicy.com/jobs/154094-senior-manager-customer-success-strategic-accounts"
-    },
-    {
-      "id": "arbeitnow-remote-senior-product-manager-237754",
-      "title": "Senior Product Manager",
-      "company": "Yubico",
-      "platform": "Arbeitnow",
-      "location": "Remote US (EST), London",
-      "salary": "Competitive",
-      "type": "Full-time",
-      "tags": [
-        "Production Engineering & Cloud Services"
-      ],
-      "postedAt": "2026-09-27T11:55:03.000Z",
-      "url": "https://www.arbeitnow.com/jobs/companies/yubico/remote-senior-product-manager-237754"
-    },
-    {
-      "id": "arbeitnow-postdoctoral-researcher-for-longitudinal-surveys-drs-57-mannheim-465800",
-      "title": "Postdoctoral Researcher for Longitudinal Surveys (DRS-57)",
-      "company": "GESIS – Leibniz-Institut für Sozialwissenschaften",
-      "platform": "Arbeitnow",
-      "location": "Mannheim",
-      "salary": "Competitive",
-      "type": "Full-time",
-      "tags": [],
-      "postedAt": "2026-09-27T11:09:48.000Z",
-      "url": "https://www.arbeitnow.com/jobs/companies/gesis-leibniz-institut-fur-sozialwissenschaften/postdoctoral-researcher-for-longitudinal-surveys-drs-57-mannheim-465800"
-    },
-    {
-      "id": "arbeitnow-graduate-student-research-assistant-team-assessing-survey-data-quality-de-en-shk-sdm-2026-024-mannheim-251673",
-      "title": "Graduate Student Research Assistant, Team Assessing Survey Data Quality (DE/EN) (SHK_SDM_2026_024)",
-      "company": "GESIS – Leibniz-Institut für Sozialwissenschaften",
-      "platform": "Arbeitnow",
-      "location": "Mannheim",
-      "salary": "Competitive",
-      "type": "Full-time",
-      "tags": [],
-      "postedAt": "2026-09-27T11:09:48.000Z",
-      "url": "https://www.arbeitnow.com/jobs/companies/gesis-leibniz-institut-fur-sozialwissenschaften/graduate-student-research-assistant-team-assessing-survey-data-quality-de-en-shk-sdm-2026-024-mannheim-251673"
-    },
-    {
-      "id": "arbeitnow-remote-senior-ai-engineer-499516",
-      "title": "Senior AI Engineer",
-      "company": "Inato",
-      "platform": "Arbeitnow",
-      "location": "PARIS OFFICE or REMOTE FROM FRANCE",
-      "salary": "Competitive",
-      "type": "Full-time",
-      "tags": [
-        "Tech"
-      ],
-      "postedAt": "2026-09-27T10:40:09.000Z",
-      "url": "https://www.arbeitnow.fr/jobs/companies/inato/remote-senior-ai-engineer-499516"
-    },
-    {
-      "id": "arbeitnow-remote-product-engineer-119171",
-      "title": "Product Engineer",
-      "company": "Inato",
-      "platform": "Arbeitnow",
-      "location": "PARIS OFFICE or REMOTE FROM FRANCE",
-      "salary": "Competitive",
-      "type": "Full-time",
-      "tags": [
-        "Tech"
-      ],
-      "postedAt": "2026-09-27T10:40:09.000Z",
-      "url": "https://www.arbeitnow.fr/jobs/companies/inato/remote-product-engineer-119171"
-    },
-    {
-      "id": "arbeitnow-remote-senior-analytics-engineer-product-117030",
-      "title": "Senior Analytics Engineer, Product",
-      "company": "Inato",
-      "platform": "Arbeitnow",
-      "location": "PARIS OFFICE or REMOTE FROM FRANCE",
-      "salary": "Competitive",
-      "type": "Full-time",
-      "tags": [
-        "Tech"
-      ],
-      "postedAt": "2026-09-27T10:40:09.000Z",
-      "url": "https://www.arbeitnow.fr/jobs/companies/inato/remote-senior-analytics-engineer-product-117030"
-    },
-    {
-      "id": "arbeitnow-general-counsel-france-187405",
-      "title": "General Counsel",
-      "company": "sifflet",
-      "platform": "Arbeitnow",
-      "location": "France",
-      "salary": "Competitive",
-      "type": "Full-time",
-      "tags": [
-        "Operations"
-      ],
-      "postedAt": "2026-09-27T10:40:09.000Z",
-      "url": "https://www.arbeitnow.fr/jobs/companies/sifflet/general-counsel-france-187405"
-    },
-    {
-      "id": "arbeitnow-enterprise-account-executive-france-263063",
-      "title": "Enterprise Account Executive – France",
-      "company": "sifflet",
-      "platform": "Arbeitnow",
-      "location": "France",
-      "salary": "Competitive",
-      "type": "Full-time",
-      "tags": [
-        "Sales"
-      ],
-      "postedAt": "2026-09-27T10:40:09.000Z",
-      "url": "https://www.arbeitnow.fr/jobs/companies/sifflet/enterprise-account-executive-france-263063"
     }
   ]
 }
