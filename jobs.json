@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-09-30T22:31:00.544Z",
+  "lastUpdated": "2026-10-01T01:57:15.988Z",
   "jobs": [
     {
       "id": "jobicy-152066",
@@ -192,6 +192,20 @@
       "url": "https://www.arbeitnow.ch/jobs/companies/jobgether/account-manager-email-marketing-switzerland-53262"
     },
     {
+      "id": "arbeitnow-customer-support-complaints-escalations-advocate-london-276700",
+      "title": "Customer Support Complaints & Escalations Advocate",
+      "company": "Channel Sales Support Agent - Block",
+      "platform": "Arbeitnow",
+      "location": "London",
+      "salary": "Competitive",
+      "type": "Full-time",
+      "tags": [
+        "30216 Risk - Customer Operations - Commerce Collections"
+      ],
+      "postedAt": "2026-10-01T00:55:07.000Z",
+      "url": "https://www.arbeitnow.co.uk/jobs/companies/channel-sales-support-agent-block/customer-support-complaints-escalations-advocate-london-276700"
+    },
+    {
       "id": "arbeitnow-customer-support-specialist-cdd-6-mois-lyon-451282",
       "title": "Customer Support Specialist - CDD 6 mois",
       "company": "Joivy",
@@ -286,28 +300,6 @@
       ],
       "postedAt": "2026-09-21T16:00:11+00:00",
       "url": "https://remoteOK.com/remote-jobs/remote-people-operations-coordinator-ashby-1137412"
-    },
-    {
-      "id": "arbeitnow-senior-account-manager-new-business-potsdam-hybrid-344566",
-      "title": "Senior Account Manager - New Business",
-      "company": "Ambrosys",
-      "platform": "Arbeitnow",
-      "location": "Potsdam (hybrid)",
-      "salary": "Competitive",
-      "type": "Full-time",
-      "tags": [
-        "technology sales",
-        "account management",
-        "IT solution sales",
-        "contract negotiation",
-        "account growth",
-        "lead generation",
-        "tenders",
-        "public sector",
-        "b2b sales"
-      ],
-      "postedAt": "2026-09-30T17:09:14.000Z",
-      "url": "https://www.arbeitnow.com/jobs/companies/ambrosys/senior-account-manager-new-business-potsdam-hybrid-344566"
     },
     {
       "id": "remoteok-1137406",
@@ -415,6 +407,384 @@
       "tags": [],
       "postedAt": "2026-09-30T08:08:31+00:00",
       "url": "https://jobicy.com/jobs/154280-digital-campaign-performance-marketing-specialist"
+    },
+    {
+      "id": "arbeitnow-stateful-services-engineer-paris-438238",
+      "title": "Stateful Services Engineer",
+      "company": "Diabolocom",
+      "platform": "Arbeitnow",
+      "location": "Paris",
+      "salary": "Competitive",
+      "type": "Full-time",
+      "tags": [
+        "Infrastructure"
+      ],
+      "postedAt": "2026-10-01T01:04:29.000Z",
+      "url": "https://www.arbeitnow.fr/jobs/companies/diabolocom/stateful-services-engineer-paris-438238"
+    },
+    {
+      "id": "arbeitnow-senior-copywriter-london-198475",
+      "title": "Senior Copywriter",
+      "company": "Wundermanthompson",
+      "platform": "Arbeitnow",
+      "location": "London",
+      "salary": "Competitive",
+      "type": "Full-time",
+      "tags": [
+        "Creative"
+      ],
+      "postedAt": "2026-10-01T00:55:16.000Z",
+      "url": "https://www.arbeitnow.co.uk/jobs/companies/wundermanthompson/senior-copywriter-london-198475"
+    },
+    {
+      "id": "arbeitnow-global-network-growth-managing-director-london-236299",
+      "title": "Global Network Growth Managing Director",
+      "company": "Wundermanthompson",
+      "platform": "Arbeitnow",
+      "location": "London",
+      "salary": "Competitive",
+      "type": "Full-time",
+      "tags": [
+        "Growth"
+      ],
+      "postedAt": "2026-10-01T00:55:16.000Z",
+      "url": "https://www.arbeitnow.co.uk/jobs/companies/wundermanthompson/global-network-growth-managing-director-london-236299"
+    },
+    {
+      "id": "arbeitnow-global-network-growth-group-director-london-491001",
+      "title": "Global Network Growth Group Director",
+      "company": "Wundermanthompson",
+      "platform": "Arbeitnow",
+      "location": "London",
+      "salary": "Competitive",
+      "type": "Full-time",
+      "tags": [
+        "Growth"
+      ],
+      "postedAt": "2026-10-01T00:55:16.000Z",
+      "url": "https://www.arbeitnow.co.uk/jobs/companies/wundermanthompson/global-network-growth-group-director-london-491001"
+    },
+    {
+      "id": "arbeitnow-global-network-growth-executive-director-london-439617",
+      "title": "Global Network Growth Executive Director",
+      "company": "Wundermanthompson",
+      "platform": "Arbeitnow",
+      "location": "London",
+      "salary": "Competitive",
+      "type": "Full-time",
+      "tags": [
+        "Growth"
+      ],
+      "postedAt": "2026-10-01T00:55:16.000Z",
+      "url": "https://www.arbeitnow.co.uk/jobs/companies/wundermanthompson/global-network-growth-executive-director-london-439617"
+    },
+    {
+      "id": "arbeitnow-tech-lead-manager-london-381693",
+      "title": "Tech Lead Manager",
+      "company": "Wheely",
+      "platform": "Arbeitnow",
+      "location": "London",
+      "salary": "Competitive",
+      "type": "Full-time",
+      "tags": [
+        "Backend"
+      ],
+      "postedAt": "2026-10-01T00:55:14.000Z",
+      "url": "https://www.arbeitnow.co.uk/jobs/companies/wheely/tech-lead-manager-london-381693"
+    },
+    {
+      "id": "arbeitnow-senior-event-manager-london-173559",
+      "title": "Senior Event Manager",
+      "company": "Wheely",
+      "platform": "Arbeitnow",
+      "location": "London",
+      "salary": "Competitive",
+      "type": "Full-time",
+      "tags": [
+        "Marketing"
+      ],
+      "postedAt": "2026-10-01T00:55:14.000Z",
+      "url": "https://www.arbeitnow.co.uk/jobs/companies/wheely/senior-event-manager-london-173559"
+    },
+    {
+      "id": "arbeitnow-product-manager-ux-london-418099",
+      "title": "Product Manager, UX",
+      "company": "Wheely",
+      "platform": "Arbeitnow",
+      "location": "London",
+      "salary": "Competitive",
+      "type": "Full-time",
+      "tags": [
+        "Product Management"
+      ],
+      "postedAt": "2026-10-01T00:55:14.000Z",
+      "url": "https://www.arbeitnow.co.uk/jobs/companies/wheely/product-manager-ux-london-418099"
+    },
+    {
+      "id": "arbeitnow-product-manager-technical-london-133821",
+      "title": "Product Manager, Technical",
+      "company": "Wheely",
+      "platform": "Arbeitnow",
+      "location": "London",
+      "salary": "Competitive",
+      "type": "Full-time",
+      "tags": [
+        "Product Management"
+      ],
+      "postedAt": "2026-10-01T00:55:14.000Z",
+      "url": "https://www.arbeitnow.co.uk/jobs/companies/wheely/product-manager-technical-london-133821"
+    },
+    {
+      "id": "arbeitnow-full-stack-engineer-london-337967",
+      "title": "Full-Stack Engineer",
+      "company": "Wheely",
+      "platform": "Arbeitnow",
+      "location": "London",
+      "salary": "Competitive",
+      "type": "Full-time",
+      "tags": [
+        "Frontend"
+      ],
+      "postedAt": "2026-10-01T00:55:14.000Z",
+      "url": "https://www.arbeitnow.co.uk/jobs/companies/wheely/full-stack-engineer-london-337967"
+    },
+    {
+      "id": "arbeitnow-director-of-engineering-london-264621",
+      "title": "Director of Engineering",
+      "company": "Wheely",
+      "platform": "Arbeitnow",
+      "location": "London",
+      "salary": "Competitive",
+      "type": "Full-time",
+      "tags": [
+        "Engineering"
+      ],
+      "postedAt": "2026-10-01T00:55:14.000Z",
+      "url": "https://www.arbeitnow.co.uk/jobs/companies/wheely/director-of-engineering-london-264621"
+    },
+    {
+      "id": "arbeitnow-data-scientist-london-98109",
+      "title": "Data Scientist",
+      "company": "Wheely",
+      "platform": "Arbeitnow",
+      "location": "London",
+      "salary": "Competitive",
+      "type": "Full-time",
+      "tags": [
+        "Data Science"
+      ],
+      "postedAt": "2026-10-01T00:55:14.000Z",
+      "url": "https://www.arbeitnow.co.uk/jobs/companies/wheely/data-scientist-london-98109"
+    },
+    {
+      "id": "arbeitnow-enterprise-account-executive-315424",
+      "title": "Enterprise Account Executive",
+      "company": "SingleStore-LinkedIn",
+      "platform": "Arbeitnow",
+      "location": "Remote",
+      "salary": "Competitive",
+      "type": "Full-time",
+      "tags": [
+        "Europe Sales"
+      ],
+      "postedAt": "2026-10-01T00:55:08.000Z",
+      "url": "https://www.arbeitnow.co.uk/jobs/companies/singlestore-linkedin/enterprise-account-executive-315424"
+    },
+    {
+      "id": "arbeitnow-inside-sales-account-executive-london-157299",
+      "title": "Inside Sales Account Executive",
+      "company": "Channel Sales Support Agent - Block",
+      "platform": "Arbeitnow",
+      "location": "London",
+      "salary": "Competitive",
+      "type": "Full-time",
+      "tags": [
+        "20213 S&M - Sales - Square Outside"
+      ],
+      "postedAt": "2026-10-01T00:55:07.000Z",
+      "url": "https://www.arbeitnow.co.uk/jobs/companies/channel-sales-support-agent-block/inside-sales-account-executive-london-157299"
+    },
+    {
+      "id": "arbeitnow-people-performance-manager-united-kingdom-184393",
+      "title": "People Performance Manager",
+      "company": "tem",
+      "platform": "Arbeitnow",
+      "location": "United Kingdom",
+      "salary": "Competitive",
+      "type": "Full-time",
+      "tags": [
+        "People & Talent"
+      ],
+      "postedAt": "2026-10-01T00:40:08.000Z",
+      "url": "https://www.arbeitnow.co.uk/jobs/companies/tem/people-performance-manager-united-kingdom-184393"
+    },
+    {
+      "id": "arbeitnow-people-operations-partner-united-kingdom-10929",
+      "title": "People Operations Partner",
+      "company": "tem",
+      "platform": "Arbeitnow",
+      "location": "United Kingdom",
+      "salary": "Competitive",
+      "type": "Full-time",
+      "tags": [
+        "People & Talent"
+      ],
+      "postedAt": "2026-10-01T00:40:08.000Z",
+      "url": "https://www.arbeitnow.co.uk/jobs/companies/tem/people-operations-partner-united-kingdom-10929"
+    },
+    {
+      "id": "arbeitnow-business-development-lead-london-318300",
+      "title": "Business Development Lead",
+      "company": "Accurx",
+      "platform": "Arbeitnow",
+      "location": "London (Shoreditch)",
+      "salary": "Competitive",
+      "type": "Full-time",
+      "tags": [
+        "Go-To-Market"
+      ],
+      "postedAt": "2026-10-01T00:40:05.000Z",
+      "url": "https://www.arbeitnow.co.uk/jobs/companies/accurx/business-development-lead-london-318300"
+    },
+    {
+      "id": "arbeitnow-transformation-manager-london-381957",
+      "title": "Transformation Manager",
+      "company": "Accurx",
+      "platform": "Arbeitnow",
+      "location": "London (Shoreditch)",
+      "salary": "Competitive",
+      "type": "Full-time",
+      "tags": [
+        "Go-To-Market"
+      ],
+      "postedAt": "2026-10-01T00:40:05.000Z",
+      "url": "https://www.arbeitnow.co.uk/jobs/companies/accurx/transformation-manager-london-381957"
+    },
+    {
+      "id": "arbeitnow-remote-enterprise-account-executive-emea-284048",
+      "title": "Enterprise Account Executive - EMEA",
+      "company": "Abacum",
+      "platform": "Arbeitnow",
+      "location": "Remote",
+      "salary": "Competitive",
+      "type": "Full-time",
+      "tags": [
+        "Sales"
+      ],
+      "postedAt": "2026-10-01T00:40:05.000Z",
+      "url": "https://www.arbeitnow.co.uk/jobs/companies/abacum/remote-enterprise-account-executive-emea-284048"
+    },
+    {
+      "id": "arbeitnow-electric-propulsion-engineer-reading-139865",
+      "title": "Electric Propulsion Engineer",
+      "company": "Neworbit",
+      "platform": "Arbeitnow",
+      "location": "Reading, UK",
+      "salary": "Competitive",
+      "type": "Full-time",
+      "tags": [
+        "Propulsion"
+      ],
+      "postedAt": "2026-10-01T00:40:03.000Z",
+      "url": "https://www.arbeitnow.co.uk/jobs/companies/neworbit/electric-propulsion-engineer-reading-139865"
+    },
+    {
+      "id": "arbeitnow-constructor-student-labs-bremen-392113",
+      "title": "Constructor Student Labs",
+      "company": "constructortech",
+      "platform": "Arbeitnow",
+      "location": "Bremen",
+      "salary": "Competitive",
+      "type": "Full-time",
+      "tags": [
+        "Internship"
+      ],
+      "postedAt": "2026-09-30T23:55:05.000Z",
+      "url": "https://www.arbeitnow.com/jobs/companies/constructortech/constructor-student-labs-bremen-392113"
+    },
+    {
+      "id": "arbeitnow-factor-senior-operational-excellence-manager-all-genders-verden-niedersachsen-380186",
+      "title": "[FACTOR] Senior Operational Excellence Manager (all genders)",
+      "company": "hellofresh",
+      "platform": "Arbeitnow",
+      "location": "Verden, Niedersachsen",
+      "salary": "Competitive",
+      "type": "Full-time",
+      "tags": [
+        "Supply Chain Management & Operations"
+      ],
+      "postedAt": "2026-09-30T23:55:03.000Z",
+      "url": "https://www.arbeitnow.com/jobs/companies/hellofresh/factor-senior-operational-excellence-manager-all-genders-verden-niedersachsen-380186"
+    },
+    {
+      "id": "arbeitnow-account-executive-process-manufacturing-cpg-food-and-beverages-486264",
+      "title": "Account Executive (Process Manufacturing - CPG food and beverages)",
+      "company": "Cognite",
+      "platform": "Arbeitnow",
+      "location": "Remote",
+      "salary": "Competitive",
+      "type": "Full-time",
+      "tags": [
+        "Global Revenue"
+      ],
+      "postedAt": "2026-09-30T23:55:03.000Z",
+      "url": "https://www.arbeitnow.ch/jobs/companies/cognite/account-executive-process-manufacturing-cpg-food-and-beverages-486264"
+    },
+    {
+      "id": "arbeitnow-account-executive-life-science-pharma-50531",
+      "title": "Account Executive (Life Science/Pharma)",
+      "company": "Cognite",
+      "platform": "Arbeitnow",
+      "location": "Remote",
+      "salary": "Competitive",
+      "type": "Full-time",
+      "tags": [
+        "Global Revenue"
+      ],
+      "postedAt": "2026-09-30T23:55:03.000Z",
+      "url": "https://www.arbeitnow.ch/jobs/companies/cognite/account-executive-life-science-pharma-50531"
+    },
+    {
+      "id": "arbeitnow-remote-senior-product-marketing-manager-emea-237709",
+      "title": "Senior Product Marketing Manager - EMEA",
+      "company": "Camunda",
+      "platform": "Arbeitnow",
+      "location": "Remote",
+      "salary": "Competitive",
+      "type": "Full-time",
+      "tags": [
+        "Marketing"
+      ],
+      "postedAt": "2026-09-30T23:40:07.000Z",
+      "url": "https://www.arbeitnow.ch/jobs/companies/camunda/remote-senior-product-marketing-manager-emea-237709"
+    },
+    {
+      "id": "arbeitnow-influencer-marketing-manager-mid-french-market-paris-34273",
+      "title": "Influencer Marketing Manager | Mid | French Market",
+      "company": "Nord Security",
+      "platform": "Arbeitnow",
+      "location": "Paris",
+      "salary": "Competitive",
+      "type": "Full-time",
+      "tags": [
+        "NordVPN"
+      ],
+      "postedAt": "2026-09-30T22:40:07.000Z",
+      "url": "https://www.arbeitnow.fr/jobs/companies/nord-security/influencer-marketing-manager-mid-french-market-paris-34273"
+    },
+    {
+      "id": "arbeitnow-people-talent-lead-villeneuve-dascq-221928",
+      "title": "People & Talent Lead",
+      "company": "Kestra Technologies",
+      "platform": "Arbeitnow",
+      "location": "Europe",
+      "salary": "Competitive",
+      "type": "Full-time",
+      "tags": [
+        "Corporate Operations"
+      ],
+      "postedAt": "2026-09-30T22:40:07.000Z",
+      "url": "https://www.arbeitnow.fr/jobs/companies/kestra-technologies/people-talent-lead-villeneuve-dascq-221928"
     },
     {
       "id": "arbeitnow-remote-senior-product-security-architect-399216",
@@ -877,20 +1247,6 @@
       "url": "https://www.arbeitnow.co.uk/jobs/companies/transperfect/director-business-development-financial-services-london-434396"
     },
     {
-      "id": "arbeitnow-senior-lead-qa-specialist-anywhere-in-uk-393557",
-      "title": "Senior/Lead QA Specialist",
-      "company": "TransPerfect",
-      "platform": "Arbeitnow",
-      "location": "Anywhere in UK, Greater London, United Kingdom",
-      "salary": "Competitive",
-      "type": "Full-time",
-      "tags": [
-        "IT"
-      ],
-      "postedAt": "2026-09-30T21:30:34.000Z",
-      "url": "https://www.arbeitnow.co.uk/jobs/companies/transperfect/senior-lead-qa-specialist-anywhere-in-uk-393557"
-    },
-    {
       "id": "arbeitnow-senior-data-analyst-433341",
       "title": "Senior Data Analyst (f/m/x)",
       "company": "sparetech",
@@ -1016,202 +1372,6 @@
       ],
       "postedAt": "2026-09-30T19:40:09.000Z",
       "url": "https://www.arbeitnow.fr/jobs/companies/lexroom/account-executive-manager-smb-french-market-paris-259275"
-    },
-    {
-      "id": "arbeitnow-senior-robotics-engineer-sydney-australia-384500",
-      "title": "Senior Robotics Engineer",
-      "company": "Andurilindustries",
-      "platform": "Arbeitnow",
-      "location": "Sydney, Australia",
-      "salary": "Competitive",
-      "type": "Full-time",
-      "tags": [
-        "Maritime & Maneuver Dominance : Undersea Dominance - Engineering & Operations"
-      ],
-      "postedAt": "2026-09-30T18:55:47.000Z",
-      "url": "https://www.arbeitnow.co.uk/jobs/companies/andurilindustries/senior-robotics-engineer-sydney-australia-384500"
-    },
-    {
-      "id": "arbeitnow-senior-electrical-engineer-sydney-australia-389291",
-      "title": "Senior Electrical Engineer",
-      "company": "Andurilindustries",
-      "platform": "Arbeitnow",
-      "location": "Sydney, Australia",
-      "salary": "Competitive",
-      "type": "Full-time",
-      "tags": [
-        "Maritime & Maneuver Dominance : Undersea Dominance - Engineering & Operations : Electrical Engineering"
-      ],
-      "postedAt": "2026-09-30T18:55:47.000Z",
-      "url": "https://www.arbeitnow.co.uk/jobs/companies/andurilindustries/senior-electrical-engineer-sydney-australia-389291"
-    },
-    {
-      "id": "arbeitnow-manufacturing-test-automation-engineer-sydney-australia-291923",
-      "title": "Manufacturing Test Automation Engineer",
-      "company": "Andurilindustries",
-      "platform": "Arbeitnow",
-      "location": "Sydney, Australia",
-      "salary": "Competitive",
-      "type": "Full-time",
-      "tags": [
-        "Manufacturing : Undersea Dominance - Production : Manufacturing Engineering"
-      ],
-      "postedAt": "2026-09-30T18:55:46.000Z",
-      "url": "https://www.arbeitnow.co.uk/jobs/companies/andurilindustries/manufacturing-test-automation-engineer-sydney-australia-291923"
-    },
-    {
-      "id": "arbeitnow-director-business-development-sydney-australia-243540",
-      "title": "Director, Business Development",
-      "company": "Andurilindustries",
-      "platform": "Arbeitnow",
-      "location": "Sydney, Australia",
-      "salary": "Competitive",
-      "type": "Full-time",
-      "tags": [
-        "Sales and Marketing : Business Development : APAC Capture"
-      ],
-      "postedAt": "2026-09-30T18:55:46.000Z",
-      "url": "https://www.arbeitnow.co.uk/jobs/companies/andurilindustries/director-business-development-sydney-australia-243540"
-    },
-    {
-      "id": "arbeitnow-staff-data-scientist-cardiff-16732",
-      "title": "Staff Data Scientist",
-      "company": "Monzo",
-      "platform": "Arbeitnow",
-      "location": "Cardiff",
-      "salary": "Competitive",
-      "type": "Full-time",
-      "tags": [
-        "Data"
-      ],
-      "postedAt": "2026-09-30T18:55:33.000Z",
-      "url": "https://www.arbeitnow.co.uk/jobs/companies/monzo/staff-data-scientist-cardiff-16732"
-    },
-    {
-      "id": "arbeitnow-senior-data-scientist-cardiff-86433",
-      "title": "Senior Data Scientist",
-      "company": "Monzo",
-      "platform": "Arbeitnow",
-      "location": "Cardiff",
-      "salary": "Competitive",
-      "type": "Full-time",
-      "tags": [
-        "Data"
-      ],
-      "postedAt": "2026-09-30T18:55:33.000Z",
-      "url": "https://www.arbeitnow.co.uk/jobs/companies/monzo/senior-data-scientist-cardiff-86433"
-    },
-    {
-      "id": "arbeitnow-lead-machine-learning-scientist-business-banking-cardiff-381566",
-      "title": "Lead Machine Learning Scientist, Business Banking",
-      "company": "Monzo",
-      "platform": "Arbeitnow",
-      "location": "Cardiff",
-      "salary": "Competitive",
-      "type": "Full-time",
-      "tags": [
-        "Data"
-      ],
-      "postedAt": "2026-09-30T18:55:33.000Z",
-      "url": "https://www.arbeitnow.co.uk/jobs/companies/monzo/lead-machine-learning-scientist-business-banking-cardiff-381566"
-    },
-    {
-      "id": "arbeitnow-lead-data-scientist-cardiff-57981",
-      "title": "Lead Data Scientist",
-      "company": "Monzo",
-      "platform": "Arbeitnow",
-      "location": "Cardiff",
-      "salary": "Competitive",
-      "type": "Full-time",
-      "tags": [
-        "Data"
-      ],
-      "postedAt": "2026-09-30T18:55:33.000Z",
-      "url": "https://www.arbeitnow.co.uk/jobs/companies/monzo/lead-data-scientist-cardiff-57981"
-    },
-    {
-      "id": "arbeitnow-data-scientist-l30-cardiff-406689",
-      "title": "Data Scientist, L30",
-      "company": "Monzo",
-      "platform": "Arbeitnow",
-      "location": "Cardiff",
-      "salary": "Competitive",
-      "type": "Full-time",
-      "tags": [
-        "Data"
-      ],
-      "postedAt": "2026-09-30T18:55:33.000Z",
-      "url": "https://www.arbeitnow.co.uk/jobs/companies/monzo/data-scientist-l30-cardiff-406689"
-    },
-    {
-      "id": "arbeitnow-pre-sales-solutions-architect-bristol-london-114504",
-      "title": "Pre-Sales Solutions Architect",
-      "company": "Kaluza",
-      "platform": "Arbeitnow",
-      "location": "Bristol; London",
-      "salary": "Competitive",
-      "type": "Full-time",
-      "tags": [
-        "Commercial Operations"
-      ],
-      "postedAt": "2026-09-30T18:55:32.000Z",
-      "url": "https://www.arbeitnow.co.uk/jobs/companies/kaluza/pre-sales-solutions-architect-bristol-london-114504"
-    },
-    {
-      "id": "arbeitnow-senior-product-data-analyst-consumer-growth-london-438812",
-      "title": "Senior Product Data Analyst- Consumer Growth",
-      "company": "sumup",
-      "platform": "Arbeitnow",
-      "location": "London",
-      "salary": "Competitive",
-      "type": "Full-time",
-      "tags": [
-        "Data & Analytics"
-      ],
-      "postedAt": "2026-09-30T18:55:29.000Z",
-      "url": "https://www.arbeitnow.co.uk/jobs/companies/sumup/senior-product-data-analyst-consumer-growth-london-438812"
-    },
-    {
-      "id": "arbeitnow-senior-product-data-analyst-consumer-growth-london-363074",
-      "title": "Senior Product Data Analyst - Consumer Growth",
-      "company": "sumup",
-      "platform": "Arbeitnow",
-      "location": "London",
-      "salary": "Competitive",
-      "type": "Full-time",
-      "tags": [
-        "Data & Analytics"
-      ],
-      "postedAt": "2026-09-30T18:55:29.000Z",
-      "url": "https://www.arbeitnow.co.uk/jobs/companies/sumup/senior-product-data-analyst-consumer-growth-london-363074"
-    },
-    {
-      "id": "arbeitnow-senior-marketing-manager-consumer-london-245106",
-      "title": "Senior Marketing Manager - Consumer",
-      "company": "sumup",
-      "platform": "Arbeitnow",
-      "location": "London",
-      "salary": "Competitive",
-      "type": "Full-time",
-      "tags": [
-        "General Marketing"
-      ],
-      "postedAt": "2026-09-30T18:55:29.000Z",
-      "url": "https://www.arbeitnow.co.uk/jobs/companies/sumup/senior-marketing-manager-consumer-london-245106"
-    },
-    {
-      "id": "arbeitnow-director-of-sales-north-and-central-europe-london-155412",
-      "title": "Director of Sales, North and Central Europe",
-      "company": "sumup",
-      "platform": "Arbeitnow",
-      "location": "London",
-      "salary": "Competitive",
-      "type": "Full-time",
-      "tags": [
-        "Field Sales"
-      ],
-      "postedAt": "2026-09-30T18:55:28.000Z",
-      "url": "https://www.arbeitnow.co.uk/jobs/companies/sumup/director-of-sales-north-and-central-europe-london-155412"
     },
     {
       "id": "arbeitnow-senior-channel-sales-engineer-dach-171497",
@@ -1575,20 +1735,6 @@
       "tags": [],
       "postedAt": "2026-09-30T15:45:28.000Z",
       "url": "https://www.arbeitnow.fr/jobs/companies/deliveroo/account-associate-retail-grocery-h-f-paris-591"
-    },
-    {
-      "id": "arbeitnow-remote-forward-deployed-engineer-emea-407864",
-      "title": "Forward Deployed Engineer - EMEA",
-      "company": "gitlab",
-      "platform": "Arbeitnow",
-      "location": "Remote",
-      "salary": "Competitive",
-      "type": "Full-time",
-      "tags": [
-        "Customer Experience"
-      ],
-      "postedAt": "2026-09-30T14:55:36.000Z",
-      "url": "https://www.arbeitnow.com/jobs/companies/gitlab/remote-forward-deployed-engineer-emea-407864"
     },
     {
       "id": "arbeitnow-senior-business-analyst-financial-crime-compliance-market-conduct-470819",
@@ -2036,158 +2182,6 @@
       ],
       "postedAt": "2026-09-30T13:30:11.000Z",
       "url": "https://www.arbeitnow.fr/jobs/companies/portalp/technicien-de-maintenance-portes-automatiques-78-92-h-f-poissy-124621"
-    },
-    {
-      "id": "arbeitnow-technicien-de-maintenance-portes-automatiques-92-94-h-f-antony-359109",
-      "title": "Technicien de maintenance portes automatiques - 92/94 H/F",
-      "company": "Portalp",
-      "platform": "Arbeitnow",
-      "location": "Antony, Île-de-France, France",
-      "salary": "Competitive",
-      "type": "Full-time",
-      "tags": [
-        "SAV"
-      ],
-      "postedAt": "2026-09-30T13:30:11.000Z",
-      "url": "https://www.arbeitnow.fr/jobs/companies/portalp/technicien-de-maintenance-portes-automatiques-92-94-h-f-antony-359109"
-    },
-    {
-      "id": "arbeitnow-alternant-technicien-pose-de-portes-automatiques-et-de-fermetures-h-f-chateaugiron-98694",
-      "title": "Alternant - Technicien pose de portes automatiques et de fermetures H/F",
-      "company": "Portalp",
-      "platform": "Arbeitnow",
-      "location": "Chateaugiron, Bretagne, France",
-      "salary": "Competitive",
-      "type": "Full-time",
-      "tags": [
-        "Pose Neuve"
-      ],
-      "postedAt": "2026-09-30T13:30:11.000Z",
-      "url": "https://www.arbeitnow.fr/jobs/companies/portalp/alternant-technicien-pose-de-portes-automatiques-et-de-fermetures-h-f-chateaugiron-98694"
-    },
-    {
-      "id": "arbeitnow-alternant-technicien-maintenance-de-portes-automatiques-h-f-chateaugiron-49013",
-      "title": "Alternant - Technicien maintenance de portes automatiques H/F",
-      "company": "Portalp",
-      "platform": "Arbeitnow",
-      "location": "Chateaugiron, Bretagne, France",
-      "salary": "Competitive",
-      "type": "Full-time",
-      "tags": [
-        "SAV"
-      ],
-      "postedAt": "2026-09-30T13:30:11.000Z",
-      "url": "https://www.arbeitnow.fr/jobs/companies/portalp/alternant-technicien-maintenance-de-portes-automatiques-h-f-chateaugiron-49013"
-    },
-    {
-      "id": "arbeitnow-alternant-charge-clientele-h-f-chateaugiron-102017",
-      "title": "Alternant - Chargé clientèle H/F",
-      "company": "Portalp",
-      "platform": "Arbeitnow",
-      "location": "Chateaugiron, Bretagne, France",
-      "salary": "Competitive",
-      "type": "Full-time",
-      "tags": [
-        "Commerce"
-      ],
-      "postedAt": "2026-09-30T13:30:11.000Z",
-      "url": "https://www.arbeitnow.fr/jobs/companies/portalp/alternant-charge-clientele-h-f-chateaugiron-102017"
-    },
-    {
-      "id": "arbeitnow-technicien-de-maintenance-portes-automatiques-25-h-f-montbeliard-45889",
-      "title": "Technicien de maintenance portes automatiques - 25 H/F",
-      "company": "Portalp",
-      "platform": "Arbeitnow",
-      "location": "Montbéliard, Bourgogne-Franche-Comté, France",
-      "salary": "Competitive",
-      "type": "Full-time",
-      "tags": [
-        "SAV"
-      ],
-      "postedAt": "2026-09-30T13:30:11.000Z",
-      "url": "https://www.arbeitnow.fr/jobs/companies/portalp/technicien-de-maintenance-portes-automatiques-25-h-f-montbeliard-45889"
-    },
-    {
-      "id": "arbeitnow-bid-engineer-f-h-paris-13936",
-      "title": "Bid Engineer (F/H)",
-      "company": "PYSAE",
-      "platform": "Arbeitnow",
-      "location": "Paris, Île-de-France, France",
-      "salary": "Competitive",
-      "type": "Full-time",
-      "tags": [
-        "Account Management"
-      ],
-      "postedAt": "2026-09-30T13:30:10.000Z",
-      "url": "https://www.arbeitnow.fr/jobs/companies/pysae/bid-engineer-f-h-paris-13936"
-    },
-    {
-      "id": "arbeitnow-account-executive-h-f-paris-242449",
-      "title": "Account Executive (H/F)",
-      "company": "PYSAE",
-      "platform": "Arbeitnow",
-      "location": "Paris, Île-de-France, France",
-      "salary": "Competitive",
-      "type": "Full-time",
-      "tags": [
-        "Account Management"
-      ],
-      "postedAt": "2026-09-30T13:30:10.000Z",
-      "url": "https://www.arbeitnow.fr/jobs/companies/pysae/account-executive-h-f-paris-242449"
-    },
-    {
-      "id": "arbeitnow-responsable-business-development-f-h-chilly-mazarin-164229",
-      "title": "Responsable Business Development F/H",
-      "company": "Hamelin",
-      "platform": "Arbeitnow",
-      "location": "Chilly Mazarin, Île-de-France, France",
-      "salary": "Competitive",
-      "type": "Full-time",
-      "tags": [
-        "Sales"
-      ],
-      "postedAt": "2026-09-30T13:30:09.000Z",
-      "url": "https://www.arbeitnow.fr/jobs/companies/hamelin/responsable-business-development-f-h-chilly-mazarin-164229"
-    },
-    {
-      "id": "arbeitnow-responsable-des-donnees-qualite-produits-f-h-herouville-saint-clair-375755",
-      "title": "Responsable des Données Qualité Produits F/H",
-      "company": "Hamelin",
-      "platform": "Arbeitnow",
-      "location": "Hérouville Saint Clair, Normandie, France",
-      "salary": "Competitive",
-      "type": "Full-time",
-      "tags": [],
-      "postedAt": "2026-09-30T13:30:09.000Z",
-      "url": "https://www.arbeitnow.fr/jobs/companies/hamelin/responsable-des-donnees-qualite-produits-f-h-herouville-saint-clair-375755"
-    },
-    {
-      "id": "arbeitnow-responsable-du-run-support-h-f-la-chapelle-sur-erdre-224894",
-      "title": "Responsable du Run & Support (H/F)",
-      "company": "Mismo",
-      "platform": "Arbeitnow",
-      "location": "La Chapelle sur Erdre, Pays de la Loire, France",
-      "salary": "Competitive",
-      "type": "Full-time",
-      "tags": [
-        "Technique infrastructure"
-      ],
-      "postedAt": "2026-09-30T13:30:08.000Z",
-      "url": "https://www.arbeitnow.fr/jobs/companies/mismo/responsable-du-run-support-h-f-la-chapelle-sur-erdre-224894"
-    },
-    {
-      "id": "arbeitnow-stage-assistante-marketing-et-communication-la-chapelle-sur-erdre-106382",
-      "title": "Stage Assistant(e) Marketing et Communication",
-      "company": "Mismo",
-      "platform": "Arbeitnow",
-      "location": "La Chapelle sur Erdre, Pays de la Loire, France",
-      "salary": "Competitive",
-      "type": "Full-time",
-      "tags": [
-        "Marketing"
-      ],
-      "postedAt": "2026-09-30T13:30:08.000Z",
-      "url": "https://www.arbeitnow.fr/jobs/companies/mismo/stage-assistante-marketing-et-communication-la-chapelle-sur-erdre-106382"
     }
   ]
 }
