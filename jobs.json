@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-10-17T11:05:12.957Z",
+  "lastUpdated": "2026-10-17T14:20:41.192Z",
   "jobs": [
     {
       "id": "remoteok-1137479",
@@ -93,6 +93,20 @@
       ],
       "postedAt": "2026-10-09T08:00:04+00:00",
       "url": "https://remoteOK.com/remote-jobs/remote-product-design-lead-fuel50-1137474"
+    },
+    {
+      "id": "arbeitnow-remote-executive-assistant-apac-203903",
+      "title": "Executive Assistant - APAC",
+      "company": "ElevenLabs",
+      "platform": "Arbeitnow",
+      "location": "Remote",
+      "salary": "Competitive",
+      "type": "Full-time",
+      "tags": [
+        "Operations"
+      ],
+      "postedAt": "2026-10-17T11:40:17.000Z",
+      "url": "https://www.arbeitnow.com/jobs/companies/elevenlabs/remote-executive-assistant-apac-203903"
     },
     {
       "id": "arbeitnow-executive-assistant-data-center-operations-emea-london-84988",
@@ -600,18 +614,6 @@
       "url": "https://www.arbeitnow.fr/jobs/companies/artefactjobs/accounting-intern-paris-9th-arrondissement-of-paris-75009-paris-231010"
     },
     {
-      "id": "jobicy-155540",
-      "title": "Manager, Technical Accounting",
-      "company": "Liftoff",
-      "platform": "Jobicy",
-      "location": "Canada",
-      "salary": "Competitive",
-      "type": "Full-Time",
-      "tags": [],
-      "postedAt": "2026-10-16T18:32:31+00:00",
-      "url": "https://jobicy.com/jobs/155540-manager-technical-accounting"
-    },
-    {
       "id": "arbeitnow-deputy-accounting-director-freelance-contractor-bordeaux-294717",
       "title": "Deputy Accounting Director (freelance/contractor)",
       "company": "Mirakl",
@@ -634,6 +636,18 @@
       "tags": [],
       "postedAt": "2026-10-16T15:45:31.000Z",
       "url": "https://www.arbeitnow.fr/jobs/companies/mirakl/deputy-accounting-director-freelance-contractor-paris-139532"
+    },
+    {
+      "id": "jobicy-155568",
+      "title": "Account Manager - Last Mile, Logistics & Warehousing",
+      "company": "WorkWhile",
+      "platform": "Jobicy",
+      "location": "USA",
+      "salary": "Competitive",
+      "type": "Full-Time",
+      "tags": [],
+      "postedAt": "2026-10-17T07:48:29+00:00",
+      "url": "https://jobicy.com/jobs/155568-account-manager-last-mile-logistics-warehousing"
     },
     {
       "id": "arbeitnow-remote-lead-solutions-engineer-france-354209",
@@ -681,20 +695,6 @@
       "url": "https://www.arbeitnow.nl/jobs/companies/eye-security/working-student-talent-acquisition-the-hague-29126"
     },
     {
-      "id": "arbeitnow-product-and-research-operations-manager-voices-london-298243",
-      "title": "Product and Research Operations Manager, Voices",
-      "company": "Cartesia",
-      "platform": "Arbeitnow",
-      "location": "London",
-      "salary": "Competitive",
-      "type": "Full-time",
-      "tags": [
-        "Product"
-      ],
-      "postedAt": "2026-10-17T05:40:30.000Z",
-      "url": "https://www.arbeitnow.co.uk/jobs/companies/cartesia/product-and-research-operations-manager-voices-london-298243"
-    },
-    {
       "id": "jobicy-153396",
       "title": "People Operations Manager",
       "company": "NetBox Labs",
@@ -705,20 +705,6 @@
       "tags": [],
       "postedAt": "2026-10-17T03:05:03+00:00",
       "url": "https://jobicy.com/jobs/153396-people-operations-manager-3"
-    },
-    {
-      "id": "arbeitnow-remote-senior-engineering-operations-manager-128137",
-      "title": "Senior Engineering Operations Manager",
-      "company": "Camunda",
-      "platform": "Arbeitnow",
-      "location": "Remote",
-      "salary": "Competitive",
-      "type": "Full-time",
-      "tags": [
-        "Products"
-      ],
-      "postedAt": "2026-10-16T17:40:17.000Z",
-      "url": "https://www.arbeitnow.com/jobs/companies/camunda/remote-senior-engineering-operations-manager-128137"
     },
     {
       "id": "remoteok-1137466",
@@ -749,6 +735,246 @@
       "tags": [],
       "postedAt": "2026-10-17T04:10:13+00:00",
       "url": "https://jobicy.com/jobs/153411-senior-performance-marketing-manager-2"
+    },
+    {
+      "id": "arbeitnow-remote-founding-platform-engineer-netherlands-152205",
+      "title": "Founding Platform Engineer",
+      "company": "Mlabs",
+      "platform": "Arbeitnow",
+      "location": "Netherlands",
+      "salary": "Competitive",
+      "type": "Full-time",
+      "tags": [
+        "ADE",
+        "Remote"
+      ],
+      "postedAt": "2026-10-17T12:20:05.000Z",
+      "url": "https://www.arbeitnow.nl/jobs/companies/mlabs/remote-founding-platform-engineer-netherlands-152205"
+    },
+    {
+      "id": "arbeitnow-account-executive-enterprise-366148",
+      "title": "Account Executive, Enterprise",
+      "company": "conga",
+      "platform": "Arbeitnow",
+      "location": "Remote",
+      "salary": "Competitive",
+      "type": "Full-time",
+      "tags": [
+        "Sales"
+      ],
+      "postedAt": "2026-10-17T11:55:16.000Z",
+      "url": "https://www.arbeitnow.com/jobs/companies/conga/account-executive-enterprise-366148"
+    },
+    {
+      "id": "arbeitnow-corporate-account-executive-public-sector-london-468387",
+      "title": "Corporate Account Executive - Public Sector",
+      "company": "Avepoint",
+      "platform": "Arbeitnow",
+      "location": "London",
+      "salary": "Competitive",
+      "type": "Full-time",
+      "tags": [
+        "Sales"
+      ],
+      "postedAt": "2026-10-17T11:55:16.000Z",
+      "url": "https://www.arbeitnow.co.uk/jobs/companies/avepoint/corporate-account-executive-public-sector-london-468387"
+    },
+    {
+      "id": "arbeitnow-working-student-academics-104947",
+      "title": "Working student Academics (f/m/d)",
+      "company": "Think Cell",
+      "platform": "Arbeitnow",
+      "location": "Remote",
+      "salary": "Competitive",
+      "type": "Full-time",
+      "tags": [
+        "Strategy & Corporation Development"
+      ],
+      "postedAt": "2026-10-17T11:55:14.000Z",
+      "url": "https://www.arbeitnow.com/jobs/companies/think-cell/working-student-academics-104947"
+    },
+    {
+      "id": "arbeitnow-remote-senior-counsel-strategic-partnerships-299221",
+      "title": "Senior Counsel, Strategic Partnerships",
+      "company": "Udemy",
+      "platform": "Arbeitnow",
+      "location": "Remote",
+      "salary": "Competitive",
+      "type": "Full-time",
+      "tags": [
+        "Legal Operations"
+      ],
+      "postedAt": "2026-10-17T11:55:13.000Z",
+      "url": "https://www.arbeitnow.co.uk/jobs/companies/udemy/remote-senior-counsel-strategic-partnerships-299221"
+    },
+    {
+      "id": "arbeitnow-data-analyst-strategic-projects-london-15392",
+      "title": "Data Analyst (Strategic Projects)",
+      "company": "Lendable",
+      "platform": "Arbeitnow",
+      "location": "London",
+      "salary": "Competitive",
+      "type": "Full-time",
+      "tags": [
+        "Growth & Analytics"
+      ],
+      "postedAt": "2026-10-17T11:40:18.000Z",
+      "url": "https://www.arbeitnow.co.uk/jobs/companies/lendable/data-analyst-strategic-projects-london-15392"
+    },
+    {
+      "id": "arbeitnow-talent-partner-london-110926",
+      "title": "Talent Partner",
+      "company": "Healf",
+      "platform": "Arbeitnow",
+      "location": "London Office",
+      "salary": "Competitive",
+      "type": "Full-time",
+      "tags": [
+        "Performance"
+      ],
+      "postedAt": "2026-10-17T11:40:18.000Z",
+      "url": "https://www.arbeitnow.co.uk/jobs/companies/healf/talent-partner-london-110926"
+    },
+    {
+      "id": "arbeitnow-lead-data-scientist-london-486146",
+      "title": "Lead Data Scientist",
+      "company": "Faculty",
+      "platform": "Arbeitnow",
+      "location": "London",
+      "salary": "Competitive",
+      "type": "Full-time",
+      "tags": [
+        "Data Science"
+      ],
+      "postedAt": "2026-10-17T11:40:18.000Z",
+      "url": "https://www.arbeitnow.co.uk/jobs/companies/faculty/lead-data-scientist-london-486146"
+    },
+    {
+      "id": "arbeitnow-principal-data-scientist-london-295261",
+      "title": "Principal Data Scientist",
+      "company": "Faculty",
+      "platform": "Arbeitnow",
+      "location": "Remote (UK)",
+      "salary": "Competitive",
+      "type": "Full-time",
+      "tags": [
+        "Defence"
+      ],
+      "postedAt": "2026-10-17T11:40:18.000Z",
+      "url": "https://www.arbeitnow.co.uk/jobs/companies/faculty/principal-data-scientist-london-295261"
+    },
+    {
+      "id": "arbeitnow-enterprise-risk-manager-london-210309",
+      "title": "Enterprise Risk Manager",
+      "company": "Fundingcircle",
+      "platform": "Arbeitnow",
+      "location": "London",
+      "salary": "Competitive",
+      "type": "Full-time",
+      "tags": [
+        "Legal & Compliance"
+      ],
+      "postedAt": "2026-10-17T11:40:18.000Z",
+      "url": "https://www.arbeitnow.co.uk/jobs/companies/fundingcircle/enterprise-risk-manager-london-210309"
+    },
+    {
+      "id": "arbeitnow-collections-executive-london-84368",
+      "title": "Collections Executive",
+      "company": "Fundingcircle",
+      "platform": "Arbeitnow",
+      "location": "London",
+      "salary": "Competitive",
+      "type": "Full-time",
+      "tags": [
+        "Collections",
+        "Recoveries & Litigation"
+      ],
+      "postedAt": "2026-10-17T11:40:18.000Z",
+      "url": "https://www.arbeitnow.co.uk/jobs/companies/fundingcircle/collections-executive-london-84368"
+    },
+    {
+      "id": "arbeitnow-partner-sales-manager-central-emea-england-426672",
+      "title": "Partner Sales Manager (Central EMEA)",
+      "company": "Docker",
+      "platform": "Arbeitnow",
+      "location": "England",
+      "salary": "Competitive",
+      "type": "Full-time",
+      "tags": [
+        "Sales"
+      ],
+      "postedAt": "2026-10-17T11:40:18.000Z",
+      "url": "https://www.arbeitnow.co.uk/jobs/companies/docker/partner-sales-manager-central-emea-england-426672"
+    },
+    {
+      "id": "arbeitnow-manager-engineering-secure-build-and-scs-services-east-coast-preferred-england-449998",
+      "title": "Manager, Engineering, Secure Build and SCS Services (East Coast Preferred)",
+      "company": "Docker",
+      "platform": "Arbeitnow",
+      "location": "England",
+      "salary": "Competitive",
+      "type": "Full-time",
+      "tags": [
+        "Engineering"
+      ],
+      "postedAt": "2026-10-17T11:40:18.000Z",
+      "url": "https://www.arbeitnow.co.uk/jobs/companies/docker/manager-engineering-secure-build-and-scs-services-east-coast-preferred-england-449998"
+    },
+    {
+      "id": "arbeitnow-remote-account-executive-enterprise-sports-specialist-3930",
+      "title": "Account Executive - Enterprise - Sports Specialist",
+      "company": "ElevenLabs",
+      "platform": "Arbeitnow",
+      "location": "Remote",
+      "salary": "Competitive",
+      "type": "Full-time",
+      "tags": [
+        "Revenue"
+      ],
+      "postedAt": "2026-10-17T11:40:17.000Z",
+      "url": "https://www.arbeitnow.com/jobs/companies/elevenlabs/remote-account-executive-enterprise-sports-specialist-3930"
+    },
+    {
+      "id": "arbeitnow-remote-gtm-enablement-product-455044",
+      "title": "GTM Enablement - Product",
+      "company": "ElevenLabs",
+      "platform": "Arbeitnow",
+      "location": "Remote",
+      "salary": "Competitive",
+      "type": "Full-time",
+      "tags": [
+        "Revenue"
+      ],
+      "postedAt": "2026-10-17T11:40:17.000Z",
+      "url": "https://www.arbeitnow.com/jobs/companies/elevenlabs/remote-gtm-enablement-product-455044"
+    },
+    {
+      "id": "arbeitnow-remote-adoption-strategist-north-america-250766",
+      "title": "Adoption Strategist - North America",
+      "company": "ElevenLabs",
+      "platform": "Arbeitnow",
+      "location": "Remote",
+      "salary": "Competitive",
+      "type": "Full-time",
+      "tags": [
+        "Revenue"
+      ],
+      "postedAt": "2026-10-17T11:40:17.000Z",
+      "url": "https://www.arbeitnow.com/jobs/companies/elevenlabs/remote-adoption-strategist-north-america-250766"
+    },
+    {
+      "id": "arbeitnow-remote-gtm-enablement-sales-execution-north-america-lead-104725",
+      "title": "GTM Enablement - Sales Execution & North America Lead",
+      "company": "ElevenLabs",
+      "platform": "Arbeitnow",
+      "location": "Remote",
+      "salary": "Competitive",
+      "type": "Full-time",
+      "tags": [
+        "Revenue"
+      ],
+      "postedAt": "2026-10-17T11:40:17.000Z",
+      "url": "https://www.arbeitnow.com/jobs/companies/elevenlabs/remote-gtm-enablement-sales-execution-north-america-lead-104725"
     },
     {
       "id": "arbeitnow-senior-embedded-performance-engineer-zurich-404854",
@@ -973,6 +1199,198 @@
       ],
       "postedAt": "2026-10-17T08:40:15.000Z",
       "url": "https://www.arbeitnow.co.uk/jobs/companies/ankar/talent-partner-london-99488"
+    },
+    {
+      "id": "jobicy-155586",
+      "title": "Director of Product Design",
+      "company": "Monzo",
+      "platform": "Jobicy",
+      "location": "UK",
+      "salary": "Competitive",
+      "type": "Full-Time",
+      "tags": [],
+      "postedAt": "2026-10-17T08:33:08+00:00",
+      "url": "https://jobicy.com/jobs/155586-director-of-product-design-2"
+    },
+    {
+      "id": "jobicy-155587",
+      "title": "Engineering Director, EU",
+      "company": "Monzo",
+      "platform": "Jobicy",
+      "location": "UK",
+      "salary": "Competitive",
+      "type": "Full-Time",
+      "tags": [],
+      "postedAt": "2026-10-17T08:33:07+00:00",
+      "url": "https://jobicy.com/jobs/155587-engineering-director-eu"
+    },
+    {
+      "id": "jobicy-155582",
+      "title": "Collaborative L&D Specialist",
+      "company": "Laminar Projects",
+      "platform": "Jobicy",
+      "location": "Czechia,  Hungary,  Poland,  Romania,  Slovakia",
+      "salary": "Competitive",
+      "type": "Full-Time",
+      "tags": [],
+      "postedAt": "2026-10-17T08:33:07+00:00",
+      "url": "https://jobicy.com/jobs/155582-collaborative-ld-specialist"
+    },
+    {
+      "id": "jobicy-155581",
+      "title": "Data Director, EU",
+      "company": "Monzo",
+      "platform": "Jobicy",
+      "location": "Spain,  UK",
+      "salary": "Competitive",
+      "type": "Full-Time",
+      "tags": [],
+      "postedAt": "2026-10-17T08:33:07+00:00",
+      "url": "https://jobicy.com/jobs/155581-data-director-eu"
+    },
+    {
+      "id": "jobicy-155579",
+      "title": "AI Engineer - 4 Day Week + Remote",
+      "company": "Laminar Projects",
+      "platform": "Jobicy",
+      "location": "Poland,  Portugal",
+      "salary": "Competitive",
+      "type": "Full-Time",
+      "tags": [],
+      "postedAt": "2026-10-17T08:33:07+00:00",
+      "url": "https://jobicy.com/jobs/155579-ai-engineer-4-day-week-remote"
+    },
+    {
+      "id": "jobicy-155585",
+      "title": "Data Science Manager, Financial Crime",
+      "company": "Monzo",
+      "platform": "Jobicy",
+      "location": "UK",
+      "salary": "Competitive",
+      "type": "Full-Time",
+      "tags": [],
+      "postedAt": "2026-10-17T08:33:06+00:00",
+      "url": "https://jobicy.com/jobs/155585-data-science-manager-financial-crime"
+    },
+    {
+      "id": "jobicy-155584",
+      "title": "Data Science Manager",
+      "company": "Monzo",
+      "platform": "Jobicy",
+      "location": "UK",
+      "salary": "Competitive",
+      "type": "Full-Time",
+      "tags": [],
+      "postedAt": "2026-10-17T08:33:06+00:00",
+      "url": "https://jobicy.com/jobs/155584-data-science-manager-2"
+    },
+    {
+      "id": "jobicy-155583",
+      "title": "Data Director, Payments",
+      "company": "Monzo",
+      "platform": "Jobicy",
+      "location": "UK",
+      "salary": "Competitive",
+      "type": "Full-Time",
+      "tags": [],
+      "postedAt": "2026-10-17T08:33:06+00:00",
+      "url": "https://jobicy.com/jobs/155583-data-director-payments"
+    },
+    {
+      "id": "jobicy-155580",
+      "title": "Onboarding Coach",
+      "company": "Cloudbeds",
+      "platform": "Jobicy",
+      "location": "Portugal",
+      "salary": "Competitive",
+      "type": "Full-Time",
+      "tags": [],
+      "postedAt": "2026-10-17T08:33:06+00:00",
+      "url": "https://jobicy.com/jobs/155580-onboarding-coach-2"
+    },
+    {
+      "id": "jobicy-155578",
+      "title": "Client Partner",
+      "company": "Appen",
+      "platform": "Jobicy",
+      "location": "Brazil,  Spain",
+      "salary": "Competitive",
+      "type": "Full-Time",
+      "tags": [],
+      "postedAt": "2026-10-17T08:33:04+00:00",
+      "url": "https://jobicy.com/jobs/155578-client-partner-2"
+    },
+    {
+      "id": "jobicy-155571",
+      "title": "GTM Systems Administrator",
+      "company": "dscout",
+      "platform": "Jobicy",
+      "location": "USA",
+      "salary": "Competitive",
+      "type": "Full-Time",
+      "tags": [],
+      "postedAt": "2026-10-17T07:48:31+00:00",
+      "url": "https://jobicy.com/jobs/155571-gtm-systems-administrator"
+    },
+    {
+      "id": "jobicy-155577",
+      "title": "Program Manager",
+      "company": "Oddball",
+      "platform": "Jobicy",
+      "location": "USA",
+      "salary": "Competitive",
+      "type": "Full-Time",
+      "tags": [],
+      "postedAt": "2026-10-17T07:48:30+00:00",
+      "url": "https://jobicy.com/jobs/155577-program-manager-2"
+    },
+    {
+      "id": "jobicy-155573",
+      "title": "Technical Recruiter",
+      "company": "infisical",
+      "platform": "Jobicy",
+      "location": "Canada,  USA",
+      "salary": "Competitive",
+      "type": "Full-Time",
+      "tags": [],
+      "postedAt": "2026-10-17T07:48:30+00:00",
+      "url": "https://jobicy.com/jobs/155573-technical-recruiter-4"
+    },
+    {
+      "id": "jobicy-155570",
+      "title": "Field Marketing Manager",
+      "company": "infisical",
+      "platform": "Jobicy",
+      "location": "USA",
+      "salary": "Competitive",
+      "type": "Full-Time",
+      "tags": [],
+      "postedAt": "2026-10-17T07:48:29+00:00",
+      "url": "https://jobicy.com/jobs/155570-field-marketing-manager"
+    },
+    {
+      "id": "jobicy-155575",
+      "title": "Power Platform Developer",
+      "company": "Oddball",
+      "platform": "Jobicy",
+      "location": "USA",
+      "salary": "Competitive",
+      "type": "Full-Time",
+      "tags": [],
+      "postedAt": "2026-10-17T07:48:28+00:00",
+      "url": "https://jobicy.com/jobs/155575-power-platform-developer"
+    },
+    {
+      "id": "jobicy-155569",
+      "title": "Delivery Manager",
+      "company": "Oddball",
+      "platform": "Jobicy",
+      "location": "USA",
+      "salary": "Competitive",
+      "type": "Full-Time",
+      "tags": [],
+      "postedAt": "2026-10-17T07:48:28+00:00",
+      "url": "https://jobicy.com/jobs/155569-delivery-manager-2"
     },
     {
       "id": "arbeitnow-product-manager-homepage-london-355976",
@@ -1573,76 +1991,6 @@
       "url": "https://www.arbeitnow.co.uk/jobs/companies/rogo/workplace-experience-manager-london-uk-257433"
     },
     {
-      "id": "arbeitnow-clinical-ai-lead-london-269213",
-      "title": "Clinical AI Lead",
-      "company": "Aptura",
-      "platform": "Arbeitnow",
-      "location": "London",
-      "salary": "Competitive",
-      "type": "Full-time",
-      "tags": [
-        "Healthcare"
-      ],
-      "postedAt": "2026-10-17T05:40:31.000Z",
-      "url": "https://www.arbeitnow.co.uk/jobs/companies/aptura/clinical-ai-lead-london-269213"
-    },
-    {
-      "id": "arbeitnow-ai-deployment-lead-london-18533",
-      "title": "AI Deployment Lead",
-      "company": "Omnea",
-      "platform": "Arbeitnow",
-      "location": "London",
-      "salary": "Competitive",
-      "type": "Full-time",
-      "tags": [
-        "Customer"
-      ],
-      "postedAt": "2026-10-17T05:40:31.000Z",
-      "url": "https://www.arbeitnow.co.uk/jobs/companies/omnea/ai-deployment-lead-london-18533"
-    },
-    {
-      "id": "arbeitnow-ai-solutions-lead-london-18150",
-      "title": "AI Solutions Lead",
-      "company": "Omnea",
-      "platform": "Arbeitnow",
-      "location": "London",
-      "salary": "Competitive",
-      "type": "Full-time",
-      "tags": [
-        "Customer"
-      ],
-      "postedAt": "2026-10-17T05:40:31.000Z",
-      "url": "https://www.arbeitnow.co.uk/jobs/companies/omnea/ai-solutions-lead-london-18150"
-    },
-    {
-      "id": "arbeitnow-frontend-engineering-lead-london-87291",
-      "title": "Frontend Engineering Lead",
-      "company": "Omnea",
-      "platform": "Arbeitnow",
-      "location": "London",
-      "salary": "Competitive",
-      "type": "Full-time",
-      "tags": [
-        "Tech"
-      ],
-      "postedAt": "2026-10-17T05:40:31.000Z",
-      "url": "https://www.arbeitnow.co.uk/jobs/companies/omnea/frontend-engineering-lead-london-87291"
-    },
-    {
-      "id": "arbeitnow-senior-international-sales-recruiter-uk-emea-united-kingdom-8312",
-      "title": "Senior International Sales Recruiter, UK/EMEA",
-      "company": "TRM Labs",
-      "platform": "Arbeitnow",
-      "location": "United Kingdom",
-      "salary": "Competitive",
-      "type": "Full-time",
-      "tags": [
-        "G&A"
-      ],
-      "postedAt": "2026-10-17T05:40:31.000Z",
-      "url": "https://www.arbeitnow.co.uk/jobs/companies/trm-labs/senior-international-sales-recruiter-uk-emea-united-kingdom-8312"
-    },
-    {
       "id": "arbeitnow-forward-deployed-banker-paris-287923",
       "title": "Forward Deployed Banker, Paris",
       "company": "Rogo",
@@ -1655,34 +2003,6 @@
       ],
       "postedAt": "2026-10-17T05:40:31.000Z",
       "url": "https://www.arbeitnow.fr/jobs/companies/rogo/forward-deployed-banker-paris-287923"
-    },
-    {
-      "id": "arbeitnow-strategic-account-manager-uk-london-375580",
-      "title": "Strategic Account Manager (UK)",
-      "company": "Siena",
-      "platform": "Arbeitnow",
-      "location": "London",
-      "salary": "Competitive",
-      "type": "Full-time",
-      "tags": [
-        "Account Management"
-      ],
-      "postedAt": "2026-10-17T05:40:30.000Z",
-      "url": "https://www.arbeitnow.co.uk/jobs/companies/siena/strategic-account-manager-uk-london-375580"
-    },
-    {
-      "id": "arbeitnow-design-operations-lead-london-263482",
-      "title": "Design Operations Lead",
-      "company": "Gen Digital",
-      "platform": "Arbeitnow",
-      "location": "GBR - London",
-      "salary": "Competitive",
-      "type": "Full-time",
-      "tags": [
-        "Global Customer Organization"
-      ],
-      "postedAt": "2026-10-17T05:40:30.000Z",
-      "url": "https://www.arbeitnow.co.uk/jobs/companies/gen-digital/design-operations-lead-london-263482"
     },
     {
       "id": "jobicy-154589",
@@ -1923,306 +2243,6 @@
       "tags": [],
       "postedAt": "2026-10-17T04:10:18+00:00",
       "url": "https://jobicy.com/jobs/153436-business-development-representative-14"
-    },
-    {
-      "id": "jobicy-153426",
-      "title": "Market Development Executive, United States Air Force & Space Force",
-      "company": "Silvus Technologies",
-      "platform": "Jobicy",
-      "location": "USA",
-      "salary": "Competitive",
-      "type": "Full-Time",
-      "tags": [],
-      "postedAt": "2026-10-17T04:10:17+00:00",
-      "url": "https://jobicy.com/jobs/153426-market-development-executive-united-states-air-force-space-force"
-    },
-    {
-      "id": "jobicy-153420",
-      "title": "Demand Generation Program Manager | Canada | Remote",
-      "company": "Grafana Labs",
-      "platform": "Jobicy",
-      "location": "Canada",
-      "salary": "Competitive",
-      "type": "Full-Time",
-      "tags": [],
-      "postedAt": "2026-10-17T04:10:16+00:00",
-      "url": "https://jobicy.com/jobs/153420-demand-generation-program-manager-canada-remote"
-    },
-    {
-      "id": "jobicy-153417",
-      "title": "Senior Infrastructure Engineer, Core Systems",
-      "company": "QuickNode",
-      "platform": "Jobicy",
-      "location": "Portugal,  USA",
-      "salary": "Competitive",
-      "type": "Full-Time",
-      "tags": [],
-      "postedAt": "2026-10-17T04:10:14+00:00",
-      "url": "https://jobicy.com/jobs/153417-senior-infrastructure-engineer-core-systems"
-    },
-    {
-      "id": "jobicy-153407",
-      "title": "Marketing Operations and CRM Expert (Hubspot)",
-      "company": "Docplanner",
-      "platform": "Jobicy",
-      "location": "Poland",
-      "salary": "Competitive",
-      "type": "Full-Time",
-      "tags": [],
-      "postedAt": "2026-10-17T04:10:11+00:00",
-      "url": "https://jobicy.com/jobs/153407-marketing-operations-and-crm-expert-hubspot-2"
-    },
-    {
-      "id": "jobicy-153406",
-      "title": "Senior Product Designer",
-      "company": "Fieldguide",
-      "platform": "Jobicy",
-      "location": "USA",
-      "salary": "Competitive",
-      "type": "Full-Time",
-      "tags": [],
-      "postedAt": "2026-10-17T04:10:10+00:00",
-      "url": "https://jobicy.com/jobs/153406-senior-product-designer-12"
-    },
-    {
-      "id": "jobicy-153398",
-      "title": "Proposal Writer",
-      "company": "Oddball",
-      "platform": "Jobicy",
-      "location": "USA",
-      "salary": "Competitive",
-      "type": "Full-Time",
-      "tags": [],
-      "postedAt": "2026-10-17T04:10:07+00:00",
-      "url": "https://jobicy.com/jobs/153398-proposal-writer"
-    },
-    {
-      "id": "jobicy-153378",
-      "title": "Senior Engineering Manager [gn] Data Intelligence Platform",
-      "company": "Actian",
-      "platform": "Jobicy",
-      "location": "UK",
-      "salary": "Competitive",
-      "type": "Full-Time",
-      "tags": [],
-      "postedAt": "2026-10-17T04:05:17+00:00",
-      "url": "https://jobicy.com/jobs/153378-senior-engineering-manager-gn-data-intelligence-platform"
-    },
-    {
-      "id": "jobicy-153445",
-      "title": "Circinus - Audio Contributor English Southern American (US)",
-      "company": "Welo Global",
-      "platform": "Jobicy",
-      "location": "Anywhere",
-      "salary": "Competitive",
-      "type": "Contract",
-      "tags": [],
-      "postedAt": "2026-10-17T04:05:15+00:00",
-      "url": "https://jobicy.com/jobs/153445-circinus-audio-contributor-english-southern-american-us"
-    },
-    {
-      "id": "jobicy-153376",
-      "title": "Public Facing Security Researcher",
-      "company": "CertiK",
-      "platform": "Jobicy",
-      "location": "USA",
-      "salary": "Competitive",
-      "type": "Full-Time",
-      "tags": [],
-      "postedAt": "2026-10-17T04:05:14+00:00",
-      "url": "https://jobicy.com/jobs/153376-public-facing-security-researcher"
-    },
-    {
-      "id": "jobicy-153373",
-      "title": "Financial Analyst (Entry-Level)",
-      "company": "CertiK",
-      "platform": "Jobicy",
-      "location": "USA",
-      "salary": "Competitive",
-      "type": "Full-Time",
-      "tags": [],
-      "postedAt": "2026-10-17T04:05:12+00:00",
-      "url": "https://jobicy.com/jobs/153373-financial-analyst-entry-level"
-    },
-    {
-      "id": "jobicy-153371",
-      "title": "Director of Product, AML & Digital Asset Compliance",
-      "company": "CertiK",
-      "platform": "Jobicy",
-      "location": "Hong Kong,  Singapore,  USA",
-      "salary": "Competitive",
-      "type": "Full-Time",
-      "tags": [],
-      "postedAt": "2026-10-17T04:05:11+00:00",
-      "url": "https://jobicy.com/jobs/153371-director-of-product-aml-digital-asset-compliance"
-    },
-    {
-      "id": "jobicy-153369",
-      "title": "Director of AML & Virtual Asset Compliance",
-      "company": "CertiK",
-      "platform": "Jobicy",
-      "location": "Hong Kong,  Singapore,  USA",
-      "salary": "Competitive",
-      "type": "Full-Time",
-      "tags": [],
-      "postedAt": "2026-10-17T04:05:10+00:00",
-      "url": "https://jobicy.com/jobs/153369-director-of-aml-virtual-asset-compliance"
-    },
-    {
-      "id": "jobicy-153443",
-      "title": "GRC Manager",
-      "company": "Mattermost",
-      "platform": "Jobicy",
-      "location": "USA",
-      "salary": "Competitive",
-      "type": "Full-Time",
-      "tags": [],
-      "postedAt": "2026-10-17T04:05:08+00:00",
-      "url": "https://jobicy.com/jobs/153443-grc-manager"
-    },
-    {
-      "id": "jobicy-153441",
-      "title": "Sales & CX Enablement Partner",
-      "company": "Osano",
-      "platform": "Jobicy",
-      "location": "USA",
-      "salary": "Competitive",
-      "type": "Full-Time",
-      "tags": [],
-      "postedAt": "2026-10-17T04:05:07+00:00",
-      "url": "https://jobicy.com/jobs/153441-sales-cx-enablement-partner"
-    },
-    {
-      "id": "jobicy-153438",
-      "title": "Account Manager - Federal",
-      "company": "Mattermost",
-      "platform": "Jobicy",
-      "location": "USA",
-      "salary": "Competitive",
-      "type": "Full-Time",
-      "tags": [],
-      "postedAt": "2026-10-17T04:05:06+00:00",
-      "url": "https://jobicy.com/jobs/153438-account-manager-federal"
-    },
-    {
-      "id": "jobicy-153370",
-      "title": "Android Engineer (mid-level)",
-      "company": "Tripadvisor",
-      "platform": "Jobicy",
-      "location": "Poland",
-      "salary": "Competitive",
-      "type": "Full-Time",
-      "tags": [],
-      "postedAt": "2026-10-17T04:05:04+00:00",
-      "url": "https://jobicy.com/jobs/153370-android-engineer-mid-level"
-    },
-    {
-      "id": "jobicy-153397",
-      "title": "Engineering Manager, AI Transformation",
-      "company": "Goodleap",
-      "platform": "Jobicy",
-      "location": "USA",
-      "salary": "Competitive",
-      "type": "Full-Time",
-      "tags": [],
-      "postedAt": "2026-10-17T03:05:30+00:00",
-      "url": "https://jobicy.com/jobs/153397-engineering-manager-ai-transformation"
-    },
-    {
-      "id": "jobicy-150852",
-      "title": "Account Executive",
-      "company": "Housecall Pro",
-      "platform": "Jobicy",
-      "location": "USA",
-      "salary": "Competitive",
-      "type": "Full-Time",
-      "tags": [],
-      "postedAt": "2026-10-17T03:05:27+00:00",
-      "url": "https://jobicy.com/jobs/150852-account-executive-2"
-    },
-    {
-      "id": "jobicy-150856",
-      "title": "Account Executive (Key Accounts)",
-      "company": "Housecall Pro",
-      "platform": "Jobicy",
-      "location": "USA",
-      "salary": "Competitive",
-      "type": "Full-Time",
-      "tags": [],
-      "postedAt": "2026-10-17T03:05:25+00:00",
-      "url": "https://jobicy.com/jobs/150856-account-executive-key-accounts"
-    },
-    {
-      "id": "jobicy-150811",
-      "title": "Area Vice President, Strategic Sales",
-      "company": "Okta",
-      "platform": "Jobicy",
-      "location": "USA",
-      "salary": "Competitive",
-      "type": "Full-Time",
-      "tags": [],
-      "postedAt": "2026-10-17T03:05:24+00:00",
-      "url": "https://jobicy.com/jobs/150811-area-vice-president-strategic-sales"
-    },
-    {
-      "id": "jobicy-150860",
-      "title": "Account Executive (SaaS)",
-      "company": "Housecall Pro",
-      "platform": "Jobicy",
-      "location": "USA",
-      "salary": "Competitive",
-      "type": "Full-Time",
-      "tags": [],
-      "postedAt": "2026-10-17T03:05:22+00:00",
-      "url": "https://jobicy.com/jobs/150860-account-executive-saas"
-    },
-    {
-      "id": "jobicy-153392",
-      "title": "Bilingual Collections Specialist",
-      "company": "Goodleap",
-      "platform": "Jobicy",
-      "location": "USA",
-      "salary": "Competitive",
-      "type": "Full-Time",
-      "tags": [],
-      "postedAt": "2026-10-17T03:05:20+00:00",
-      "url": "https://jobicy.com/jobs/153392-bilingual-collections-specialist"
-    },
-    {
-      "id": "jobicy-153389",
-      "title": "Sales Development Representative (SDR) (Philippines)",
-      "company": "ParcelHero",
-      "platform": "Jobicy",
-      "location": "Philippines",
-      "salary": "Competitive",
-      "type": "Full-Time",
-      "tags": [],
-      "postedAt": "2026-10-17T03:05:18+00:00",
-      "url": "https://jobicy.com/jobs/153389-sales-development-representative-sdr-philippines"
-    },
-    {
-      "id": "jobicy-153382",
-      "title": "Agile Coach (FTC)",
-      "company": "TrustedHousesitters",
-      "platform": "Jobicy",
-      "location": "UK",
-      "salary": "Competitive",
-      "type": "Contract",
-      "tags": [],
-      "postedAt": "2026-10-17T03:05:16+00:00",
-      "url": "https://jobicy.com/jobs/153382-agile-coach-ftc"
-    },
-    {
-      "id": "jobicy-153391",
-      "title": "Analytics Platforms Architect",
-      "company": "Tala",
-      "platform": "Jobicy",
-      "location": "USA",
-      "salary": "Competitive",
-      "type": "Full-Time",
-      "tags": [],
-      "postedAt": "2026-10-17T03:05:15+00:00",
-      "url": "https://jobicy.com/jobs/153391-analytics-platforms-architect"
     }
   ]
 }
