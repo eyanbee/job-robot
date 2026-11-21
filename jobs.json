@@ -1,32 +1,17 @@
 {
-  "lastUpdated": "2026-11-20T23:55:29.281Z",
+  "lastUpdated": "2026-11-21T06:51:08.560Z",
   "jobs": [
     {
-      "id": "arbeitnow-freelance-chargee-de-relations-clients-e-commerce-paris-491994",
-      "title": "(Freelance) Chargé·e de relations clients e-commerce",
-      "company": "Circles - Better Womanhood",
+      "id": "arbeitnow-senior-executive-assistant-bilingual-english-cdi-paris-388389",
+      "title": "Senior Executive Assistant – Bilingual English (CDI)",
+      "company": "Mirakl",
       "platform": "Arbeitnow",
-      "location": "Paris",
+      "location": "Paris, Paris, France",
       "salary": "Competitive",
       "type": "Full-time",
-      "tags": [
-        "Remote",
-        "Customer Service"
-      ],
-      "postedAt": "2026-11-20T19:00:36.000Z",
-      "url": "https://www.arbeitnow.fr/jobs/companies/circles-better-womanhood/freelance-chargee-de-relations-clients-e-commerce-paris-491994"
-    },
-    {
-      "id": "jobicy-163494",
-      "title": "Senior Amazon & Retail Media Manager",
-      "company": "Wpromote",
-      "platform": "Jobicy",
-      "location": "USA",
-      "salary": "Competitive",
-      "type": "Full-Time",
       "tags": [],
-      "postedAt": "2026-11-20T09:30:57+00:00",
-      "url": "https://jobicy.com/jobs/163494-senior-amazon-retail-media-manager"
+      "postedAt": "2026-11-20T23:45:27.000Z",
+      "url": "https://www.arbeitnow.fr/jobs/companies/mirakl/senior-executive-assistant-bilingual-english-cdi-paris-388389"
     },
     {
       "id": "remotive-2091173",
@@ -83,84 +68,193 @@
       "url": "https://remotive.com/remote-jobs/marketing/remote-office-assistant-1680495"
     },
     {
-      "id": "remoteok-1137711",
-      "title": "HIL Support Specialist",
-      "company": "Extend Your Team",
+      "id": "jobicy-146474",
+      "title": "SEO Strategist - Canada",
+      "company": "Brafton",
+      "platform": "Jobicy",
+      "location": "Canada",
+      "salary": "Competitive",
+      "type": "Full-Time",
+      "tags": [],
+      "postedAt": "2026-11-21T03:05:32+00:00",
+      "url": "https://jobicy.com/jobs/146474-seo-strategist-canada"
+    },
+    {
+      "id": "remoteok-1137879",
+      "title": "Manager, Business Risk and AI Automation",
+      "company": "Reddit",
+      "platform": "RemoteOK",
+      "location": "US Only",
+      "salary": "Competitive",
+      "type": "Full-time",
+      "tags": [
+        "exec"
+      ],
+      "postedAt": "2026-11-20T03:30:17+00:00",
+      "url": "https://remoteOK.com/remote-jobs/remote-manager-business-risk-and-ai-automation-reddit-1137879"
+    },
+    {
+      "id": "arbeitnow-remote-french-speaking-customer-service-agent-work-in-sofia-bulgaria-france-338917",
+      "title": "French Speaking Customer Service Agent - Work In Sofia, Bulgaria",
+      "company": "Patrique Mercier Recruitment Fr",
+      "platform": "Arbeitnow",
+      "location": "France",
+      "salary": "Competitive",
+      "type": "Full-time",
+      "tags": [
+        "Customer Service",
+        "Consumer Services",
+        "Bulgaria",
+        "Remote"
+      ],
+      "postedAt": "2026-11-21T02:20:19.000Z",
+      "url": "https://www.arbeitnow.fr/jobs/companies/patrique-mercier-recruitment-fr/remote-french-speaking-customer-service-agent-work-in-sofia-bulgaria-france-338917"
+    },
+    {
+      "id": "remoteok-1137867",
+      "title": "Customer Success Engineer",
+      "company": "GitLab",
+      "platform": "RemoteOK",
+      "location": "US Only",
+      "salary": "Competitive",
+      "type": "Full-time",
+      "tags": [
+        "customer support"
+      ],
+      "postedAt": "2026-11-20T00:30:12+00:00",
+      "url": "https://remoteOK.com/remote-jobs/remote-customer-success-engineer-gitlab-1137867"
+    },
+    {
+      "id": "remoteok-1137866",
+      "title": "Customer Success LATAM",
+      "company": "GitLab",
+      "platform": "RemoteOK",
+      "location": "US Only",
+      "salary": "Competitive",
+      "type": "Full-time",
+      "tags": [
+        "customer support"
+      ],
+      "postedAt": "2026-11-20T00:15:13+00:00",
+      "url": "https://remoteOK.com/remote-jobs/remote-customer-success-latam-gitlab-1137866"
+    },
+    {
+      "id": "remoteok-1137865",
+      "title": "Senior Product Engineer",
+      "company": "Arbor Education",
+      "platform": "RemoteOK",
+      "location": "Remote",
+      "salary": "$70000 - $80000",
+      "type": "Full-time",
+      "tags": [
+        "design",
+        "react",
+        "backend",
+        "education",
+        "consulting",
+        "docker",
+        "customer support",
+        "dev",
+        "testing",
+        "scrum",
+        "exec",
+        "quality assurance",
+        "finance",
+        "cloud",
+        "php",
+        "senior",
+        "sys admin",
+        "medical",
+        "engineer",
+        "recruiter",
+        "digital nomad"
+      ],
+      "postedAt": "2026-11-20T00:00:47+00:00",
+      "url": "https://remoteOK.com/remote-jobs/remote-senior-product-engineer-arbor-education-1137865"
+    },
+    {
+      "id": "remoteok-1137864",
+      "title": "IT Manager",
+      "company": "1mind",
+      "platform": "RemoteOK",
+      "location": "United States",
+      "salary": "$140000 - $170000",
+      "type": "Full-time",
+      "tags": [
+        "exec",
+        "saas",
+        "infosec",
+        "recruiter",
+        "customer support",
+        "dev",
+        "marketing",
+        "speech",
+        "finance",
+        "ops",
+        "legal",
+        "golang",
+        "digital nomad"
+      ],
+      "postedAt": "2026-11-20T00:00:41+00:00",
+      "url": "https://remoteOK.com/remote-jobs/remote-it-manager-1mind-1137864"
+    },
+    {
+      "id": "remoteok-1137863",
+      "title": "Business Development Specialist Arabic speaker",
+      "company": "FP Markets",
       "platform": "RemoteOK",
       "location": "Remote",
       "salary": "Competitive",
       "type": "Full-time",
       "tags": [
-        "design",
-        "c sharp",
-        "amazon",
+        "crypto",
+        "education",
         "customer support",
-        "dev",
-        "finance",
-        "c",
-        "c plus plus",
-        "math",
-        "microsoft",
+        "marketing",
+        "travel",
         "exec",
-        "ops",
-        "medical",
-        "backend",
-        "digital nomad"
+        "content writing",
+        "bus dev",
+        "sales",
+        "full time"
       ],
-      "postedAt": "2026-11-09T16:00:20+00:00",
-      "url": "https://remoteOK.com/remote-jobs/remote-hil-support-specialist-extend-your-team-1137711"
+      "postedAt": "2026-11-20T00:00:35+00:00",
+      "url": "https://remoteOK.com/remote-jobs/remote-business-development-specialist-arabic-speaker-fp-markets-1137863"
     },
     {
-      "id": "arbeitnow-graphic-designer-digital-content-creation-intern-h1-2027-massy-492062",
-      "title": "Graphic Designer & Digital Content Creation Intern (H1/2027)",
-      "company": "Quandela",
-      "platform": "Arbeitnow",
-      "location": "Massy, France",
+      "id": "remoteok-1137862",
+      "title": "Mental Health Clinical Supervisor",
+      "company": "Handspring",
+      "platform": "RemoteOK",
+      "location": "New York",
       "salary": "Competitive",
       "type": "Full-time",
       "tags": [
-        "Marketing",
-        "Computer Hardware",
-        "Business & Marketing"
+        "sys admin",
+        "education",
+        "supervisor",
+        "customer support",
+        "marketing",
+        "exec",
+        "medical",
+        "full time"
       ],
-      "postedAt": "2026-11-20T20:20:07.000Z",
-      "url": "https://www.arbeitnow.fr/jobs/companies/quandela/graphic-designer-digital-content-creation-intern-h1-2027-massy-492062"
+      "postedAt": "2026-11-20T00:00:28+00:00",
+      "url": "https://remoteOK.com/remote-jobs/remote-mental-health-clinical-supervisor-handspring-1137862"
     },
     {
-      "id": "jobicy-163556",
-      "title": "Manager, Business Risk and AI Automation",
-      "company": "Reddit",
-      "platform": "Jobicy",
-      "location": "USA",
+      "id": "remoteok-1137861",
+      "title": "Customer Success Architect - East",
+      "company": "GitLab",
+      "platform": "RemoteOK",
+      "location": "US Only",
       "salary": "Competitive",
-      "type": "Full-Time",
-      "tags": [],
-      "postedAt": "2026-11-20T14:20:04+00:00",
-      "url": "https://jobicy.com/jobs/163556-manager-business-risk-and-ai-automation"
-    },
-    {
-      "id": "jobicy-163583",
-      "title": "Customer Service Agent: Korean (20:00pm - 5:00am)",
-      "company": "Fever",
-      "platform": "Jobicy",
-      "location": "Brazil",
-      "salary": "Competitive",
-      "type": "Full-Time",
-      "tags": [],
-      "postedAt": "2026-11-20T17:24:44+00:00",
-      "url": "https://jobicy.com/jobs/163583-customer-service-agent-korean-2000pm-500am"
-    },
-    {
-      "id": "jobicy-163579",
-      "title": "Customer Service Agent: Italian (12:00 - 21:00)",
-      "company": "Fever",
-      "platform": "Jobicy",
-      "location": "Brazil",
-      "salary": "Competitive",
-      "type": "Full-Time",
-      "tags": [],
-      "postedAt": "2026-11-20T17:24:21+00:00",
-      "url": "https://jobicy.com/jobs/163579-customer-service-agent-italian-1200-2100"
+      "type": "Full-time",
+      "tags": [
+        "customer support"
+      ],
+      "postedAt": "2026-11-20T00:00:13+00:00",
+      "url": "https://remoteOK.com/remote-jobs/remote-customer-success-architect-east-gitlab-1137861"
     },
     {
       "id": "remoteok-1137838",
@@ -517,136 +611,88 @@
       "url": "https://remotive.com/remote-jobs/customer-service/customer-service-representative-2091171"
     },
     {
-      "id": "remoteok-1137709",
-      "title": "Telehealth Endocrinologist Evenings Fridays and or Weekends",
-      "company": "Allara",
-      "platform": "RemoteOK",
-      "location": "Remote",
+      "id": "arbeitnow-finance-accounting-advisory-managing-director-london-england-40427",
+      "title": "Finance & Accounting Advisory - Managing Director",
+      "company": "CFGI",
+      "platform": "Arbeitnow",
+      "location": "London, England",
       "salary": "Competitive",
       "type": "Full-time",
       "tags": [
-        "education",
-        "technical",
-        "customer support",
-        "video",
-        "medical",
-        "internship"
+        "Finance & Accounting Advisory"
       ],
-      "postedAt": "2026-11-09T16:00:06+00:00",
-      "url": "https://remoteOK.com/remote-jobs/remote-telehealth-endocrinologist-evenings-fridays-and-or-weekends-allara-1137709"
+      "postedAt": "2026-11-21T03:26:45.000Z",
+      "url": "https://www.arbeitnow.co.uk/jobs/companies/cfgi/finance-accounting-advisory-managing-director-london-england-40427"
     },
     {
-      "id": "remoteok-1137708",
-      "title": "Recruiting Coordinator",
-      "company": "Pebl",
-      "platform": "RemoteOK",
-      "location": "Remote",
-      "salary": "$114000000 - $140000000",
-      "type": "Full-time",
-      "tags": [
-        "coordinator",
-        "customer support",
-        "marketing",
-        "exec",
-        "golang",
-        "medical",
-        "recruiter"
-      ],
-      "postedAt": "2026-11-09T08:00:12+00:00",
-      "url": "https://remoteOK.com/remote-jobs/remote-recruiting-coordinator-pebl-1137708"
-    },
-    {
-      "id": "remoteok-1137707",
-      "title": "Web3 Business Development",
-      "company": "CertiK",
-      "platform": "RemoteOK",
-      "location": "Remote",
+      "id": "arbeitnow-finance-accounting-advisory-managing-director-manchester-england-13252",
+      "title": "Finance & Accounting Advisory - Managing Director",
+      "company": "CFGI",
+      "platform": "Arbeitnow",
+      "location": "Manchester, England",
       "salary": "Competitive",
       "type": "Full-time",
       "tags": [
-        "crypto",
-        "web3",
-        "blockchain",
-        "defi",
-        "infosec",
-        "consulting",
-        "technical",
-        "customer support",
-        "testing",
-        "html",
-        "senior",
-        "bus dev",
-        "sales",
-        "engineer"
+        "Finance & Accounting Advisory"
       ],
-      "postedAt": "2026-11-09T08:00:05+00:00",
-      "url": "https://remoteOK.com/remote-jobs/remote-web3-business-development-certik-1137707"
+      "postedAt": "2026-11-21T03:26:45.000Z",
+      "url": "https://www.arbeitnow.co.uk/jobs/companies/cfgi/finance-accounting-advisory-managing-director-manchester-england-13252"
     },
     {
-      "id": "remoteok-1137706",
-      "title": "Revenue Cycle Manager",
-      "company": "Adaptive Innovations",
-      "platform": "RemoteOK",
-      "location": "Houston",
+      "id": "arbeitnow-finance-accounting-advisory-managing-director-scotland-uk-76016",
+      "title": "Finance & Accounting Advisory - Managing Director",
+      "company": "CFGI",
+      "platform": "Arbeitnow",
+      "location": "Scotland, UK",
       "salary": "Competitive",
       "type": "Full-time",
       "tags": [
-        "exec",
-        "sys admin",
-        "education",
-        "customer support",
-        "marketing",
-        "admin",
-        "ops",
-        "golang",
-        "medical"
+        "Finance & Accounting Advisory"
       ],
-      "postedAt": "2026-11-08T16:00:15+00:00",
-      "url": "https://remoteOK.com/remote-jobs/remote-revenue-cycle-manager-adaptive-innovations-1137706"
+      "postedAt": "2026-11-21T03:26:45.000Z",
+      "url": "https://www.arbeitnow.co.uk/jobs/companies/cfgi/finance-accounting-advisory-managing-director-scotland-uk-76016"
     },
     {
-      "id": "remoteok-1137704",
-      "title": "UI Developer",
-      "company": "RainFocus",
-      "platform": "RemoteOK",
-      "location": "Any State",
+      "id": "arbeitnow-finance-accounting-advisory-managing-director-birmingham-england-348240",
+      "title": "Finance & Accounting Advisory - Managing Director",
+      "company": "CFGI",
+      "platform": "Arbeitnow",
+      "location": "Birmingham, England",
       "salary": "Competitive",
       "type": "Full-time",
       "tags": [
-        "dev",
-        "design",
-        "react",
-        "front end",
-        "customer support",
-        "web dev",
-        "javascript",
-        "java",
-        "css",
-        "html",
-        "git",
-        "exec",
-        "senior",
-        "ops",
-        "marketing",
-        "photoshop",
-        "ads",
-        "backend",
-        "digital nomad"
+        "Finance & Accounting Advisory"
       ],
-      "postedAt": "2026-11-08T16:00:03+00:00",
-      "url": "https://remoteOK.com/remote-jobs/remote-ui-developer-rainfocus-1137704"
+      "postedAt": "2026-11-21T03:26:45.000Z",
+      "url": "https://www.arbeitnow.co.uk/jobs/companies/cfgi/finance-accounting-advisory-managing-director-birmingham-england-348240"
     },
     {
-      "id": "jobicy-163517",
-      "title": "Accounting Manager",
-      "company": "saas.group",
-      "platform": "Jobicy",
-      "location": "Europe",
+      "id": "arbeitnow-finance-accounting-advisory-managing-director-cambridge-england-316093",
+      "title": "Finance & Accounting Advisory - Managing Director",
+      "company": "CFGI",
+      "platform": "Arbeitnow",
+      "location": "Cambridge, England",
       "salary": "Competitive",
-      "type": "Full-Time",
-      "tags": [],
-      "postedAt": "2026-11-20T09:34:06+00:00",
-      "url": "https://jobicy.com/jobs/163517-accounting-manager-3"
+      "type": "Full-time",
+      "tags": [
+        "Finance & Accounting Advisory"
+      ],
+      "postedAt": "2026-11-21T03:26:45.000Z",
+      "url": "https://www.arbeitnow.co.uk/jobs/companies/cfgi/finance-accounting-advisory-managing-director-cambridge-england-316093"
+    },
+    {
+      "id": "arbeitnow-finance-accounting-advisory-director-cambridge-england-368537",
+      "title": "Finance & Accounting Advisory - Director",
+      "company": "CFGI",
+      "platform": "Arbeitnow",
+      "location": "Cambridge, England",
+      "salary": "Competitive",
+      "type": "Full-time",
+      "tags": [
+        "Finance & Accounting Advisory"
+      ],
+      "postedAt": "2026-11-21T03:26:45.000Z",
+      "url": "https://www.arbeitnow.co.uk/jobs/companies/cfgi/finance-accounting-advisory-director-cambridge-england-368537"
     },
     {
       "id": "arbeitnow-remote-senior-account-manager-warehouse-automation-benelux-netherlands-21998",
@@ -683,20 +729,94 @@
       "url": "https://www.arbeitnow.nl/jobs/companies/exotec/remote-senior-account-manager-warehouse-automation-japanese-speaking-benelux-netherlands-325427"
     },
     {
-      "id": "arbeitnow-alternance-talent-acquisition-intern-lille-90220",
-      "title": "Alternance - Talent Acquisition Intern",
-      "company": "Exotec",
+      "id": "arbeitnow-hr-internship-talent-acquisition-specialist-january-2027-paris-212736",
+      "title": "HR Internship - Talent Acquisition Specialist (January 2027)",
+      "company": "Malt",
       "platform": "Arbeitnow",
-      "location": "Lille, France",
+      "location": "Paris",
       "salary": "Competitive",
       "type": "Full-time",
       "tags": [
-        "Human Resources",
-        "Industrial Automation",
+        "Talent Acquisition"
+      ],
+      "postedAt": "2026-11-21T03:26:43.000Z",
+      "url": "https://www.arbeitnow.fr/jobs/companies/malt/hr-internship-talent-acquisition-specialist-january-2027-paris-212736"
+    },
+    {
+      "id": "arbeitnow-talent-acquisition-specialist-at-united-media-london-213640",
+      "title": "Talent Acquisition Specialist at United-Media",
+      "company": "United Media",
+      "platform": "Arbeitnow",
+      "location": "London, England, United Kingdom",
+      "salary": "Competitive",
+      "type": "Full-time",
+      "tags": [],
+      "postedAt": "2026-11-21T01:45:28.000Z",
+      "url": "https://www.arbeitnow.co.uk/jobs/companies/united-media/talent-acquisition-specialist-at-united-media-london-213640"
+    },
+    {
+      "id": "arbeitnow-talent-acquisition-associate-at-united-media-london-221275",
+      "title": "Talent Acquisition Associate at United Media",
+      "company": "United Media",
+      "platform": "Arbeitnow",
+      "location": "London, England, United Kingdom",
+      "salary": "Competitive",
+      "type": "Full-time",
+      "tags": [],
+      "postedAt": "2026-11-21T01:45:28.000Z",
+      "url": "https://www.arbeitnow.co.uk/jobs/companies/united-media/talent-acquisition-associate-at-united-media-london-221275"
+    },
+    {
+      "id": "arbeitnow-recruitment-director-at-united-media-london-267970",
+      "title": "Recruitment Director at United Media",
+      "company": "United Media",
+      "platform": "Arbeitnow",
+      "location": "London, England, United Kingdom",
+      "salary": "Competitive",
+      "type": "Full-time",
+      "tags": [],
+      "postedAt": "2026-11-21T01:45:28.000Z",
+      "url": "https://www.arbeitnow.co.uk/jobs/companies/united-media/recruitment-director-at-united-media-london-267970"
+    },
+    {
+      "id": "arbeitnow-head-of-talent-acquisition-at-united-media-london-203447",
+      "title": "Head of Talent Acquisition at United Media",
+      "company": "United Media",
+      "platform": "Arbeitnow",
+      "location": "London, England, United Kingdom",
+      "salary": "Competitive",
+      "type": "Full-time",
+      "tags": [],
+      "postedAt": "2026-11-21T01:45:28.000Z",
+      "url": "https://www.arbeitnow.co.uk/jobs/companies/united-media/head-of-talent-acquisition-at-united-media-london-203447"
+    },
+    {
+      "id": "arbeitnow-director-of-talent-acquisition-at-united-media-london-398196",
+      "title": "Director of Talent Acquisition at United Media",
+      "company": "United Media",
+      "platform": "Arbeitnow",
+      "location": "London, England, United Kingdom",
+      "salary": "Competitive",
+      "type": "Full-time",
+      "tags": [],
+      "postedAt": "2026-11-21T01:45:28.000Z",
+      "url": "https://www.arbeitnow.co.uk/jobs/companies/united-media/director-of-talent-acquisition-at-united-media-london-398196"
+    },
+    {
+      "id": "arbeitnow-talent-acquisition-specialist-paris-209512",
+      "title": "Talent Acquisition Specialist H/F/X",
+      "company": "Eurostar",
+      "platform": "Arbeitnow",
+      "location": "Paris, France",
+      "salary": "Competitive",
+      "type": "Full-time",
+      "tags": [
+        "Leisure",
+        "Travel & Tourism",
         "People"
       ],
-      "postedAt": "2026-11-20T20:20:06.000Z",
-      "url": "https://www.arbeitnow.fr/jobs/companies/exotec/alternance-talent-acquisition-intern-lille-90220"
+      "postedAt": "2026-11-20T23:20:05.000Z",
+      "url": "https://www.arbeitnow.fr/jobs/companies/eurostar/talent-acquisition-specialist-paris-209512"
     },
     {
       "id": "arbeitnow-talent-acquisition-lead-rotterdam-93410",
@@ -725,6 +845,20 @@
       ],
       "postedAt": "2026-11-20T00:55:27.000Z",
       "url": "https://www.arbeitnow.nl/jobs/companies/wppmedia/stagiair-social-project-management-studiom-amsterdam-405207"
+    },
+    {
+      "id": "arbeitnow-senior-revenue-operations-manager-emea-uk-436826",
+      "title": "Senior Revenue Operations Manager, EMEA",
+      "company": "Horizon3",
+      "platform": "Arbeitnow",
+      "location": "UK",
+      "salary": "Competitive",
+      "type": "Full-time",
+      "tags": [
+        "Sales"
+      ],
+      "postedAt": "2026-11-21T03:43:21.000Z",
+      "url": "https://www.arbeitnow.co.uk/jobs/companies/horizon3/senior-revenue-operations-manager-emea-uk-436826"
     },
     {
       "id": "arbeitnow-senior-sales-operations-manager-south-emea-130763",
@@ -767,1430 +901,1274 @@
       "url": "https://jobicy.com/jobs/163605-gpu-compute-partnerships-commercial-operations-manager"
     },
     {
-      "id": "jobicy-163561",
-      "title": "3PL Operations Manager",
-      "company": "Nebius",
-      "platform": "Jobicy",
-      "location": "Europe",
-      "salary": "Competitive",
-      "type": "Full-Time",
-      "tags": [],
-      "postedAt": "2026-11-20T16:44:26+00:00",
-      "url": "https://jobicy.com/jobs/163561-3pl-operations-manager-2"
-    },
-    {
-      "id": "jobicy-163483",
-      "title": "Performance Marketing Manager",
-      "company": "Osano",
-      "platform": "Jobicy",
-      "location": "USA",
-      "salary": "Competitive",
-      "type": "Full-Time",
-      "tags": [],
-      "postedAt": "2026-11-20T09:29:43+00:00",
-      "url": "https://jobicy.com/jobs/163483-performance-marketing-manager-2"
-    },
-    {
-      "id": "arbeitnow-senior-social-ai-marketeer-tilburg-68538",
-      "title": "Senior Social & AI Marketeer",
-      "company": "Luke Recruitment",
+      "id": "arbeitnow-tech-product-manager-agentic-platform-bordeaux-20459",
+      "title": "Tech Product Manager - Agentic Platform",
+      "company": "mirakllabs",
       "platform": "Arbeitnow",
-      "location": "Tilburg, Netherlands",
+      "location": "Bordeaux",
       "salary": "Competitive",
       "type": "Full-time",
       "tags": [
-        "Indicia"
+        "Tech"
       ],
-      "postedAt": "2026-11-20T22:20:18.000Z",
-      "url": "https://www.arbeitnow.nl/jobs/companies/luke-recruitment/senior-social-ai-marketeer-tilburg-68538"
+      "postedAt": "2026-11-21T03:55:18.000Z",
+      "url": "https://www.arbeitnow.fr/jobs/companies/mirakllabs/tech-product-manager-agentic-platform-bordeaux-20459"
     },
     {
-      "id": "arbeitnow-enterprise-account-executive-public-sector-north-uk-387430",
-      "title": "Enterprise Account Executive, Public Sector North - UK",
-      "company": "Verkada",
+      "id": "arbeitnow-tech-product-manager-agentic-platform-paris-495924",
+      "title": "Tech Product Manager - Agentic Platform",
+      "company": "mirakllabs",
       "platform": "Arbeitnow",
-      "location": "Remote",
+      "location": "Paris",
       "salary": "Competitive",
       "type": "Full-time",
       "tags": [
-        "International"
+        "Tech"
       ],
-      "postedAt": "2026-11-20T21:55:19.000Z",
-      "url": "https://www.arbeitnow.co.uk/jobs/companies/verkada/enterprise-account-executive-public-sector-north-uk-387430"
+      "postedAt": "2026-11-21T03:55:18.000Z",
+      "url": "https://www.arbeitnow.fr/jobs/companies/mirakllabs/tech-product-manager-agentic-platform-paris-495924"
     },
     {
-      "id": "arbeitnow-account-executive-emea-london-295212",
-      "title": "Account Executive, EMEA",
-      "company": "International EOR",
+      "id": "arbeitnow-senior-ai-engineer-product-bordeaux-416821",
+      "title": "Senior AI Engineer - Product",
+      "company": "mirakllabs",
+      "platform": "Arbeitnow",
+      "location": "Bordeaux",
+      "salary": "Competitive",
+      "type": "Full-time",
+      "tags": [
+        "Tech"
+      ],
+      "postedAt": "2026-11-21T03:55:18.000Z",
+      "url": "https://www.arbeitnow.fr/jobs/companies/mirakllabs/senior-ai-engineer-product-bordeaux-416821"
+    },
+    {
+      "id": "arbeitnow-senior-ai-engineer-product-paris-100724",
+      "title": "Senior AI Engineer - Product",
+      "company": "mirakllabs",
+      "platform": "Arbeitnow",
+      "location": "Paris",
+      "salary": "Competitive",
+      "type": "Full-time",
+      "tags": [
+        "Tech"
+      ],
+      "postedAt": "2026-11-21T03:55:18.000Z",
+      "url": "https://www.arbeitnow.fr/jobs/companies/mirakllabs/senior-ai-engineer-product-paris-100724"
+    },
+    {
+      "id": "arbeitnow-senior-ai-engineer-freelance-product-paris-35952",
+      "title": "Senior AI Engineer Freelance - Product",
+      "company": "mirakllabs",
+      "platform": "Arbeitnow",
+      "location": "Paris",
+      "salary": "Competitive",
+      "type": "Full-time",
+      "tags": [
+        "Tech"
+      ],
+      "postedAt": "2026-11-21T03:55:18.000Z",
+      "url": "https://www.arbeitnow.fr/jobs/companies/mirakllabs/senior-ai-engineer-freelance-product-paris-35952"
+    },
+    {
+      "id": "arbeitnow-senior-ai-engineer-freelance-product-bordeaux-115463",
+      "title": "Senior AI Engineer Freelance - Product",
+      "company": "mirakllabs",
+      "platform": "Arbeitnow",
+      "location": "Bordeaux",
+      "salary": "Competitive",
+      "type": "Full-time",
+      "tags": [
+        "Tech"
+      ],
+      "postedAt": "2026-11-21T03:55:18.000Z",
+      "url": "https://www.arbeitnow.fr/jobs/companies/mirakllabs/senior-ai-engineer-freelance-product-bordeaux-115463"
+    },
+    {
+      "id": "arbeitnow-mlops-engineer-cdi-paris-386846",
+      "title": "MLOps Engineer (CDI)",
+      "company": "mirakllabs",
+      "platform": "Arbeitnow",
+      "location": "Paris",
+      "salary": "Competitive",
+      "type": "Full-time",
+      "tags": [
+        "Tech"
+      ],
+      "postedAt": "2026-11-21T03:55:18.000Z",
+      "url": "https://www.arbeitnow.fr/jobs/companies/mirakllabs/mlops-engineer-cdi-paris-386846"
+    },
+    {
+      "id": "arbeitnow-mlops-engineer-cdi-bordeaux-428882",
+      "title": "MLOps Engineer (CDI)",
+      "company": "mirakllabs",
+      "platform": "Arbeitnow",
+      "location": "Bordeaux",
+      "salary": "Competitive",
+      "type": "Full-time",
+      "tags": [
+        "Tech"
+      ],
+      "postedAt": "2026-11-21T03:55:18.000Z",
+      "url": "https://www.arbeitnow.fr/jobs/companies/mirakllabs/mlops-engineer-cdi-bordeaux-428882"
+    },
+    {
+      "id": "arbeitnow-ai-engineer-devex-automation-paris-253225",
+      "title": "AI Engineer, DevEx & Automation",
+      "company": "mirakllabs",
+      "platform": "Arbeitnow",
+      "location": "Paris",
+      "salary": "Competitive",
+      "type": "Full-time",
+      "tags": [
+        "Tech"
+      ],
+      "postedAt": "2026-11-21T03:55:18.000Z",
+      "url": "https://www.arbeitnow.fr/jobs/companies/mirakllabs/ai-engineer-devex-automation-paris-253225"
+    },
+    {
+      "id": "arbeitnow-ai-engineer-devex-automation-bordeaux-394620",
+      "title": "AI Engineer, DevEx & Automation",
+      "company": "mirakllabs",
+      "platform": "Arbeitnow",
+      "location": "Bordeaux",
+      "salary": "Competitive",
+      "type": "Full-time",
+      "tags": [
+        "Tech"
+      ],
+      "postedAt": "2026-11-21T03:55:18.000Z",
+      "url": "https://www.arbeitnow.fr/jobs/companies/mirakllabs/ai-engineer-devex-automation-bordeaux-394620"
+    },
+    {
+      "id": "arbeitnow-avp-data-analytics-ai-engineering-london-496203",
+      "title": "AVP, Data, Analytics & AI Engineering",
+      "company": "Anaplan",
       "platform": "Arbeitnow",
       "location": "London",
-      "salary": "Competitive",
-      "type": "Full-time",
-      "tags": [
-        "Advertising Solutions"
-      ],
-      "postedAt": "2026-11-20T21:55:18.000Z",
-      "url": "https://www.arbeitnow.co.uk/jobs/companies/international-eor/account-executive-emea-london-295212"
-    },
-    {
-      "id": "arbeitnow-senior-partner-manager-235491",
-      "title": "Senior Partner Manager",
-      "company": "Coveoen",
-      "platform": "Arbeitnow",
-      "location": "Remote",
-      "salary": "Competitive",
-      "type": "Full-time",
-      "tags": [
-        "Alliances & Partnerships"
-      ],
-      "postedAt": "2026-11-20T21:55:17.000Z",
-      "url": "https://www.arbeitnow.co.uk/jobs/companies/coveoen/senior-partner-manager-235491"
-    },
-    {
-      "id": "arbeitnow-regional-director-specialist-sales-emea-identity-london-490874",
-      "title": "Regional Director Specialist Sales, EMEA (Identity)",
-      "company": "Rubrik",
-      "platform": "Arbeitnow",
-      "location": "London",
-      "salary": "Competitive",
-      "type": "Full-time",
-      "tags": [
-        "Sales"
-      ],
-      "postedAt": "2026-11-20T21:55:17.000Z",
-      "url": "https://www.arbeitnow.co.uk/jobs/companies/rubrik/regional-director-specialist-sales-emea-identity-london-490874"
-    },
-    {
-      "id": "arbeitnow-regional-director-specialist-sales-emea-apj-identity-london-499751",
-      "title": "Regional Director Specialist Sales, EMEA & APJ (Identity)",
-      "company": "Rubrik",
-      "platform": "Arbeitnow",
-      "location": "London",
-      "salary": "Competitive",
-      "type": "Full-time",
-      "tags": [
-        "Sales"
-      ],
-      "postedAt": "2026-11-20T21:55:17.000Z",
-      "url": "https://www.arbeitnow.co.uk/jobs/companies/rubrik/regional-director-specialist-sales-emea-apj-identity-london-499751"
-    },
-    {
-      "id": "arbeitnow-senior-network-engineer-low-latency-trading-london-188481",
-      "title": "Senior Network Engineer - Low Latency Trading",
-      "company": "Wehrtyou",
-      "platform": "Arbeitnow",
-      "location": "London",
-      "salary": "Competitive",
-      "type": "Full-time",
-      "tags": [
-        "Trading Tech"
-      ],
-      "postedAt": "2026-11-20T21:55:16.000Z",
-      "url": "https://www.arbeitnow.co.uk/jobs/companies/wehrtyou/senior-network-engineer-low-latency-trading-london-188481"
-    },
-    {
-      "id": "arbeitnow-senior-immigration-specialist-london-175256",
-      "title": "Senior Immigration Specialist",
-      "company": "Wehrtyou",
-      "platform": "Arbeitnow",
-      "location": "London",
-      "salary": "Competitive",
-      "type": "Full-time",
-      "tags": [
-        "Legal"
-      ],
-      "postedAt": "2026-11-20T21:55:16.000Z",
-      "url": "https://www.arbeitnow.co.uk/jobs/companies/wehrtyou/senior-immigration-specialist-london-175256"
-    },
-    {
-      "id": "arbeitnow-ai-research-engineer-london-56669",
-      "title": "AI Research Engineer",
-      "company": "Wehrtyou",
-      "platform": "Arbeitnow",
-      "location": "London",
-      "salary": "Competitive",
-      "type": "Full-time",
-      "tags": [
-        "Algo"
-      ],
-      "postedAt": "2026-11-20T21:55:16.000Z",
-      "url": "https://www.arbeitnow.co.uk/jobs/companies/wehrtyou/ai-research-engineer-london-56669"
-    },
-    {
-      "id": "arbeitnow-director-product-management-enterprise-london-347376",
-      "title": "Director, Product Management (Enterprise)",
-      "company": "Auctane",
-      "platform": "Arbeitnow",
-      "location": "London",
-      "salary": "Competitive",
-      "type": "Full-time",
-      "tags": [
-        "Product Management"
-      ],
-      "postedAt": "2026-11-20T21:55:16.000Z",
-      "url": "https://www.arbeitnow.co.uk/jobs/companies/auctane/director-product-management-enterprise-london-347376"
-    },
-    {
-      "id": "arbeitnow-senior-consultant-ics-ot-cybersecurity-235630",
-      "title": "Senior Consultant - ICS/OT Cybersecurity",
-      "company": "Dragos",
-      "platform": "Arbeitnow",
-      "location": "Remote",
-      "salary": "Competitive",
-      "type": "Full-time",
-      "tags": [
-        "Global Intelligence/Professional Services"
-      ],
-      "postedAt": "2026-11-20T21:55:15.000Z",
-      "url": "https://www.arbeitnow.co.uk/jobs/companies/dragos/senior-consultant-ics-ot-cybersecurity-235630"
-    },
-    {
-      "id": "arbeitnow-associate-principal-pre-sales-consultant-387898",
-      "title": "Associate Principal Pre-Sales Consultant",
-      "company": "Dragos",
-      "platform": "Arbeitnow",
-      "location": "Remote",
-      "salary": "Competitive",
-      "type": "Full-time",
-      "tags": [
-        "Professional Services"
-      ],
-      "postedAt": "2026-11-20T21:55:15.000Z",
-      "url": "https://www.arbeitnow.co.uk/jobs/companies/dragos/associate-principal-pre-sales-consultant-387898"
-    },
-    {
-      "id": "arbeitnow-remote-senior-customer-intelligence-manager-64301",
-      "title": "Senior Customer Intelligence Manager",
-      "company": "Camunda",
-      "platform": "Arbeitnow",
-      "location": "Remote",
-      "salary": "Competitive",
-      "type": "Full-time",
-      "tags": [
-        "Customer Success"
-      ],
-      "postedAt": "2026-11-20T21:40:15.000Z",
-      "url": "https://www.arbeitnow.com/jobs/companies/camunda/remote-senior-customer-intelligence-manager-64301"
-    },
-    {
-      "id": "arbeitnow-remote-senior-product-marketing-manager-emea-383561",
-      "title": "Senior Product Marketing Manager - EMEA",
-      "company": "Camunda",
-      "platform": "Arbeitnow",
-      "location": "Remote",
-      "salary": "Competitive",
-      "type": "Full-time",
-      "tags": [
-        "Marketing"
-      ],
-      "postedAt": "2026-11-20T21:40:15.000Z",
-      "url": "https://www.arbeitnow.com/jobs/companies/camunda/remote-senior-product-marketing-manager-emea-383561"
-    },
-    {
-      "id": "arbeitnow-remote-enterprise-account-executive-iii-na-104865",
-      "title": "Enterprise Account Executive III - NA",
-      "company": "Camunda",
-      "platform": "Arbeitnow",
-      "location": "Remote",
-      "salary": "Competitive",
-      "type": "Full-time",
-      "tags": [
-        "Sales"
-      ],
-      "postedAt": "2026-11-20T21:40:15.000Z",
-      "url": "https://www.arbeitnow.com/jobs/companies/camunda/remote-enterprise-account-executive-iii-na-104865"
-    },
-    {
-      "id": "arbeitnow-software-implementation-project-manager-lancaster-491397",
-      "title": "Software Implementation Project Manager",
-      "company": "3E",
-      "platform": "Arbeitnow",
-      "location": "Lancaster, UK",
-      "salary": "Competitive",
-      "type": "Full-time",
-      "tags": [
-        "Customer Experience"
-      ],
-      "postedAt": "2026-11-20T21:40:15.000Z",
-      "url": "https://www.arbeitnow.co.uk/jobs/companies/3e/software-implementation-project-manager-lancaster-491397"
-    },
-    {
-      "id": "arbeitnow-software-implementation-specialist-lancaster-56636",
-      "title": "Software Implementation Specialist",
-      "company": "3E",
-      "platform": "Arbeitnow",
-      "location": "Lancaster, UK",
-      "salary": "Competitive",
-      "type": "Full-time",
-      "tags": [
-        "Customer Experience"
-      ],
-      "postedAt": "2026-11-20T21:40:15.000Z",
-      "url": "https://www.arbeitnow.co.uk/jobs/companies/3e/software-implementation-specialist-lancaster-56636"
-    },
-    {
-      "id": "arbeitnow-group-finance-contractor-amsterdam-69303",
-      "title": "Group Finance Contractor",
-      "company": "Mollie",
-      "platform": "Arbeitnow",
-      "location": "Amsterdam",
       "salary": "Competitive",
       "type": "Full-time",
       "tags": [
         "Finance"
       ],
-      "postedAt": "2026-11-20T21:40:15.000Z",
-      "url": "https://www.arbeitnow.nl/jobs/companies/mollie/group-finance-contractor-amsterdam-69303"
+      "postedAt": "2026-11-21T03:55:15.000Z",
+      "url": "https://www.arbeitnow.co.uk/jobs/companies/anaplan/avp-data-analytics-ai-engineering-london-496203"
     },
     {
-      "id": "arbeitnow-senior-application-engineer-amsterdam-489442",
-      "title": "Senior Application Engineer",
-      "company": "Mollie",
-      "platform": "Arbeitnow",
-      "location": "Amsterdam",
-      "salary": "Competitive",
-      "type": "Full-time",
-      "tags": [
-        "Engineering"
-      ],
-      "postedAt": "2026-11-20T21:40:15.000Z",
-      "url": "https://www.arbeitnow.nl/jobs/companies/mollie/senior-application-engineer-amsterdam-489442"
-    },
-    {
-      "id": "arbeitnow-remote-ai-fabric-architect-51975",
-      "title": "AI Fabric Architect",
-      "company": "Fal Ai",
+      "id": "arbeitnow-partner-success-manager-technical-lead-261627",
+      "title": "Partner Success Manager, Technical Lead",
+      "company": "nice",
       "platform": "Arbeitnow",
       "location": "Remote",
       "salary": "Competitive",
       "type": "Full-time",
       "tags": [
-        "Engineering"
+        "GCO - Partners Mgmt"
       ],
-      "postedAt": "2026-11-20T21:40:14.000Z",
-      "url": "https://www.arbeitnow.com/jobs/companies/fal-ai/remote-ai-fabric-architect-51975"
+      "postedAt": "2026-11-21T03:55:15.000Z",
+      "url": "https://www.arbeitnow.co.uk/jobs/companies/nice/partner-success-manager-technical-lead-261627"
     },
     {
-      "id": "arbeitnow-procurement-manager-london-258756",
-      "title": "Procurement Manager",
-      "company": "Cube",
+      "id": "arbeitnow-senior-associate-cybersecurity-incident-response-forensic-services-practice-london-480909",
+      "title": "Senior Associate/Cybersecurity & Incident Response (Forensic Services practice)",
+      "company": "charlesriverassociates",
       "platform": "Arbeitnow",
       "location": "London",
       "salary": "Competitive",
       "type": "Full-time",
       "tags": [
-        "Corporate Services"
+        "Forensic Services"
       ],
-      "postedAt": "2026-11-20T21:40:14.000Z",
-      "url": "https://www.arbeitnow.co.uk/jobs/companies/cube/procurement-manager-london-258756"
+      "postedAt": "2026-11-21T03:55:14.000Z",
+      "url": "https://www.arbeitnow.co.uk/jobs/companies/charlesriverassociates/senior-associate-cybersecurity-incident-response-forensic-services-practice-london-480909"
     },
     {
-      "id": "arbeitnow-people-enablement-lead-london-202222",
-      "title": "People Enablement Lead",
-      "company": "Neko Health",
+      "id": "arbeitnow-associate-principal-cybersecurity-incident-response-forensic-services-practice-london-284133",
+      "title": "Associate Principal/Cybersecurity & Incident Response (Forensic Services practice)",
+      "company": "charlesriverassociates",
       "platform": "Arbeitnow",
       "location": "London",
       "salary": "Competitive",
       "type": "Full-time",
       "tags": [
-        "People"
+        "Forensic Services"
       ],
-      "postedAt": "2026-11-20T21:40:14.000Z",
-      "url": "https://www.arbeitnow.co.uk/jobs/companies/neko-health/people-enablement-lead-london-202222"
+      "postedAt": "2026-11-21T03:55:14.000Z",
+      "url": "https://www.arbeitnow.co.uk/jobs/companies/charlesriverassociates/associate-principal-cybersecurity-incident-response-forensic-services-practice-london-284133"
     },
     {
-      "id": "arbeitnow-thermo-mechanical-engineer-bordeaux-147977",
-      "title": "Thermo-Mechanical Engineer",
-      "company": "The Exploration Company",
+      "id": "arbeitnow-senior-planner-crawley-gatwick-airport-31715",
+      "title": "Senior Planner - Crawley",
+      "company": "Cmr.london",
       "platform": "Arbeitnow",
-      "location": "Bordeaux, France",
+      "location": "Gatwick Airport",
       "salary": "Competitive",
       "type": "Full-time",
       "tags": [
-        "Future Propulsion - Storm"
+        "Planning & Scheduling"
       ],
-      "postedAt": "2026-11-20T21:40:14.000Z",
-      "url": "https://www.arbeitnow.fr/jobs/companies/the-exploration-company/thermo-mechanical-engineer-bordeaux-147977"
+      "postedAt": "2026-11-21T03:43:23.000Z",
+      "url": "https://www.arbeitnow.co.uk/jobs/companies/cmrlondon/senior-planner-crawley-gatwick-airport-31715"
     },
     {
-      "id": "arbeitnow-combustion-devices-development-engineer-bordeaux-238174",
-      "title": "Combustion Devices Development Engineer",
-      "company": "The Exploration Company",
-      "platform": "Arbeitnow",
-      "location": "Bordeaux, France",
-      "salary": "Competitive",
-      "type": "Full-time",
-      "tags": [
-        "Future Propulsion - Storm"
-      ],
-      "postedAt": "2026-11-20T21:40:14.000Z",
-      "url": "https://www.arbeitnow.fr/jobs/companies/the-exploration-company/combustion-devices-development-engineer-bordeaux-238174"
-    },
-    {
-      "id": "arbeitnow-it-specialist-london-499357",
-      "title": "IT Specialist, London",
-      "company": "Mistral.ai",
+      "id": "arbeitnow-agent-product-manager-london-398166",
+      "title": "Agent Product Manager",
+      "company": "Planhat",
       "platform": "Arbeitnow",
       "location": "London",
       "salary": "Competitive",
       "type": "Full-time",
       "tags": [
-        "Engineering & Infra"
+        "Deployment and Growth"
       ],
-      "postedAt": "2026-11-20T21:40:13.000Z",
-      "url": "https://www.arbeitnow.co.uk/jobs/companies/mistralai/it-specialist-london-499357"
+      "postedAt": "2026-11-21T03:43:22.000Z",
+      "url": "https://www.arbeitnow.co.uk/jobs/companies/planhat/agent-product-manager-london-398166"
     },
     {
-      "id": "arbeitnow-erp-manager-paris-7546",
-      "title": "ERP Manager",
-      "company": "Alta Ares",
+      "id": "arbeitnow-hrbp-nantes-122065",
+      "title": "HRBP (x/f/m)",
+      "company": "Doctolib",
+      "platform": "Arbeitnow",
+      "location": "Nantes",
+      "salary": "Competitive",
+      "type": "Full-time",
+      "tags": [
+        "Business Functions"
+      ],
+      "postedAt": "2026-11-21T03:43:21.000Z",
+      "url": "https://www.arbeitnow.fr/jobs/companies/doctolib/hrbp-nantes-122065"
+    },
+    {
+      "id": "arbeitnow-stage-coordinateur-administratif-operations-evenementielles-janvier-2027-levallois-perret-376948",
+      "title": "Stage - Coordinateur administratif & opérations événementielles (x/f/m) - janvier 2027",
+      "company": "Doctolib",
       "platform": "Arbeitnow",
       "location": "Paris",
       "salary": "Competitive",
       "type": "Full-time",
       "tags": [
-        "Strategy & Operations"
+        "Business Functions"
       ],
-      "postedAt": "2026-11-20T21:40:13.000Z",
-      "url": "https://www.arbeitnow.fr/jobs/companies/alta-ares/erp-manager-paris-7546"
+      "postedAt": "2026-11-21T03:43:21.000Z",
+      "url": "https://www.arbeitnow.fr/jobs/companies/doctolib/stage-coordinateur-administratif-operations-evenementielles-janvier-2027-levallois-perret-376948"
     },
     {
-      "id": "arbeitnow-supplier-quality-engineer-blagnac-318387",
-      "title": "Supplier Quality Engineer",
-      "company": "Alta Ares",
+      "id": "arbeitnow-field-sales-fr-account-executive-lyon-386348",
+      "title": "[Field Sales - FR ] Account Executive Lyon (x/f/m)",
+      "company": "Doctolib",
       "platform": "Arbeitnow",
-      "location": "Toulouse",
-      "salary": "Competitive",
-      "type": "Full-time",
-      "tags": [
-        "Manufacturing"
-      ],
-      "postedAt": "2026-11-20T21:40:13.000Z",
-      "url": "https://www.arbeitnow.fr/jobs/companies/alta-ares/supplier-quality-engineer-blagnac-318387"
-    },
-    {
-      "id": "arbeitnow-senior-france-labour-legal-counsel-paris-120819",
-      "title": "Senior France Labour Legal Counsel",
-      "company": "Mistral.ai",
-      "platform": "Arbeitnow",
-      "location": "Paris",
-      "salary": "Competitive",
-      "type": "Full-time",
-      "tags": [
-        "Legal"
-      ],
-      "postedAt": "2026-11-20T21:40:13.000Z",
-      "url": "https://www.arbeitnow.fr/jobs/companies/mistralai/senior-france-labour-legal-counsel-paris-120819"
-    },
-    {
-      "id": "arbeitnow-director-of-technical-program-management-engineering-paris-165076",
-      "title": "Director of Technical Program Management - Engineering",
-      "company": "Mistral.ai",
-      "platform": "Arbeitnow",
-      "location": "Paris",
-      "salary": "Competitive",
-      "type": "Full-time",
-      "tags": [
-        "Engineering & Infra"
-      ],
-      "postedAt": "2026-11-20T21:40:13.000Z",
-      "url": "https://www.arbeitnow.fr/jobs/companies/mistralai/director-of-technical-program-management-engineering-paris-165076"
-    },
-    {
-      "id": "arbeitnow-lead-product-manager-inference-paris-156346",
-      "title": "Lead Product Manager, Inference",
-      "company": "Mistral.ai",
-      "platform": "Arbeitnow",
-      "location": "Paris",
-      "salary": "Competitive",
-      "type": "Full-time",
-      "tags": [
-        "Product"
-      ],
-      "postedAt": "2026-11-20T21:40:13.000Z",
-      "url": "https://www.arbeitnow.fr/jobs/companies/mistralai/lead-product-manager-inference-paris-156346"
-    },
-    {
-      "id": "arbeitnow-product-manager-agentic-safety-paris-435297",
-      "title": "Product Manager, Agentic Safety",
-      "company": "Mistral.ai",
-      "platform": "Arbeitnow",
-      "location": "Paris",
-      "salary": "Competitive",
-      "type": "Full-time",
-      "tags": [
-        "Product"
-      ],
-      "postedAt": "2026-11-20T21:40:13.000Z",
-      "url": "https://www.arbeitnow.fr/jobs/companies/mistralai/product-manager-agentic-safety-paris-435297"
-    },
-    {
-      "id": "arbeitnow-it-techical-program-manager-paris-260881",
-      "title": "IT Techical Program Manager",
-      "company": "Mistral.ai",
-      "platform": "Arbeitnow",
-      "location": "Paris",
-      "salary": "Competitive",
-      "type": "Full-time",
-      "tags": [
-        "Engineering & Infra"
-      ],
-      "postedAt": "2026-11-20T21:40:13.000Z",
-      "url": "https://www.arbeitnow.fr/jobs/companies/mistralai/it-techical-program-manager-paris-260881"
-    },
-    {
-      "id": "arbeitnow-head-of-hr-business-partner-paris-469113",
-      "title": "Head of HR Business Partner",
-      "company": "Mistral.ai",
-      "platform": "Arbeitnow",
-      "location": "Paris",
-      "salary": "Competitive",
-      "type": "Full-time",
-      "tags": [
-        "Human Resources"
-      ],
-      "postedAt": "2026-11-20T21:40:13.000Z",
-      "url": "https://www.arbeitnow.fr/jobs/companies/mistralai/head-of-hr-business-partner-paris-469113"
-    },
-    {
-      "id": "arbeitnow-saas-engineer-paris-452616",
-      "title": "SaaS Engineer",
-      "company": "Mistral.ai",
-      "platform": "Arbeitnow",
-      "location": "Paris",
-      "salary": "Competitive",
-      "type": "Full-time",
-      "tags": [
-        "Engineering & Infra"
-      ],
-      "postedAt": "2026-11-20T21:40:13.000Z",
-      "url": "https://www.arbeitnow.fr/jobs/companies/mistralai/saas-engineer-paris-452616"
-    },
-    {
-      "id": "arbeitnow-it-specialist-paris-168010",
-      "title": "IT Specialist, Paris",
-      "company": "Mistral.ai",
-      "platform": "Arbeitnow",
-      "location": "Paris",
-      "salary": "Competitive",
-      "type": "Full-time",
-      "tags": [
-        "Engineering & Infra"
-      ],
-      "postedAt": "2026-11-20T21:40:13.000Z",
-      "url": "https://www.arbeitnow.fr/jobs/companies/mistralai/it-specialist-paris-168010"
-    },
-    {
-      "id": "arbeitnow-senior-marketingcommunicatieadviseur-utrecht-18260",
-      "title": "Senior Marketingcommunicatieadviseur",
-      "company": "Movares",
-      "platform": "Arbeitnow",
-      "location": "Utrecht, Utrecht, Nederland",
-      "salary": "Competitive",
-      "type": "Full-time",
-      "tags": [
-        "SSC: Marketing & Communicatie"
-      ],
-      "postedAt": "2026-11-20T21:31:27.000Z",
-      "url": "https://www.arbeitnow.nl/jobs/companies/movares/senior-marketingcommunicatieadviseur-utrecht-18260"
-    },
-    {
-      "id": "arbeitnow-senior-adviseur-emc-utrecht-460022",
-      "title": "Senior adviseur EMC",
-      "company": "Movares",
-      "platform": "Arbeitnow",
-      "location": "Utrecht, Utrecht, Nederland",
-      "salary": "Competitive",
-      "type": "Full-time",
-      "tags": [
-        "Energie: Nationaal Energie Systeem"
-      ],
-      "postedAt": "2026-11-20T21:31:27.000Z",
-      "url": "https://www.arbeitnow.nl/jobs/companies/movares/senior-adviseur-emc-utrecht-460022"
-    },
-    {
-      "id": "arbeitnow-interim-senior-community-manager-utrecht-158611",
-      "title": "Interim Senior Community Manager",
-      "company": "Interrail B.V.",
-      "platform": "Arbeitnow",
-      "location": "Utrecht , Utrecht, Netherlands",
-      "salary": "Competitive",
-      "type": "Full-time",
-      "tags": [
-        "Brand"
-      ],
-      "postedAt": "2026-11-20T21:31:26.000Z",
-      "url": "https://www.arbeitnow.nl/jobs/companies/interrail-bv/interim-senior-community-manager-utrecht-158611"
-    },
-    {
-      "id": "arbeitnow-account-executive-h-f-paris-68781",
-      "title": "Account Executive (H/F)",
-      "company": "PYSAE",
-      "platform": "Arbeitnow",
-      "location": "Paris, Île-de-France, France",
-      "salary": "Competitive",
-      "type": "Full-time",
-      "tags": [
-        "1 - Sales & Marketing"
-      ],
-      "postedAt": "2026-11-20T21:31:25.000Z",
-      "url": "https://www.arbeitnow.fr/jobs/companies/pysae/account-executive-h-f-paris-68781"
-    },
-    {
-      "id": "arbeitnow-ingenieur-facades-paris-63712",
-      "title": "Ingénieur Façades",
-      "company": "Deerns Groep BV",
-      "platform": "Arbeitnow",
-      "location": "Paris, Île-de-France, France",
-      "salary": "Competitive",
-      "type": "Full-time",
-      "tags": [],
-      "postedAt": "2026-11-20T21:31:25.000Z",
-      "url": "https://www.arbeitnow.fr/jobs/companies/deerns-groep-bv/ingenieur-facades-paris-63712"
-    },
-    {
-      "id": "arbeitnow-ingenieur-environnement-senior-confirmee-paris-222106",
-      "title": "Ingénieur Environnement sénior - confirmé.e",
-      "company": "Deerns Groep BV",
-      "platform": "Arbeitnow",
-      "location": "Paris, Île-de-France, France",
-      "salary": "Competitive",
-      "type": "Full-time",
-      "tags": [],
-      "postedAt": "2026-11-20T21:31:25.000Z",
-      "url": "https://www.arbeitnow.fr/jobs/companies/deerns-groep-bv/ingenieur-environnement-senior-confirmee-paris-222106"
-    },
-    {
-      "id": "arbeitnow-ingenieure-organisation-qualite-stage-paris-258421",
-      "title": "Ingénieur(e) organisation / qualité - STAGE",
-      "company": "Deerns Groep BV",
-      "platform": "Arbeitnow",
-      "location": "Paris, Île-de-France, France",
-      "salary": "Competitive",
-      "type": "Full-time",
-      "tags": [
-        "Real Estate"
-      ],
-      "postedAt": "2026-11-20T21:31:25.000Z",
-      "url": "https://www.arbeitnow.fr/jobs/companies/deerns-groep-bv/ingenieure-organisation-qualite-stage-paris-258421"
-    },
-    {
-      "id": "arbeitnow-responsable-appel-doffres-paris-267925",
-      "title": "Responsable Appel d'Offres",
-      "company": "Deerns Groep BV",
-      "platform": "Arbeitnow",
-      "location": "Paris, Île-de-France, France",
-      "salary": "Competitive",
-      "type": "Full-time",
-      "tags": [
-        "Staff"
-      ],
-      "postedAt": "2026-11-20T21:31:25.000Z",
-      "url": "https://www.arbeitnow.fr/jobs/companies/deerns-groep-bv/responsable-appel-doffres-paris-267925"
-    },
-    {
-      "id": "arbeitnow-ingenieure-conception-cvc-pb-paris-109969",
-      "title": "Ingénieur.e conception - CVC & PB",
-      "company": "Deerns Groep BV",
-      "platform": "Arbeitnow",
-      "location": "Paris, Île-de-France, France",
-      "salary": "Competitive",
-      "type": "Full-time",
-      "tags": [],
-      "postedAt": "2026-11-20T21:31:25.000Z",
-      "url": "https://www.arbeitnow.fr/jobs/companies/deerns-groep-bv/ingenieure-conception-cvc-pb-paris-109969"
-    },
-    {
-      "id": "arbeitnow-ingenieure-conception-cfo-cfa-paris-175541",
-      "title": "Ingénieur.e conception - CFO/CFA",
-      "company": "Deerns Groep BV",
-      "platform": "Arbeitnow",
-      "location": "Paris, Île-de-France, France",
-      "salary": "Competitive",
-      "type": "Full-time",
-      "tags": [],
-      "postedAt": "2026-11-20T21:31:25.000Z",
-      "url": "https://www.arbeitnow.fr/jobs/companies/deerns-groep-bv/ingenieure-conception-cfo-cfa-paris-175541"
-    },
-    {
-      "id": "arbeitnow-remote-forward-deployed-ai-engineer-birmingham-377104",
-      "title": "Forward Deployed AI Engineer",
-      "company": "gravity9",
-      "platform": "Arbeitnow",
-      "location": "Remote job",
-      "salary": "Competitive",
-      "type": "Full-time",
-      "tags": [
-        "Talent Pool",
-        "Remote"
-      ],
-      "postedAt": "2026-11-20T21:31:24.000Z",
-      "url": "https://www.arbeitnow.co.uk/jobs/companies/gravity9/remote-forward-deployed-ai-engineer-birmingham-377104"
-    },
-    {
-      "id": "arbeitnow-menswear-product-manager-manchester-shambles-474136",
-      "title": "Menswear Product Manager-Manchester Shambles",
-      "company": "INDITEX",
-      "platform": "Arbeitnow",
-      "location": "MANCHESTER, Manchester, United Kingdom",
+      "location": "Lyon",
       "salary": "Competitive",
       "type": "Full-time",
       "tags": [
         "Sales"
       ],
-      "postedAt": "2026-11-20T21:31:24.000Z",
-      "url": "https://www.arbeitnow.co.uk/jobs/companies/inditex/menswear-product-manager-manchester-shambles-474136"
+      "postedAt": "2026-11-21T03:43:21.000Z",
+      "url": "https://www.arbeitnow.fr/jobs/companies/doctolib/field-sales-fr-account-executive-lyon-386348"
     },
     {
-      "id": "arbeitnow-remote-developpeur-fullstack-confirme-h-f-c-net-angular-lyon-137469",
-      "title": "Développeur fullstack confirmé H/F (C#, .Net, Angular)",
-      "company": "N2JSoft",
-      "platform": "Arbeitnow",
-      "location": "Poste à distance",
-      "salary": "Competitive",
-      "type": "Full-time",
-      "tags": [
-        "R&D",
-        "Remote"
-      ],
-      "postedAt": "2026-11-20T21:31:23.000Z",
-      "url": "https://www.arbeitnow.fr/jobs/companies/n2jsoft/remote-developpeur-fullstack-confirme-h-f-c-net-angular-lyon-137469"
-    },
-    {
-      "id": "arbeitnow-ui-designer-casual-games-freelance-remote-berlin-403179",
-      "title": "UI Designer - Casual Games (Freelance Remote)",
-      "company": "SOFTGAMES",
-      "platform": "Arbeitnow",
-      "location": "Remote job",
-      "salary": "Competitive",
-      "type": "Full-time",
-      "tags": [
-        "Remote"
-      ],
-      "postedAt": "2026-11-20T21:31:22.000Z",
-      "url": "https://www.arbeitnow.com/jobs/companies/softgames/ui-designer-casual-games-freelance-remote-berlin-403179"
-    },
-    {
-      "id": "arbeitnow-responsable-des-operations-et-du-developpement-h-f-bagnolet-456261",
-      "title": "Responsable des opérations et du développement (H/F)",
-      "company": "Code couleur",
-      "platform": "Arbeitnow",
-      "location": "Bagnolet",
-      "salary": "Competitive",
-      "type": "Full-time",
-      "tags": [
-        "Directors",
-        "Chief Executives"
-      ],
-      "postedAt": "2026-11-20T20:00:33.000Z",
-      "url": "https://www.arbeitnow.fr/jobs/companies/code-couleur/responsable-des-operations-et-du-developpement-h-f-bagnolet-456261"
-    },
-    {
-      "id": "jobicy-163607",
-      "title": "Dealer Development Manager (Dallas / Fort Worth)",
-      "company": "Upgrade",
-      "platform": "Jobicy",
-      "location": "USA",
-      "salary": "Competitive",
-      "type": "Full-Time",
-      "tags": [],
-      "postedAt": "2026-11-20T19:27:21+00:00",
-      "url": "https://jobicy.com/jobs/163607-dealer-development-manager-dallas-fort-worth"
-    },
-    {
-      "id": "jobicy-163606",
-      "title": "B2B Paid Media Senior Manager",
-      "company": "Wellhub",
-      "platform": "Jobicy",
-      "location": "Brazil",
-      "salary": "Competitive",
-      "type": "Part-Time",
-      "tags": [],
-      "postedAt": "2026-11-20T19:27:06+00:00",
-      "url": "https://jobicy.com/jobs/163606-b2b-paid-media-senior-manager"
-    },
-    {
-      "id": "jobicy-163602",
-      "title": "B2B & Brand Social Media Senior Manager (US)",
-      "company": "Wellhub",
-      "platform": "Jobicy",
-      "location": "USA",
-      "salary": "Competitive",
-      "type": "Full-Time",
-      "tags": [],
-      "postedAt": "2026-11-20T19:26:43+00:00",
-      "url": "https://jobicy.com/jobs/163602-b2b-brand-social-media-senior-manager-us"
-    },
-    {
-      "id": "jobicy-163601",
-      "title": "Forward Deployed Engineer, Physical AI Infrastructure",
-      "company": "Nebius",
-      "platform": "Jobicy",
-      "location": "USA",
-      "salary": "Competitive",
-      "type": "Full-Time",
-      "tags": [],
-      "postedAt": "2026-11-20T19:26:41+00:00",
-      "url": "https://jobicy.com/jobs/163601-forward-deployed-engineer-physical-ai-infrastructure-2"
-    },
-    {
-      "id": "jobicy-163599",
-      "title": "External Wholesaler, Life and Annuity Distribution - Mandarin Speaking",
-      "company": "National Life Insurance Company",
-      "platform": "Jobicy",
-      "location": "USA",
-      "salary": "Competitive",
-      "type": "Full-Time",
-      "tags": [],
-      "postedAt": "2026-11-20T19:26:39+00:00",
-      "url": "https://jobicy.com/jobs/163599-external-wholesaler-life-and-annuity-distribution-mandarin-speaking"
-    },
-    {
-      "id": "jobicy-163598",
-      "title": "AI Experience Engineer (Conversational AI)",
-      "company": "Upgrade",
-      "platform": "Jobicy",
-      "location": "Canada",
-      "salary": "Competitive",
-      "type": "Full-Time",
-      "tags": [],
-      "postedAt": "2026-11-20T19:26:37+00:00",
-      "url": "https://jobicy.com/jobs/163598-ai-experience-engineer-conversational-ai"
-    },
-    {
-      "id": "jobicy-163597",
-      "title": "Fixed Assets Lead",
-      "company": "Nebius",
-      "platform": "Jobicy",
-      "location": "USA",
-      "salary": "Competitive",
-      "type": "Full-Time",
-      "tags": [],
-      "postedAt": "2026-11-20T19:26:36+00:00",
-      "url": "https://jobicy.com/jobs/163597-fixed-assets-lead"
-    },
-    {
-      "id": "jobicy-163595",
-      "title": "External Wholesaler (Life and Annuity Distribution)",
-      "company": "National Life Insurance Company",
-      "platform": "Jobicy",
-      "location": "USA",
-      "salary": "Competitive",
-      "type": "Full-Time",
-      "tags": [],
-      "postedAt": "2026-11-20T19:26:33+00:00",
-      "url": "https://jobicy.com/jobs/163595-external-wholesaler-life-and-annuity-distribution"
-    },
-    {
-      "id": "arbeitnow-staff-data-scientist-cardiff-481436",
-      "title": "Staff Data Scientist",
-      "company": "Monzo",
-      "platform": "Arbeitnow",
-      "location": "Cardiff",
-      "salary": "Competitive",
-      "type": "Full-time",
-      "tags": [
-        "Data"
-      ],
-      "postedAt": "2026-11-20T18:55:21.000Z",
-      "url": "https://www.arbeitnow.co.uk/jobs/companies/monzo/staff-data-scientist-cardiff-481436"
-    },
-    {
-      "id": "arbeitnow-senior-treasury-product-control-analyst-cardiff-430304",
-      "title": "Senior Treasury Product Control Analyst",
-      "company": "Monzo",
-      "platform": "Arbeitnow",
-      "location": "Cardiff",
-      "salary": "Competitive",
-      "type": "Full-time",
-      "tags": [
-        "Finance"
-      ],
-      "postedAt": "2026-11-20T18:55:21.000Z",
-      "url": "https://www.arbeitnow.co.uk/jobs/companies/monzo/senior-treasury-product-control-analyst-cardiff-430304"
-    },
-    {
-      "id": "arbeitnow-senior-third-party-risk-manager-116278",
-      "title": "Senior Third Party Risk Manager",
-      "company": "Monzo",
-      "platform": "Arbeitnow",
-      "location": "Remote",
-      "salary": "Competitive",
-      "type": "Full-time",
-      "tags": [
-        "Operations"
-      ],
-      "postedAt": "2026-11-20T18:55:21.000Z",
-      "url": "https://www.arbeitnow.co.uk/jobs/companies/monzo/senior-third-party-risk-manager-116278"
-    },
-    {
-      "id": "arbeitnow-lead-data-scientist-cardiff-333838",
-      "title": "Lead Data Scientist",
-      "company": "Monzo",
-      "platform": "Arbeitnow",
-      "location": "Cardiff",
-      "salary": "Competitive",
-      "type": "Full-time",
-      "tags": [
-        "Data"
-      ],
-      "postedAt": "2026-11-20T18:55:21.000Z",
-      "url": "https://www.arbeitnow.co.uk/jobs/companies/monzo/lead-data-scientist-cardiff-333838"
-    },
-    {
-      "id": "arbeitnow-senior-legal-counsel-london-262641",
-      "title": "Senior Legal Counsel",
-      "company": "Eunetworks",
-      "platform": "Arbeitnow",
-      "location": "London",
-      "salary": "Competitive",
-      "type": "Full-time",
-      "tags": [
-        "Legal"
-      ],
-      "postedAt": "2026-11-20T18:55:20.000Z",
-      "url": "https://www.arbeitnow.co.uk/jobs/companies/eunetworks/senior-legal-counsel-london-262641"
-    },
-    {
-      "id": "arbeitnow-senior-contract-solutions-lawyer-london-85877",
-      "title": "Senior Contract Solutions Lawyer",
-      "company": "Carta",
-      "platform": "Arbeitnow",
-      "location": "London",
-      "salary": "Competitive",
-      "type": "Full-time",
-      "tags": [
-        "Carta Law Contracts"
-      ],
-      "postedAt": "2026-11-20T18:55:18.000Z",
-      "url": "https://www.arbeitnow.co.uk/jobs/companies/carta/senior-contract-solutions-lawyer-london-85877"
-    },
-    {
-      "id": "arbeitnow-partner-solutions-architect-msp-306841",
-      "title": "Partner Solutions Architect - MSP",
-      "company": "wizinc",
-      "platform": "Arbeitnow",
-      "location": "Remote",
-      "salary": "Competitive",
-      "type": "Full-time",
-      "tags": [
-        "Channels"
-      ],
-      "postedAt": "2026-11-20T18:55:18.000Z",
-      "url": "https://www.arbeitnow.co.uk/jobs/companies/wizinc/partner-solutions-architect-msp-306841"
-    },
-    {
-      "id": "arbeitnow-senior-global-operations-associate-paris-463330",
-      "title": "Senior Global Operations Associate",
-      "company": "Flexport",
+      "id": "arbeitnow-staff-ai-engineer-agent-evaluation-platform-levallois-perret-333679",
+      "title": "Staff AI Engineer - Agent Evaluation Platform (x/f/m)",
+      "company": "Doctolib",
       "platform": "Arbeitnow",
       "location": "Paris",
+      "salary": "Competitive",
+      "type": "Full-time",
+      "tags": [
+        "AI"
+      ],
+      "postedAt": "2026-11-21T03:43:21.000Z",
+      "url": "https://www.arbeitnow.fr/jobs/companies/doctolib/staff-ai-engineer-agent-evaluation-platform-levallois-perret-333679"
+    },
+    {
+      "id": "arbeitnow-strategic-project-manager-strategic-planning-insights-paris-388580",
+      "title": "Strategic Project Manager - Strategic Planning & Insights",
+      "company": "Qonto",
+      "platform": "Arbeitnow",
+      "location": "Paris, France",
+      "salary": "Competitive",
+      "type": "Full-time",
+      "tags": [
+        "Finance",
+        "Legal",
+        "Risk & Compliance",
+        "People & Strat"
+      ],
+      "postedAt": "2026-11-21T03:43:21.000Z",
+      "url": "https://www.arbeitnow.fr/jobs/companies/qonto/strategic-project-manager-strategic-planning-insights-paris-388580"
+    },
+    {
+      "id": "arbeitnow-accounts-payable-accountant-paris-373989",
+      "title": "Accounts Payable accountant",
+      "company": "Qonto",
+      "platform": "Arbeitnow",
+      "location": "Paris, France",
+      "salary": "Competitive",
+      "type": "Full-time",
+      "tags": [
+        "Finance",
+        "Legal",
+        "Risk & Compliance",
+        "People & Strat"
+      ],
+      "postedAt": "2026-11-21T03:43:21.000Z",
+      "url": "https://www.arbeitnow.fr/jobs/companies/qonto/accounts-payable-accountant-paris-373989"
+    },
+    {
+      "id": "arbeitnow-strategic-project-manager-italy-paris-251497",
+      "title": "Strategic Project Manager Italy",
+      "company": "Qonto",
+      "platform": "Arbeitnow",
+      "location": "Paris, France",
+      "salary": "Competitive",
+      "type": "Full-time",
+      "tags": [
+        "Finance",
+        "Legal",
+        "Risk & Compliance",
+        "People & Strat"
+      ],
+      "postedAt": "2026-11-21T03:43:21.000Z",
+      "url": "https://www.arbeitnow.fr/jobs/companies/qonto/strategic-project-manager-italy-paris-251497"
+    },
+    {
+      "id": "arbeitnow-senior-product-manager-connect-amsterdam-130243",
+      "title": "Senior Product Manager - Connect (x/f/m)",
+      "company": "Doctolib",
+      "platform": "Arbeitnow",
+      "location": "Amsterdam",
+      "salary": "Competitive",
+      "type": "Full-time",
+      "tags": [
+        "Product"
+      ],
+      "postedAt": "2026-11-21T03:43:21.000Z",
+      "url": "https://www.arbeitnow.nl/jobs/companies/doctolib/senior-product-manager-connect-amsterdam-130243"
+    },
+    {
+      "id": "arbeitnow-senior-lead-python-engineer-london-128931",
+      "title": "Senior/Lead Python Engineer",
+      "company": "Mimica",
+      "platform": "Arbeitnow",
+      "location": "Remote Anywhere",
+      "salary": "Competitive",
+      "type": "Full-time",
+      "tags": [
+        "Engineering"
+      ],
+      "postedAt": "2026-11-21T03:43:20.000Z",
+      "url": "https://www.arbeitnow.co.uk/jobs/companies/mimica/senior-lead-python-engineer-london-128931"
+    },
+    {
+      "id": "arbeitnow-senior-forward-deployed-engineer-paris-332330",
+      "title": "Senior Forward Deployed Engineer",
+      "company": "UiPath",
+      "platform": "Arbeitnow",
+      "location": "Paris",
+      "salary": "Competitive",
+      "type": "Full-time",
+      "tags": [
+        "Engineering"
+      ],
+      "postedAt": "2026-11-21T03:43:20.000Z",
+      "url": "https://www.arbeitnow.fr/jobs/companies/uipath/senior-forward-deployed-engineer-paris-332330"
+    },
+    {
+      "id": "arbeitnow-founding-sales-lead-paris-51768",
+      "title": "Founding sales lead",
+      "company": "Hexa",
+      "platform": "Arbeitnow",
+      "location": "Paris",
+      "salary": "Competitive",
+      "type": "Full-time",
+      "tags": [
+        "Pelagon"
+      ],
+      "postedAt": "2026-11-21T03:43:19.000Z",
+      "url": "https://www.arbeitnow.fr/jobs/companies/hexa/founding-sales-lead-paris-51768"
+    },
+    {
+      "id": "jobicy-156247",
+      "title": "Technical Account Manager",
+      "company": "ClickUp",
+      "platform": "Jobicy",
+      "location": "Philippines",
+      "salary": "Competitive",
+      "type": "Full-Time",
+      "tags": [],
+      "postedAt": "2026-11-21T03:30:13+00:00",
+      "url": "https://jobicy.com/jobs/156247-technical-account-manager-7"
+    },
+    {
+      "id": "jobicy-156246",
+      "title": "Enterprise Solutions Consultant, ANZ",
+      "company": "Nash",
+      "platform": "Jobicy",
+      "location": "Australia,  New Zealand",
+      "salary": "Competitive",
+      "type": "Full-Time",
+      "tags": [],
+      "postedAt": "2026-11-21T03:30:11+00:00",
+      "url": "https://jobicy.com/jobs/156246-enterprise-solutions-consultant-anz"
+    },
+    {
+      "id": "arbeitnow-software-rd-manager-1113-uk-cambridge-277098",
+      "title": "Software R&D Manager - 1113",
+      "company": "Quantinuum",
+      "platform": "Arbeitnow",
+      "location": "UK Cambridge",
+      "salary": "Competitive",
+      "type": "Full-time",
+      "tags": [
+        "Quantum Computing Software"
+      ],
+      "postedAt": "2026-11-21T03:26:50.000Z",
+      "url": "https://www.arbeitnow.co.uk/jobs/companies/quantinuum/software-rd-manager-1113-uk-cambridge-277098"
+    },
+    {
+      "id": "arbeitnow-validation-engineering-manager-edinburgh-scotland-449722",
+      "title": "Validation Engineering Manager",
+      "company": "Cirrus",
+      "platform": "Arbeitnow",
+      "location": "Edinburgh, Scotland",
       "salary": "Competitive",
       "type": "Full-time",
       "tags": [
         "Global Operations"
       ],
-      "postedAt": "2026-11-20T18:55:18.000Z",
-      "url": "https://www.arbeitnow.fr/jobs/companies/flexport/senior-global-operations-associate-paris-463330"
+      "postedAt": "2026-11-21T03:26:49.000Z",
+      "url": "https://www.arbeitnow.co.uk/jobs/companies/cirrus/validation-engineering-manager-edinburgh-scotland-449722"
     },
     {
-      "id": "arbeitnow-senior-customs-associate-amsterdam-37632",
-      "title": "Senior Customs Associate",
-      "company": "Flexport",
+      "id": "arbeitnow-director-of-practice-and-clinical-services-small-animal-brayton-north-yorkshire-england-287674",
+      "title": "Director of Practice and Clinical Services - Small Animal",
+      "company": "Ivcevidensia",
+      "platform": "Arbeitnow",
+      "location": "Brayton, North Yorkshire, England",
+      "salary": "Competitive",
+      "type": "Full-time",
+      "tags": [
+        "Small Animal"
+      ],
+      "postedAt": "2026-11-21T03:26:46.000Z",
+      "url": "https://www.arbeitnow.co.uk/jobs/companies/ivcevidensia/director-of-practice-and-clinical-services-small-animal-brayton-north-yorkshire-england-287674"
+    },
+    {
+      "id": "arbeitnow-head-of-product-london-289088",
+      "title": "Head of Product",
+      "company": "Socrates Global",
+      "platform": "Arbeitnow",
+      "location": "London",
+      "salary": "Competitive",
+      "type": "Full-time",
+      "tags": [
+        "Product"
+      ],
+      "postedAt": "2026-11-21T03:26:46.000Z",
+      "url": "https://www.arbeitnow.co.uk/jobs/companies/socrates-global/head-of-product-london-289088"
+    },
+    {
+      "id": "arbeitnow-senior-account-manager-demand-france-paris-496",
+      "title": "Senior Account Manager Demand, France",
+      "company": "Equativ",
+      "platform": "Arbeitnow",
+      "location": "Paris",
+      "salary": "Competitive",
+      "type": "Full-time",
+      "tags": [
+        "Demand"
+      ],
+      "postedAt": "2026-11-21T03:26:46.000Z",
+      "url": "https://www.arbeitnow.fr/jobs/companies/equativ/senior-account-manager-demand-france-paris-496"
+    },
+    {
+      "id": "arbeitnow-senior-product-designer-remote-in-europe-amsterdam-443609",
+      "title": "Senior Product Designer (Remote in Europe)",
+      "company": "Finom",
       "platform": "Arbeitnow",
       "location": "Amsterdam",
       "salary": "Competitive",
       "type": "Full-time",
       "tags": [
-        "Customs"
+        "Product Design"
       ],
-      "postedAt": "2026-11-20T18:55:18.000Z",
-      "url": "https://www.arbeitnow.nl/jobs/companies/flexport/senior-customs-associate-amsterdam-37632"
+      "postedAt": "2026-11-21T03:26:46.000Z",
+      "url": "https://www.arbeitnow.nl/jobs/companies/finom/senior-product-designer-remote-in-europe-amsterdam-443609"
     },
     {
-      "id": "arbeitnow-account-executive-smb-amsterdam-398519",
-      "title": "Account Executive, SMB",
-      "company": "Flexport",
+      "id": "arbeitnow-unternehmensberaterin-senior-consultant-dusseldorf-141766",
+      "title": "UnternehmensberaterIn - Senior Consultant - Dusseldorf",
+      "company": "Efficioconsulting",
       "platform": "Arbeitnow",
-      "location": "Amsterdam",
+      "location": "Dusseldorf",
       "salary": "Competitive",
       "type": "Full-time",
       "tags": [
-        "Sales"
+        "Consulting Team"
       ],
-      "postedAt": "2026-11-20T18:55:18.000Z",
-      "url": "https://www.arbeitnow.nl/jobs/companies/flexport/account-executive-smb-amsterdam-398519"
+      "postedAt": "2026-11-21T03:26:45.000Z",
+      "url": "https://www.arbeitnow.com/jobs/companies/efficioconsulting/unternehmensberaterin-senior-consultant-dusseldorf-141766"
     },
     {
-      "id": "arbeitnow-senior-licensing-manager-manchester-54499",
-      "title": "Senior Licensing Manager",
-      "company": "Fanaticscommerce",
+      "id": "arbeitnow-vat-senior-manager-london-england-379519",
+      "title": "VAT - Senior Manager",
+      "company": "CFGI",
       "platform": "Arbeitnow",
-      "location": "Manchester",
+      "location": "London, England",
       "salary": "Competitive",
       "type": "Full-time",
       "tags": [
-        "Commerce - International - Corporate Function"
+        "Financial Tax Services"
       ],
-      "postedAt": "2026-11-20T18:55:17.000Z",
-      "url": "https://www.arbeitnow.co.uk/jobs/companies/fanaticscommerce/senior-licensing-manager-manchester-54499"
+      "postedAt": "2026-11-21T03:26:45.000Z",
+      "url": "https://www.arbeitnow.co.uk/jobs/companies/cfgi/vat-senior-manager-london-england-379519"
     },
     {
-      "id": "arbeitnow-senior-licensing-manager-paris-181167",
-      "title": "Senior Licensing Manager",
-      "company": "Fanaticscommerce",
+      "id": "arbeitnow-treasury-commodity-advisory-senior-manager-london-england-91753",
+      "title": "Treasury & Commodity Advisory – Senior Manager",
+      "company": "CFGI",
+      "platform": "Arbeitnow",
+      "location": "London, England",
+      "salary": "Competitive",
+      "type": "Full-time",
+      "tags": [
+        "Treasury Services"
+      ],
+      "postedAt": "2026-11-21T03:26:45.000Z",
+      "url": "https://www.arbeitnow.co.uk/jobs/companies/cfgi/treasury-commodity-advisory-senior-manager-london-england-91753"
+    },
+    {
+      "id": "arbeitnow-treasury-commodity-advisory-director-london-england-90595",
+      "title": "Treasury & Commodity Advisory – Director",
+      "company": "CFGI",
+      "platform": "Arbeitnow",
+      "location": "London, England",
+      "salary": "Competitive",
+      "type": "Full-time",
+      "tags": [
+        "Treasury Services"
+      ],
+      "postedAt": "2026-11-21T03:26:45.000Z",
+      "url": "https://www.arbeitnow.co.uk/jobs/companies/cfgi/treasury-commodity-advisory-director-london-england-90595"
+    },
+    {
+      "id": "arbeitnow-financial-due-diligence-director-london-england-53224",
+      "title": "Financial Due Diligence - Director",
+      "company": "CFGI",
+      "platform": "Arbeitnow",
+      "location": "London, England",
+      "salary": "Competitive",
+      "type": "Full-time",
+      "tags": [
+        "Transaction Advisory Services"
+      ],
+      "postedAt": "2026-11-21T03:26:45.000Z",
+      "url": "https://www.arbeitnow.co.uk/jobs/companies/cfgi/financial-due-diligence-director-london-england-53224"
+    },
+    {
+      "id": "arbeitnow-corporate-tax-services-senior-manager-london-england-38855",
+      "title": "Corporate Tax Services - Senior Manager",
+      "company": "CFGI",
+      "platform": "Arbeitnow",
+      "location": "London, England",
+      "salary": "Competitive",
+      "type": "Full-time",
+      "tags": [
+        "Corporate Tax Services"
+      ],
+      "postedAt": "2026-11-21T03:26:45.000Z",
+      "url": "https://www.arbeitnow.co.uk/jobs/companies/cfgi/corporate-tax-services-senior-manager-london-england-38855"
+    },
+    {
+      "id": "arbeitnow-senior-account-manager-london-gb-406269",
+      "title": "Senior Account Manager",
+      "company": "Octopus Energy Group",
+      "platform": "Arbeitnow",
+      "location": "London (GB)",
+      "salary": "Competitive",
+      "type": "Full-time",
+      "tags": [
+        "Growth - variable"
+      ],
+      "postedAt": "2026-11-21T03:26:45.000Z",
+      "url": "https://www.arbeitnow.co.uk/jobs/companies/octopus-energy-group/senior-account-manager-london-gb-406269"
+    },
+    {
+      "id": "arbeitnow-head-of-software-sheffield-gb-489470",
+      "title": "Head of Software",
+      "company": "Octopus Energy Group",
+      "platform": "Arbeitnow",
+      "location": "Sheffield (GB)",
+      "salary": "Competitive",
+      "type": "Full-time",
+      "tags": [
+        "MOPO"
+      ],
+      "postedAt": "2026-11-21T03:26:45.000Z",
+      "url": "https://www.arbeitnow.co.uk/jobs/companies/octopus-energy-group/head-of-software-sheffield-gb-489470"
+    },
+    {
+      "id": "arbeitnow-senior-manager-legal-engineer-london-307811",
+      "title": "Senior Manager, Legal Engineer",
+      "company": "Factor",
+      "platform": "Arbeitnow",
+      "location": "London",
+      "salary": "Competitive",
+      "type": "Full-time",
+      "tags": [
+        "Delivery - COE UK"
+      ],
+      "postedAt": "2026-11-21T03:26:44.000Z",
+      "url": "https://www.arbeitnow.co.uk/jobs/companies/factor/senior-manager-legal-engineer-london-307811"
+    },
+    {
+      "id": "arbeitnow-senior-optical-design-engineer-toulouse-315988",
+      "title": "Senior Optical Design Engineer",
+      "company": "E-Space",
+      "platform": "Arbeitnow",
+      "location": "Toulouse",
+      "salary": "Competitive",
+      "type": "Full-time",
+      "tags": [
+        "Engineering",
+        "Manufacturing & Operations"
+      ],
+      "postedAt": "2026-11-21T03:26:44.000Z",
+      "url": "https://www.arbeitnow.fr/jobs/companies/e-space/senior-optical-design-engineer-toulouse-315988"
+    },
+    {
+      "id": "arbeitnow-superviseurse-cvc-havc-pompes-a-chaleur-france-paris-fr-300938",
+      "title": "Superviseur·se CVC/HAVC - Pompes à chaleur - France",
+      "company": "Octopus Energy Group",
+      "platform": "Arbeitnow",
+      "location": "Paris (FR)",
+      "salary": "Competitive",
+      "type": "Full-time",
+      "tags": [
+        "Heat Pumps"
+      ],
+      "postedAt": "2026-11-21T03:26:44.000Z",
+      "url": "https://www.arbeitnow.fr/jobs/companies/octopus-energy-group/superviseurse-cvc-havc-pompes-a-chaleur-france-paris-fr-300938"
+    },
+    {
+      "id": "arbeitnow-senior-financial-accountant-h-f-paris-fr-294486",
+      "title": "Senior Financial Accountant H/F",
+      "company": "Octopus Energy Group",
+      "platform": "Arbeitnow",
+      "location": "Paris (FR)",
+      "salary": "Competitive",
+      "type": "Full-time",
+      "tags": [
+        "Finance"
+      ],
+      "postedAt": "2026-11-21T03:26:44.000Z",
+      "url": "https://www.arbeitnow.fr/jobs/companies/octopus-energy-group/senior-financial-accountant-h-f-paris-fr-294486"
+    },
+    {
+      "id": "arbeitnow-senior-analytical-engineer-h-f-paris-fr-447522",
+      "title": "Senior Analytical Engineer H/F",
+      "company": "Octopus Energy Group",
+      "platform": "Arbeitnow",
+      "location": "Paris (FR)",
+      "salary": "Competitive",
+      "type": "Full-time",
+      "tags": [
+        "Data"
+      ],
+      "postedAt": "2026-11-21T03:26:44.000Z",
+      "url": "https://www.arbeitnow.fr/jobs/companies/octopus-energy-group/senior-analytical-engineer-h-f-paris-fr-447522"
+    },
+    {
+      "id": "arbeitnow-lead-mechanical-engineer-h-f-heat-pumps-france-paris-fr-35310",
+      "title": "Lead Mechanical Engineer H/F Heat Pumps - France",
+      "company": "Octopus Energy Group",
+      "platform": "Arbeitnow",
+      "location": "Paris (FR)",
+      "salary": "Competitive",
+      "type": "Full-time",
+      "tags": [
+        "Heat Pumps"
+      ],
+      "postedAt": "2026-11-21T03:26:44.000Z",
+      "url": "https://www.arbeitnow.fr/jobs/companies/octopus-energy-group/lead-mechanical-engineer-h-f-heat-pumps-france-paris-fr-35310"
+    },
+    {
+      "id": "arbeitnow-comptable-senior-h-f-paris-fr-327668",
+      "title": "Comptable sénior H/F",
+      "company": "Octopus Energy Group",
+      "platform": "Arbeitnow",
+      "location": "Paris (FR)",
+      "salary": "Competitive",
+      "type": "Full-time",
+      "tags": [
+        "Finance"
+      ],
+      "postedAt": "2026-11-21T03:26:44.000Z",
+      "url": "https://www.arbeitnow.fr/jobs/companies/octopus-energy-group/comptable-senior-h-f-paris-fr-327668"
+    },
+    {
+      "id": "arbeitnow-comptable-general-senior-h-f-paris-fr-499211",
+      "title": "Comptable général sénior H/F",
+      "company": "Octopus Energy Group",
+      "platform": "Arbeitnow",
+      "location": "Paris (FR)",
+      "salary": "Competitive",
+      "type": "Full-time",
+      "tags": [
+        "Finance"
+      ],
+      "postedAt": "2026-11-21T03:26:44.000Z",
+      "url": "https://www.arbeitnow.fr/jobs/companies/octopus-energy-group/comptable-general-senior-h-f-paris-fr-499211"
+    },
+    {
+      "id": "arbeitnow-senior-product-marketing-manager-gtm-paris-56840",
+      "title": "Senior Product Marketing Manager - GTM",
+      "company": "Malt",
       "platform": "Arbeitnow",
       "location": "Paris",
       "salary": "Competitive",
       "type": "Full-time",
       "tags": [
-        "Commerce - International - Corporate Function"
+        "Product Marketing"
       ],
-      "postedAt": "2026-11-20T18:55:17.000Z",
-      "url": "https://www.arbeitnow.fr/jobs/companies/fanaticscommerce/senior-licensing-manager-paris-181167"
+      "postedAt": "2026-11-21T03:26:43.000Z",
+      "url": "https://www.arbeitnow.fr/jobs/companies/malt/senior-product-marketing-manager-gtm-paris-56840"
     },
     {
-      "id": "arbeitnow-engineering-manager-rotterdam-82636",
-      "title": "Engineering Manager",
-      "company": "HousingAnywhere Group",
-      "platform": "Arbeitnow",
-      "location": "Rotterdam, Zuid-Holland, Netherlands",
-      "salary": "Competitive",
-      "type": "Full-time",
-      "tags": [],
-      "postedAt": "2026-11-20T18:45:34.000Z",
-      "url": "https://www.arbeitnow.nl/jobs/companies/housinganywhere-group/engineering-manager-rotterdam-82636"
-    },
-    {
-      "id": "arbeitnow-software-architect-oxford-289626",
-      "title": "Software Architect",
-      "company": "Salience Labs",
-      "platform": "Arbeitnow",
-      "location": "Oxford, United Kingdom",
-      "salary": "Competitive",
-      "type": "Full-time",
-      "tags": [
-        "Technology"
-      ],
-      "postedAt": "2026-11-20T18:40:15.000Z",
-      "url": "https://www.arbeitnow.co.uk/jobs/companies/salience-labs/software-architect-oxford-289626"
-    },
-    {
-      "id": "arbeitnow-senior-technical-programme-manager-london-66956",
-      "title": "Senior Technical Programme Manager",
-      "company": "Checkout.com",
-      "platform": "Arbeitnow",
-      "location": "London",
-      "salary": "Competitive",
-      "type": "Full-time",
-      "tags": [
-        "All Departments"
-      ],
-      "postedAt": "2026-11-20T18:40:15.000Z",
-      "url": "https://www.arbeitnow.co.uk/jobs/companies/checkoutcom/senior-technical-programme-manager-london-66956"
-    },
-    {
-      "id": "arbeitnow-manager-sales-engineering-london-299027",
-      "title": "Manager, Sales Engineering",
-      "company": "Checkout.com",
-      "platform": "Arbeitnow",
-      "location": "London",
-      "salary": "Competitive",
-      "type": "Full-time",
-      "tags": [
-        "All Departments"
-      ],
-      "postedAt": "2026-11-20T18:40:15.000Z",
-      "url": "https://www.arbeitnow.co.uk/jobs/companies/checkoutcom/manager-sales-engineering-london-299027"
-    },
-    {
-      "id": "arbeitnow-manager-compliance-advisory-london-310526",
-      "title": "Manager, Compliance Advisory",
-      "company": "Checkout.com",
-      "platform": "Arbeitnow",
-      "location": "London",
-      "salary": "Competitive",
-      "type": "Full-time",
-      "tags": [
-        "All Departments"
-      ],
-      "postedAt": "2026-11-20T18:40:15.000Z",
-      "url": "https://www.arbeitnow.co.uk/jobs/companies/checkoutcom/manager-compliance-advisory-london-310526"
-    },
-    {
-      "id": "arbeitnow-financial-crime-compliance-senior-analyst-paris-68193",
-      "title": "Financial Crime Compliance, Senior Analyst",
-      "company": "Checkout.com",
+      "id": "arbeitnow-research-data-scientist-paris-194871",
+      "title": "Research Data Scientist",
+      "company": "Malt",
       "platform": "Arbeitnow",
       "location": "Paris",
       "salary": "Competitive",
       "type": "Full-time",
       "tags": [
-        "All Departments"
+        "Data"
       ],
-      "postedAt": "2026-11-20T18:40:15.000Z",
-      "url": "https://www.arbeitnow.fr/jobs/companies/checkoutcom/financial-crime-compliance-senior-analyst-paris-68193"
+      "postedAt": "2026-11-21T03:26:43.000Z",
+      "url": "https://www.arbeitnow.fr/jobs/companies/malt/research-data-scientist-paris-194871"
     },
     {
-      "id": "arbeitnow-senior-analyst-permanent-control-paris-415200",
-      "title": "Senior Analyst, Permanent Control",
-      "company": "Checkout.com",
+      "id": "arbeitnow-order-to-cash-specialist-public-sector-paris-21962",
+      "title": "Order to Cash Specialist- Public Sector",
+      "company": "Malt",
       "platform": "Arbeitnow",
       "location": "Paris",
       "salary": "Competitive",
       "type": "Full-time",
       "tags": [
-        "All Departments"
+        "Client Operations"
       ],
-      "postedAt": "2026-11-20T18:40:15.000Z",
-      "url": "https://www.arbeitnow.fr/jobs/companies/checkoutcom/senior-analyst-permanent-control-paris-415200"
+      "postedAt": "2026-11-21T03:26:43.000Z",
+      "url": "https://www.arbeitnow.fr/jobs/companies/malt/order-to-cash-specialist-public-sector-paris-21962"
     },
     {
-      "id": "arbeitnow-technical-support-engineer-emea-london-uk-360898",
-      "title": "Technical Support Engineer EMEA - London",
-      "company": "CodeRabbit",
+      "id": "arbeitnow-full-stack-developer-monitoring-services-paris-218397",
+      "title": "Full-Stack Developer – Monitoring Services (W/M/X)",
+      "company": "Veepee",
       "platform": "Arbeitnow",
-      "location": "UK",
+      "location": "Paris",
       "salary": "Competitive",
       "type": "Full-time",
       "tags": [
-        "Customer Success"
+        "Engineering"
       ],
-      "postedAt": "2026-11-20T18:40:13.000Z",
-      "url": "https://www.arbeitnow.co.uk/jobs/companies/coderabbit/technical-support-engineer-emea-london-uk-360898"
+      "postedAt": "2026-11-21T03:26:41.000Z",
+      "url": "https://www.arbeitnow.fr/jobs/companies/veepee/full-stack-developer-monitoring-services-paris-218397"
     },
     {
-      "id": "arbeitnow-marketing-generalist-london-466232",
-      "title": "Marketing Generalist",
-      "company": "Neuphonic",
+      "id": "arbeitnow-business-data-analyst-cdi-saint-denis-394175",
+      "title": "Business / Data Analyst (F/H/X) - CDI",
+      "company": "Veepee",
       "platform": "Arbeitnow",
-      "location": "London",
+      "location": "Saint-Denis",
       "salary": "Competitive",
       "type": "Full-time",
       "tags": [
-        "Commercial"
+        "Sales Operations"
       ],
-      "postedAt": "2026-11-20T18:40:12.000Z",
-      "url": "https://www.arbeitnow.co.uk/jobs/companies/neuphonic/marketing-generalist-london-466232"
+      "postedAt": "2026-11-21T03:26:41.000Z",
+      "url": "https://www.arbeitnow.fr/jobs/companies/veepee/business-data-analyst-cdi-saint-denis-394175"
     },
     {
-      "id": "arbeitnow-head-of-enterprise-sales-emea-london-78400",
-      "title": "Head of Enterprise Sales, EMEA",
-      "company": "Vanta",
-      "platform": "Arbeitnow",
-      "location": "London, UK",
-      "salary": "Competitive",
-      "type": "Full-time",
-      "tags": [
-        "Revenue"
-      ],
-      "postedAt": "2026-11-20T18:40:12.000Z",
-      "url": "https://www.arbeitnow.co.uk/jobs/companies/vanta/head-of-enterprise-sales-emea-london-78400"
-    },
-    {
-      "id": "arbeitnow-working-student-procurement-amsterdam-360177",
-      "title": "Working Student - Procurement",
-      "company": "Fastned",
-      "platform": "Arbeitnow",
-      "location": "Amsterdam, Noord-Holland, Netherlands",
-      "salary": "Competitive",
-      "type": "Full-time",
-      "tags": [
-        "Operations"
-      ],
-      "postedAt": "2026-11-20T18:31:15.000Z",
-      "url": "https://www.arbeitnow.nl/jobs/companies/fastned/working-student-procurement-amsterdam-360177"
-    },
-    {
-      "id": "jobicy-163593",
-      "title": "Alpheratz Project - Valencia (Spain) Translation Quality Rater",
-      "company": "Welo Global",
+      "id": "jobicy-156215",
+      "title": "Sales Engineer - San Francisco",
+      "company": "Harness",
       "platform": "Jobicy",
-      "location": "Spain",
-      "salary": "Competitive",
-      "type": "Contract",
-      "tags": [],
-      "postedAt": "2026-11-20T17:28:56+00:00",
-      "url": "https://jobicy.com/jobs/163593-alpheratz-project-valencia-spain-translation-quality-rater"
-    },
-    {
-      "id": "jobicy-163592",
-      "title": "Alpheratz Project - Swedish (Sweden) Translation Quality Rater",
-      "company": "Welo Global",
-      "platform": "Jobicy",
-      "location": "Sweden",
-      "salary": "Competitive",
-      "type": "Contract",
-      "tags": [],
-      "postedAt": "2026-11-20T17:28:55+00:00",
-      "url": "https://jobicy.com/jobs/163592-alpheratz-project-swedish-sweden-translation-quality-rater"
-    },
-    {
-      "id": "jobicy-163591",
-      "title": "Alpheratz Project - Polish (Poland) Translation Quality Rater",
-      "company": "Welo Global",
-      "platform": "Jobicy",
-      "location": "Poland",
-      "salary": "Competitive",
-      "type": "Contract",
-      "tags": [],
-      "postedAt": "2026-11-20T17:28:53+00:00",
-      "url": "https://jobicy.com/jobs/163591-alpheratz-project-polish-poland-translation-quality-rater"
-    },
-    {
-      "id": "jobicy-163590",
-      "title": "Alpheratz Project - Galician (Spain) Translation Quality Rater",
-      "company": "Welo Global",
-      "platform": "Jobicy",
-      "location": "Spain",
-      "salary": "Competitive",
-      "type": "Contract",
-      "tags": [],
-      "postedAt": "2026-11-20T17:28:51+00:00",
-      "url": "https://jobicy.com/jobs/163590-alpheratz-project-galician-spain-translation-quality-rater"
-    },
-    {
-      "id": "jobicy-163589",
-      "title": "Alpheratz Project - Catalan (Spain) Translation Quality Rater",
-      "company": "Welo Global",
-      "platform": "Jobicy",
-      "location": "Spain",
-      "salary": "Competitive",
-      "type": "Contract",
-      "tags": [],
-      "postedAt": "2026-11-20T17:28:34+00:00",
-      "url": "https://jobicy.com/jobs/163589-alpheratz-project-catalan-spain-translation-quality-rater"
-    },
-    {
-      "id": "jobicy-163588",
-      "title": "Ads Quality Rater - Lithuanian (Lithuania)",
-      "company": "Welo Global",
-      "platform": "Jobicy",
-      "location": "Lithuania",
-      "salary": "Competitive",
-      "type": "Contract",
-      "tags": [],
-      "postedAt": "2026-11-20T17:28:33+00:00",
-      "url": "https://jobicy.com/jobs/163588-ads-quality-rater-lithuanian-lithuania-2"
-    },
-    {
-      "id": "jobicy-163587",
-      "title": "Director of Agency Development",
-      "company": "StackAdapt",
-      "platform": "Jobicy",
-      "location": "UK",
+      "location": "USA",
       "salary": "Competitive",
       "type": "Full-Time",
       "tags": [],
-      "postedAt": "2026-11-20T17:28:31+00:00",
-      "url": "https://jobicy.com/jobs/163587-director-of-agency-development"
+      "postedAt": "2026-11-21T03:25:31+00:00",
+      "url": "https://jobicy.com/jobs/156215-sales-engineer-san-francisco"
     },
     {
-      "id": "jobicy-163585",
-      "title": "Channel Account Manager",
-      "company": "Cobalt",
+      "id": "jobicy-156254",
+      "title": "Partner Solutions Architect - AWS",
+      "company": "Amplitude",
       "platform": "Jobicy",
-      "location": "UK",
+      "location": "Canada,  USA",
       "salary": "Competitive",
       "type": "Full-Time",
       "tags": [],
-      "postedAt": "2026-11-20T17:28:28+00:00",
-      "url": "https://jobicy.com/jobs/163585-channel-account-manager-5"
+      "postedAt": "2026-11-21T03:25:28+00:00",
+      "url": "https://jobicy.com/jobs/156254-partner-solutions-architect-aws"
     },
     {
-      "id": "jobicy-163581",
-      "title": "Sr. Product Manager, Shopping Experience",
-      "company": "CookUnity",
+      "id": "jobicy-156251",
+      "title": "Materials Sourcing Manager, Wool",
+      "company": "Quince",
+      "platform": "Jobicy",
+      "location": "Australia,  China,  Hong Kong",
+      "salary": "Competitive",
+      "type": "Full-Time",
+      "tags": [],
+      "postedAt": "2026-11-21T03:25:26+00:00",
+      "url": "https://jobicy.com/jobs/156251-materials-sourcing-manager-wool"
+    },
+    {
+      "id": "jobicy-156249",
+      "title": "Database Support Engineer (Japanese Speaking)",
+      "company": "Supabase",
+      "platform": "Jobicy",
+      "location": "APAC",
+      "salary": "Competitive",
+      "type": "Full-Time",
+      "tags": [],
+      "postedAt": "2026-11-21T03:25:25+00:00",
+      "url": "https://jobicy.com/jobs/156249-database-support-engineer-japanese-speaking"
+    },
+    {
+      "id": "jobicy-156244",
+      "title": "Manager, Product Support - APAC",
+      "company": "Ashby",
+      "platform": "Jobicy",
+      "location": "Australia,  Japan,  Philippines,  Singapore,  South Korea",
+      "salary": "Competitive",
+      "type": "Full-Time",
+      "tags": [],
+      "postedAt": "2026-11-21T03:25:24+00:00",
+      "url": "https://jobicy.com/jobs/156244-manager-product-support-apac"
+    },
+    {
+      "id": "jobicy-156243",
+      "title": "Operations Analyst",
+      "company": "Caylent",
       "platform": "Jobicy",
       "location": "Argentina",
       "salary": "Competitive",
       "type": "Full-Time",
       "tags": [],
-      "postedAt": "2026-11-20T17:24:41+00:00",
-      "url": "https://jobicy.com/jobs/163581-sr-product-manager-shopping-experience"
+      "postedAt": "2026-11-21T03:25:22+00:00",
+      "url": "https://jobicy.com/jobs/156243-operations-analyst"
     },
     {
-      "id": "jobicy-163578",
-      "title": "Sr. Product Manager, Revenue Engine",
-      "company": "CookUnity",
+      "id": "jobicy-156239",
+      "title": "Strategic Account Executive, Financial Services - Brazil",
+      "company": "GitLab",
       "platform": "Jobicy",
-      "location": "LATAM",
+      "location": "Brazil",
       "salary": "Competitive",
       "type": "Full-Time",
       "tags": [],
-      "postedAt": "2026-11-20T17:24:20+00:00",
-      "url": "https://jobicy.com/jobs/163578-sr-product-manager-revenue-engine"
+      "postedAt": "2026-11-21T03:25:20+00:00",
+      "url": "https://jobicy.com/jobs/156239-strategic-account-executive-financial-services-brazil"
     },
     {
-      "id": "jobicy-163575",
-      "title": "Engineering Manager - Developer Tools (Starcraft)",
-      "company": "Canonical",
+      "id": "jobicy-156238",
+      "title": "Strategic Account Executive - Brazil",
+      "company": "GitLab",
       "platform": "Jobicy",
-      "location": "LATAM,  Canada,  USA",
+      "location": "Brazil",
       "salary": "Competitive",
       "type": "Full-Time",
       "tags": [],
-      "postedAt": "2026-11-20T17:24:16+00:00",
-      "url": "https://jobicy.com/jobs/163575-engineering-manager-developer-tools-starcraft"
+      "postedAt": "2026-11-21T03:25:19+00:00",
+      "url": "https://jobicy.com/jobs/156238-strategic-account-executive-brazil-3"
     },
     {
-      "id": "jobicy-163573",
-      "title": "Host Account Manager (Offshore)",
-      "company": "PadSplit",
+      "id": "jobicy-156236",
+      "title": "Regional Sales Director, Commercial - LATAM",
+      "company": "GitLab",
       "platform": "Jobicy",
-      "location": "LATAM",
+      "location": "Brazil",
       "salary": "Competitive",
       "type": "Full-Time",
       "tags": [],
-      "postedAt": "2026-11-20T17:24:12+00:00",
-      "url": "https://jobicy.com/jobs/163573-host-account-manager-offshore"
+      "postedAt": "2026-11-21T03:25:17+00:00",
+      "url": "https://jobicy.com/jobs/156236-regional-sales-director-commercial-latam"
     },
     {
-      "id": "jobicy-163572",
-      "title": "Senior Product Data Analyst",
-      "company": "CookUnity",
+      "id": "jobicy-156225",
+      "title": "Account Executive",
+      "company": "Cordance",
       "platform": "Jobicy",
-      "location": "LATAM",
+      "location": "USA",
       "salary": "Competitive",
       "type": "Full-Time",
       "tags": [],
-      "postedAt": "2026-11-20T17:24:10+00:00",
-      "url": "https://jobicy.com/jobs/163572-senior-product-data-analyst"
+      "postedAt": "2026-11-21T03:25:15+00:00",
+      "url": "https://jobicy.com/jobs/156225-account-executive-26"
     },
     {
-      "id": "arbeitnow-testeur-qa-recette-fonctionnelle-h-f-mission-a-mi-temps-freelance-marseille-441268",
-      "title": "Testeur QA / Recette fonctionnelle (H/F) – Mission à mi-temps - FREELANCE",
-      "company": "ImaginePartners",
-      "platform": "Arbeitnow",
-      "location": "Marseille",
+      "id": "jobicy-156261",
+      "title": "Mid-Market Account Executive",
+      "company": "MaintainX",
+      "platform": "Jobicy",
+      "location": "USA",
       "salary": "Competitive",
-      "type": "Full-time",
-      "tags": [
-        "Quality Assurance",
-        "Inspection"
-      ],
-      "postedAt": "2026-11-20T17:00:40.000Z",
-      "url": "https://www.arbeitnow.fr/jobs/companies/imaginepartners/testeur-qa-recette-fonctionnelle-h-f-mission-a-mi-temps-freelance-marseille-441268"
-    },
-    {
-      "id": "arbeitnow-outbound-account-development-representative-france-saint-etienne-200501",
-      "title": "Outbound Account Development Representative - France",
-      "company": "Samsara",
-      "platform": "Arbeitnow",
-      "location": "Saint-Etienne, France",
-      "salary": "Competitive",
-      "type": "Full-time",
+      "type": "Full-Time",
       "tags": [],
-      "postedAt": "2026-11-20T16:47:06.000Z",
-      "url": "https://www.arbeitnow.fr/jobs/companies/samsara/outbound-account-development-representative-france-saint-etienne-200501"
+      "postedAt": "2026-11-21T03:25:14+00:00",
+      "url": "https://jobicy.com/jobs/156261-mid-market-account-executive-7"
     },
     {
-      "id": "arbeitnow-outbound-account-development-representative-france-boulogne-billancourt-452262",
-      "title": "Outbound Account Development Representative - France",
-      "company": "Samsara",
-      "platform": "Arbeitnow",
-      "location": "Boulogne-Billancourt, France",
+      "id": "jobicy-156260",
+      "title": "Mid-Market Account Executive - EMEA",
+      "company": "MaintainX",
+      "platform": "Jobicy",
+      "location": "UK",
       "salary": "Competitive",
-      "type": "Full-time",
+      "type": "Full-Time",
       "tags": [],
-      "postedAt": "2026-11-20T16:47:06.000Z",
-      "url": "https://www.arbeitnow.fr/jobs/companies/samsara/outbound-account-development-representative-france-boulogne-billancourt-452262"
+      "postedAt": "2026-11-21T03:25:12+00:00",
+      "url": "https://jobicy.com/jobs/156260-mid-market-account-executive-emea-2"
     },
     {
-      "id": "arbeitnow-outbound-account-development-representative-france-villeurbanne-453994",
-      "title": "Outbound Account Development Representative - France",
-      "company": "Samsara",
-      "platform": "Arbeitnow",
-      "location": "Villeurbanne, France",
+      "id": "jobicy-156258",
+      "title": "Inside Sales Representative - Enterprise",
+      "company": "MaintainX",
+      "platform": "Jobicy",
+      "location": "USA",
       "salary": "Competitive",
-      "type": "Full-time",
+      "type": "Full-Time",
       "tags": [],
-      "postedAt": "2026-11-20T16:47:06.000Z",
-      "url": "https://www.arbeitnow.fr/jobs/companies/samsara/outbound-account-development-representative-france-villeurbanne-453994"
+      "postedAt": "2026-11-21T03:25:10+00:00",
+      "url": "https://jobicy.com/jobs/156258-inside-sales-representative-enterprise"
     },
     {
-      "id": "arbeitnow-outbound-account-development-representative-france-pontoise-26239",
-      "title": "Outbound Account Development Representative - France",
-      "company": "Samsara",
-      "platform": "Arbeitnow",
-      "location": "Pontoise, France",
+      "id": "jobicy-156205",
+      "title": "Sales & Marketing Operations Specialist - Mexico",
+      "company": "Brafton",
+      "platform": "Jobicy",
+      "location": "Mexico",
       "salary": "Competitive",
-      "type": "Full-time",
+      "type": "Contract",
       "tags": [],
-      "postedAt": "2026-11-20T16:47:06.000Z",
-      "url": "https://www.arbeitnow.fr/jobs/companies/samsara/outbound-account-development-representative-france-pontoise-26239"
+      "postedAt": "2026-11-21T03:20:37+00:00",
+      "url": "https://jobicy.com/jobs/156205-sales-marketing-operations-specialist-mexico"
     },
     {
-      "id": "arbeitnow-outbound-account-development-representative-france-toulouse-178822",
-      "title": "Outbound Account Development Representative - France",
-      "company": "Samsara",
-      "platform": "Arbeitnow",
-      "location": "Toulouse, France",
+      "id": "jobicy-156179",
+      "title": "Senior Product Manager - Audiobooks Format Foundations",
+      "company": "Spotify",
+      "platform": "Jobicy",
+      "location": "Sweden,  UK",
       "salary": "Competitive",
-      "type": "Full-time",
+      "type": "Full-Time",
       "tags": [],
-      "postedAt": "2026-11-20T16:47:06.000Z",
-      "url": "https://www.arbeitnow.fr/jobs/companies/samsara/outbound-account-development-representative-france-toulouse-178822"
+      "postedAt": "2026-11-21T03:20:36+00:00",
+      "url": "https://jobicy.com/jobs/156179-senior-product-manager-audiobooks-format-foundations"
     },
     {
-      "id": "arbeitnow-outbound-account-development-representative-france-lyon-304583",
-      "title": "Outbound Account Development Representative - France",
-      "company": "Samsara",
-      "platform": "Arbeitnow",
-      "location": "Lyon, France",
+      "id": "jobicy-156227",
+      "title": "Clinical Operations Lead",
+      "company": "Alimentiv",
+      "platform": "Jobicy",
+      "location": "Hungary",
       "salary": "Competitive",
-      "type": "Full-time",
+      "type": "Full-Time",
       "tags": [],
-      "postedAt": "2026-11-20T16:47:06.000Z",
-      "url": "https://www.arbeitnow.fr/jobs/companies/samsara/outbound-account-development-representative-france-lyon-304583"
+      "postedAt": "2026-11-21T03:20:34+00:00",
+      "url": "https://jobicy.com/jobs/156227-clinical-operations-lead-2"
     },
     {
-      "id": "arbeitnow-outbound-account-development-representative-france-paris-313574",
-      "title": "Outbound Account Development Representative - France",
-      "company": "Samsara",
-      "platform": "Arbeitnow",
-      "location": "Paris, France",
+      "id": "jobicy-156226",
+      "title": "PMO & Portfolio Analyst",
+      "company": "Rithum",
+      "platform": "Jobicy",
+      "location": "USA",
       "salary": "Competitive",
-      "type": "Full-time",
+      "type": "Full-Time",
       "tags": [],
-      "postedAt": "2026-11-20T16:47:06.000Z",
-      "url": "https://www.arbeitnow.fr/jobs/companies/samsara/outbound-account-development-representative-france-paris-313574"
+      "postedAt": "2026-11-21T03:20:32+00:00",
+      "url": "https://jobicy.com/jobs/156226-pmo-portfolio-analyst"
     },
     {
-      "id": "arbeitnow-inbound-account-development-representative-france-saint-etienne-178144",
-      "title": "Inbound Account Development Representative - France",
-      "company": "Samsara",
-      "platform": "Arbeitnow",
-      "location": "Saint-Etienne, France",
+      "id": "jobicy-156231",
+      "title": "Senior Platform Engineer - US Remote",
+      "company": "PerfectServe",
+      "platform": "Jobicy",
+      "location": "USA",
       "salary": "Competitive",
-      "type": "Full-time",
+      "type": "Full-Time",
       "tags": [],
-      "postedAt": "2026-11-20T16:47:06.000Z",
-      "url": "https://www.arbeitnow.fr/jobs/companies/samsara/inbound-account-development-representative-france-saint-etienne-178144"
+      "postedAt": "2026-11-21T03:20:31+00:00",
+      "url": "https://jobicy.com/jobs/156231-senior-platform-engineer-us-remote"
     },
     {
-      "id": "arbeitnow-inbound-account-development-representative-france-boulogne-billancourt-220224",
-      "title": "Inbound Account Development Representative - France",
-      "company": "Samsara",
-      "platform": "Arbeitnow",
-      "location": "Boulogne-Billancourt, France",
+      "id": "jobicy-156222",
+      "title": "Senior Outbound Product Manager",
+      "company": "Harness",
+      "platform": "Jobicy",
+      "location": "USA",
       "salary": "Competitive",
-      "type": "Full-time",
+      "type": "Full-Time",
       "tags": [],
-      "postedAt": "2026-11-20T16:47:06.000Z",
-      "url": "https://www.arbeitnow.fr/jobs/companies/samsara/inbound-account-development-representative-france-boulogne-billancourt-220224"
+      "postedAt": "2026-11-21T03:20:29+00:00",
+      "url": "https://jobicy.com/jobs/156222-senior-outbound-product-manager"
     },
     {
-      "id": "arbeitnow-inbound-account-development-representative-france-villeurbanne-275425",
-      "title": "Inbound Account Development Representative - France",
-      "company": "Samsara",
-      "platform": "Arbeitnow",
-      "location": "Villeurbanne, France",
+      "id": "jobicy-156221",
+      "title": "Senior Field Marketing Manager, Events",
+      "company": "Harness",
+      "platform": "Jobicy",
+      "location": "USA",
       "salary": "Competitive",
-      "type": "Full-time",
+      "type": "Full-Time",
       "tags": [],
-      "postedAt": "2026-11-20T16:47:06.000Z",
-      "url": "https://www.arbeitnow.fr/jobs/companies/samsara/inbound-account-development-representative-france-villeurbanne-275425"
+      "postedAt": "2026-11-21T03:20:27+00:00",
+      "url": "https://jobicy.com/jobs/156221-senior-field-marketing-manager-events"
+    },
+    {
+      "id": "jobicy-156219",
+      "title": "Senior Enterprise Account Executive - Seattle",
+      "company": "Harness",
+      "platform": "Jobicy",
+      "location": "USA",
+      "salary": "Competitive",
+      "type": "Full-Time",
+      "tags": [],
+      "postedAt": "2026-11-21T03:20:26+00:00",
+      "url": "https://jobicy.com/jobs/156219-senior-enterprise-account-executive-seattle"
+    },
+    {
+      "id": "jobicy-156175",
+      "title": "Localisation Project Manager",
+      "company": "Smartling",
+      "platform": "Jobicy",
+      "location": "Ireland,  UK",
+      "salary": "Competitive",
+      "type": "Full-Time",
+      "tags": [],
+      "postedAt": "2026-11-21T03:20:24+00:00",
+      "url": "https://jobicy.com/jobs/156175-localisation-project-manager"
+    },
+    {
+      "id": "jobicy-156216",
+      "title": "Sales Engineer - Seattle",
+      "company": "Harness",
+      "platform": "Jobicy",
+      "location": "USA",
+      "salary": "Competitive",
+      "type": "Full-Time",
+      "tags": [],
+      "postedAt": "2026-11-21T03:20:22+00:00",
+      "url": "https://jobicy.com/jobs/156216-sales-engineer-seattle"
+    },
+    {
+      "id": "jobicy-156186",
+      "title": "Senior Web Engineer - Subscriptions",
+      "company": "Spotify",
+      "platform": "Jobicy",
+      "location": "EMEA",
+      "salary": "Competitive",
+      "type": "Full-Time",
+      "tags": [],
+      "postedAt": "2026-11-21T03:20:20+00:00",
+      "url": "https://jobicy.com/jobs/156186-senior-web-engineer-subscriptions"
+    },
+    {
+      "id": "jobicy-156195",
+      "title": "Customer Success Architect, Japan",
+      "company": "GitLab",
+      "platform": "Jobicy",
+      "location": "Japan",
+      "salary": "Competitive",
+      "type": "Full-Time",
+      "tags": [],
+      "postedAt": "2026-11-21T03:20:19+00:00",
+      "url": "https://jobicy.com/jobs/156195-customer-success-architect-japan"
+    },
+    {
+      "id": "jobicy-156203",
+      "title": "Senior Director, Analytics and Data Science, Core Product & Growth",
+      "company": "Life360",
+      "platform": "Jobicy",
+      "location": "Canada,  USA",
+      "salary": "Competitive",
+      "type": "Full-Time",
+      "tags": [],
+      "postedAt": "2026-11-21T03:20:17+00:00",
+      "url": "https://jobicy.com/jobs/156203-senior-director-analytics-and-data-science-core-product-growth"
+    },
+    {
+      "id": "jobicy-156196",
+      "title": "Senior Sales Manager",
+      "company": "StackAdapt",
+      "platform": "Jobicy",
+      "location": "Australia",
+      "salary": "Competitive",
+      "type": "Full-Time",
+      "tags": [],
+      "postedAt": "2026-11-21T03:20:12+00:00",
+      "url": "https://jobicy.com/jobs/156196-senior-sales-manager-2"
+    },
+    {
+      "id": "jobicy-156212",
+      "title": "Senior Product Designer II, Revenue Experimentation",
+      "company": "Life360",
+      "platform": "Jobicy",
+      "location": "Canada,  USA",
+      "salary": "Competitive",
+      "type": "Full-Time",
+      "tags": [],
+      "postedAt": "2026-11-21T03:20:07+00:00",
+      "url": "https://jobicy.com/jobs/156212-senior-product-designer-ii-revenue-experimentation"
+    },
+    {
+      "id": "jobicy-156198",
+      "title": "Enterprise Account Executive - Singapore",
+      "company": "GitLab",
+      "platform": "Jobicy",
+      "location": "Singapore",
+      "salary": "Competitive",
+      "type": "Full-Time",
+      "tags": [],
+      "postedAt": "2026-11-21T03:20:06+00:00",
+      "url": "https://jobicy.com/jobs/156198-enterprise-account-executive-singapore"
+    },
+    {
+      "id": "jobicy-156128",
+      "title": "Creator Marketing Lead",
+      "company": "Envato",
+      "platform": "Jobicy",
+      "location": "Australia,  New Zealand",
+      "salary": "Competitive",
+      "type": "Full-Time",
+      "tags": [],
+      "postedAt": "2026-11-21T03:15:37+00:00",
+      "url": "https://jobicy.com/jobs/156128-creator-marketing-lead"
+    },
+    {
+      "id": "jobicy-156125",
+      "title": "Lead Data Scientist",
+      "company": "Monzo",
+      "platform": "Jobicy",
+      "location": "UK",
+      "salary": "Competitive",
+      "type": "Part-Time",
+      "tags": [],
+      "postedAt": "2026-11-21T03:15:35+00:00",
+      "url": "https://jobicy.com/jobs/156125-lead-data-scientist-3"
+    },
+    {
+      "id": "jobicy-156123",
+      "title": "Senior Product Security Engineer",
+      "company": "AlphaSense",
+      "platform": "Jobicy",
+      "location": "Ireland",
+      "salary": "Competitive",
+      "type": "Full-Time",
+      "tags": [],
+      "postedAt": "2026-11-21T03:15:33+00:00",
+      "url": "https://jobicy.com/jobs/156123-senior-product-security-engineer"
+    },
+    {
+      "id": "jobicy-156193",
+      "title": "Senior Manager, Inventory Development",
+      "company": "StackAdapt",
+      "platform": "Jobicy",
+      "location": "Australia",
+      "salary": "Competitive",
+      "type": "Full-Time",
+      "tags": [],
+      "postedAt": "2026-11-21T03:15:32+00:00",
+      "url": "https://jobicy.com/jobs/156193-senior-manager-inventory-development"
+    },
+    {
+      "id": "jobicy-156122",
+      "title": "Engineering Manager",
+      "company": "Monzo",
+      "platform": "Jobicy",
+      "location": "UK",
+      "salary": "Competitive",
+      "type": "Full-Time",
+      "tags": [],
+      "postedAt": "2026-11-21T03:15:28+00:00",
+      "url": "https://jobicy.com/jobs/156122-engineering-manager-10"
+    },
+    {
+      "id": "jobicy-156189",
+      "title": "Commercial Account Executive - Australia",
+      "company": "GitLab",
+      "platform": "Jobicy",
+      "location": "Australia",
+      "salary": "Competitive",
+      "type": "Full-Time",
+      "tags": [],
+      "postedAt": "2026-11-21T03:15:24+00:00",
+      "url": "https://jobicy.com/jobs/156189-commercial-account-executive-australia"
+    },
+    {
+      "id": "jobicy-156174",
+      "title": "VIP Relationship Manager, Poland",
+      "company": "OKX",
+      "platform": "Jobicy",
+      "location": "Poland",
+      "salary": "Competitive",
+      "type": "Full-Time",
+      "tags": [],
+      "postedAt": "2026-11-21T03:15:19+00:00",
+      "url": "https://jobicy.com/jobs/156174-vip-relationship-manager-poland"
+    },
+    {
+      "id": "jobicy-156192",
+      "title": "Commercial Account Executive - South Korea",
+      "company": "GitLab",
+      "platform": "Jobicy",
+      "location": "South Korea",
+      "salary": "Competitive",
+      "type": "Full-Time",
+      "tags": [],
+      "postedAt": "2026-11-21T03:15:16+00:00",
+      "url": "https://jobicy.com/jobs/156192-commercial-account-executive-south-korea"
+    },
+    {
+      "id": "jobicy-156190",
+      "title": "Head of APAC Client Services",
+      "company": "StackAdapt",
+      "platform": "Jobicy",
+      "location": "Australia,  Singapore",
+      "salary": "Competitive",
+      "type": "Full-Time",
+      "tags": [],
+      "postedAt": "2026-11-21T03:15:14+00:00",
+      "url": "https://jobicy.com/jobs/156190-head-of-apac-client-services"
+    },
+    {
+      "id": "jobicy-156177",
+      "title": "Policy Communications Lead, Europe",
+      "company": "Mozilla",
+      "platform": "Jobicy",
+      "location": "UK",
+      "salary": "Competitive",
+      "type": "Full-Time",
+      "tags": [],
+      "postedAt": "2026-11-21T03:15:13+00:00",
+      "url": "https://jobicy.com/jobs/156177-policy-communications-lead-europe"
+    },
+    {
+      "id": "jobicy-156148",
+      "title": "Content Marketing Lead, Insights",
+      "company": "TRM Labs",
+      "platform": "Jobicy",
+      "location": "UK,  USA",
+      "salary": "Competitive",
+      "type": "Full-Time",
+      "tags": [],
+      "postedAt": "2026-11-21T03:15:11+00:00",
+      "url": "https://jobicy.com/jobs/156148-content-marketing-lead-insights"
     }
   ]
 }
